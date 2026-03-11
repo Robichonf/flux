@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "8efe90f216a9",
+      "title": "Cette mini borne d'arcade tient dans la main et tourne sur un ESP32",
+      "description": "Un développeur a créé Galagino, un émulateur open source qui fait tourner Pac-Man, Galaga, Donkey Kong et trois autres classiques de l'arcade sur un simple microcontrôleur ESP32. Le projet est gratuit, le code est sur GitHub, et avec quelques composants et une imprimante 3D vous fabriquez votre…",
+      "link": "https://korben.info/cette-mini-borne-darcade-tient-dans-la-main-et-tourne-sur-un-esp32.html",
+      "pubDate": "2026-03-11T16:54:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c02cbb820e0a",
       "title": "En Suisse, une clé USB défaillante empêche le décompte de 2 048 votes électroniques",
       "description": "Le canton de Bâle-Ville a suspendu son projet pilote de vote électronique après qu'une clé USB défectueuse a empêché le déchiffrement de 2 048 bulletins lors des votations fédérales du 8 mars. Une enquête pénale est ouverte. Trois clés USB, zéro résultat Le soir du 7 mars, veille du scrutin, la…",
