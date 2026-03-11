@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "c02cbb820e0a",
+      "title": "En Suisse, une clé USB défaillante empêche le décompte de 2 048 votes électroniques",
+      "description": "Le canton de Bâle-Ville a suspendu son projet pilote de vote électronique après qu'une clé USB défectueuse a empêché le déchiffrement de 2 048 bulletins lors des votations fédérales du 8 mars. Une enquête pénale est ouverte. Trois clés USB, zéro résultat Le soir du 7 mars, veille du scrutin, la…",
+      "link": "https://korben.info/en-suisse-une-cle-usb-defaillante-empeche-le-decompte-de-2-048-votes-electroniques.html",
+      "pubDate": "2026-03-11T14:51:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5ec7972e682e",
       "title": "WalkingPad - Bosser en marchant, les trucs à savoir sur le tapis de marche des geeks",
       "description": "En 2024, je me suis acheté un WalkingPad A1 Pro (lien affilié) et j'ai complétement oublié de vous en faire un petit retour ! Ce mot ne vous dit peut-être rien, mais c'est ce petit tapis de marche pliable qui se glisse sous votre bureau debout. 143 cm de long, 55 cm de large, 6 km/h max + une…",
