@@ -2,6 +2,81 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "5ec7972e682e",
+      "title": "WalkingPad - Bosser en marchant, les trucs à savoir sur le tapis de marche des geeks",
+      "description": "En 2024, je me suis acheté un WalkingPad A1 Pro (lien affilié) et j'ai complétement oublié de vous en faire un petit retour ! Ce mot ne vous dit peut-être rien, mais c'est ce petit tapis de marche pliable qui se glisse sous votre bureau debout. 143 cm de long, 55 cm de large, 6 km/h max + une…",
+      "link": "https://korben.info/walkingpad-tapis-marche-bureau-debout.html",
+      "pubDate": "2026-03-11T14:14:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/walkingpad-tapis-marche-bureau-debout/walkingpad-tapis-marche-bureau-debout-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c0b190ac9347",
+      "title": "Cloudflare /crawl - Aspirez un site entier en un seul appel API",
+      "description": "Crawler un site entier, ça devrait pas être aussi compliqué. Et pourtant, entre les scripts maison qui cassent tous les 2 jours et les headless browsers qui bouffent de la RAM comme pas permis, c'est assez la galère ! Du coup, Cloudflare, dans sa grande bonté (lol) vient de sortir un endpoint…",
+      "link": "https://korben.info/cloudflare-browser-rendering-crawl-api.html",
+      "pubDate": "2026-03-11T13:47:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7fe0d67cfda9",
+      "title": "MLX-Audio - Faites parler votre Mac sans le cloud",
+      "description": "Faire de la synthèse vocale , de la transcription et du voice cloning en local sur son Mac, sans envoyer le moindre octet dans le cloud... hey bien c'est possible mes petits foufous et en plus comme je sais que vous avez des oursins dans les poches, hé bien bonne nouvelle : C'est gratuit !…",
+      "link": "https://korben.info/mlx-audio.html",
+      "pubDate": "2026-03-11T13:41:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/mlx-audio/mlx-audio-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3c39e08f3c09",
+      "title": "YouTube passe aux pubs de 30 secondes impossibles à zapper. Hum… vraiment impossible ?",
+      "description": "YouTube déploie des publicités de 30 secondes non désactivables sur son application TV dans le monde entier. Google mise sur l'IA pour choisir le bon format au bon moment. On fait le point, et on vous file les astuces pour retrouver un peu de tranquillité. Des pubs plus longues, et pas moyen de les…",
+      "link": "https://korben.info/youtube-passe-aux-pubs-de-30-secondes-impossibles-a-zapper-hum-vraiment-impossible.html",
+      "pubDate": "2026-03-11T13:16:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4499655a4e6",
+      "title": "Cette faille dans Excel transforme Copilot en espion et vole vos données sans le moindre clic",
+      "description": "Microsoft vient de corriger 79 failles de sécurité dans son Patch Tuesday de mars 2026. Parmi elles, une vulnérabilité critique dans Excel qui permet d'utiliser l'agent Copilot pour exfiltrer des données sensibles, le tout sans aucune interaction de la victime. Oui oui, zéro clic. Une faille XSS…",
+      "link": "https://korben.info/cette-faille-dans-excel-transforme-copilot-en-espion-et-vole-vos-donnees-sans-le-moindre-clic.html",
+      "pubDate": "2026-03-11T12:47:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "82debc6e10ee",
       "title": "Model Context Protocol (MCP) : Comprendre le standard et retour d’expérience pour exposer un CLI Rust dans votre IDE",
       "description": "Découvrez le Model Context Protocol (MCP) et comment exposer un CLI Rust dans un IDE pour rendre vos outils pilotables par des agents IA.",
@@ -16,6 +91,21 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/03/mcp-cli-rust-ide-schema-architecture.png",
+      "type": "blog"
+    },
+    {
+      "id": "37f81fd1c9f4",
+      "title": "La police polonaise démantèle un réseau de hackers âgés de 12 à 16 ans",
+      "description": "La Pologne vient d'identifier sept adolescents soupçonnés de vendre des outils d'attaque DDoS en ligne. Le plus jeune avait 12 ans au moment des faits. Leurs cibles : des sites d'enchères, des hébergeurs et des plateformes de réservation. Tous passent devant le tribunal pour mineurs. Sept ados,…",
+      "link": "https://korben.info/la-police-polonaise-demantele-un-reseau-de-hackers-ages-de-12-a-16-ans.html",
+      "pubDate": "2026-03-11T07:27:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -125,6 +215,21 @@
       "image": "https://standblog.org/dc-blog/public/2026/Burger_King_nettoyer_toilettes.jpg"
     },
     {
+      "id": "5d172f199599",
+      "title": "Il arrive à lire un LaserDisc avec un simple microscope",
+      "description": "Shelby Jueden, un passionné de tech rétro qui anime la chaîne YouTube Tech Tangents, vient de montrer qu'un simple microscope numérique permet de distinguer le contenu vidéo gravé sur un LaserDisc. L'encodage analogique du format rend les données directement visibles sous grossissement, alors que…",
+      "link": "https://korben.info/il-arrive-a-lire-un-laserdisc-avec-un-simple-microscope.html",
+      "pubDate": "2026-03-10T17:06:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "82d2d4f3bcf2",
       "title": "OpenAI acquiert Promptfoo pour renforcer la sécurité des agents IA",
       "description": "OpenAI acquiert Promptfoo pour renforcer la sécurité des agents IA et l'intégrer à sa plateforme Frontier. Cette acquisition vise à offrir aux entreprises des outils de test, d'évaluation et de conformité pour garantir la sécurité et la fiabilité de leurs systèmes d'intelligence artificielle.…",
@@ -136,6 +241,96 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "486e9f138dbe",
+      "title": "MnM, le langage de programmation à base de... M&M's",
+      "description": "Un développeur a créé un langage de programmation dont le code source est composé de M&M's colorés. Six couleurs, six familles d'instructions, et les programmes se compilent sous forme d'images PNG. Le plus rigolo ? On peut même prendre en photo de vrais bonbons posés sur une table pour générer du…",
+      "link": "https://korben.info/mnm-le-langage-de-programmation-a-base-de-mms.html",
+      "pubDate": "2026-03-10T14:09:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6a348ccfc2c",
+      "title": "Conductor - Lancez des agents IA en parallèle sur votre code",
+      "description": "Conductor c'est une app macOS qui vous permet de lancer plusieurs agents Claude Code ou Codex en parallèle, chacun dans son propre worktree git histoire qu'ils ne se marchent pas dessus. Le tout est développé par Melty Labs, et c'est gratuit !! (enfin l'app en elle-même, parce que les tokens Claude…",
+      "link": "https://korben.info/conductor-build.html",
+      "pubDate": "2026-03-10T09:46:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/conductor-build/conductor-build-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3d2c5371bbba",
+      "title": "Dotenv Mask Editor - Fini les clés API à l'air libre",
+      "description": "Et si vos fichiers .env se transformaient en un joli tableau avec des astérisques partout afin d'assurer la confidentialité de vos clés API et autres crédentials ? Hé bien c'est exactement ce que propose Dotenv Mask Editor , une extension VS Code qui remplace carrément l'éditeur texte par une…",
+      "link": "https://korben.info/dotenv-mask-editor.html",
+      "pubDate": "2026-03-10T09:35:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dotenv-mask-editor/dotenv-mask-editor-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "90d1b1cdb539",
+      "title": "Un agent IA a piraté le chatbot de McKinsey et accédé à 46 millions de messages confidentiels",
+      "description": "Un agent IA autonome a percé les défenses de Lilli, la plateforme d'intelligence artificielle interne de McKinsey, c'est arrivé en à peine deux heures. Au programme : 46,5 millions de messages en clair, 728 000 fichiers clients et un accès en écriture à l'ensemble de la base de données. Le tout…",
+      "link": "https://korben.info/un-agent-ia-a-pirate-le-chatbot-de-mckinsey-et-accede-a-46-millions-de-messages-confidentiels.html",
+      "pubDate": "2026-03-10T09:29:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6b4b61560be9",
+      "title": "VidBee - yt-dlp en version graphique avec RSS auto",
+      "description": "yt-dlp, tout le monde connaît. C'est l'outil parfait pour télécharger des vidéos depuis à peu près n'importe quel site. Sauf que bon, la ligne de commande, c'est pas le truc de tout le monde. Du coup, les interfaces graphiques pour habiller tout ça, y'en a un paquet... mais trouver celle qui est…",
+      "link": "https://korben.info/vidbee-telechargeur-video-open-source.html",
+      "pubDate": "2026-03-10T09:25:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/vidbee-telechargeur-video-open-source/vidbee-telechargeur-video-open-source-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3b10c96c3712",
+      "title": "25 ans de catch WCW verrouillé par un DRM en carton",
+      "description": "C'est fou hein, mais un CD-ROM de catch sorti en 1999 a gardé ses vidéos sous DRM durant 25 piges et tout ça juste parce que le serveur qui filait les clés de déchiffrement a disparu. Du coup personne pouvait plus rien lire. Jusqu'à maintenant. Le WCW Internet Powerdisk, c'était un disque promo…",
+      "link": "https://korben.info/wcw-cyberring-drm-reverse-engineering.html",
+      "pubDate": "2026-03-10T09:06:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/wcw-cyberring-drm-reverse-engineering/wcw-cyberring-drm-reverse-engineering-1.jpeg",
+      "type": "blog"
     },
     {
       "id": "d88fee335c39",
@@ -164,6 +359,21 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "3bcb826d22aa",
+      "title": "Un consortium européen lance une alternative open source à Google Play Integrity",
+      "description": "Un groupe de fabricants européens mené par l'Allemand Volla Systeme vient de lancer le projet Unified Attestation, une alternative open source à Google Play Integrity. L'objectif : permettre aux systèmes Android alternatifs d'accéder enfin aux applications bancaires et aux services d'identité…",
+      "link": "https://korben.info/un-consortium-europeen-lance-une-alternative-open-source-a-google-play-integrity.html",
+      "pubDate": "2026-03-10T08:48:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "9e95027c43f4",
@@ -197,6 +407,36 @@
       "duration": "00:10:35"
     },
     {
+      "id": "7be301a5027e",
+      "title": "Vous n'arrivez pas à finir un jeu ? Microsoft va le finir pour vous",
+      "description": "Microsoft vient de publier un brevet qui décrit un système capable d'envoyer une IA ou un autre joueur prendre le contrôle de votre partie quand vous êtes bloqué. Sony travaille sur une idée similaire de son côté. Visiblement les deux géants du jeu vidéo veulent que vous ne restiez plus jamais…",
+      "link": "https://korben.info/vous-narrivez-pas-a-finir-un-jeu-microsoft-va-le-finir-pour-vous.html",
+      "pubDate": "2026-03-09T17:10:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4f60422e3d35",
+      "title": "Tranquillement, un agent IA d'Alibaba s'est mis à miner de la crypto tout seul",
+      "description": "Des chercheurs liés à Alibaba ont découvert que leur agent IA, baptisé ROME, avait détourné des GPU pour miner de la cryptomonnaie et ouvert un tunnel de réseau vers l'extérieur, le tout sans aucune instruction humaine. Le comportement est apparu spontanément pendant l'entraînement par…",
+      "link": "https://korben.info/tranquillement-un-agent-ia-dalibaba-sest-mis-a-miner-de-la-crypto-tout-seul.html",
+      "pubDate": "2026-03-09T16:25:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9541cc796fe7",
       "title": "KubeSolo sur Raspberry Pi Zero : mon article dans Sysops Pratique",
       "description": "Kubernetes sur 512 Mo de RAM, c’est possible Après avoir teasé sur Bluesky, je peux enfin vous annoncer (fièrement) la publication de mon article dans le numéro de mars/avril de Sysops Pratique (le successeur de Linux Pratique, magazine bien connu des administrateurs système francophones). Le sujet…",
@@ -210,6 +450,66 @@
         "Programmation"
       ],
       "image": "https://blog.zwindler.fr/2026/03/sysops-pratique.webp"
+    },
+    {
+      "id": "422ad6669ded",
+      "title": "Test de la Teufel ROCKSTER Cross 2 : du son, de l'autonomie et pas de chichi",
+      "description": "– Article invité, rédigé par Vincent Lautier , contient des liens affiliés Amazon – Teufel a lancé la ROCKSTER Cross 2 , une enceinte Bluetooth portable qui mise sur un son stéréo puissant, une autonomie de 38 heures et une certification IPX5 contre les éclaboussures. Vendue 240 euros sur Amazon,…",
+      "link": "https://korben.info/test-de-la-teufel-rockster-cross-2-du-son-de-lautonomie-et-pas-de-chichi.html",
+      "pubDate": "2026-03-09T15:45:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-de-la-teufel-rockster-cross-2-du-son-de-lautonomie-et-pas-de-chichi/test-de-la-teufel-rockster-cross-2-du-son-de-lautonomie-et-pas-de-chichi-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "126b7cafee00",
+      "title": "Claude trouve des failles dans du code Apple II vieux de 40 ans",
+      "description": "Mark Russinovich, CTO de Microsoft Azure, a donné à Claude Opus 4.6 un programme qu'il avait écrit en assembleur 6502 pour Apple II en mai 1986. L'IA d'Anthropic y a trouvé des vulnérabilités. Une découverte possible grâce à Claude Code Security, un outil qui a déjà débusqué plus de 500 failles…",
+      "link": "https://korben.info/claude-trouve-des-failles-dans-du-code-apple-ii-vieux-de-40-ans.html",
+      "pubDate": "2026-03-09T15:14:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47fecbf71e05",
+      "title": "Des hackers russes piègent des fonctionnaires sur Signal et WhatsApp, sans casser le chiffrement",
+      "description": "Les services de renseignement néerlandais ont révélé qu'une campagne de hackers russes cible les comptes Signal et WhatsApp de hauts fonctionnaires, militaires et journalistes dans le monde entier. Des employés du gouvernement néerlandais ont déjà été compromis, et le chiffrement de bout en bout…",
+      "link": "https://korben.info/des-hackers-russes-piegent-des-fonctionnaires-sur-signal-et-whatsapp-sans-casser-le-chiffrement.html",
+      "pubDate": "2026-03-09T14:39:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a63c7b152fea",
+      "title": "Le SETI a peut-être compris pourquoi on ne capte pas de signaux extraterrestres",
+      "description": "Des chercheurs du SETI Institute viennent de publier une étude qui pourrait expliquer pourquoi, après des décennies d'écoute, on n'a toujours capté aucun signal radio d'origine extraterrestre. La météo spatiale autour des étoiles brouillerait les transmissions avant même qu'elles ne quittent leur…",
+      "link": "https://korben.info/le-seti-a-peut-etre-compris-pourquoi-on-ne-capte-pas-de-signaux-extraterrestres.html",
+      "pubDate": "2026-03-09T13:03:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "9c3936acf8bd",
