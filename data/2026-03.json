@@ -2,10 +2,10 @@
   "month": "2026-03",
   "articles": [
     {
-      "id": "1d6a98e28f66",
+      "id": "c1a59b1bc127",
       "title": "Installer et configurer Caddy 2 avec certificat SSL pour tous vos sous-domaines",
       "description": "Sécuriser votre serveur avec des certificat SSL pour tous vos sous-domaines grâce au DNS challenge",
-      "link": "/fr/caddy-wildcard-dns-challenge/",
+      "link": "https://blog.eleven-labs.com/fr/caddy-wildcard-dns-challenge/",
       "pubDate": "2026-03-11T00:00:00.000Z",
       "source": "Eleven Labs",
       "sourceUrl": "https://blog.eleven-labs.com/feed.xml",

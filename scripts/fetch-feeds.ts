@@ -30,8 +30,14 @@ function getMonthKey(dateStr: string): string {
   return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
 }
 
+function isAbsoluteUrl(url: string): boolean {
+  return /^https?:\/\//i.test(url);
+}
+
 function resolveUrl(url: string, baseUrl: string): string {
+  if (isAbsoluteUrl(url)) return url;
   try {
+    if (!isAbsoluteUrl(baseUrl)) return url;
     return new URL(url, baseUrl).href;
   } catch {
     return url;
@@ -163,8 +169,10 @@ async function main() {
     console.log(`  → ${items.length} articles trouvés`);
 
     for (const item of items) {
-      const link = item.link;
-      if (!link) continue;
+      const rawLink = item.link;
+      if (!rawLink) continue;
+      const baseUrl = (feed.link && isAbsoluteUrl(feed.link)) ? feed.link : feedConfig.url;
+      const link = resolveUrl(rawLink, baseUrl);
 
       const id = generateId(link);
 

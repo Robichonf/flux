@@ -131,6 +131,20 @@
       "image": null
     },
     {
+      "id": "fae0cbfd50fd",
+      "title": "Productivité et qualité",
+      "description": "Comment concilier l’augmentation de la productivité grâce à des outils comme les LLM avec le maintien d’une qualité élevée ? C’est la question que je me pose depuis un moment, et je pense que nous sommes à un tournant critique. La délégation, ce serpent de mer Quand on parle de l’état du marché du…",
+      "link": "https://boris.schapira.dev/notes/2026-02-productivite-qualite/",
+      "pubDate": "2026-02-26T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null
+    },
+    {
       "id": "1a7e9681c642",
       "title": "Un cas où l'IA pourrait aider à réduire l'empreinte du numérique ?",
       "description": "Quand on m’a dit “Et si on utilisait l’IA pour optimiser une application et réduire son empreinte environnementale ?”, j’avoue que j’ai grincé des dents : a priori, utiliser l’IA (très gourmande) pour optimiser un truc moins gourmand, ça ne me paraissait pas très intelligent. Sauf que l’IA…",

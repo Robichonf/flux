@@ -712,6 +712,21 @@
       "image": null
     },
     {
+      "id": "b3447dcad0e0",
+      "title": "\nNe pas se limiter à une spécialité dans sa carrière\n",
+      "description": "J’ai pas trop l’habitude de donner des conseils sur comment gérer sa carrière mais je vais faire une exception pour cet article. Plus on prend de l’expérience, plus on fait évoluer nos compétences. T pour l’évolution de ces compétences: la barre verticale de la lettre correspond à l’expertise…",
+      "link": "https://mcorbin.fr/posts/2026-01-18-carriere-dev-sre/",
+      "pubDate": "2026-01-17T23:00:00.000Z",
+      "source": "mcorbin",
+      "sourceUrl": "https://mcorbin.fr/feed.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null
+    },
+    {
       "id": "95405354e328",
       "title": "Site internet du Centre Hospitalier de Cholet",
       "description": "Établis­se­ment de santé de réfé­rence sur le terri­toire chole­tais, le Centre Hospi­ta­lier d",
@@ -1109,6 +1124,21 @@
       "title": "\nUn exemple d'observability trace-first\n",
       "description": "Dans cet article, je présenterai une approche moderne et \"trace-first\" pour de l’observability applicatif. J’ai déjà écrit un article sur les traces en 2023 (c’est là où je me rends compte que le temps passe vite) où j’expliquais le tracing en détail et où j’abordais déjà l’idée de remplacer une…",
       "link": "\nhttps://mcorbin.fr/posts/2026-01-06-traces-first/\n",
+      "pubDate": "2026-01-05T23:00:00.000Z",
+      "source": "mcorbin",
+      "sourceUrl": "https://mcorbin.fr/feed.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://mcorbin.fr/img/traces-clickhouse/buy_product.jpg"
+    },
+    {
+      "id": "64d735f70b2d",
+      "title": "\nUn exemple d'observability trace-first\n",
+      "description": "Dans cet article, je présenterai une approche moderne et \"trace-first\" pour de l’observability applicatif. J’ai déjà écrit un article sur les traces en 2023 (c’est là où je me rends compte que le temps passe vite) où j’expliquais le tracing en détail et où j’abordais déjà l’idée de remplacer une…",
+      "link": "https://mcorbin.fr/posts/2026-01-06-traces-first/",
       "pubDate": "2026-01-05T23:00:00.000Z",
       "source": "mcorbin",
       "sourceUrl": "https://mcorbin.fr/feed.xml",
