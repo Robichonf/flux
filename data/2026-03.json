@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "d39ec0c4a64c",
+      "title": "Le Royaume-Uni cherche un développeur C++ pour maintenir un logiciel vieux de 15 ans qui gère tout son trafic aérien",
+      "description": "Le ministère des Transports britannique vient de publier un appel d'offres pour trouver un développeur C++ capable de maintenir le NAPAM, le modèle qui prédit la répartition des passagers dans les aéroports du pays. Le programme tourne sur 10 000 lignes de code avec Excel comme interface. Budget…",
+      "link": "https://korben.info/le-royaume-uni-cherche-un-developpeur-c-pour-maintenir-un-logiciel-vieux-de-15-ans-qui-gere-tout-son-trafic-aerien.html",
+      "pubDate": "2026-03-12T16:08:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "dfdea8f354a6",
       "title": "Creality veut vous faire recycler vos impressions 3D ratées avec la M1 Filament Maker",
       "description": "Creality lance Filastudio, un duo composé de la M1 Filament Maker et du broyeur R1 qui permet de transformer vos impressions 3D ratées en filament réutilisable. Le système est en campagne sur de financement à partir de 899 dollars le bundle, avec des livraisons prévues au deuxième trimestre 2026.…",
