@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "b2f2f7d2f515",
+      "title": "Perplexity veut transformer votre Mac mini en agent IA permanent",
+      "description": "Perplexity vient de présenter Personal Computer, un agent IA qui tourne en continu sur un Mac mini et qui accède à vos fichiers, vos applications et vos sessions. Réservé aux abonnés Max à 200 dollars par mois, le service est pour l'instant sur liste d'attente. Un assistant qui ne dort jamais…",
+      "link": "https://korben.info/perplexity-veut-transformer-votre-mac-mini-en-agent-ia-permanent.html",
+      "pubDate": "2026-03-12T10:43:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "816720d998f1",
+      "title": "Claudette",
+      "description": "J'ai créé un petit projet sympa : Claudette ! Claudette analyse la structure de votre code source (fonctions, classes, imports, appels) et construit un graphe de connaissances persistant. Cela s'installe comme un plugin Claude Code, il y a un serveur MCP, il faut juste installer Go pour compiler.…",
+      "link": "https://www.touilleur-express.fr/2026/03/12/claudette",
+      "pubDate": "2026-03-12T10:00:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d3d6912e48d7",
       "title": "Où trouver des contenus originaux pour créer des contenus marketing ?",
       "description": "Créer des contenus originaux pour le marketing, notamment sur LinkedIn, est un défi. Il est essentiel de diversifier ses sources d'inspiration, tant externes qu'internes, pour générer régulièrement des idées. Utiliser des études, actualités, témoignages clients et expertises internes enrichit la…",
