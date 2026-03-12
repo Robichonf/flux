@@ -2,6 +2,65 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "dfdea8f354a6",
+      "title": "Creality veut vous faire recycler vos impressions 3D ratées avec la M1 Filament Maker",
+      "description": "Creality lance Filastudio, un duo composé de la M1 Filament Maker et du broyeur R1 qui permet de transformer vos impressions 3D ratées en filament réutilisable. Le système est en campagne sur de financement à partir de 899 dollars le bundle, avec des livraisons prévues au deuxième trimestre 2026.…",
+      "link": "https://korben.info/creality-veut-vous-faire-recycler-vos-impressions-3d-ratees-avec-la-m1-filament-maker.html",
+      "pubDate": "2026-03-12T15:08:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "972a92941c9c",
+      "title": "Lolgato - L'app macOS qui dompte vos Elgato",
+      "description": "Les Elgato Key Light, c'est devenu le standard pour s'éclairer la tronche en visio ou en stream. Un gros panneau LED blanc posé sur un pied. Sauf que le soft officiel pour les piloter, bah... il fait le minimum syndical. En fait, à part allumer, éteindre et bouger un slider, y'a rien. Du coup, un…",
+      "link": "https://korben.info/lolgato-app-macos-elgato-key-light.html",
+      "pubDate": "2026-03-12T13:27:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/lolgato-app-macos-elgato-key-light/lolgato-app-macos-elgato-key-light-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "1011725d44ad",
+      "title": "Apple corrige une grosse faille de sécurité sur les anciens iPhone et iPad",
+      "description": "Apple vient de publier iOS 16.7.15 et iOS 15.8.7 pour les anciens iPhone et iPad. Ces mises à jour corrigent des failles activement exploitées par Coruna, un kit d'espionnage qui combine 23 vulnérabilités pour compromettre un appareil simplement en chargeant une page web, je vous en parlais ici. Si…",
+      "link": "https://korben.info/apple-corrige-une-grosse-faille-de-securite-sur-les-anciens-iphone-et-ipad.html",
+      "pubDate": "2026-03-12T13:24:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73128c5f50d5",
+      "title": "Visibilité IA sur LinkedIn : stratégies pour influencer les réponses de chatGPT",
+      "description": "Découvrez comment votre contenu LinkedIn peut influencer les réponses de l'IA. Apprenez à créer du contenu original et éducatif, à favoriser la régularité et à tirer parti du leadership éclairé pour maximiser votre visibilité. Obtenez un plan d'action concret pour dominer l'écosystème de l'IA grâce…",
+      "link": "https://oliviersauvage.com/2026/03/12/visibilite-ia-sur-linkedin-strategies-pour-influencer-les-reponses-de-chatgpt/",
+      "pubDate": "2026-03-12T12:09:35.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b2f2f7d2f515",
       "title": "Perplexity veut transformer votre Mac mini en agent IA permanent",
       "description": "Perplexity vient de présenter Personal Computer, un agent IA qui tourne en continu sur un Mac mini et qui accède à vos fichiers, vos applications et vos sessions. Réservé aux abonnés Max à 200 dollars par mois, le service est pour l'instant sur liste d'attente. Un assistant qui ne dort jamais…",
