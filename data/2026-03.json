@@ -2,6 +2,34 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "d3d6912e48d7",
+      "title": "Où trouver des contenus originaux pour créer des contenus marketing ?",
+      "description": "Créer des contenus originaux pour le marketing, notamment sur LinkedIn, est un défi. Il est essentiel de diversifier ses sources d'inspiration, tant externes qu'internes, pour générer régulièrement des idées. Utiliser des études, actualités, témoignages clients et expertises internes enrichit la…",
+      "link": "https://oliviersauvage.com/2026/03/12/ou-trouver-des-contenus-originaux-pour-creer-des-contenus-marketing/",
+      "pubDate": "2026-03-12T08:24:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4c00be375013",
+      "title": "Découvrez Nano Banana 2 : la nouvelle référence en génération d’images",
+      "description": "Découvrez les nouvelles capacités de Nano Banana 2 (Gemini 3.1 Flash Image) : ancrage visuel via Google Search, nouveaux paramètres comme les ratios extrêmes et les résolutions 512px, et le contrôle du mode \"Réflexion\". Ce guide explore comment maximiser l'utilisation de ce modèle pour la…",
+      "link": "https://oliviersauvage.com/2026/03/12/decouvrez-nano-banana-2-la-nouvelle-reference-en-generation-dimages/",
+      "pubDate": "2026-03-12T05:37:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8efe90f216a9",
       "title": "Cette mini borne d'arcade tient dans la main et tourne sur un ESP32",
       "description": "Un développeur a créé Galagino, un émulateur open source qui fait tourner Pac-Man, Galaga, Donkey Kong et trois autres classiques de l'arcade sur un simple microcontrôleur ESP32. Le projet est gratuit, le code est sur GitHub, et avec quelques composants et une imprimante 3D vous fabriquez votre…",
