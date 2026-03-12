@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "ba5ec7631511",
+      "title": "Un émulateur Xbox arrive sur Android à 8 dollars, et ça pose problème",
+      "description": "Un développeur indépendant a porté xemu, l'émulateur Xbox open source, sur Android sous le nom de X1 BOX. L'application était d'abord vendue 8 dollars sur le Play Store, ce qui a provoqué un tollé côté communauté et chez les développeurs du projet original. Une version gratuite est depuis…",
+      "link": "https://korben.info/un-emulateur-xbox-arrive-sur-android-a-8-dollars-et-ca-pose-probleme.html",
+      "pubDate": "2026-03-12T16:45:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d39ec0c4a64c",
       "title": "Le Royaume-Uni cherche un développeur C++ pour maintenir un logiciel vieux de 15 ans qui gère tout son trafic aérien",
       "description": "Le ministère des Transports britannique vient de publier un appel d'offres pour trouver un développeur C++ capable de maintenir le NAPAM, le modèle qui prédit la répartition des passagers dans les aéroports du pays. Le programme tourne sur 10 000 lignes de code avec Excel comme interface. Budget…",
