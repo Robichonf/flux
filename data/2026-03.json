@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "6da148a2bbca",
+      "title": "Google lance Gemini Embedding 2, un modèle qui comprend texte, image, vidéo et audio en même temps",
+      "description": "Google vient de lancer Gemini Embedding 2, son premier modèle d'embedding nativement multimodal. Texte, images, vidéo, audio et documents sont projetés dans un même espace vectoriel, ce qui permet de faire de la recherche sémantique croisée entre différents types de contenus. Un seul modèle pour…",
+      "link": "https://korben.info/google-lance-gemini-embedding-2-un-modele-qui-comprend-texte-image-video-et-audio-en-meme-temps.html",
+      "pubDate": "2026-03-13T14:56:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfa9f21f5f04",
+      "title": "BetterEU veut passer toute la réglementation européenne au crible de l'IA",
+      "description": "Un projet open source vient de lâcher une IA sur les 41 300 règlements européens adoptés depuis 1958. L'outil, qui tourne sur Grok 4.1, rend un verdict binaire pour chaque texte : à garder ou à supprimer. Les résultats défilent en direct sur bettereu.com. 41 300 textes passés à la moulinette Le…",
+      "link": "https://korben.info/bettereu-veut-passer-toute-la-reglementation-europeenne-au-crible-de-lia.html",
+      "pubDate": "2026-03-13T14:08:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bba86cec933e",
       "title": "Des mini-cerveaux cultivés en labo ont appris à résoudre un problème d'ingénierie",
       "description": "Des chercheurs de l'université de Californie à Santa Cruz ont réussi à entraîner des organoïdes cérébraux de souris pour qu'ils résolvent le problème du cart-pole, un test classique en intelligence artificielle. Les résultats sont prometteurs, mais ces petits cerveaux ont un gros défaut : ils…",
