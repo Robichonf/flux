@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "bba86cec933e",
+      "title": "Des mini-cerveaux cultivés en labo ont appris à résoudre un problème d'ingénierie",
+      "description": "Des chercheurs de l'université de Californie à Santa Cruz ont réussi à entraîner des organoïdes cérébraux de souris pour qu'ils résolvent le problème du cart-pole, un test classique en intelligence artificielle. Les résultats sont prometteurs, mais ces petits cerveaux ont un gros défaut : ils…",
+      "link": "https://korben.info/des-mini-cerveaux-cultives-en-labo-ont-appris-a-resoudre-un-probleme-dingenierie.html",
+      "pubDate": "2026-03-13T13:29:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d64241ec5e39",
       "title": "Le parcours d’achat B2B caché : décrypter les nouvelles habitudes des décideurs",
       "description": "L'étude réalisée par Reddit et SurveyMonkey révèle que le parcours d'achat B2B est devenu complexe pour les entreprises, avec 83 % des décideurs menant leurs propres recherches avant de contacter les ventes. Les recommandations de pairs sont valorisées, tandis que Reddit influence significativement…",
