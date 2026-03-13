@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "ea16481249b9",
+      "title": "Microsoft va bientôt transformer votre PC Windows 11 en console Xbox",
+      "description": "Microsoft a profité de la GDC 2026 pour annoncer l'arrivée du Xbox Mode sur tous les PC sous Windows 11 dès le mois d'avril. L'interface plein écran, pensée pour la manette, était jusqu'à présent réservée aux consoles portables ASUS ROG Xbox Ally. Une interface console sur n'importe quel PC Le Xbox…",
+      "link": "https://korben.info/microsoft-va-bientot-transformer-votre-pc-windows-11-en-console-xbox.html",
+      "pubDate": "2026-03-13T15:56:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6da148a2bbca",
       "title": "Google lance Gemini Embedding 2, un modèle qui comprend texte, image, vidéo et audio en même temps",
       "description": "Google vient de lancer Gemini Embedding 2, son premier modèle d'embedding nativement multimodal. Texte, images, vidéo, audio et documents sont projetés dans un même espace vectoriel, ce qui permet de faire de la recherche sémantique croisée entre différents types de contenus. Un seul modèle pour…",
@@ -150,6 +165,54 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/internet-vous-connait-par-coeur/internet-vous-connait-par-coeur-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ce104dab957b",
+      "title": "Podcasts & Lives",
+      "description": "",
+      "link": "https://blog.zwindler.fr/podcasts-lives/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8dbe06596536",
+      "title": "Publications",
+      "description": "",
+      "link": "https://blog.zwindler.fr/publications/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "558196eec4ef",
+      "title": "La veille de Wittouck - Début mars 2026",
+      "description": "En ce début de mois de mars, les sujets de souveraineté ont encore fait le buzz. Au-delà des annonces (parfois décevantes), il faut prendre un peu de recul. L’excellent article de Katia donne des pistes concrètes pour aider à élaborer une souveraineté stratégique. J’ai aussi beaucoup consommé de…",
+      "link": "https://codeka.io/2026/03/13/la-veille-de-wittouck-d%C3%A9but-mars-2026/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/13/la-veille-de-wittouck-d%C3%A9but-mars-2026/cover_hu_242b02adc363f764.webp",
       "type": "blog"
     },
     {
