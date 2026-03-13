@@ -273,6 +273,21 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390865-cover.jpg"
     },
     {
+      "id": "beaa567d030b",
+      "title": "Le syndrome B2BigB : comment les grands groupes tuent doucement les startups ",
+      "description": "Vendre à un grand groupe semble être la validation ultime pour une startup. C'est souvent le début de la fin. Cycles de vente interminables, trésorerie en tension, produit détourné de sa roadmap : voici pourquoi le B2BigB est un piège, et comment essayer de l'éviter.",
+      "link": "https://eventuallycoding.com/2026/02/b2bigb",
+      "pubDate": "2026-02-25T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/2026/02/b2bigb/cover.jpg",
+      "type": "blog"
+    },
+    {
       "id": "6007a2b34f02",
       "title": "Ne confondez pas dette technique et préférence personnelle",
       "description": "Quand on évolue dans la tech, on entend souvent parler de « dette technique ». Je trouve ce terme assez galvaudé, car souvent, lorsque l’on me parle de dette technique, ce que l’on m’explique c’est que le code ne correspond pas au « standard » du développeur qui en parle. Ce billet a été…",
@@ -1169,6 +1184,21 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391122-cover.jpg"
     },
     {
+      "id": "17a35c9b0eb6",
+      "title": "J'ai essayé de quitter Windows pour Linux... Spoiler : ça s'est mal passé",
+      "description": "Sécurité, géopolitique, obsolescence : les raisons de quitter Windows n'ont jamais été aussi fortes. Récit d'une tentative de migration vers Linux",
+      "link": "https://eventuallycoding.com/2026/02/windows-migration",
+      "pubDate": "2026-02-09T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/2026/02/windows-migration/cover.jpg",
+      "type": "blog"
+    },
+    {
       "id": "00e827d26cc9",
       "title": "Fragments d'un web adolescent",
       "description": "J’ai exhumé quelques vieux articles tapés, adolescent, entre 1996 et 1998. Sans éclat à leur époque, ces pages composent, trois décennies plus tard, la chronique d’un temps disparu. Le mot « blog » n’existe pas encore. Wikipédia reste à venir. Google n’a pas vu le jour. AltaVista règne sur les…",
@@ -1284,6 +1314,21 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391028-cover.jpg"
+    },
+    {
+      "id": "9d5ba02892fd",
+      "title": "Impact de l'IA sur l'état de l'art de l'ingénierie logicielle en 2026",
+      "description": "Comment l'IA a-t-elle transformé l'ingénierie logicielle ? De la fin de l'ego-coding au 'Context Driven Engineering', découvrez des retours d'expérience de Doctolib, Malt, Alan et Google sur l'industrialisation des agents IA en 2026",
+      "link": "https://eventuallycoding.com/2026/02/context-driven-engineering",
+      "pubDate": "2026-02-06T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/2026/02/context-driven-engineering/cover.jpg",
+      "type": "blog"
     },
     {
       "id": "a146d7a561bd",

@@ -220,6 +220,21 @@
       "duration": "3567"
     },
     {
+      "id": "7d1513961f14",
+      "title": "Quand le code devient une commodité: La montée des sociétés AI natives",
+      "description": "Après le Cloud Native, place aux entreprises IA Natives. Découvrez comment l'IA transforme le code en commodité et pourquoi le dilemme \"Build or Buy\" devient \"Build, Buy, Run or Vibe\" (BBRV). Quel est le nouveau MOAT d'un logiciel quand le code n'est plus une barrière ?",
+      "link": "https://eventuallycoding.com/2026/01/ai-native-companies",
+      "pubDate": "2026-01-28T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/2026/01/ai-native-companies/cover.jpg",
+      "type": "blog"
+    },
+    {
       "id": "801db48e60b1",
       "title": "PHP 8.4 : rattrapage de retard ou véritable modernisation ?",
       "description": "PHP 8.4 introduit les Property Hooks, la visibilité asymétrique et un parser HTML5 natif. Découvrez les nouveautés majeures de cette version attendue depuis des années.",
@@ -438,6 +453,21 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390299-cover.jpg"
+    },
+    {
+      "id": "a9ac8ad22556",
+      "title": "Cloudflare vs l'Italie : quand le blocage DNS devient un champ de bataille géopolitique",
+      "description": "L'Italie demande à Cloudflare de bloquer des sites pirates. Cloudflare refuse et invoque le free speech. Mais derrière ce bras de fer, c'est notre dépendance à la tech US qui se révèle.",
+      "link": "https://eventuallycoding.com/2026/01/cloudflare-vs-italie",
+      "pubDate": "2026-01-23T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/2026/01/cloudflare-vs-italie/cover.jpg",
+      "type": "blog"
     },
     {
       "id": "278fe174356a",
@@ -730,6 +760,21 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390471-cover.jpg"
     },
     {
+      "id": "9380c321f2ac",
+      "title": "Utiliser des composants customs avec Nuxt-mdc pour construire un système de thèmes",
+      "description": "Comment personnaliser les composants MDC par thème dans Nuxt avec MDCRenderer",
+      "link": "https://eventuallycoding.com/2026/01/nuxt-mdc-renderer",
+      "pubDate": "2026-01-20T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/2026/01/nuxt-mdc-renderer/cover.jpg",
+      "type": "blog"
+    },
+    {
       "id": "0912ed16b731",
       "title": "FrankenPHP 1.11 : hot reload, logs structurés et performances améliorées",
       "description": "FrankenPHP 1.11 est disponible depuis fin décembre. Cette nouvelle version apporte une amélioration significative de la DX (hot reload) et renforce encore davantage l’intégration entre PHP et l’écosystème Go. Elle introduit plusieurs fonctionnalités majeures ainsi que des optimisations de…",
@@ -1017,6 +1062,21 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390398-cover.jpg"
     },
     {
+      "id": "fcc84ff95fa3",
+      "title": "Développeur à l’ère des agents IA : mutation, industrialisation et avenir du métier",
+      "description": "En 2025, les agents IA ont profondément transformé le développement logiciel. Revue de presse des impacts concrets sur le métier de développeur, entre industrialisation, expertise et renouveau.",
+      "link": "https://eventuallycoding.com/2026/01/engineering-job-mutation",
+      "pubDate": "2026-01-14T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/2026/01/engineering-job-mutation/cover.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5c22089ae3fa",
       "title": "La formulation d'un message n'est pas un détail",
       "description": "La manière dont on transmet un message est tout aussi importante que le fond du message lui-même. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Les équipes techniques…",
@@ -1234,6 +1294,21 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390540-cover.jpg"
+    },
+    {
+      "id": "ea941be26480",
+      "title": "Tailwind et l’open source à l’ère des LLM : quand la documentation ne monétise plus",
+      "description": "Le refus de Tailwind d'ajouter llms.txt met en évidence un problème plus profond : comment les projets open source peuvent-ils survivre à une époque où les LLM remplacent le trafic de documentation et où les modes de monétisation traditionnels s'effondrent ?",
+      "link": "https://eventuallycoding.com/2026/01/tailwind-llm",
+      "pubDate": "2026-01-08T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/2026/01/tailwind-llm/cover.jpg",
+      "type": "blog"
     },
     {
       "id": "e39004c4d6af",
@@ -1457,6 +1532,21 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390716-cover.jpg"
+    },
+    {
+      "id": "d9579fac8cd5",
+      "title": "Haro contre la tech US, la culture de la sécurité passoire en France, et plus...",
+      "description": "Dépendance à la tech US, souveraineté numérique, culture de la sécurité défaillante en France et veille critique sur l’actualité tech européenne.",
+      "link": "https://eventuallycoding.com/2026/01/tech-independence-data-leak-as-a-service",
+      "pubDate": "2026-01-02T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/2026/01/tech-independence-data-leak-as-a-service/cover.jpg",
+      "type": "blog"
     },
     {
       "id": "f9f86fcd666c",
