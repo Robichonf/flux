@@ -13,15 +13,7 @@ feeds:
 
   - url: https://yoandev.co/rss.xml
     name: YoanDev
-    categories: [Programmation, Web, DevOps, IA]
-
-  - url: https://les-tilleuls.coop/feed.xml
-    name: Les-Tilleuls.coop
-    categories: [Programmation, Web, Cloud, IA]
-
-  - url: https://jolicode.com/feed
-    name: JoliCode
-    categories: [Programmation, Web]
+    categories: [Programmation, Web, DevOps, IA]]
 
   - url: https://lecodeestdanslepre.fr/feed.xml
     name: Le Code est dans le Pré
@@ -46,10 +38,6 @@ feeds:
   - url: https://codeka.io/index.xml
     name: Codeka (Julien Wittouck)
     categories: [Programmation, DevOps, Cloud]
-
-  - url: https://j.hommet.net/rss/
-    name: J.Hommet
-    categories: [DevOps, Cloud, Cybersécurité]
 
   - url: https://une-tasse-de.cafe/index.xml
     name: Une Tasse de Café
