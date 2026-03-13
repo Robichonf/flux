@@ -2,6 +2,35 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "d64241ec5e39",
+      "title": "Le parcours d’achat B2B caché : décrypter les nouvelles habitudes des décideurs",
+      "description": "L'étude réalisée par Reddit et SurveyMonkey révèle que le parcours d'achat B2B est devenu complexe pour les entreprises, avec 83 % des décideurs menant leurs propres recherches avant de contacter les ventes. Les recommandations de pairs sont valorisées, tandis que Reddit influence significativement…",
+      "link": "https://oliviersauvage.com/2026/03/13/le-parcours-dachat-b2b-cache-decrypter-les-nouvelles-habitudes-des-decideurs/",
+      "pubDate": "2026-03-13T11:15:42.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5f85fe57cf6b",
+      "title": "SEO Poisoning - Mon site se fait attaquer depuis un an",
+      "description": "Le SEO poisoning, vous connaissez ? C'est quand votre référencement se fait flinguer parce que votre site se retrouve associé à des sites de casino, de porno et de téléchargement illégal. Et devinez quoi... ça m'arrive depuis bientôt un an ! Tout a commencé l'année dernière quand un nom de domaine…",
+      "link": "https://korben.info/seo-poisoning-temoignage.html",
+      "pubDate": "2026-03-13T10:55:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/seo-poisoning-temoignage/seo-poisoning-temoignage-2.png",
+      "type": "blog"
+    },
+    {
       "id": "6cddd90dbdd3",
       "title": "LiteRT - L'IA embarquée de Google passe la seconde",
       "description": "TensorFlow Lite, c'est fini. Enfin presque car Google a rebrandé dernièrement son framework d'inférence embarquée sous le nom de LiteRT , et en a profité pour refaire pas mal de choses sous le capot. Rassurez-vous mes petits prompts engineers (lol), le principe reste le même à savoir faire tourner…",
