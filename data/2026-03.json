@@ -2,6 +2,83 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "6cddd90dbdd3",
+      "title": "LiteRT - L'IA embarquée de Google passe la seconde",
+      "description": "TensorFlow Lite, c'est fini. Enfin presque car Google a rebrandé dernièrement son framework d'inférence embarquée sous le nom de LiteRT , et en a profité pour refaire pas mal de choses sous le capot. Rassurez-vous mes petits prompts engineers (lol), le principe reste le même à savoir faire tourner…",
+      "link": "https://korben.info/litert-google-ai-edge-inference-mobile.html",
+      "pubDate": "2026-03-13T09:08:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/litert-google-ai-edge-inference-mobile/litert-google-ai-edge-inference-mobile-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "58f993a883db",
+      "title": "Jurassic Park dans votre cluster k8s",
+      "description": "Le navigateur 3D de Jurassic Park, vous savez, celui avec lequel Lex hackait le parc en 1993 pendant que les vélociraptors grattaient à la porte... bah quelqu'un vient de le recréer, mais pour Kubernetes. Le projet s'appelle k8s-unix-system et c'est exactement ce que vous imaginez. Vos namespaces…",
+      "link": "https://korben.info/k8s-unix-system-kubernetes-simulateur-unix.html",
+      "pubDate": "2026-03-13T08:04:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/k8s-unix-system-kubernetes-simulateur-unix/k8s-unix-system-kubernetes-simulateur-unix-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "be4c9fc65223",
+      "title": "Touraine Tech 2026",
+      "description": "Les 12 & 13 février 2026 se tenait Touraine Tech, l’événement spécialisé tech de la région. Découvrez nos retours sur les différentes conférences.",
+      "link": "https://blog.ippon.fr/2026/03/13/touraine-tech-2026/",
+      "pubDate": "2026-03-13T08:00:37.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/TNT-12---13-f--vrier-2026-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "961a74aac413",
+      "title": "Alternatives européennes aux GAFAM - Le guide ultime pour reprendre le contrôle",
+      "description": "Bon, j'avoue qu'en 2026, la question n'est plus \"faut-il quitter les GAFAM ?\" mais plutôt \"par quoi on les remplace ?\". Entre les politiques de confidentialité qui changent tous les 4 matins, le CLOUD Act qui permet au gouvernement US d'accéder à vos données même si les serveurs sont en Europe, et…",
+      "link": "https://korben.info/go-european-extension-alternatives-europeennes-tech.html",
+      "pubDate": "2026-03-13T07:19:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/go-european-extension-alternatives-europeennes-tech/go-european-extension-alternatives-europeennes-tech-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b1b135cb015a",
+      "title": "Internet vous connaît par cœur : Incogni appuie sur \"effacer\" à votre place",
+      "description": "-- Article en partenariat avec Incogni -- Vous n'avez probablement pas besoin d’un énième sermon sur la \"vie privée\". Vous avez besoin d’outils qui font le sale boulot à votre place. Incogni fait exactement ça : il passe ses journées à frapper à la porte des courtiers en données pour leur dire de…",
+      "link": "https://korben.info/internet-vous-connait-par-coeur.html",
+      "pubDate": "2026-03-13T06:49:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/internet-vous-connait-par-coeur/internet-vous-connait-par-coeur-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ba5ec7631511",
       "title": "Un émulateur Xbox arrive sur Android à 8 dollars, et ça pose problème",
       "description": "Un développeur indépendant a porté xemu, l'émulateur Xbox open source, sur Android sous le nom de X1 BOX. L'application était d'abord vendue 8 dollars sur le Play Store, ce qui a provoqué un tollé côté communauté et chez les développeurs du projet original. Une version gratuite est depuis…",
