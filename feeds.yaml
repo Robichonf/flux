@@ -13,7 +13,7 @@ feeds:
 
   - url: https://yoandev.co/rss.xml
     name: YoanDev
-    categories: [Programmation, Web, DevOps, IA]]
+    categories: [Programmation, Web, DevOps, IA]
 
   - url: https://lecodeestdanslepre.fr/feed.xml
     name: Le Code est dans le Pré
