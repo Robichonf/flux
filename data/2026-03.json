@@ -2,6 +2,22 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "8d7c289cdfa4",
+      "title": "Refonte de la page Conférences : data-driven avec Hugo",
+      "description": "Grosse refonte de ma page “Conférences” qui était un bazar sans nom, dans lequel j’avais aussi mélangé les podcasts, les publications écrites, etc. Maintenant tout est présenté avec des “cartes”, et bien séparé en 3 pages distinctes. Tous les fichiers sources (YAML, layouts Hugo, CSS) sont…",
+      "link": "https://blog.zwindler.fr/2026/03/13/refonte-page-conferences-hugo/",
+      "pubDate": "2026-03-13T19:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/conferences-apres.webp",
+      "type": "blog"
+    },
+    {
       "id": "ea16481249b9",
       "title": "Microsoft va bientôt transformer votre PC Windows 11 en console Xbox",
       "description": "Microsoft a profité de la GDC 2026 pour annoncer l'arrivée du Xbox Mode sur tous les PC sous Windows 11 dès le mois d'avril. L'interface plein écran, pensée pour la manette, était jusqu'à présent réservée aux consoles portables ASUS ROG Xbox Ally. Une interface console sur n'importe quel PC Le Xbox…",
