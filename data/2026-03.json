@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "0ed4d6243c7e",
+      "title": "Google Antigravity - De gratuit à 275 € / mois sans prévenir",
+      "description": "Google Antigravity, c'est gratuit. Enfin... c'était gratuit. Puis c'est passé à +20 balles par mois. Et maintenant, pour un usage sérieux, comptez 275 € par mois. Bienvenue dans le bait and switch version Google. En novembre, je vous présentais l'IDE agent-first de Google et à l'époque, c'était en…",
+      "link": "https://korben.info/google-antigravity-bait-and-switch.html",
+      "pubDate": "2026-03-14T15:57:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/google-antigravity-bait-and-switch/google-antigravity-bait-and-switch-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8d7c289cdfa4",
       "title": "Refonte de la page Conférences : data-driven avec Hugo",
       "description": "Grosse refonte de ma page “Conférences” qui était un bazar sans nom, dans lequel j’avais aussi mélangé les podcasts, les publications écrites, etc. Maintenant tout est présenté avec des “cartes”, et bien séparé en 3 pages distinctes. Tous les fichiers sources (YAML, layouts Hugo, CSS) sont…",
