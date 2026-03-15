@@ -18,6 +18,22 @@
       "type": "blog"
     },
     {
+      "id": "7350e1629b21",
+      "title": "Flannel et NetworkPolicies : comment ajouter le support avec Cilium en CNI chaining",
+      "description": "Flannel, flannel, flannel… Flannel est un CNI simple et populaire 😢. C’est le CNI par défaut de k3s, celui que la moitié des tutos kubeadm utilisent, et on le retrouve aussi dans pas mal d’offres managées. OK, il est simple, il route les paquets entre les pods, il supporte VXLAN et WireGuard, il…",
+      "link": "https://blog.zwindler.fr/2026/03/15/flannel-networkpolicies-cilium-cni-chaining/",
+      "pubDate": "2026-03-15T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/flannel-cilium-chaining.webp",
+      "type": "blog"
+    },
+    {
       "id": "0ed4d6243c7e",
       "title": "Google Antigravity - De gratuit à 275 € / mois sans prévenir",
       "description": "Google Antigravity, c'est gratuit. Enfin... c'était gratuit. Puis c'est passé à +20 balles par mois. Et maintenant, pour un usage sérieux, comptez 275 € par mois. Bienvenue dans le bait and switch version Google. En novembre, je vous présentais l'IDE agent-first de Google et à l'époque, c'était en…",
