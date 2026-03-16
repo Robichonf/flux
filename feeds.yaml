@@ -1,7 +1,4 @@
 feeds:
-  - url: https://blog.zwindler.fr/index.xml
-    name: Zwindler's Reflection
-    categories: [DevOps, Cloud, Programmation]
 
   - url: https://medium.com/feed/@smaine-milianni
     name: Smaïne Milianni
