@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "e5998008771c",
+      "title": "Vous avez des piles Eneloop ? Mais avez-vous testé le chargeur de piles Eneloop Pro ? Moi oui !",
+      "description": "– Article invité, rédigé par Vincent Lautier , contient des liens affiliés Amazon – J’avais besoin de remplacer mon chargeur de piles, et comme j’utilise depuis des années les excellentes piles de la gamme Eneloop, je me suis dit que j’allais prendre un chargeur de la même marque, pour rester dans…",
+      "link": "https://korben.info/vous-avez-des-piles-eneloop-mais-avez-vous-teste-le-chargeur-de-piles-eneloop-pro-moi-oui.html",
+      "pubDate": "2026-03-16T16:55:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/vous-avez-des-piles-eneloop-mais-avez-vous-teste-le-chargeur-de-piles-eneloop-pro-moi-oui/vous-avez-des-piles-eneloop-mais-avez-vous-teste-le-chargeur-de-piles-eneloop-pro-moi-oui-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "00d96f8ecf37",
+      "title": "Il avait porté DOOM sur Super Nintendo en 1995, il revient trente ans plus tard pour corriger sa copie",
+      "description": "Randal Linden est le développeur qui avait réussi l'exploit de faire tourner DOOM sur la Super Nintendo en 1995. Trente ans plus tard, il s’est associé à Limited Run Games pour ressortir une version améliorée sur cartouche, avec un processeur Raspberry Pi caché à l'intérieur. Dans un long échange…",
+      "link": "https://korben.info/il-avait-porte-doom-sur-super-nintendo-en-1995-il-revient-trente-ans-plus-tard-pour-corriger-sa-copie.html",
+      "pubDate": "2026-03-16T16:10:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "44dc735ed9cf",
       "title": "Google veut vérifier l'identité de tous les développeurs Android, et ça menace F-Droid",
       "description": "Google va obliger tous les développeurs Android à s'enregistrer avec une pièce d'identité et à payer 25 dollars, même ceux qui distribuent leurs apps en dehors du Play Store. F-Droid, le dépôt d'applications open source qui existe depuis quinze ans, dit que c'est une menace pour sa survie. Une…",
