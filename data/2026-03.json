@@ -2,6 +2,51 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a2ada6ce4350",
+      "title": "ISS Tracker - Suivez la station spatiale sur un Raspberry Pi",
+      "description": "La Station Spatiale Internationale file à 28 000 km/h au-dessus de nos têtes, et y'a un mec qui a décidé de suivre ça en direct depuis un petit écran 3.5 pouces posé sur un Raspberry Pi 3b. Le projet s'appelle ISS Tracker , c'est open source, et franchement... c'est plutôt classe ! Concrètement,…",
+      "link": "https://korben.info/iss-tracker-raspberry-pi-station-spatiale.html",
+      "pubDate": "2026-03-16T07:52:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/iss-tracker-raspberry-pi-station-spatiale/iss-tracker-raspberry-pi-station-spatiale-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "d5ce9bf8e6d3",
+      "title": "Ebooks auto-hébergés - La jungle des outils pour lire librement",
+      "description": "Depuis qu'Amazon a supprimé le \"Télécharger & transféré via USB\" de nos ebooks Kindle en février de l'année dernière je suis triste de fou... Si vous n'avez pas de Kindle, en fait ça veut dire que nos fichiers .azw3 restent prisonniers de l'app Kindle, et qu'il est impossible de les balancer…",
+      "link": "https://korben.info/gestion-ebooks-self-hosted.html",
+      "pubDate": "2026-03-16T07:36:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gestion-ebooks-self-hosted/gestion-ebooks-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "253864d93090",
+      "title": "IPED - Fouiller un disque dur comme la police",
+      "description": "Si vous vous êtes déjà demandé comment les flics font pour fouiller un disque dur saisi chez un suspect, la réponse tient en quatre lettres : IPED . C'est l'outil que la police fédérale brésilienne a développé en interne depuis 2012 pour analyser les preuves numériques... et qui est devenu open…",
+      "link": "https://korben.info/iped-forensic-digital-investigation.html",
+      "pubDate": "2026-03-16T06:55:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/iped-forensic-digital-investigation/iped-forensic-digital-investigation-2.png",
+      "type": "blog"
+    },
+    {
       "id": "a496af1f1d11",
       "title": "Liens Tech - Mars 2026",
       "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
