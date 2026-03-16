@@ -2,6 +2,81 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a496af1f1d11",
+      "title": "Liens Tech - Mars 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-mars-2026/",
+      "pubDate": "2026-03-16T06:45:33.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3369c412a5d0",
+      "title": "Basalt - Vos coffres Obsidian direct dans le terminal",
+      "description": "Un TUI en Rust pour gérer vos coffres Obsidian sans quitter le terminal c'est ce que propose Basalt qui détecte automatiquement vos vaults, affiche le markdown avec un rendu visuel, et depuis la v0.12.3, y'a même un mode vim intégré. Le tout sans avoir besoin que la vraie app tourne en arrière-plan…",
+      "link": "https://korben.info/basalt-obsidian-terminal-tui.html",
+      "pubDate": "2026-03-16T06:41:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/basalt-obsidian-terminal-tui/basalt-obsidian-terminal-tui-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "a1c6371000d7",
+      "title": "Scanopy - Quand votre réseau se documente tout seul",
+      "description": "Faut le reconnaitre, la doc et qui plus est, la doc réseau, c'est un peu le parent pauvre du homelab. Tout le monde sait qu'il faudrait la tenir à jour sur un petit wiki tout mignon mais personne le fait parce qu'on n'est pas cinglé et qu'on aime trop la vie pour ça. Heureusement, pour nous aider,…",
+      "link": "https://korben.info/scanopy-scanner-reseau-topologie.html",
+      "pubDate": "2026-03-16T06:34:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/scanopy-scanner-reseau-topologie/scanopy-scanner-reseau-topologie-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "d7763aad5e06",
+      "title": "Barista - Pilotez votre machine à café De'Longhi en HTTP",
+      "description": "Vous avez une machine à café De'Longhi avec du Bluetooth et vous vous êtes déjà forcément dit \"Mais pourquoi je dois me lever si tôt pour appuyer sur un putain de bouton comme un homme des cavernes\" ?! Hé bien bonne nouvelle mes petits accro aux café puisqu'un dev a passé ses soirées à sniffer les…",
+      "link": "https://korben.info/barista-bridge-ble-cafe-delonghi.html",
+      "pubDate": "2026-03-16T06:13:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/barista-bridge-ble-cafe-delonghi/barista-bridge-ble-cafe-delonghi-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "1be56e7175f8",
+      "title": "CompHost - Compostez vos vieux Android en serveurs",
+      "description": "Un vieux smartphone Android, c'est quoi en fait ? Un bon petit quad-core, 1 ou 2 Go de RAM, et du WiFi. Soit de quoi largement servir des pages web finalement... Hé bien CompHost vous montre comment en faire un serveur en quelques commandes, sans rooter quoi que ce soi. Vous faut juste Termux et…",
+      "link": "https://korben.info/comphost-club-serveur-telephone.html",
+      "pubDate": "2026-03-16T05:34:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/comphost-club-serveur-telephone/comphost-club-serveur-telephone-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "f96d1348d5dc",
       "title": "L'IA au service de l'industrialisation : Passer de 30% de réussite à 100% de fiabilité",
       "description": "L’IA générative n’est pas déterministe. Pour industrialiser sans sacrifier la fiabilité, découvrez comment utiliser les LLM non comme moteurs, mais comme leviers pour forger vos propres outils.",
