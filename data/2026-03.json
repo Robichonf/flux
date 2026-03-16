@@ -2,6 +2,96 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "41be75a413c8",
+      "title": "Eonvelope - Vos emails méritent aussi un backup local",
+      "description": "On archive nos photos avec Immich , nos documents avec Readur , nos mots de passe avec Vaultwarden ... mais nos emails ? Ah bah non, ça on les laisse chez Google en croisant les doigts pour que tout se passe bien jusqu'à la fin de nos jours. C'est quand même un peu dinguo quand on y réfléchit…",
+      "link": "https://korben.info/eonvelope-archivage-email-self-hosted.html",
+      "pubDate": "2026-03-16T09:26:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "93cd85618fe7",
+      "title": "Il fabrique un robot qui joue tout seul au jeu du dinosaure de Chrome",
+      "description": "Un bricoleur a assemblé un petit montage à base d'ATtiny85 qui joue automatiquement au jeu du dinosaure caché dans Google Chrome. Le tout pour moins de 10 euros de composants et avec un microcontrôleur pas plus grand qu'un pouce. Deux capteurs et un microcontrôleur, c'est tout Le projet est signé…",
+      "link": "https://korben.info/il-fabrique-un-robot-qui-joue-tout-seul-au-jeu-du-dinosaure-de-chrome.html",
+      "pubDate": "2026-03-16T09:12:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e40f92c36eca",
+      "title": "Promptfoo - Fini le doigt mouillé pour tester vos LLM",
+      "description": "Si vous utilisez des LLM dans vos projets, vous savez que le plus flippant c'est pas de les faire fonctionner (quoique..lol) mais c'est de vérifier qu'ils ne disent pas n'importe nawak ! Et pour cela, il y a Promptfoo , un outil CLI open source qui permet de tester vos prompts, comparer les modèles…",
+      "link": "https://korben.info/promptfoo-tester-evaluer-llm.html",
+      "pubDate": "2026-03-16T09:04:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/promptfoo-tester-evaluer-llm/promptfoo-tester-evaluer-llm-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "5cc57724d608",
+      "title": "notebooklm-py - L'API Python que Google refuse de sortir",
+      "description": "Google n'a jamais sorti d'API publique pour NotebookLM , son outil qui transforme vos documents en podcasts, quiz et autres résumés grâce à l'IA. Pas de SDK, pas de CLI, y'a rien du tout alors on est tous triiiiiste. A peine juste une interface web avec ses boutons moches et ses menus déroulants,…",
+      "link": "https://korben.info/notebooklm-py-api-python-non-officielle.html",
+      "pubDate": "2026-03-16T08:46:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/notebooklm-py-api-python-non-officielle/notebooklm-py-api-python-non-officielle-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "9b4a3aef4a52",
+      "title": "OpenRAG - Le RAG clé en main qui vous évite 3 jours de galère",
+      "description": "Monter un pipeline RAG, c'est un peu le parcours du combattant... entre le choix de la base vectorielle, le modèle d'embedding, l'orchestrateur, le parser de documents, vous en avez pour des heures de config avant de pouvoir poser la moindre question à vos PDF. Mais c'était sans compter sur OpenRAG…",
+      "link": "https://korben.info/openrag-rag-cle-en-main-documents-ia.html",
+      "pubDate": "2026-03-16T08:19:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/openrag-rag-cle-en-main-documents-ia/openrag-rag-cle-en-main-documents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "9b765e219794",
+      "title": "psmux - Le vrai tmux natif pour Windows (sans WSL)",
+      "description": "Splitter son terminal en plusieurs panneaux, gérer des sessions persistantes, le tout avec les mêmes raccourcis que tmux... mais sous un bon gros Windows des famille, nativement, en Rust et sans avoir besoin de se galérer avec WSL ! C'est exactement ce que fait psmux , un multiplexeur de terminal…",
+      "link": "https://korben.info/psmux-multiplexeur-terminal-windows-tmux-natif.html",
+      "pubDate": "2026-03-16T08:08:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/psmux-multiplexeur-terminal-windows-tmux-natif/psmux-multiplexeur-terminal-windows-tmux-natif-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "a2ada6ce4350",
       "title": "ISS Tracker - Suivez la station spatiale sur un Raspberry Pi",
       "description": "La Station Spatiale Internationale file à 28 000 km/h au-dessus de nos têtes, et y'a un mec qui a décidé de suivre ça en direct depuis un petit écran 3.5 pouces posé sur un Raspberry Pi 3b. Le projet s'appelle ISS Tracker , c'est open source, et franchement... c'est plutôt classe ! Concrètement,…",
