@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "44dc735ed9cf",
+      "title": "Google veut vérifier l'identité de tous les développeurs Android, et ça menace F-Droid",
+      "description": "Google va obliger tous les développeurs Android à s'enregistrer avec une pièce d'identité et à payer 25 dollars, même ceux qui distribuent leurs apps en dehors du Play Store. F-Droid, le dépôt d'applications open source qui existe depuis quinze ans, dit que c'est une menace pour sa survie. Une…",
+      "link": "https://korben.info/google-veut-verifier-lidentite-de-tous-les-developpeurs-android-et-ca-menace-f-droid.html",
+      "pubDate": "2026-03-16T15:19:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e5554a746c5",
+      "title": "Un malware invisible se cache dans des caractères Unicode sur GitHub, npm et VS Code",
+      "description": "La société Aikido Security a découvert une campagne de malware baptisée Glassworm qui utilise des caractères Unicode invisibles pour dissimuler du code malveillant. Plus de 150 dépôts GitHub, des paquets npm et des extensions VS Code sont touchés, et le malware utilise la blockchain Solana comme…",
+      "link": "https://korben.info/un-malware-invisible-se-cache-dans-des-caracteres-unicode-sur-github-npm-et-vs-code.html",
+      "pubDate": "2026-03-16T14:50:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "94e1d6a05f17",
       "title": "Voix clonée, vrais dégâts : comment Surfshark aide à résister aux scams IA",
       "description": "-- Article en partenariat avec Surfshark -- Les scams vocaux par IA, c’est un peu la nouvelle génération de coup de fil foireux. Sauf que cette fois, la voix au bout du fil peut être celle de votre mère, de votre boss, ou de vous-même cloné en haute définition. Et ça, c’est nettement moins drôle.",
