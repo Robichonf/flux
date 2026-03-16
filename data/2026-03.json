@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "845d1ec848e8",
+      "title": "Dorso - L'app Mac qui floute votre écran quand vous faites le dos rond",
+      "description": "En ce moment, j'ai une sciatique qui me rend dingue ! Du coup, entre deux grimaces sur ma chaise de bureau ergonomique, je me suis retrouvé à chercher des trucs pour améliorer ma posture devant l'écran... et je suis tombé sur Dorso, une petite app macOS qui surveille votre posture en temps réel et…",
+      "link": "https://korben.info/dorso-posture-mac-flou-ecran.html",
+      "pubDate": "2026-03-16T10:20:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dorso-posture-mac-flou-ecran/dorso-posture-mac-flou-ecran-2.png",
+      "type": "blog"
+    },
+    {
       "id": "41be75a413c8",
       "title": "Eonvelope - Vos emails méritent aussi un backup local",
       "description": "On archive nos photos avec Immich , nos documents avec Readur , nos mots de passe avec Vaultwarden ... mais nos emails ? Ah bah non, ça on les laisse chez Google en croisant les doigts pour que tout se passe bien jusqu'à la fin de nos jours. C'est quand même un peu dinguo quand on y réfléchit…",
