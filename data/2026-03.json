@@ -2,6 +2,51 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "aad9978726e5",
+      "title": "La Xbox One enfin hackée après 12 ans d'invincibilité",
+      "description": "La Xbox One n'a jamais été hackée ! Hé oui, depuis 2013, la console de Microsoft narguaient la communauté du reverse engineering pendant que les PlayStation, les Switch et autres 3DS tombaient les unes après les autres. Microsoft la décrivait même comme \"le produit le plus sécurisé jamais créé\"…",
+      "link": "https://korben.info/xbox-one-hack-boot-rom-unhackable.html",
+      "pubDate": "2026-03-16T11:40:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/xbox-one-hack-boot-rom-unhackable/xbox-one-hack-boot-rom-unhackable-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e3c178f0715a",
+      "title": "Open DroneLog - Vos logs de drone restent chez vous",
+      "description": "Si vous pilotez un drone DJI, vos logs de vol finissent probablement sur Airdata ou un service cloud du même genre. En gros ce sont des trucs qui aspirent vos trajectoires GPS, vos altitudes en mètres, vos tensions de batterie en millivolts... et qui stocke tout ça sur des serveurs quelque part…",
+      "link": "https://korben.info/opendronelog-carnet-vol-drone-open-source.html",
+      "pubDate": "2026-03-16T11:27:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/opendronelog-carnet-vol-drone-open-source/opendronelog-carnet-vol-drone-open-source-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "5654574907e0",
+      "title": "WinCalls - L'appli qui raccroche au nez des démarcheurs",
+      "description": "Le démarchage téléphonique, on n'en peut plus !! Y'a bien Bloctel qui devait régler le problème... sauf que notre téléphone continue de sonner 3 fois par jour avec des histoires de CPF ou de panneaux solaires. Pas ouf quoi... Du coup, un enquêteur en fraude connu du web a décidé de créer sa propre…",
+      "link": "https://korben.info/wincalls-bloquer-appels-spam-android.html",
+      "pubDate": "2026-03-16T10:55:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/wincalls-bloquer-appels-spam-android/wincalls-bloquer-appels-spam-android-2.png",
+      "type": "blog"
+    },
+    {
       "id": "845d1ec848e8",
       "title": "Dorso - L'app Mac qui floute votre écran quand vous faites le dos rond",
       "description": "En ce moment, j'ai une sciatique qui me rend dingue ! Du coup, entre deux grimaces sur ma chaise de bureau ergonomique, je me suis retrouvé à chercher des trucs pour améliorer ma posture devant l'écran... et je suis tombé sur Dorso, une petite app macOS qui surveille votre posture en temps réel et…",
