@@ -2,6 +2,66 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "94e1d6a05f17",
+      "title": "Voix clonée, vrais dégâts : comment Surfshark aide à résister aux scams IA",
+      "description": "-- Article en partenariat avec Surfshark -- Les scams vocaux par IA, c’est un peu la nouvelle génération de coup de fil foireux. Sauf que cette fois, la voix au bout du fil peut être celle de votre mère, de votre boss, ou de vous-même cloné en haute définition. Et ça, c’est nettement moins drôle.",
+      "link": "https://korben.info/surfshark-scams-audio-ia.html",
+      "pubDate": "2026-03-16T12:03:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/surfshark-scams-audio-ia/surfshark-scams-audio-ia-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "9ae77e237aac",
+      "title": "GB Recompiled - Vos ROMs Game Boy traduites en C natif",
+      "description": "La recompilation statique , je vous en avais parlé avec Zelda 64 et Sonic Unleashed. Le principe, en gros c'est qu'au lieu d'émuler bêtement le processeur et la mémoire d'origine, on traduit tout simplement le code assembleur du jeu directement en C natif. Du coup le jeu tourne nativement sur votre…",
+      "link": "https://korben.info/gb-recompiled-game-boy-decompilation.html",
+      "pubDate": "2026-03-16T12:01:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gb-recompiled-game-boy-decompilation/gb-recompiled-game-boy-decompilation-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "746b0a1c699a",
+      "title": "Un drone imprimé en 3D qui file à 108 km/h grâce à un ESP32",
+      "description": "Un YouTubeur bricoleur a fabriqué un micro-drone de 136 grammes capable de filer à 108 km/h, le tout pour environ 155 dollars de composants et une imprimante 3D. Le petit engin baptisé ESP-Blast tient dans la main, utilise un microcontrôleur ESP32 à quelques dollars et un châssis en plastique PETG.…",
+      "link": "https://korben.info/un-drone-imprime-en-3d-qui-file-a-108-km-h-grace-a-un-esp32.html",
+      "pubDate": "2026-03-16T11:57:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2f86b8da42d5",
+      "title": "Mouser - Remappez votre Logitech MX Master 3S sans Options+",
+      "description": "Logitech Options+, c'est quand même un truc de fou... Vous achetez une souris à 100 balles, et pour configurer 6 malheureux boutons, faut se créer un compte, accepter de la télémétrie et laisser tourner cette usine à gaz en tâche de fond. Le problème, c'est que sans ce truc, votre MX Master 3S…",
+      "link": "https://korben.info/mouser-remapper-souris-logitech-sans-bloatware.html",
+      "pubDate": "2026-03-16T11:50:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/mouser-remapper-souris-logitech-sans-bloatware/mouser-remapper-souris-logitech-sans-bloatware-2.png",
+      "type": "blog"
+    },
+    {
       "id": "aad9978726e5",
       "title": "La Xbox One enfin hackée après 12 ans d'invincibilité",
       "description": "La Xbox One n'a jamais été hackée ! Hé oui, depuis 2013, la console de Microsoft narguaient la communauté du reverse engineering pendant que les PlayStation, les Switch et autres 3DS tombaient les unes après les autres. Microsoft la décrivait même comme \"le produit le plus sécurisé jamais créé\"…",
