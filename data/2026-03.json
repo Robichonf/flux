@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "9e1b48b716de",
+      "title": "Proton Mail permet de réserver pendant 15 ans une adresse mail chiffrée pour vos futurs gosses",
+      "description": "Proton vient de lancer Born Private, un programme qui permet aux parents de réserver une adresse mail chiffrée pour leur enfant dès la naissance. L'adresse reste verrouillée pendant 15 ans maximum, le temps que l'enfant soit en âge de s'en servir, sans aucune collecte de données entre-temps. Le…",
+      "link": "https://korben.info/proton-mail-permet-de-reserver-une-adresse-mail-chiffree-pour-vos-gosses.html",
+      "pubDate": "2026-03-17T16:35:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f7bccf794604",
       "title": "Android 17 va bloquer les apps qui abusent des services d'accessibilité",
       "description": "Google durcit le ton avec Android 17. La prochaine version de l'OS mobile va empêcher les applications non certifiées d'accéder aux services d'accessibilité, une API très puissante et régulièrement détournée par les malwares pour espionner les utilisateurs et vider des comptes bancaires. Ce qui…",
