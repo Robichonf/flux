@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "c16a6be7b628",
+      "title": "Reconnaissance faciale en open bar pour la police",
+      "description": "Depuis 2022, TOUS les policiers et gendarmes français ont accès à un logiciel de reconnaissance faciale directement sur leur téléphone de service. En vous prenant en photo lors d'un contrôle (chiiiiiz 😀), ils peuvent ensuite, en quelques secondes, consulter un énooOoorme fichier contenant 9…",
+      "link": "https://korben.info/reconnaissance-faciale-police-telephones.html",
+      "pubDate": "2026-03-17T14:45:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/reconnaissance-faciale-police-telephones/reconnaissance-faciale-police-telephones-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d1cf8f7d70c2",
+      "title": "Z80 Sans, la police de caractères qui désassemble du code machine toute seule",
+      "description": "Un développeur a créé une police OpenType capable de convertir des opcodes hexadécimaux du processeur Z80 en instructions assembleur lisibles. Il suffit de coller le code machine dans un traitement de texte, de changer la police, et les mnémoniques s'affichent en clair. Le projet, disponible sur…",
+      "link": "https://korben.info/z80-sans-la-police-de-caracteres-qui-desassemble-du-code-machine-toute-seule.html",
+      "pubDate": "2026-03-17T13:56:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "84b738782f1e",
       "title": "Fast SAM 3D Body - Quand l'IA scanne votre corps en 3D en 65ms",
       "description": "Vous prenez une photo de quelqu’un avec votre téléphone et magie magie, en une fraction de seconde, vous obtenez un modèle 3D complet de son corps. Ses bras, ses jambes, ses mains, ses pieds... tout y est, modélisé en 3D comme si vous aviez un vrai studio de motion capture à Hollywood. Et ben c’est…",
