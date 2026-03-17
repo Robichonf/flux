@@ -2,6 +2,81 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "f7bccf794604",
+      "title": "Android 17 va bloquer les apps qui abusent des services d'accessibilité",
+      "description": "Google durcit le ton avec Android 17. La prochaine version de l'OS mobile va empêcher les applications non certifiées d'accéder aux services d'accessibilité, une API très puissante et régulièrement détournée par les malwares pour espionner les utilisateurs et vider des comptes bancaires. Ce qui…",
+      "link": "https://korben.info/android-17-va-bloquer-les-apps-qui-abusent-des-services-daccessibilite.html",
+      "pubDate": "2026-03-17T16:19:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "28e744db8a09",
+      "title": "Strix - Fini la galère des caméras IP sans RTSP",
+      "description": "Vous avez des vieilles caméras de surveillance chinoises qui prennent la poussière parce qu'il vous est impossible de trouver leur flux vidéo ? Y'a pas de RTSP, y'a pas de doc, y'a juste un pauvre port 80 ouvert et une app Android en Mandarin qui est périmée depuis 2021 ? JE VIENS VOUS SAUVER LES…",
+      "link": "https://korben.info/strix-scanner-flux-cameras-ip.html",
+      "pubDate": "2026-03-17T15:51:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/strix-scanner-flux-cameras-ip/strix-scanner-flux-cameras-ip-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "3365bb45d697",
+      "title": "DLSS 5 - Nvidia rend vos jeux plus beaux que la vraie vie",
+      "description": "Vous connaissez cette sensation bizarre quand un personnage de jeu vidéo est presque réaliste, mais que quelque chose cloche ? Les yeux morts, la peau en plastique, le sourire figé comme un masque en silicone... Hé bien ce phénomène, c'est ce qu'on appelle l'uncanny valley (la vallée de l'étrange),…",
+      "link": "https://korben.info/nvidia-dlss-5-uncanny-valley.html",
+      "pubDate": "2026-03-17T15:47:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80535a3cbcac",
+      "title": "Le GPS des navires complètement brouillé dans le détroit d'Hormuz, plus de 1 100 bateaux touchés",
+      "description": "Des centaines de navires apparaissent au-dessus d'aéroports ou de centrales nucléaires sur les écrans de navigation. L'Iran brouillerait massivement les signaux GPS dans le détroit d'Hormuz, et le trafic maritime commence sérieusement à en pâtir. Des bateaux fantômes sur les radars Les écrans…",
+      "link": "https://korben.info/le-gps-des-navires-completement-brouille-dans-le-detroit-dhormuz-plus-de-1-100-bateaux-touches.html",
+      "pubDate": "2026-03-17T15:42:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4dc11b73607",
+      "title": "Un DDoS offre le parking gratuit à toute une ville",
+      "description": "Non mais c'te blague ! Y'a des hackers qui viennent de lancer une cyber-attaque sur des parcmètres. Ouais des parcmètres ! Et voilà comment Perm, une ville d'un million d'habitants dans l'Oural en Russie, s'est retrouvée à offrir le parking gratuit aux automobilistes durant 4 longues journées. En…",
+      "link": "https://korben.info/parking-gratuit-russie-ddos-parcmetres.html",
+      "pubDate": "2026-03-17T15:15:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/parking-gratuit-russie-ddos-parcmetres/parking-gratuit-russie-ddos-parcmetres-2.png",
+      "type": "blog"
+    },
+    {
       "id": "c16a6be7b628",
       "title": "Reconnaissance faciale en open bar pour la police",
       "description": "Depuis 2022, TOUS les policiers et gendarmes français ont accès à un logiciel de reconnaissance faciale directement sur leur téléphone de service. En vous prenant en photo lors d'un contrôle (chiiiiiz 😀), ils peuvent ensuite, en quelques secondes, consulter un énooOoorme fichier contenant 9…",
