@@ -2,6 +2,35 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "6b5fdfffd93a",
+      "title": "Comment ne pas exécuter les scripts tiers avec npm, pnpm et yarn",
+      "description": "Découvrez comment utiliser npm install --ignore-scripts pour empêcher l’exécution de scripts dangereux ou inutiles lors de l’installation des dépendances npm.",
+      "link": "https://code-garage.com/blog/comment-ne-pas-executer-les-scripts-tiers-avec-npm-pnpm-et-yarn",
+      "pubDate": "2026-03-17T08:50:43.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26af4645062b",
+      "title": "Les 3 règles d’or de la communication sur les réseaux sociaux en B2B",
+      "description": "L'attention est une ressource précieuse sur les réseaux sociaux, ce qui rend difficile sa capture pour les entreprises. La régularité et la variété dans les publications sont essentielles. Il faut également surprendre son audience pour éviter la monotonie. Enfin, des éléments visuels attractifs…",
+      "link": "https://oliviersauvage.com/2026/03/17/les-3-regles-dor-de-la-communication-sur-les-reseaux-sociaux-en-b2b/",
+      "pubDate": "2026-03-17T07:44:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e5998008771c",
       "title": "Vous avez des piles Eneloop ? Mais avez-vous testé le chargeur de piles Eneloop Pro ? Moi oui !",
       "description": "– Article invité, rédigé par Vincent Lautier , contient des liens affiliés Amazon – J’avais besoin de remplacer mon chargeur de piles, et comme j’utilise depuis des années les excellentes piles de la gamme Eneloop, je me suis dit que j’allais prendre un chargeur de la même marque, pour rester dans…",
