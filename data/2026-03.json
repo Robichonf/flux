@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "4a68f1887423",
+      "title": "Découvrir les niveaux de maturité de l'adoption des Coding Agents",
+      "description": "Si vous êtes plongé dans l'IA comme moi jusqu'au cou, vous avez dû vous rendre compte que chacun autour de vous a un niveau différent d'adoption des agents de développement (Coding Agent). Je m'intéresse ici uniquement aux outils qui permettent d'aider le développeur comme Claude Code, Open AI…",
+      "link": "https://www.touilleur-express.fr/2026/03/17/decouvrir-les-niveaux-de-maturite-de-ladoption-des-coding-agents",
+      "pubDate": "2026-03-17T16:43:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9e1b48b716de",
       "title": "Proton Mail permet de réserver pendant 15 ans une adresse mail chiffrée pour vos futurs gosses",
       "description": "Proton vient de lancer Born Private, un programme qui permet aux parents de réserver une adresse mail chiffrée pour leur enfant dès la naissance. L'adresse reste verrouillée pendant 15 ans maximum, le temps que l'enfant soit en âge de s'en servir, sans aucune collecte de données entre-temps. Le…",
