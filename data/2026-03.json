@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "8f6968cbd89a",
+      "title": "Une grand-mère américaine passe six mois en prison à cause d'une erreur de reconnaissance faciale",
+      "description": "La reconnaissance faciale vient encore de montrer ses limites aux États-Unis. Angela Lipps, 50 ans, grand-mère du Tennessee, a passé près de six mois en prison après qu'un algorithme l'a désignée à tort comme suspecte dans une affaire de fraude bancaire au Dakota du Nord. Ses relevés bancaires ont…",
+      "link": "https://korben.info/une-grand-mere-americaine-passe-six-mois-en-prison-a-cause-dune-erreur-de-reconnaissance-faciale.html",
+      "pubDate": "2026-03-17T09:13:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6b5fdfffd93a",
       "title": "Comment ne pas exécuter les scripts tiers avec npm, pnpm et yarn",
       "description": "Découvrez comment utiliser npm install --ignore-scripts pour empêcher l’exécution de scripts dangereux ou inutiles lors de l’installation des dépendances npm.",
