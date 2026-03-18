@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "c6eed6bea98e",
+      "title": "Kenneth Reitz - Quand le libre te bouffe",
+      "description": "Kenneth Reitz, si vous ne le connaissez pas, c'est le gars qui se trouve derrière Requests , la librairie HTTP Python la plus téléchargée au monde. Ce projet a généré des milliards de downloads sur PyPI et aujourd'hui, Kenneth a publié un post de blog qui devrait, je pense, être lu par tous ceux…",
+      "link": "https://korben.info/kenneth-reitz-open-source-burnout.html",
+      "pubDate": "2026-03-18T20:53:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/kenneth-reitz-open-source-burnout/kenneth-reitz-open-source-burnout-2.png",
+      "type": "blog"
+    },
+    {
       "id": "b3c97b46d07d",
       "title": "Linux sur Mac avec Fedora Asahi Remix 43 (mais pas tous les Mac)",
       "description": "Linux sur un Mac Apple Silicon en 2026 serait-ce enfin une option viable ? En effet, Fedora Asahi Remix 43 vient de sortir et la réponse est... ça dépend de votre Mac. Si vous êtes sur M1 ou M2, ça commence à être sérieux. M3 ? Ça boote depuis janvier mais c'est pas encore utilisable au quotidien.…",
