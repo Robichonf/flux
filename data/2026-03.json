@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "391d4937e29a",
+      "title": "Les joueurs de Pokémon Go ont entraîné des robots livreurs sans le savoir",
+      "description": "Niantic, le studio derrière Pokémon Go, a collecté plus de 30 milliards d'images prises par ses joueurs au fil des années. Ces photos servent aujourd'hui à guider les robots livreurs de Coco Robotics dans les rues de Los Angeles, Chicago ou Helsinki, avec une précision au centimètre près. Les…",
+      "link": "https://korben.info/les-joueurs-de-pokemon-go-ont-entraine-des-robots-livreurs-sans-le-savoir.html",
+      "pubDate": "2026-03-18T10:08:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c46f99189ce0",
+      "title": "Un VPN gratuit débarque dans le prochain Firefox",
+      "description": "Un VPN gratuit, intégré direct dans Firefox, sans rien installer ça vous dit ?? Bah ça tombe bien car c'est ce que Mozilla nous balance avec la version 149 de son navigateur, qui débarquera le 24 mars, soit le LENDEMAIN de mon anniversaire 🥳 !! Et c'est pas juste un gadget marketing puisqu’ils…",
+      "link": "https://korben.info/firefox-149-vpn-gratuit-split-view.html",
+      "pubDate": "2026-03-18T09:58:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2da36a2e401b",
       "title": "Réseaux sociaux : comment capter l’attention avec des infographies et des graphiques",
       "description": "Sur les réseaux sociaux, capter l'attention est devenu un défi à cause de la surcharge d'informations. Pour sortir les utilisateurs de leur routine, il est conseillé d'utiliser des visuels attractifs, tels que des visages humains, des contrastes de couleurs, et des textes percutants. L'objectif est…",
