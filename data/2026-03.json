@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "0c5fc0e01503",
+      "title": "EA prépare son système anti-triche pour les PC ARM et envisage un support de Linux",
+      "description": "Electronic Arts recrute un ingénieur senior pour adapter son système anti-triche Javelin aux processeurs ARM64. La priorité va aux PC Windows sur ARM, mais l'offre d'emploi mentionne aussi un futur support de Linux et de Proton. De quoi intéresser les joueurs sur Steam Deck et, pourquoi pas, sur…",
+      "link": "https://korben.info/ea-prepare-son-systeme-anti-triche-pour-les-pc-arm-et-envisage-un-support-de-linux.html",
+      "pubDate": "2026-03-18T11:52:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "391d4937e29a",
       "title": "Les joueurs de Pokémon Go ont entraîné des robots livreurs sans le savoir",
       "description": "Niantic, le studio derrière Pokémon Go, a collecté plus de 30 milliards d'images prises par ses joueurs au fil des années. Ces photos servent aujourd'hui à guider les robots livreurs de Coco Robotics dans les rues de Los Angeles, Chicago ou Helsinki, avec une précision au centimètre près. Les…",
