@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "b3c97b46d07d",
+      "title": "Linux sur Mac avec Fedora Asahi Remix 43 (mais pas tous les Mac)",
+      "description": "Linux sur un Mac Apple Silicon en 2026 serait-ce enfin une option viable ? En effet, Fedora Asahi Remix 43 vient de sortir et la réponse est... ça dépend de votre Mac. Si vous êtes sur M1 ou M2, ça commence à être sérieux. M3 ? Ça boote depuis janvier mais c'est pas encore utilisable au quotidien.…",
+      "link": "https://korben.info/fedora-asahi-remix-43.html",
+      "pubDate": "2026-03-18T17:33:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fd485330304b",
       "title": "Faites tourner les Cloudflare Workers directement chez vous",
       "description": "Pour faire tourner du JavaScript côté serveur, y'a pas que Node.js dans la vie. Y'a maintenant workerd (prononcez \"worker-dee\"), qui est le runtime open source de Cloudflare, celui-là même qui fait tourner les Workers en prod (le service tourne depuis 2017, le runtime est open source depuis 2022),…",
