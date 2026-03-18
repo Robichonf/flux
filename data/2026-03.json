@@ -2,6 +2,20 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "2da36a2e401b",
+      "title": "Réseaux sociaux : comment capter l’attention avec des infographies et des graphiques",
+      "description": "Sur les réseaux sociaux, capter l'attention est devenu un défi à cause de la surcharge d'informations. Pour sortir les utilisateurs de leur routine, il est conseillé d'utiliser des visuels attractifs, tels que des visages humains, des contrastes de couleurs, et des textes percutants. L'objectif est…",
+      "link": "https://oliviersauvage.com/2026/03/18/reseaux-sociaux-comment-capter-lattention-avec-des-infographies-et-des-graphiques/",
+      "pubDate": "2026-03-18T09:26:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "023255c09180",
       "title": "Widelands - Le Settlers II open source fêtera cette année ses 24 ans de dev",
       "description": "Settlers II, ce jeu de stratégie où vous passiez des heures à regarder vos petits bonhommes transporter des planches de bois sur des chemins de terre est quelque part, toujours vivant puisqu'il y a des devs qui bossent sur un jeu open source équivalent depuis 2001. Ça fait + de 24 ans et le…",
