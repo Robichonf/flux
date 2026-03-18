@@ -2,6 +2,66 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "fd485330304b",
+      "title": "Faites tourner les Cloudflare Workers directement chez vous",
+      "description": "Pour faire tourner du JavaScript côté serveur, y'a pas que Node.js dans la vie. Y'a maintenant workerd (prononcez \"worker-dee\"), qui est le runtime open source de Cloudflare, celui-là même qui fait tourner les Workers en prod (le service tourne depuis 2017, le runtime est open source depuis 2022),…",
+      "link": "https://korben.info/workerd-cloudflare-runtime-javascript.html",
+      "pubDate": "2026-03-18T16:17:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/workerd-cloudflare-runtime-javascript/workerd-cloudflare-runtime-javascript-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "595a78ee3837",
+      "title": "Donnez un look Game Boy à vos images avec Dither",
+      "description": "Si vous avez un site web et que vos illustrations ressemblent comme sur mon site, à un joyeux bordel de screenshots pixelisés, de photos libres de droits et d'images IA plus ou moins réussies, y'a peut-être un moyen de donner une certaine cohérence visuelle à tout ça. L'outil s'appelle Dither , ça…",
+      "link": "https://korben.info/dither-neato-images-retro.html",
+      "pubDate": "2026-03-18T16:03:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dither-neato-images-retro/dither-neato-images-retro-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8bf7542d0eae",
+      "title": "ClamUI - Enfin un antivirus graphique sous Linux",
+      "description": "ClamAV, tout le monde connaît. C'est le moteur antivirus open source qui tourne sur à peu près tous les serveurs mail de la planète. Sauf que côté bureau Linux, à part ClamTk qui commence à dater, les options pour le piloter avec une interface graphique sont plutôt limitées. Heureusement, ClamUI…",
+      "link": "https://korben.info/clamui-antivirus-linux-gui.html",
+      "pubDate": "2026-03-18T15:47:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/clamui-antivirus-linux-gui/clamui-antivirus-linux-gui-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b7c12863fec3",
+      "title": "Un chercheur construit le premier processeur ternaire fonctionnel depuis 60 ans",
+      "description": "Un chercheur indépendant vient de présenter le 5500FP, un processeur qui ne fonctionne pas en binaire mais en ternaire. Là où nos puces actuelles raisonnent en 0 et 1, celui-ci ajoute un troisième état : le -1. Le tout tourne sur un FPGA classique, et c'est le premier matériel ternaire généraliste…",
+      "link": "https://korben.info/un-chercheur-construit-le-premier-processeur-ternaire-fonctionnel-depuis-60-ans.html",
+      "pubDate": "2026-03-18T15:26:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d5ac778e3263",
       "title": "Boîtiers KVM IP - Les 9 failles qui vous offrent un accès root OKLM",
       "description": "Les boîtiers KVM IP, c'est le genre de matos qu'on branche dans un rack et qu'on oublie dans un coin pendant des années. Hé bien va falloir vous souvenir de où vous les avez mis les copains parce que des chercheurs d'Eclypsium viennent de retourner de fond en comble 4 modèles populaires... et c'est…",
