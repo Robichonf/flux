@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "64865e11de43",
+      "title": "Google lance une IA pour traquer les bugs dans le noyau Linux",
+      "description": "Google vient de rendre public Sashiko, un outil de revue de code par intelligence artificielle qui analyse automatiquement les correctifs soumis au noyau Linux. Sur un échantillon de 1 000 bugs récents, l'IA en a détecté 53 %, alors que les relecteurs humains les avaient tous ratés sans exception.…",
+      "link": "https://korben.info/google-lance-une-ia-pour-traquer-les-bugs-dans-le-noyau-linux.html",
+      "pubDate": "2026-03-18T13:27:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0c5fc0e01503",
       "title": "EA prépare son système anti-triche pour les PC ARM et envisage un support de Linux",
       "description": "Electronic Arts recrute un ingénieur senior pour adapter son système anti-triche Javelin aux processeurs ARM64. La priorité va aux PC Windows sur ARM, mais l'offre d'emploi mentionne aussi un futur support de Linux et de Proton. De quoi intéresser les joueurs sur Steam Deck et, pourquoi pas, sur…",
