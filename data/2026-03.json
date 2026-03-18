@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "d5ac778e3263",
+      "title": "Boîtiers KVM IP - Les 9 failles qui vous offrent un accès root OKLM",
+      "description": "Les boîtiers KVM IP, c'est le genre de matos qu'on branche dans un rack et qu'on oublie dans un coin pendant des années. Hé bien va falloir vous souvenir de où vous les avez mis les copains parce que des chercheurs d'Eclypsium viennent de retourner de fond en comble 4 modèles populaires... et c'est…",
+      "link": "https://korben.info/9-failles-ip-kvm-prise-controle-serveurs.html",
+      "pubDate": "2026-03-18T14:50:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/9-failles-ip-kvm-prise-controle-serveurs/9-failles-ip-kvm-prise-controle-serveurs-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "2061950412cf",
+      "title": "Faille telnetd - Accès root avant même le login",
+      "description": "Telnet en big 2026... bah oui ça existe encore les amis ! Et surtout c’est toujours aussi troué ! J'en veux pour preuve le daemon telnetd de GNU InetUtils qui vient de se prendre une 2ème faille critique en l’espace de deux mois, et celle-là, elle pique de fou ! Il s'agit de la CVE-2026-32746 ,…",
+      "link": "https://korben.info/faille-telnetd-cve-2026-32746-rce-root.html",
+      "pubDate": "2026-03-18T14:08:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "64865e11de43",
       "title": "Google lance une IA pour traquer les bugs dans le noyau Linux",
       "description": "Google vient de rendre public Sashiko, un outil de revue de code par intelligence artificielle qui analyse automatiquement les correctifs soumis au noyau Linux. Sur un échantillon de 1 000 bugs récents, l'IA en a détecté 53 %, alors que les relecteurs humains les avaient tous ratés sans exception.…",
