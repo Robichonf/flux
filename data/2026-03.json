@@ -2,6 +2,50 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "d43825878bb9",
+      "title": "Vibe coding : comment l’agence World Sellers est passé des LLM aux agents IA",
+      "description": "Wordsellers intègre l'IA, de l'assistance au codage au développement agentique, avec des outils comme Mistral, Claude et Gemini. L'IA améliore la productivité, transforme le rôle des développeurs et ouvre la voie à des applications à faible coût, tout en mettant l'accent sur la valeur humaine et le…",
+      "link": "https://oliviersauvage.com/2026/03/19/vibe-coding-comment-lagence-world-sellers-est-passe-des-llm-aux-agents-ia/",
+      "pubDate": "2026-03-19T11:19:47.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a9254bfb4eea",
+      "title": "Framasoft dit tout haut ce qu'on est nombreux à penser tout bas",
+      "description": "Framasoft a publié aujourd'hui 2 articles sur le numérique public. Le premier, c'est un dossier ultra costaud (impressionnant !) qui tenez-vous bien, défend la Suite numérique de l'État (Tchap, visio LiveKit, France Transfert, Grist, assistant Mistral...) face à ses détracteurs. Et le second, c'est…",
+      "link": "https://korben.info/framasoft-suite-numerique-communs-etat.html",
+      "pubDate": "2026-03-19T11:19:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "17c7f5e239b5",
+      "title": "Comma 4 + openpilot 0.11 - La conduite assistée open source passe un cap",
+      "description": "Vous vous souvenez quand je vous parlais de Geohot et de sa voiture autonome en 2015 ? Le mec bidouillait une Acura avec des caméras à 13 balles et rêvait de vendre son kit à 1000 balles. Hé bien 10 ans plus tard, c'est fait ! Et si je vous reparle de ça aujourd'hui, c'est parce que sa société…",
+      "link": "https://korben.info/comma-ai-openpilot-v011-comma-4.html",
+      "pubDate": "2026-03-19T10:24:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/comma-ai-openpilot-v011-comma-4/comma-ai-openpilot-v011-comma-4-1.png",
+      "type": "blog"
+    },
+    {
       "id": "737002313f74",
       "title": "Pourquoi construire une identité de marque forte à l’heure des IA génératives ?",
       "description": "Les petits éditeurs sont les plus touchés par la baisse du trafic de recherche. L'IA ne compense pas les pertes. Les stratégies des grands éditeurs incluent la diversification du trafic. Les petits éditeurs doivent construire une marque forte et explorer l'IA pour survivre. L’article Pourquoi…",
