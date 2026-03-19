@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "c193e3c87590",
+      "title": "GAFAM et souveraineté numérique : quelles sont les alternatives ?",
+      "description": "Comme beaucoup de monde, j'ai longtemps utilisé les services les plus évidents : Google pour chercher, Gmail pour les mails, Drive pour stocker, WhatsApp pour discuter. Les outils des GAFAM, quoi. Ceux qu'on ouvre sans même y penser, parce qu'ils sont",
+      "link": "https://domopi.eu/gafam-et-souverainete-numerique-quelles-sont-les-alternatives/",
+      "pubDate": "2026-03-19T06:45:34.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/souverainete_numerique.webp",
+      "type": "blog"
+    },
+    {
       "id": "c6eed6bea98e",
       "title": "Kenneth Reitz - Quand le libre te bouffe",
       "description": "Kenneth Reitz, si vous ne le connaissez pas, c'est le gars qui se trouve derrière Requests , la librairie HTTP Python la plus téléchargée au monde. Ce projet a généré des milliards de downloads sur PyPI et aujourd'hui, Kenneth a publié un post de blog qui devrait, je pense, être lu par tous ceux…",
