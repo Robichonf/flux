@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "28a7b2172ee8",
+      "title": "ChatGPT leur a coûté 200 000 dollars, ils ont créé leur propre IA pour corriger le tir",
+      "description": "Une startup spécialisée dans le dessalement de l'eau a perdu 200 000 dollars et quatre mois de recherche après avoir fait confiance à ChatGPT et Grok pour un choix de matériaux. Du coup, l'équipe a développé Rozum, un moteur de raisonnement qui fait tourner plusieurs modèles d'IA en parallèle et…",
+      "link": "https://korben.info/chatgpt-leur-a-coute-200-000-dollars-ils-ont-cree-leur-propre-ia-pour-corriger-le-tir.html",
+      "pubDate": "2026-03-19T15:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2f4f98597035",
       "title": "DarkSword, le kit d'exploit qui transforme votre iPhone en passoire",
       "description": "Google, iVerify et Lookout viennent de mettre au jour un kit d'exploitation baptisé DarkSword, capable de prendre le contrôle total d'un iPhone en enchaînant six failles iOS dont trois zero-day. Espions russes, vendeurs de surveillance turcs et hackers saoudiens s'en sont servis. Apple a corrigé le…",
