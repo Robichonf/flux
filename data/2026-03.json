@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "cda0c863be43",
+      "title": "Votre nouveau designer préféré s'appelle Stitch",
+      "description": "Vous vous souvenez de Stitch, l'outil de Google Labs qui transformait vos gribouillis d'enfant de maternelle en interfaces pour votre prochain site de dropshipping à plusieurs millions ? Hé bien la bestiole a sacrément grandi depuis septembre dernier avec un canvas infini (comme l'univers et la…",
+      "link": "https://korben.info/stitch-google-design-ia-canvas.html",
+      "pubDate": "2026-03-19T08:31:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/stitch-google-design-ia-canvas/stitch-google-design-ia-canvas-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "548f4c63f2a4",
+      "title": "shadPS4 - L'émulateur PS4 open source qui fait tourner Bloodborne sur PC",
+      "description": "Il y a un an, je vous parlais de shadPS4 , un émulateur PS4 open source encore balbutiant qui faisait tourner quelques jeux indés. Eh bien les amis, le projet a sacrément mûri depuis et la liste des jeux compatibles a de quoi faire saliver. Là où il y a un an on parlait de Peggle 2 et Super Meat…",
+      "link": "https://korben.info/shadps4-emulateur-ps4-windows-linux-macos.html",
+      "pubDate": "2026-03-19T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/shadps4-emulateur-ps4-windows-linux-macos/shadps4-emulateur-ps4-windows-linux-macos-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "c193e3c87590",
       "title": "GAFAM et souveraineté numérique : quelles sont les alternatives ?",
       "description": "Comme beaucoup de monde, j'ai longtemps utilisé les services les plus évidents : Google pour chercher, Gmail pour les mails, Drive pour stocker, WhatsApp pour discuter. Les outils des GAFAM, quoi. Ceux qu'on ouvre sans même y penser, parce qu'ils sont",
