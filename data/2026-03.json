@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "2f4f98597035",
+      "title": "DarkSword, le kit d'exploit qui transforme votre iPhone en passoire",
+      "description": "Google, iVerify et Lookout viennent de mettre au jour un kit d'exploitation baptisé DarkSword, capable de prendre le contrôle total d'un iPhone en enchaînant six failles iOS dont trois zero-day. Espions russes, vendeurs de surveillance turcs et hackers saoudiens s'en sont servis. Apple a corrigé le…",
+      "link": "https://korben.info/darksword-le-kit-dexploit-qui-transforme-votre-iphone-en-passoire.html",
+      "pubDate": "2026-03-19T14:27:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "880d70eff854",
       "title": "Peon Ping - Donnez de la voix à vos agents IA",
       "description": "\"Something need doing ?\" Si cette réplique vous file un frisson nostalgique, alors vous allez adorer Peon Ping !! Il s'agit d'un outil CLI open source qui joue des voix de personnages de jeux vidéo quand vos agents IA ont besoin de votre attention. Vous lancez Claude Code, vous passez sur autre…",
@@ -14,6 +29,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/peon-ping-notifications-warcraft-agents-ia/peon-ping-notifications-warcraft-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "131c478a6eb4",
+      "title": "Llamafile - Exécutez des modèles de langage en un seul fichier !",
+      "description": "llamafile est un projet complètement barré qui va vous permettre de transformer des modèles de langage en exécutables. Derrière se cache en fait la fusion de deux projets bien badass : llama.cpp , un framework open source de chatbot IA, et Cosmopolitan Libc , une libc portable pour compiler des…",
+      "link": "https://korben.info/llamafile-executez-modeles-langage-fichier.html",
+      "pubDate": "2026-03-19T14:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
