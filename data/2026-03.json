@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "880d70eff854",
+      "title": "Peon Ping - Donnez de la voix à vos agents IA",
+      "description": "\"Something need doing ?\" Si cette réplique vous file un frisson nostalgique, alors vous allez adorer Peon Ping !! Il s'agit d'un outil CLI open source qui joue des voix de personnages de jeux vidéo quand vos agents IA ont besoin de votre attention. Vous lancez Claude Code, vous passez sur autre…",
+      "link": "https://korben.info/peon-ping-notifications-warcraft-agents-ia.html",
+      "pubDate": "2026-03-19T14:12:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/peon-ping-notifications-warcraft-agents-ia/peon-ping-notifications-warcraft-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ca8582dd01a6",
+      "title": "Des scientifiques ont réussi à faire pousser des patates dans du sol lunaire",
+      "description": "Des chercheurs de l'université d'État de l'Oregon ont cultivé des pommes de terre dans un sol qui reproduit la composition du régolite lunaire. Les tubercules ont poussé, mais avec pas mal d'aide terrestre et quelques surprises un peu moins réjouissantes côté métaux lourds. Du compost de vers pour…",
+      "link": "https://korben.info/des-scientifiques-ont-reussi-a-faire-pousser-des-patates-dans-du-sol-lunaire.html",
+      "pubDate": "2026-03-19T12:22:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d43825878bb9",
       "title": "Vibe coding : comment l’agence World Sellers est passé des LLM aux agents IA",
       "description": "Wordsellers intègre l'IA, de l'assistance au codage au développement agentique, avec des outils comme Mistral, Claude et Gemini. L'IA améliore la productivité, transforme le rôle des développeurs et ouvre la voie à des applications à faible coût, tout en mettant l'accent sur la valeur humaine et le…",
