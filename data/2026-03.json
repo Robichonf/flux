@@ -2,6 +2,51 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "49496894747f",
+      "title": "Claude Octopus - Faites débattre 3 IA sur votre code",
+      "description": "Claude Octopus , c'est un plugin Claude Code qui fait bosser trois IA ensemble sur le même problème. Codex pour l'implémentation, Gemini pour la recherche, Claude pour la synthèse, le tout avec un seuil de qualité à 75% qui bloque ce qui n'est pas au niveau. En gros, au lieu de faire confiance à un…",
+      "link": "https://korben.info/claude-octopus-orchestrateur-multi-ia-claude-code.html",
+      "pubDate": "2026-03-20T11:33:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/claude-octopus-orchestrateur-multi-ia-claude-code/claude-octopus-orchestrateur-multi-ia-claude-code-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e454a2175eac",
+      "title": "J'ai testé la station de charge UGREEN 200W à huit ports pour remplacer tous vos chargeurs",
+      "description": "– Article invité, rédigé par Vincent Lautier , contient des liens affiliés Amazon – UGREEN a lancé la Zapix 200W , une station de charge GaN avec six ports USB-C et deux USB-A pour une puissance totale de 200W. De quoi alimenter en même temps un MacBook Pro, un PC portable, des smartphones et…",
+      "link": "https://korben.info/jai-teste-la-station-de-charge-ugreen-200w-a-huit-ports-pour-remplacer-tous-vos-chargeurs.html",
+      "pubDate": "2026-03-20T11:29:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jai-teste-la-station-de-charge-ugreen-200w-a-huit-ports-pour-remplacer-tous-vos-chargeurs/jai-teste-la-station-de-charge-ugreen-200w-a-huit-ports-pour-remplacer-tous-vos-chargeurs-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "fddb4d278a3e",
+      "title": "Voicebox - Clonez des voix en local sans passer par le cloud",
+      "description": "Si vous cherchez un moyen de faire du clonage vocal en local sans filer vos fichiers audio à un service cloud, Voicebox devrait vous plaire. C'est un studio de synthèse vocale open source et gratuit qui tourne entièrement sur votre machine, et qui n'a rien à envier à ElevenLabs. Concrètement, vous…",
+      "link": "https://korben.info/voicebox-clonage-vocal-open-source.html",
+      "pubDate": "2026-03-20T11:22:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/voicebox-clonage-vocal-open-source/voicebox-clonage-vocal-open-source-2.png",
+      "type": "blog"
+    },
+    {
       "id": "c68feccda73c",
       "title": "Des cafards cyborg pour inspecter les canalisations, bienvenue en 2026",
       "description": "Des chercheurs de Singapour ont mis au point des cafards cyborg capables de tirer un petit chariot équipé d'une caméra dans des canalisations pour y détecter des fuites. Oui, en 2026, on envoie des blattes faire le job. Comment ça marche Les cafards en question sont des blattes siffleuses de…",
