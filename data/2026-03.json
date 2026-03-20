@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "3a6f68aee151",
+      "title": "Il transforme une carte à 15 euros en station météo sous Windows 95",
+      "description": "Un maker français a fabriqué une station météo miniature avec une interface façon Windows 95, logée dans un boîtier imprimé en 3D en forme de vieux moniteur cathodique. Le projet tourne sur une carte ESP32 à une quinzaine d'euros et récupère la météo en temps réel via Wi-Fi. Prévisions, vent,…",
+      "link": "https://korben.info/il-transforme-une-carte-a-15-euros-en-station-meteo-sous-windows-95.html",
+      "pubDate": "2026-03-20T09:53:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8d10f6686503",
+      "title": "Quand la publicité ciblée devient un outil de surveillance pour le gouvernement américain",
+      "description": "Des documents obtenus par la presse révèlent que les douanes américaines ont utilisé les données de localisation issues du système publicitaire en ligne pour pister des téléphones. Et ce, sans mandat. Le mécanisme repose sur les enchères publicitaires en temps réel, qui diffusent vos coordonnées…",
+      "link": "https://korben.info/quand-la-publicite-ciblee-devient-un-outil-de-surveillance-pour-le-gouvernement-americain.html",
+      "pubDate": "2026-03-20T09:16:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7b4f6c033287",
       "title": "Ils trouvent 100 failles dans le noyau Windows pour 600 dollars",
       "description": "2 chercheurs en sécurité, Yaron Dinkin et Eyal Kraft, viennent de publier les résultats d'une expérience qui devrait donner des sueurs froides à pas mal de monde... Ils ont découvert 521 vulnérabilités dans les pilotes du noyau Windows, dont une bonne centaine exploitables pour de l'escalade de…",
