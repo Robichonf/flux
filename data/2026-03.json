@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "c68feccda73c",
+      "title": "Des cafards cyborg pour inspecter les canalisations, bienvenue en 2026",
+      "description": "Des chercheurs de Singapour ont mis au point des cafards cyborg capables de tirer un petit chariot équipé d'une caméra dans des canalisations pour y détecter des fuites. Oui, en 2026, on envoie des blattes faire le job. Comment ça marche Les cafards en question sont des blattes siffleuses de…",
+      "link": "https://korben.info/des-cafards-cyborg-pour-inspecter-les-canalisations-bienvenue-en-2026.html",
+      "pubDate": "2026-03-20T10:52:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47da10403a29",
+      "title": "Quatre énormes botnets démantelés par les autorités américaines",
+      "description": "Les autorités américaines, viennent de démanteler quatre réseaux de botnets qui contrôlaient plus de trois millions d'appareils dans le monde. Caméras, routeurs Wi-Fi, enregistreurs vidéo : le matériel du quotidien servait à lancer des attaques DDoS records, dépassant les 30 térabits par seconde.…",
+      "link": "https://korben.info/quatre-enormes-botnets-demanteles-par-les-autorites-americaines.html",
+      "pubDate": "2026-03-20T10:17:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3a6f68aee151",
       "title": "Il transforme une carte à 15 euros en station météo sous Windows 95",
       "description": "Un maker français a fabriqué une station météo miniature avec une interface façon Windows 95, logée dans un boîtier imprimé en 3D en forme de vieux moniteur cathodique. Le projet tourne sur une carte ESP32 à une quinzaine d'euros et récupère la météo en temps réel via Wi-Fi. Prévisions, vent,…",
