@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "7b4f6c033287",
+      "title": "Ils trouvent 100 failles dans le noyau Windows pour 600 dollars",
+      "description": "2 chercheurs en sécurité, Yaron Dinkin et Eyal Kraft, viennent de publier les résultats d'une expérience qui devrait donner des sueurs froides à pas mal de monde... Ils ont découvert 521 vulnérabilités dans les pilotes du noyau Windows, dont une bonne centaine exploitables pour de l'escalade de…",
+      "link": "https://korben.info/agents-ia-100-bugs-kernel-windows.html",
+      "pubDate": "2026-03-20T06:35:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/agents-ia-100-bugs-kernel-windows/agents-ia-100-bugs-kernel-windows-1.png",
+      "type": "blog"
+    },
+    {
       "id": "8db3690f6b6b",
       "title": "En toute décontraction, Casio lance une calculatrice à 600 euros",
       "description": "Casio vient de dévoiler la S100X Urushi, une version laquée à la main de sa calculatrice haut de gamme. Produite en 650 exemplaires par des artisans japonais, elle sera disponible le 9 avril pour 99 000 yens, soit environ 600 euros. Un petit budget donc. Mais pourquoi est-elle si chère ? À cause de…",
