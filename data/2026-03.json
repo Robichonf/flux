@@ -122,6 +122,22 @@
       "type": "blog"
     },
     {
+      "id": "46ba974e2652",
+      "title": "Timbernetes : Ajuster les ressources à chaud d'une appli Java",
+      "description": "La version 1.35 de Kubernetes, nommée “Timbernetes”, est sortie le 17 décembre dernier (ça passe vite !) et est déjà disponible sur toutes les bonnes plateformes de Cloud. Une des nouveautés importantes de cette version est le passage en Stable des In-place updates of Pod resources. Le principe de…",
+      "link": "https://codeka.io/2026/03/20/timbernetes-java/",
+      "pubDate": "2026-03-20T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/20/timbernetes-java/cover_hu_4624def1438b62ea.webp",
+      "type": "blog"
+    },
+    {
       "id": "8db3690f6b6b",
       "title": "En toute décontraction, Casio lance une calculatrice à 600 euros",
       "description": "Casio vient de dévoiler la S100X Urushi, une version laquée à la main de sa calculatrice haut de gamme. Produite en 650 exemplaires par des artisans japonais, elle sera disponible le 9 avril pour 99 000 yens, soit environ 600 euros. Un petit budget donc. Mais pourquoi est-elle si chère ? À cause de…",
