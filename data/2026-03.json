@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "ee0000e5a395",
+      "title": "Le Geek Code - L'ancêtre des bios Instagram (en ASCII)",
+      "description": "Imaginez un monde où votre identité entière tient sur trois lignes de caractères ASCII. Pas de selfie de votre gros nez, pas de bio Instagram mielleuse... mais juste des lettres ASCII, avec des plus et des moins. Bienvenue en 1993 !! Le Geek Code, c'est un système d'encodage inventé par Robert A.…",
+      "link": "https://korben.info/geek-code-encodage-identite-ascii-1993.html",
+      "pubDate": "2026-03-21T06:40:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "05666bdb4b97",
+      "title": "Strava trahit la position du porte-avions Charles-de-Gaulle en pleine mission",
+      "description": "Le Monde a réussi à localiser le porte-avions nucléaire français Charles-de-Gaulle grâce à l'application de sport Strava. Un officier a enregistré un footing de 7 km sur le pont du navire avec sa montre connectée, et son profil public a diffusé les coordonnées GPS en temps réel. Le navire était…",
+      "link": "https://korben.info/strava-trahit-la-position-du-porte-avions-charles-de-gaulle-en-pleine-mission.html",
+      "pubDate": "2026-03-21T06:22:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "49496894747f",
       "title": "Claude Octopus - Faites débattre 3 IA sur votre code",
       "description": "Claude Octopus , c'est un plugin Claude Code qui fait bosser trois IA ensemble sur le même problème. Codex pour l'implémentation, Gemini pour la recherche, Claude pour la synthèse, le tout avec un seuil de qualité à 75% qui bloque ce qui n'est pas au niveau. En gros, au lieu de faire confiance à un…",
