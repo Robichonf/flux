@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "bff7484051d1",
+      "title": "Higgsfield - Le Netflix de l'IA où 4 personnes remplacent tout un studio",
+      "description": "100 millions de dollars, c'est ce que coûterait normalement la production d'un pilote de qualité ciné, d'après Higgsfield, une boite basée à San Francisco et fondée par Alex Mashrabov. Et eux, ils l'ont fait en 4 jours avec une équipe de 4 personnes et quelques GPU. Bienvenue dans l'ère du…",
+      "link": "https://korben.info/higgsfield-ai-original-series.html",
+      "pubDate": "2026-03-21T08:00:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/higgsfield-ai-original-series/higgsfield-ai-original-series-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "ee0000e5a395",
       "title": "Le Geek Code - L'ancêtre des bios Instagram (en ASCII)",
       "description": "Imaginez un monde où votre identité entière tient sur trois lignes de caractères ASCII. Pas de selfie de votre gros nez, pas de bio Instagram mielleuse... mais juste des lettres ASCII, avec des plus et des moins. Bienvenue en 1993 !! Le Geek Code, c'est un système d'encodage inventé par Robert A.…",
