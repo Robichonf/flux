@@ -2,6 +2,22 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "73aba7f17a36",
+      "title": "AI Workflow Framework - le CLI est dispo pour tout le monde",
+      "description": "Lancement d'AWF CLI : un outil en Go pour piloter des workflows IA déterministes et complexes. Conçu pour automatiser le \"vibe coding\" via YAML. Pour aider Claude, Gemini, Codex et leurs amis...",
+      "link": "https://alex.balmes.co/fr/blog/ai-workflow-framework-le-cli-est-dispo-pour-tout-le-monde",
+      "pubDate": "2026-03-22T15:24:59.000Z",
+      "source": "Alex Balmes",
+      "sourceUrl": "https://alex.balmes.co/fr/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8b626c12e4ee",
       "title": "Symfony UX Native : Transformez votre app web en application mobile native",
       "description": "Et si vous pouviez transformer votre application Symfony en app mobile native, sans réécrire une seule ligne de code ? Avec UX Native et Hotwire Native, c'est possible. On construit ensemble un Carnet de Notes et on le prépare pour iOS et Android, pas à pas.",
