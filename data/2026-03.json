@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "5fa79f8a3e19",
+      "title": "J'ai installé OpenClaw, ma vie a changé (pas trop)",
+      "description": "Cela faisait plusieurs semaines que l'idée me trottait en tête... mais bon, on a un vrai métier, pas le temps de faire des bidouilles, toussa. Et puis Devoxx France arrive dans 4 semaines. Je le sais, car on reçoit une bonne vingtaine d'emails chaque jour. \"Et comment je paye ? Et comment je…",
+      "link": "https://www.touilleur-express.fr/2026/03/22/installation-openclaw",
+      "pubDate": "2026-03-22T16:30:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "73aba7f17a36",
       "title": "AI Workflow Framework - le CLI est dispo pour tout le monde",
       "description": "Lancement d'AWF CLI : un outil en Go pour piloter des workflows IA déterministes et complexes. Conçu pour automatiser le \"vibe coding\" via YAML. Pour aider Claude, Gemini, Codex et leurs amis...",
