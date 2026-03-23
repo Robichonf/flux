@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "71c4f30f3c31",
+      "title": "SpinalVoodoo - La 3dfx Voodoo recréée de zéro en FPGA",
+      "description": "Quand Nvidia a racheté 3dfx, la Voodoo est morte façon Marion Cotillard dans Batman, et tout le monde était \"mui tristé\"... Mais vous allez pouvoir sécher vos larmes de \"crocrodiles\" car un dev vient de la ressusciter... dans un FPGA (c'est une puce reprogrammable). SpinalVoodoo, c'est 430…",
+      "link": "https://korben.info/spinalvoodoo-3dfx-voodoo-fpga.html",
+      "pubDate": "2026-03-23T07:09:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/spinalvoodoo-3dfx-voodoo-fpga/spinalvoodoo-3dfx-voodoo-fpga-2.png",
+      "type": "blog"
+    },
+    {
       "id": "5fa79f8a3e19",
       "title": "J'ai installé OpenClaw, ma vie a changé (pas trop)",
       "description": "Cela faisait plusieurs semaines que l'idée me trottait en tête... mais bon, on a un vrai métier, pas le temps de faire des bidouilles, toussa. Et puis Devoxx France arrive dans 4 semaines. Je le sais, car on reçoit une bonne vingtaine d'emails chaque jour. \"Et comment je paye ? Et comment je…",
