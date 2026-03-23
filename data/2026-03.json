@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "de5426ebd51e",
+      "title": "Oups, le triple envoi",
+      "description": "Si vous avez reçu ma newsletter 3 fois ce lundi, non, vous n'êtes pas dans la Matrice, et non, je ne suis pas non plus devenu un affreux spammeur de viagra. En fait, mon plugin WordPress a juste décidé de partir en freestyle. Pour ceux qui ne le savent pas, mes newsletters sont générées…",
+      "link": "https://korben.info/oups-le-triple-envoi.html",
+      "pubDate": "2026-03-23T14:51:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/oups-le-triple-envoi/oups-le-triple-envoi-2.png",
+      "type": "blog"
+    },
+    {
       "id": "1e09df256534",
       "title": "Il fabrique une enceinte avec uniquement un laser et une feuille d'or",
       "description": "Et bien pourquoi pas ? Ce garçon a en effet réussi à produire de la musique, simplement en pointant un laser de 5 watts sur une feuille d'or. Pas de membrane, pas de bobine, pas d'aimant : le son est généré directement par l'air, chauffé et refroidi à grande vitesse par le faisceau lumineux. Cet…",
