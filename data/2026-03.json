@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "7d2df331adfe",
+      "title": "Un agent IA a mené 700 expériences en deux jours pour améliorer un modèle de langage",
+      "description": "Andrej Karpathy, ancien chercheur chez OpenAI et ex-responsable de l'IA chez Tesla, a laissé tourner un agent IA pendant 48 heures sur un petit modèle de langage. Résultat : 700 expériences, 20 optimisations retenues et un gain de 11 % sur le temps d'entraînement. Le principe d'autoresearch Mais…",
+      "link": "https://korben.info/un-agent-ia-a-mene-700-experiences-en-deux-jours-pour-ameliorer-un-modele-de-langage.html",
+      "pubDate": "2026-03-23T10:57:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c4021cec2f94",
       "title": "QMD - Un moteur de recherche local pour vos notes Markdown",
       "description": "Si vous êtes comme votre blogueur préféré (hi hi) et que vous avez des tonnes de fichiers markdown qui traînent dans des dossiers obscurs depuis des années, voici l'outil parfait pour rendre tout ceci à nouveau utilisable dans la vraie vie. En tout cas, c'est plus pratique qu'un grep ! Ça s'appelle…",
