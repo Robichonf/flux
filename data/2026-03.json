@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "c4021cec2f94",
+      "title": "QMD - Un moteur de recherche local pour vos notes Markdown",
+      "description": "Si vous êtes comme votre blogueur préféré (hi hi) et que vous avez des tonnes de fichiers markdown qui traînent dans des dossiers obscurs depuis des années, voici l'outil parfait pour rendre tout ceci à nouveau utilisable dans la vraie vie. En tout cas, c'est plus pratique qu'un grep ! Ça s'appelle…",
+      "link": "https://korben.info/qmd-recherche-markdown-locale-ia.html",
+      "pubDate": "2026-03-23T09:52:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40cddfb11509",
+      "title": "Un ingénieur a intégré la vérification d'âge dans Linux, et c'est la panique",
+      "description": "Un développeur américain a soumis en une semaine des modifications à trois projets Linux majeurs pour y ajouter un champ de date de naissance, au nom de lois californiennes et brésiliennes qui entreront en vigueur en janvier 2027. Le plus gros morceau, systemd, a accepté la modification et refuse…",
+      "link": "https://korben.info/un-ingenieur-a-integre-la-verification-dage-dans-linux-et-cest-la-panique.html",
+      "pubDate": "2026-03-23T09:49:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "71c4f30f3c31",
       "title": "SpinalVoodoo - La 3dfx Voodoo recréée de zéro en FPGA",
       "description": "Quand Nvidia a racheté 3dfx, la Voodoo est morte façon Marion Cotillard dans Batman, et tout le monde était \"mui tristé\"... Mais vous allez pouvoir sécher vos larmes de \"crocrodiles\" car un dev vient de la ressusciter... dans un FPGA (c'est une puce reprogrammable). SpinalVoodoo, c'est 430…",
