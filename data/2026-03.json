@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "113e2d4da9d9",
+      "title": "Et si l'IA consommait moins d'énergie que Google ?",
+      "description": "\"Une requête ChatGPT consomme 10 fois plus d'énergie qu'une recherche Google.\" Cette phrase, vous l'avez lue 100 fois. Mais est-ce vraiment vrai ? Charles Duprat, chercheur en inclusion numérique, vient de publier un papier qui retourne complètement ce chiffre. Et même si je suis incapable de…",
+      "link": "https://korben.info/etude-ia-moins-energie-recherche-web.html",
+      "pubDate": "2026-03-24T10:10:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/etude-ia-moins-energie-recherche-web/etude-ia-moins-energie-recherche-web-1.png",
+      "type": "blog"
+    },
+    {
       "id": "8999507a7550",
       "title": "Un développeur fait tourner du code Arduino sur une puce de 1980",
       "description": "Un développeur vietnamien a trouvé le moyen de faire fonctionner du code Arduino sur un microcontrôleur 8051, une architecture conçue par Intel en 1980. L'astuce repose sur un émulateur RISC-V intégré directement dans la puce, et le tout est disponible en open source sur GitHub. Une puce de 45 ans…",
