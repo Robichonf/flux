@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "8999507a7550",
+      "title": "Un développeur fait tourner du code Arduino sur une puce de 1980",
+      "description": "Un développeur vietnamien a trouvé le moyen de faire fonctionner du code Arduino sur un microcontrôleur 8051, une architecture conçue par Intel en 1980. L'astuce repose sur un émulateur RISC-V intégré directement dans la puce, et le tout est disponible en open source sur GitHub. Une puce de 45 ans…",
+      "link": "https://korben.info/un-developpeur-fait-tourner-du-code-arduino-sur-une-puce-de-1980.html",
+      "pubDate": "2026-03-24T09:24:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "efa1833fd771",
       "title": "DOOM over DNS - 2000 records TXT pour buter des démons",
       "description": "« Can it run DOOM ? » Vous connaissez tous la question je pense. En effet, depuis 1993, le FPS d'id Software a tourné sur à peu près tout ce qui contient un processeur, des calculatrices aux écouteurs en passant par des tests de grossesse. Et là, Adam Rice vient de pousser le délire encore plus…",
