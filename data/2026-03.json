@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "7db41e67a32f",
+      "title": "Le Z80 est mort, vive le PicoZ80 - un Raspberry Pi émule le processeur mythique",
+      "description": "Le Z80 de Zilog, le processeur qui a fait tourner le ZX Spectrum, le Game Boy et des dizaines de micro-ordinateurs des années 80, a été arrêté en juin 2024 après 48 ans de bons et loyaux services. Un bricoleur a créé le PicoZ80 , une petite carte qui se glisse directement dans le même support et…",
+      "link": "https://korben.info/le-z80-est-mort-vive-le-picoz80-un-raspberry-pi-emule-le-processeur-mythique.html",
+      "pubDate": "2026-03-24T16:28:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0dd735834c54",
       "title": "PowerToys - Quand Microsoft corrige les manques de Windows",
       "description": "Si vous êtes sous Windows 10 ou 11, vous avez forcément déjà ragé sur un truc tout bête. Genre redimensionner 50 photos d'un coup, renommer des fichiers en masse, ou juste organiser vos fenêtres proprement sur un écran ultra-large. Tout ça, Windows ne sait pas le faire nativement et c'est bien…",
