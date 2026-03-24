@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "0dd735834c54",
+      "title": "PowerToys - Quand Microsoft corrige les manques de Windows",
+      "description": "Si vous êtes sous Windows 10 ou 11, vous avez forcément déjà ragé sur un truc tout bête. Genre redimensionner 50 photos d'un coup, renommer des fichiers en masse, ou juste organiser vos fenêtres proprement sur un écran ultra-large. Tout ça, Windows ne sait pas le faire nativement et c'est bien…",
+      "link": "https://korben.info/powertoys-windows-machine-guerre.html",
+      "pubDate": "2026-03-24T12:25:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/powertoys-windows-machine-guerre/powertoys-windows-machine-guerre-2.png",
+      "type": "blog"
+    },
+    {
       "id": "113e2d4da9d9",
       "title": "Et si l'IA consommait moins d'énergie que Google ?",
       "description": "\"Une requête ChatGPT consomme 10 fois plus d'énergie qu'une recherche Google.\" Cette phrase, vous l'avez lue 100 fois. Mais est-ce vraiment vrai ? Charles Duprat, chercheur en inclusion numérique, vient de publier un papier qui retourne complètement ce chiffre. Et même si je suis incapable de…",
