@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "28132cabeb1f",
+      "title": "Ils ont mis une plante carnivore dans un accélérateur de particules, et elle a réagi",
+      "description": "La chaîne YouTube Electron Impressions a placé une dionée attrape-mouche dans un accélérateur de particules pour voir ce qui allait se passer. Résultat : toutes les mâchoires de la plante se sont refermées en même temps sous l'effet de la radiation ionisante. La plante a confondu le faisceau de…",
+      "link": "https://korben.info/ils-ont-mis-une-plante-carnivore-dans-un-accelerateur-de-particules-et-elle-a-reagi.html",
+      "pubDate": "2026-03-24T16:45:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f4f002eee6f8",
+      "title": "Ce détecteur de drones à 15 balles fonctionne avec un simple micro et un ESP32",
+      "description": "Un développeur a mis au point un système de détection de drones qui tient dans la main et coûte moins de 15 dollars. Le projet Batear utilise un microcontrôleur ESP32-S3 et un micro pour repérer les drones par le son de leurs hélices. Le tout est open source et fonctionne sans connexion internet.…",
+      "link": "https://korben.info/ce-detecteur-de-drones-a-15-balles-fonctionne-avec-un-simple-micro-et-un-esp32.html",
+      "pubDate": "2026-03-24T16:35:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7db41e67a32f",
       "title": "Le Z80 est mort, vive le PicoZ80 - un Raspberry Pi émule le processeur mythique",
       "description": "Le Z80 de Zilog, le processeur qui a fait tourner le ZX Spectrum, le Game Boy et des dizaines de micro-ordinateurs des années 80, a été arrêté en juin 2024 après 48 ans de bons et loyaux services. Un bricoleur a créé le PicoZ80 , une petite carte qui se glisse directement dans le même support et…",
