@@ -2,6 +2,66 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "6aa67528380e",
+      "title": "Comment j'ai rendu mon serveur Plex surpuissant et silencieux grâce à un Mac Mini et des SSD Lexar",
+      "description": "– Ccontient des liens affiliés Amazon – Après des années de galère avec un NAS bruyant puis un miniPC pas beaucoup mieux, j'ai fini par trouver la configuration Plex idéale. Un Mac Mini M4 , deux SSD Lexar SL500 , et le silence absolu. Retour d'expérience.",
+      "link": "https://korben.info/comment-jai-rendu-mon-serveur-plex-surpuissant-et-silencieux-grace-a-un-mac-mini-et-des-ssd-lexar.html",
+      "pubDate": "2026-03-25T16:07:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/comment-jai-rendu-mon-serveur-plex-surpuissant-et-silencieux-grace-a-un-mac-mini-et-des-ssd-lexar/comment-jai-rendu-mon-serveur-plex-surpuissant-et-silencieux-grace-a-un-mac-mini-et-des-ssd-lexar-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7fe1f3a1d137",
+      "title": "Quand 10 000 bots volent 8 millions aux artistes sur Spotify",
+      "description": "Un mec de 54 ans vient de plaider coupable pour avoir siphonné 8 millions de dollars aux artistes musicaux en utilisant 10 000 bots et de la musique générée par IA. Michael Smith, résident de Cornelius en Caroline du Nord, a monté pendant des années une ferme à streams qui écoutait en boucle des…",
+      "link": "https://korben.info/bots-streaming-vol-8-millions-artistes-musique-ia.html",
+      "pubDate": "2026-03-25T15:38:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/bots-streaming-vol-8-millions-artistes-musique-ia/bots-streaming-vol-8-millions-artistes-musique-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "58530ba568ff",
+      "title": "Reverse-SynthID - Le filigrane de Gemini mis à nu",
+      "description": "SynthID, le filigrane invisible que Google injecte dans chaque image Gemini, c'était censé être incassable. Sauf qu'un dev a eu l'idée toute bête de générer des images noires et blanches avec Gemini, puis de regarder ce qui restait dans le domaine fréquentiel. Et là, surprise... le watermark est…",
+      "link": "https://korben.info/reverse-synthid-filigrane-gemini-mis-a-nu.html",
+      "pubDate": "2026-03-25T15:17:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/reverse-synthid-filigrane-gemini-mis-a-nu/reverse-synthid-filigrane-gemini-mis-a-nu-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c4773b5b71e5",
+      "title": "Dire à une IA qu'elle est experte la rend moins performante",
+      "description": "Des chercheurs de l'université de Californie du Sud viennent de publier une étude improbable : demander à un modèle d'IA de jouer les experts dégrade ses performances sur les tâches factuelles. Commencer un prompt par \"Tu es un expert en programmation\" produit de moins bons résultats que de poser…",
+      "link": "https://korben.info/dire-a-une-ia-quelle-est-experte-la-rend-moins-performante.html",
+      "pubDate": "2026-03-25T15:08:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "524f1c32d4ab",
       "title": "NTSYNC - Wine 11 booste les jeux Linux de 678%",
       "description": "Dirt 3 qui passe de 110 à 860 FPS sous nunux, non, j'ai pas fumé la moquette ! En fait c'est surtout grâce au fameux module de synchronisation kernel NTSYNC promis avec Wine 11 qui est enfin dispo dans certaines distros. Et la bonne nouvelle c'est que les premiers benchmarks développeurs viennent…",
