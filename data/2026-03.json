@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "d7c20996bf3a",
+      "title": "Plus de 1 000 environnements cloud infectés après une attaque sur le scanner Trivy",
+      "description": "Un groupe de pirates a compromis Trivy, un scanner de vulnérabilités open source très utilisé dans les pipelines de développement. Résultat : plus de 1 000 environnements SaaS infectés par un malware qui vole des clés API, des identifiants cloud et des tokens GitHub. Un scanner de sécurité devenu…",
+      "link": "https://korben.info/plus-de-1-000-environnements-cloud-infectes-apres-une-attaque-sur-le-scanner-trivy.html",
+      "pubDate": "2026-03-25T13:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e25976a521dd",
+      "title": "Intel améliore les performances de ses GPU Arc dans les jeux sous Linux",
+      "description": "Le pilote Vulkan open source d'Intel pour Linux vient de recevoir une optimisation qui améliore les performances des jeux DirectX 12 tournant via Proton. La modification a été intégrée à Mesa 26.1 et concerne les cartes graphiques Arc Alchemist et Battlemage. Le patch avait été proposé pour la…",
+      "link": "https://korben.info/intel-ameliore-les-performances-de-ses-gpu-arc-dans-les-jeux-sous-linux.html",
+      "pubDate": "2026-03-25T12:51:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4436a5bfb487",
       "title": "Pourquoi il faut mettre des liens dans les posts de vos réseaux sociaux",
       "description": "Les liens dans les posts sur les réseaux sociaux sont souvent pénalisés. Mais pourtant, ils sont importants. Dans cet article, je vous explique pourquoi il faut en faire et comment. L’article Pourquoi il faut mettre des liens dans les posts de vos réseaux sociaux est apparu en premier sur…",
