@@ -2,6 +2,20 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "4436a5bfb487",
+      "title": "Pourquoi il faut mettre des liens dans les posts de vos réseaux sociaux",
+      "description": "Les liens dans les posts sur les réseaux sociaux sont souvent pénalisés. Mais pourtant, ils sont importants. Dans cet article, je vous explique pourquoi il faut en faire et comment. L’article Pourquoi il faut mettre des liens dans les posts de vos réseaux sociaux est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/03/25/pourquoi-il-faut-mettre-des-liens-dans-les-posts-de-vos-reseaux-sociaux/",
+      "pubDate": "2026-03-25T11:30:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "41e908f14019",
       "title": "Les 4C, votre assurance qualité face au Vibe Coding",
       "description": "Concevoir, Contextualiser, Contraindre, Comprendre. Découvrez comment les 4C guide nos intéractions avec les LLM, tout en nous aidant à garantir la qualité et la maintenabilité du code, dans un paysage informatique en mutation perpétuelle.",
