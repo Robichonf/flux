@@ -2,6 +2,68 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "41e908f14019",
+      "title": "Les 4C, votre assurance qualité face au Vibe Coding",
+      "description": "Concevoir, Contextualiser, Contraindre, Comprendre. Découvrez comment les 4C guide nos intéractions avec les LLM, tout en nous aidant à garantir la qualité et la maintenabilité du code, dans un paysage informatique en mutation perpétuelle.",
+      "link": "https://blog.ippon.fr/2026/03/25/les-4c-votre-assurance-qualite-face-au-vibe-coding/",
+      "pubDate": "2026-03-25T10:30:17.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/Gemini_Generated_Image_40i17540i17540i1-3.png",
+      "type": "blog"
+    },
+    {
+      "id": "9f0145b7df42",
+      "title": "Opération Alice : 373 000 sites du dark web fermés, et les acheteurs piégés à leur tour",
+      "description": "Europol vient de coordonner un coup de filet massif contre le dark web. En dix jours, 23 pays ont fermé plus de 373 000 sites frauduleux qui proposaient des contenus pédocriminels. Le plus ironique : l'opérateur n'a jamais livré la moindre donnée, il arnaquait ses propres clients. Et ces clients…",
+      "link": "https://korben.info/operation-alice-373-000-sites-du-dark-web-fermes-et-les-acheteurs-pieges-a-leur-tour.html",
+      "pubDate": "2026-03-25T10:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "02847799f2e2",
+      "title": "Un bras robotique imprimé en 3D pour apprendre la robotique chez soi",
+      "description": "James Gullberg a mis en ligne un projet de bras robotique à 6 axes, principalement imprimé en 3D et conçu pour apprendre la robotique. Ce petit robot embarque un Raspberry Pi, des microcontrôleurs STM32 et tourne sous ROS 2. Le tout pour un budget qui reste accessible, avec des mouvements décrits…",
+      "link": "https://korben.info/un-bras-robotique-imprime-en-3d-pour-apprendre-la-robotique-chez-soi.html",
+      "pubDate": "2026-03-25T10:20:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "626f805a1a14",
+      "title": "MS-DOS tourne maintenant sur un Apple IIe, et c'est un projet open source",
+      "description": "Un développeur a réussi à porter MS-DOS 2.0 sur l'Apple IIe, l'ordinateur personnel d'Apple sorti en 1983. Le projet, baptisé \"reboot-camp-83\", repose sur une carte d'extension qui embarque un processeur Intel 8088 à 8 MHz. Le tout communique avec le processeur 6502 de l'Apple II, et le code est en…",
+      "link": "https://korben.info/ms-dos-tourne-maintenant-sur-un-apple-iie-et-cest-un-projet-open-source.html",
+      "pubDate": "2026-03-25T10:07:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "28132cabeb1f",
       "title": "Ils ont mis une plante carnivore dans un accélérateur de particules, et elle a réagi",
       "description": "La chaîne YouTube Electron Impressions a placé une dionée attrape-mouche dans un accélérateur de particules pour voir ce qui allait se passer. Résultat : toutes les mâchoires de la plante se sont refermées en même temps sous l'effet de la radiation ionisante. La plante a confondu le faisceau de…",
