@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "524f1c32d4ab",
+      "title": "NTSYNC - Wine 11 booste les jeux Linux de 678%",
+      "description": "Dirt 3 qui passe de 110 à 860 FPS sous nunux, non, j'ai pas fumé la moquette ! En fait c'est surtout grâce au fameux module de synchronisation kernel NTSYNC promis avec Wine 11 qui est enfin dispo dans certaines distros. Et la bonne nouvelle c'est que les premiers benchmarks développeurs viennent…",
+      "link": "https://korben.info/ntsync-wine-11-benchmarks-gaming-linux.html",
+      "pubDate": "2026-03-25T14:45:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ntsync-wine-11-benchmarks-gaming-linux/ntsync-wine-11-benchmarks-gaming-linux-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "e2f56360b4a7",
+      "title": "Sora ferme - Comment sauvegarder vos vidéos IA avant la coupure",
+      "description": "Sora, c’est fini les amis ! Hé oui, cest chacals d'OpenAI ferment leur plateforme de vidéos IA, et franchement, ça me rend un peu triste. À vrai dire, même si c’était que de la vidéo générée à partir de prompts, moi je me marrais bien. C'était fun de regarder le produit de ses prompts mais aussi de…",
+      "link": "https://korben.info/sora-fermeture-sauvegarder-videos.html",
+      "pubDate": "2026-03-25T14:22:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d7c20996bf3a",
       "title": "Plus de 1 000 environnements cloud infectés après une attaque sur le scanner Trivy",
       "description": "Un groupe de pirates a compromis Trivy, un scanner de vulnérabilités open source très utilisé dans les pipelines de développement. Résultat : plus de 1 000 environnements SaaS infectés par un malware qui vole des clés API, des identifiants cloud et des tokens GitHub. Un scanner de sécurité devenu…",
