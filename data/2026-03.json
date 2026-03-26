@@ -2,6 +2,51 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "4cb327f52638",
+      "title": "Sortie VGA sur un PIC18 : quand l'optimisation hardware devient un art",
+      "description": "Générer un signal VGA avec un microcontrôleur 8 bits PIC18 est un défi technique de taille. Ce projet Hackaday montre comment détourner les ressources limitées d'un processeur rudimentaire pour produire une image stable. Une petite plongée dans le bit-banging pur et dur. Le défi du timing…",
+      "link": "https://korben.info/sortie-vga-sur-un-pic18-quand-loptimisation-hardware-devient-un-art.html",
+      "pubDate": "2026-03-26T13:11:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d2e590b67b7",
+      "title": "Le piratage par IA n'a plus besoin de malware : une simple doc suffit",
+      "description": "Une nouvelle méthode d'attaque cible les IA de développement comme Copilot. En publiant de la documentation empoisonnée, des hackers trompent les modèles pour qu'ils recommandent des bibliothèques malveillantes. Cette menace invisible pour la sécurité est indétectable par les outils classiques. Le…",
+      "link": "https://korben.info/le-piratage-par-ia-na-plus-besoin-de-malware-une-simple-doc-suffit.html",
+      "pubDate": "2026-03-26T12:02:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "00bdee0645ab",
+      "title": "Un drone sans aucune pièce mobile : la fin des moteurs et des hélices ?",
+      "description": "Des chercheurs de l’université Rutgers ont mis au point un concept de drone ornithoptère à état solide. Sans moteur ni engrenages, cet engin utilise la piézoélectricité pour battre des ailes. Une avancée majeure pour la fiabilité et la miniaturisation des robots volants, même si les matériaux…",
+      "link": "https://korben.info/un-drone-sans-aucune-piece-mobile-la-fin-des-moteurs-et-des-helices.html",
+      "pubDate": "2026-03-26T11:46:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a8e857898414",
       "title": "Git : comment supprimer tous les fichiers en dehors de l’historique",
       "description": "Découvrez comment supprimer les fichiers non suivis par Git après un git reset, avec git clean, les bonnes options et les précautions à connaître.",
