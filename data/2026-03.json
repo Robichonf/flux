@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "19af43df1fd1",
+      "title": "Surfshark VPN : la couche réseau qui manque à votre stratégie de sécurité",
+      "description": "-- Article en partenariat avec Surfshark -- Vous avez probablement déjà un gestionnaire de mots de passe. Vous avez activé la double authentification partout où c'est possible. Peut-être même que vous hébergez vos propres services sur un NAS, avec un pare-feu correctement configuré.",
+      "link": "https://korben.info/surfshark-vpn-couche-reseau.html",
+      "pubDate": "2026-03-26T07:54:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/surfshark-vpn-couche-reseau/surfshark-vpn-couche-reseau-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "c51371df9e0b",
       "title": "Réorganisation des LXC, panne du NUC, refonte du homelab : retour sur un mois mouvementé",
       "description": "Il y a des projets qu'on repousse pendant des mois. Pas parce qu'ils sont complexes, mais parce qu'ils ne sont pas urgents. L'infra tourne, les services fonctionnent, et remettre les mains dedans hors la maintenance habituelle, les mises à jour ou le",
