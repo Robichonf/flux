@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "c51371df9e0b",
+      "title": "Réorganisation des LXC, panne du NUC, refonte du homelab : retour sur un mois mouvementé",
+      "description": "Il y a des projets qu'on repousse pendant des mois. Pas parce qu'ils sont complexes, mais parce qu'ils ne sont pas urgents. L'infra tourne, les services fonctionnent, et remettre les mains dedans hors la maintenance habituelle, les mises à jour ou le",
+      "link": "https://domopi.eu/reorganisation-des-lxc-panne-du-nuc-refonte-du-homelab-retour-sur-un-mois-mouvemente/",
+      "pubDate": "2026-03-26T06:45:36.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/rack.webp",
+      "type": "blog"
+    },
+    {
       "id": "6aa67528380e",
       "title": "Comment j'ai rendu mon serveur Plex surpuissant et silencieux grâce à un Mac Mini et des SSD Lexar",
       "description": "– Ccontient des liens affiliés Amazon – Après des années de galère avec un NAS bruyant puis un miniPC pas beaucoup mieux, j'ai fini par trouver la configuration Plex idéale. Un Mac Mini M4 , deux SSD Lexar SL500 , et le silence absolu. Retour d'expérience.",
