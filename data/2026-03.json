@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a8e857898414",
+      "title": "Git : comment supprimer tous les fichiers en dehors de l’historique",
+      "description": "Découvrez comment supprimer les fichiers non suivis par Git après un git reset, avec git clean, les bonnes options et les précautions à connaître.",
+      "link": "https://code-garage.com/blog/git-comment-supprimer-tous-les-fichiers-en-dehors-de-l-historique",
+      "pubDate": "2026-03-26T09:57:15.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "19af43df1fd1",
       "title": "Surfshark VPN : la couche réseau qui manque à votre stratégie de sécurité",
       "description": "-- Article en partenariat avec Surfshark -- Vous avez probablement déjà un gestionnaire de mots de passe. Vous avez activé la double authentification partout où c'est possible. Peut-être même que vous hébergez vos propres services sur un NAS, avec un pare-feu correctement configuré.",
