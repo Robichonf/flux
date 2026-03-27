@@ -47,6 +47,22 @@
       "type": "blog"
     },
     {
+      "id": "1f63d3ab2922",
+      "title": "La veille de Wittouck - Fin mars 2026",
+      "description": "Comme depuis plusieurs semaines, je continue à m’intéresser aux sujets autour de la souveraineté numérique. J’ai aussi lu plusieurs articles et rapports sur l’Open Source, écrits par la CNCF et la Linux Foundation (les sujets sont connexes). Ces sujets ont d’ailleurs maintenant le droit à leur…",
+      "link": "https://codeka.io/2026/03/27/la-veille-de-wittouck-fin-mars-2026/",
+      "pubDate": "2026-03-27T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/27/la-veille-de-wittouck-fin-mars-2026/cover_hu_2d8aab1631788c76.webp",
+      "type": "blog"
+    },
+    {
       "id": "f77be5a4240a",
       "title": "GitHub va utiliser vos données Copilot pour entraîner ses modèles d'IA",
       "description": "À partir du 24 avril, GitHub activera par défaut la collecte des données d'interaction Copilot pour les utilisateurs Free, Pro et Pro+. Le gros sujet ici, c'est que le code, les suggestions acceptées et même la structure de vos dépôts pourront servir à améliorer les modèles d'IA de la plateforme.…",
