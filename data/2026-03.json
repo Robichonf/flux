@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "247edfc977eb",
+      "title": "ShadowPrompt - N'importe quel site pouvait abuser votre extension Claude",
+      "description": "Une faille découverte dans l'extension Chrome de Claude permettait à n'importe quel site web d'injecter silencieusement des prompts dans votre assistant IA. Pas besoin de cliquer, pas besoin de permission... non, fallait juste visiter une page web et c'était réglé. Le chercheur Oren Yomtov de Koi…",
+      "link": "https://korben.info/shadowprompt-faille-extension-claude-chrome.html",
+      "pubDate": "2026-03-27T07:29:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f77be5a4240a",
       "title": "GitHub va utiliser vos données Copilot pour entraîner ses modèles d'IA",
       "description": "À partir du 24 avril, GitHub activera par défaut la collecte des données d'interaction Copilot pour les utilisateurs Free, Pro et Pro+. Le gros sujet ici, c'est que le code, les suggestions acceptées et même la structure de vos dépôts pourront servir à améliorer les modèles d'IA de la plateforme.…",
