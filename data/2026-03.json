@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a43f8ebe1efd",
+      "title": "Test du UGREEN Maxidok Revodok, le dock Thunderbolt 5 17-en-1 qui fait TOUT",
+      "description": "– Contient des liens affiliés Amazon – UGREEN vient de lancer son dock Thunderbolt 5 le plus ambitieux, le Maxidok Revodok 17-en-1 . Avec ses 17 ports, un emplacement SSD intégré et 140W de charge. Vu ma passion des docks Thunderbolt, je ne pouvais pas passer à côté de ce test.",
+      "link": "https://korben.info/test-du-ugreen-maxidok-revodok-le-dock-thunderbolt-5-17-en-1-qui-fait-tout.html",
+      "pubDate": "2026-03-27T16:23:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-du-ugreen-maxidok-revodok-le-dock-thunderbolt-5-17-en-1-qui-fait-tout/test-du-ugreen-maxidok-revodok-le-dock-thunderbolt-5-17-en-1-qui-fait-tout-2.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "5eaa3b40b180",
       "title": "Momentous, l'app qui transforme chaque minute en cours de maths",
       "description": "Un développeur indépendant a créé une horloge qui affiche des anecdotes mathématiques pour chaque minute de la journée, de 00h00 à 23h59. Nombres premiers, suite de Fibonacci, décimales de Pi ou de e... Momentous est gratuite, disponible sur le Web et sur iPhone . Un projet passion assumé, puisque…",
