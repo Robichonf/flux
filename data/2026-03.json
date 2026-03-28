@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a7a4e586c1de",
+      "title": "Des hackers piratent la boîte mail personnelle du directeur du FBI",
+      "description": "Le groupe de hackers Handala, lié au gouvernement iranien, affirme avoir piraté le compte Gmail personnel de Kash Patel, le directeur du FBI. Des photos privées et plus de 300 emails ont été publiés en ligne. Le FBI confirme l'incident mais assure qu'aucune donnée gouvernementale n'a été…",
+      "link": "https://korben.info/des-hackers-piratent-la-boite-mail-personnelle-du-directeur-du-fbi.html",
+      "pubDate": "2026-03-28T14:17:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a43f8ebe1efd",
       "title": "Test du UGREEN Maxidok Revodok, le dock Thunderbolt 5 17-en-1 qui fait TOUT",
       "description": "– Contient des liens affiliés Amazon – UGREEN vient de lancer son dock Thunderbolt 5 le plus ambitieux, le Maxidok Revodok 17-en-1 . Avec ses 17 ports, un emplacement SSD intégré et 140W de charge. Vu ma passion des docks Thunderbolt, je ne pouvais pas passer à côté de ce test.",
