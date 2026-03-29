@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "1826b19657a3",
+      "title": "Le scheduler Linux qui consulte les astres",
+      "description": "Et si je vous disais qu'il existe un scheduler Linux qui prend ses décisions en fonction de l'astrologie. Non, c'est pas une blague, le premier avril c'est pas avant quelques jours. Ce scheduler s'appelle scx_horoscope et c'est un vrai module BPF qui se charge dans le noyau et qui décide quel…",
+      "link": "https://korben.info/scx-horoscope-scheduler-linux.html",
+      "pubDate": "2026-03-29T12:29:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/scx-horoscope-scheduler-linux/scx-horoscope-scheduler-linux-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "a64b6fc67187",
       "title": "Il transforme l'ordinateur de bord d'une Tesla Model 3 en PC de bureau",
       "description": "Moins de 500 dollars en pièces de casse, un fer à souder et beaucoup de patience : voilà ce qu'il a fallu à un chercheur en sécurité pour faire tourner le calculateur et l'écran tactile d'une Tesla Model 3 sur son bureau, avec le vrai système d'exploitation de la voiture. Le tout récupéré sur des…",
@@ -14,6 +29,22 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/il-transforme-lordinateur-de-bord-dune-tesla-model-3-en-pc-de-bureau/il-transforme-lordinateur-de-bord-dune-tesla-model-3-en-pc-de-bureau-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bd9e2e719c72",
+      "title": "CRD ou APIService : comment étendre l'API Kubernetes ?",
+      "description": "CRD ou APIService ? Deux façons d'étendre l'API Kubernetes avec des philosophies radicalement différentes. On compare les deux avec des exemples concrets !",
+      "link": "https://une-tasse-de.cafe/blog/crd-vs-apiservice/",
+      "pubDate": "2026-03-29T08:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
