@@ -2,6 +2,51 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a9d7870c60d2",
+      "title": "Cooklang - Le Git de vos recettes de cuisine",
+      "description": "Si vous en avez marre de perdre vos recettes de cuisine dans des apps comme Whisk ou Paprika qui ferment tous les 6 mois, ou de devoir scroller 14 pages de storytelling avant d'arriver aux ingrédients... y'a un truc qui devrait vous plaire. Ça s'appelle Cooklang , et c'est un langage de markup pour…",
+      "link": "https://korben.info/cooklang-recettes-cuisine-texte.html",
+      "pubDate": "2026-03-30T09:31:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/cooklang-recettes-cuisine-texte/cooklang-recettes-cuisine-texte-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "cd786e617efe",
+      "title": "msgvault - Libérez vos emails de la prison Gmail",
+      "description": "Gmail, c'est 20 ans de notre vie numérique enfermée à double tour sur les serveurs de Google. Nos mails, nos factures PDF, nos photos en pièce jointe, les powerpoint de nichons des collègues...etc tout ça coincé dans une interface web qui rame de plus en plus et qui vous colle du Gemini dans la…",
+      "link": "https://korben.info/msgvault-archive-email-local.html",
+      "pubDate": "2026-03-30T09:07:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/msgvault-archive-email-local/msgvault-archive-email-local-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "e73c90252e32",
+      "title": "Dégooglisation - Vos Google Docs ne sont pas de vrais fichiers",
+      "description": "Vous savez ce qui est super vicieux avec Google Drive ? C'est que les fichiers .gdoc, .gsheet et .gslides que vous voyez dans votre explorateur de fichiers et bien ce ne sont pas de VRAIS documents. Ce sont en fait des raccourcis JSON de quelques octets qui pointent vers les serveurs de Google.…",
+      "link": "https://korben.info/degooglisation-export-google-docs-office.html",
+      "pubDate": "2026-03-30T08:55:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/degooglisation-export-google-docs-office/degooglisation-export-google-docs-office-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8dda47784126",
       "title": "Ce capteur photo est capable de se réparer tout seul pour survivre aux radiations de Jupiter",
       "description": "Des chercheurs ont mis au point une puce CMOS qui détecte ses pixels endommagés par les radiations et les répare en les chauffant. De quoi intéresser les futures missions autour de Jupiter. Un environnement qui détruit les caméras L'orbite de Jupiter est l'un des pires endroits du système solaire…",
