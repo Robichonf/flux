@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "ae390cb74124",
+      "title": "Un monde ouvert de la taille de Skyrim tourne sur Nintendo 64",
+      "description": "James Lambert, le développeur derrière Portal 64, vient de dévoiler Junkrunner 64 : un jeu en monde ouvert qui tourne sur une vraie Nintendo 64. La carte est comparable à celle de Skyrim, sans écran de chargement. Difficile à croire, et pourtant ça tourne. Le créateur de Portal 64 récidive James…",
+      "link": "https://korben.info/un-monde-ouvert-de-la-taille-de-skyrim-tourne-sur-nintendo-64.html",
+      "pubDate": "2026-03-30T11:29:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a9d7870c60d2",
       "title": "Cooklang - Le Git de vos recettes de cuisine",
       "description": "Si vous en avez marre de perdre vos recettes de cuisine dans des apps comme Whisk ou Paprika qui ferment tous les 6 mois, ou de devoir scroller 14 pages de storytelling avant d'arriver aux ingrédients... y'a un truc qui devrait vous plaire. Ça s'appelle Cooklang , et c'est un langage de markup pour…",
