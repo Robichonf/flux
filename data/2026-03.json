@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "089cd54a99f7",
+      "title": "Let AI Write Code, Beyond the “Waouh” Effect, the IApocalypse?",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/let-ai-write-code-beyond-the-waouh-effect-the-iapocalypse-de513ad5319c?source=rss-c730ddf97658------2",
+      "pubDate": "2026-03-30T00:47:04.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/0*qb9MMGn4tet5i1zx.png",
+      "type": "blog"
+    },
+    {
       "id": "1826b19657a3",
       "title": "Le scheduler Linux qui consulte les astres",
       "description": "Et si je vous disais qu'il existe un scheduler Linux qui prend ses décisions en fonction de l'astrologie. Non, c'est pas une blague, le premier avril c'est pas avant quelques jours. Ce scheduler s'appelle scx_horoscope et c'est un vrai module BPF qui se charge dans le noyau et qui décide quel…",
