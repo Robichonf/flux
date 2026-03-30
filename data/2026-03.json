@@ -2,6 +2,51 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "67e16271cd59",
+      "title": "Data-Shield - La blocklist qui vire les IPs pourries",
+      "description": "Quand on gère un serveur, y'a un truc qui rend dingue, c'est le bruit de fond de ces dizaines de milliers d'IPs qui scannent vos ports, qui tentent du bruteforce sur le port 22, qui cherchent des failles WordPress ou des phpMyAdmin oubliés... et surtout qui font tourner Fail2ban à plein régime dans…",
+      "link": "https://korben.info/data-shield-ipv4-blocklist.html",
+      "pubDate": "2026-03-30T14:02:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c35742cd5f8d",
+      "title": "Le plus vieux torrent de The Pirate Bay fête ses 22 ans",
+      "description": "Un épisode de la série suédoise High Chaparral, uploadé le 25 mars 2004 sur The Pirate Bay, est toujours partagé aujourd'hui. Vingt-deux ans plus tard, des pirates le seedent encore, non pas pour le contenu, mais juste pour le symbole. Un record de longévité qui en dit long sur la culture du…",
+      "link": "https://korben.info/le-plus-vieux-torrent-de-the-pirate-bay-fete-ses-22-ans.html",
+      "pubDate": "2026-03-30T13:48:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae39aa4c60a9",
+      "title": "GitHub envahi par de fausses alertes VS Code qui propagent un malware",
+      "description": "Des milliers de faux messages imitant des notifications de sécurité Visual Studio Code ont été postés sur GitHub. Le but : rediriger les développeurs vers un site malveillant qui collecte leurs données système. La méthode est franchement vicieuse. Une campagne massive sur GitHub Discussions Les…",
+      "link": "https://korben.info/github-envahi-par-de-fausses-alertes-vs-code-qui-propagent-un-malware.html",
+      "pubDate": "2026-03-30T13:42:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ae390cb74124",
       "title": "Un monde ouvert de la taille de Skyrim tourne sur Nintendo 64",
       "description": "James Lambert, le développeur derrière Portal 64, vient de dévoiler Junkrunner 64 : un jeu en monde ouvert qui tourne sur une vraie Nintendo 64. La carte est comparable à celle de Skyrim, sans écran de chargement. Difficile à croire, et pourtant ça tourne. Le créateur de Portal 64 récidive James…",
