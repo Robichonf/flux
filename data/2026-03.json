@@ -2,6 +2,51 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "8dda47784126",
+      "title": "Ce capteur photo est capable de se réparer tout seul pour survivre aux radiations de Jupiter",
+      "description": "Des chercheurs ont mis au point une puce CMOS qui détecte ses pixels endommagés par les radiations et les répare en les chauffant. De quoi intéresser les futures missions autour de Jupiter. Un environnement qui détruit les caméras L'orbite de Jupiter est l'un des pires endroits du système solaire…",
+      "link": "https://korben.info/ce-capteur-photo-est-capable-de-se-reparer-tout-seul-pour-survivre-aux-radiations-de-jupiter.html",
+      "pubDate": "2026-03-30T08:39:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1433fbe36d8c",
+      "title": "Orbitiny - Un environnement de bureau Linux 100% indé",
+      "description": "GNOME trop rigide, KDE Plasma trop usine à gaz, Xfce trop vintage... J'sais pas si vous êtes d'accord avec ça, mais c'est l'avis de ce développeur solo ultra acharné qui a décidé de tout refaire from scratch. Ça lui a pris 9 ans de boulot à coder du C++ sur le framework Qt, et à créer 48 composants…",
+      "link": "https://korben.info/orbitiny-desktop-linux.html",
+      "pubDate": "2026-03-30T08:33:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/orbitiny-desktop-linux/orbitiny-desktop-linux-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0196601c7084",
+      "title": "Pangolin - Proxy, VPN et auth enfin réunis",
+      "description": "Si vous auto-hébergez vos propres services parce que VOUS AVEZ DU TEMPS GRÂCE A VOTRE BULLSHIT JOB SURPAYÉ, vous connaissez la chanson... il vous faut un reverse proxy type Nginx Proxy Manager pour router le trafic, un tunnel Cloudflare ou WireGuard pour exposer vos services sans ouvrir de ports,…",
+      "link": "https://korben.info/pangolin-reverse-proxy-tunnels-vpn.html",
+      "pubDate": "2026-03-30T08:09:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pangolin-reverse-proxy-tunnels-vpn/pangolin-reverse-proxy-tunnels-vpn-2.png",
+      "type": "blog"
+    },
+    {
       "id": "887f5cb7b9fb",
       "title": "OpenCVE, une plateforme de veille et de gestion des vulnérabilités",
       "description": "Des CVE publiées en permanence, impossible de toutes les suivre. OpenCVE filtre ce qui vous concerne et alerte dès qu'une faille touche vos logiciels ou équipements.",
