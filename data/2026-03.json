@@ -2,6 +2,68 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "357801b10e33",
+      "title": "KubeCon & CloudNativeCon 2026 (Partie 1)",
+      "description": "Une fois de plus, la KubeCon revient ! Cette année, Amsterdam a pu accueillir cet évènement avec ses 13 000 visiteurs, et quelques centaines d'exposants sur la semaine du 23 Mars. Riche en annonces, conférences et de présentations en tous",
+      "link": "https://blog.ippon.fr/2026/03/31/kubecon-cloudnativecon-2026-partie-1/",
+      "pubDate": "2026-03-31T07:04:46.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/Kubecon-Europe-2026-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "1fbef03986e3",
+      "title": "Faire du Hackintosh comme en 1988",
+      "description": "Vous pensiez que le hackintosh, c'était un truc des années 2000, quand Apple est passé sur Intel ? Raté les amis ! Hé oui, dès 1988, des bidouilleurs assemblaient des Mac-compatibles avec des pièces de PC, bien moins chères que le matos Apple officiel. Et un youtubeur vient justement d'en recréer…",
+      "link": "https://korben.info/hackintosh-bidouille-mac-1988.html",
+      "pubDate": "2026-03-31T07:02:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "35937775fa1b",
+      "title": "Testez votre matos gaming dans le navigateur",
+      "description": "Votre manette qui drift comme dans Fast & Furious, votre clavier qui enfonce des touches fantômes, ou encore votre souris qui double-clique toute seule... Avant de tout balancer par la fenêtre parce que l'esprit malfaisant de papi est revenu hanter votre machine, sachez qu'il y'a peut-être moyen de…",
+      "link": "https://korben.info/controllertest-io-suite-test-manettes.html",
+      "pubDate": "2026-03-31T06:53:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/controllertest-io-suite-test-manettes/controllertest-io-suite-test-manettes-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7269ca35f6f6",
+      "title": "Un développeur fait tourner Doom dans un navigateur, avec du CSS et rien d'autre",
+      "description": "Niels Leenheer a porté le mythique Doom de 1993 dans un navigateur web, mais sans WebGL ni Canvas. Tout le rendu 3D repose sur des div et des transformations CSS. Le résultat est jouable, open source, et un brin absurde. On adore. Doom en div Le principe est aussi fou qu'il en a l'air. Chaque mur,…",
+      "link": "https://korben.info/un-developpeur-fait-tourner-doom-dans-un-navigateur-avec-du-css-et-rien-dautre.html",
+      "pubDate": "2026-03-31T06:24:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "67e16271cd59",
       "title": "Data-Shield - La blocklist qui vire les IPs pourries",
       "description": "Quand on gère un serveur, y'a un truc qui rend dingue, c'est le bruit de fond de ces dizaines de milliers d'IPs qui scannent vos ports, qui tentent du bruteforce sur le port 22, qui cherchent des failles WordPress ou des phpMyAdmin oubliés... et surtout qui font tourner Fail2ban à plein régime dans…",
