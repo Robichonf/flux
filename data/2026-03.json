@@ -2,6 +2,37 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "1fbb454d4c2a",
+      "title": "Créer une boucle dans vos templates Helm",
+      "description": "Y’a des jours comme ça, on se retrouve à devoir trouver des solutions un peu sales pour gérer une application mal foutue dont on a [...]",
+      "link": "https://blog.seboss666.info/2026/03/creer-une-boucle-dans-vos-templates-helm/",
+      "pubDate": "2026-03-31T15:26:36.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2019/09/kubernetes.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "838711125350",
+      "title": "La différence entre RUN et CMD avec Docker",
+      "description": "Découvrez la différence entre RUN et CMD dans Docker, leur rôle dans un Dockerfile et comment éviter les erreurs courantes.",
+      "link": "https://code-garage.com/blog/la-difference-entre-run-et-cmd-avec-docker",
+      "pubDate": "2026-03-31T14:43:51.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "315ac14effd7",
       "title": "Denuvo tombe en quelques heures grâce aux hyperviseurs",
       "description": "Denuvo, la célèbre protection anti-piratage qui emmerde les joueurs PC depuis une décennie, traverse une sale période. Depuis début 2026, des pirates contournent la protection via des hyperviseurs, et les jeux protégés tombent désormais en quelques heures au lieu de plusieurs semaines : Resident…",
