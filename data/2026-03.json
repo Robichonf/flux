@@ -2,6 +2,66 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "f05719b029e5",
+      "title": "OpenCiv3 - Civilization III renaît en open source",
+      "description": "Vous vous souvenez de Civilization III ? Hé bien des fans ont décidé de le recréer de zéro en open source avec OpenCiv3 , et franchement ça a de la gueule, vous allez voir ! En fait, leur idée c'était pas pas juste de cloner le jeu de Sid Meier tel quel, mais plutôt de le réimaginer en corrigeant…",
+      "link": "https://korben.info/openciv3-civilization-3-open-source.html",
+      "pubDate": "2026-03-31T08:15:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/openciv3-civilization-3-open-source/openciv3-civilization-3-open-source-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "fbe3c88ec085",
+      "title": "Il installe un ordinateur de 1970 dans un bureau IKEA",
+      "description": "Un YouTubeur de la chaîne Usagi Electric vient d'installer un PDP-11 dans un bureau IKEA. Ce mini-ordinateur mythique de Digital Equipment Corporation, qui date des années 70, servait à piloter un spectromètre infrarouge en laboratoire. Plus de cinquante ans après sa fabrication, la machine tourne…",
+      "link": "https://korben.info/il-installe-un-ordinateur-de-1970-dans-un-bureau-ikea.html",
+      "pubDate": "2026-03-31T08:15:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "283fa25e6bbb",
+      "title": "Sandboxels - 500 éléments, zéro limite",
+      "description": "Si vous avez déjà passé des heures sur Sandspiel, Orb.farm ou l'un de ces vieux jeux sandbox en Flash, ce site va bien bien vous replonger là-dedans... mais en mieux. Il s'agit de Sandboxels et c'est un simulateur de particules jouable directement dans le navigateur, avec plus de 500 éléments qui…",
+      "link": "https://korben.info/sandboxels-simulateur-particules-neal-fun.html",
+      "pubDate": "2026-03-31T08:05:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/sandboxels-simulateur-particules-neal-fun/sandboxels-simulateur-particules-neal-fun-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "891cb566d2d4",
+      "title": "Piratage du fichier des armes – 41 000 détenteurs exposés",
+      "description": "Le fichier national qui recense toutes les armes détenues en France vient de se faire trouer en version XXL ! En effet, un affreux pirate a réussi à exfiltrer les données liées à la possession de plus de 62 000 armes, et parmi elles, les noms, prénoms, dates de naissance, adresses email et surtout…",
+      "link": "https://korben.info/fuite-sia-armes-ministere-interieur.html",
+      "pubDate": "2026-03-31T07:21:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "357801b10e33",
       "title": "KubeCon & CloudNativeCon 2026 (Partie 1)",
       "description": "Une fois de plus, la KubeCon revient ! Cette année, Amsterdam a pu accueillir cet évènement avec ses 13 000 visiteurs, et quelques centaines d'exposants sur la semaine du 23 Mars. Riche en annonces, conférences et de présentations en tous",
