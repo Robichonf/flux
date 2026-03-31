@@ -2,6 +2,50 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "315ac14effd7",
+      "title": "Denuvo tombe en quelques heures grâce aux hyperviseurs",
+      "description": "Denuvo, la célèbre protection anti-piratage qui emmerde les joueurs PC depuis une décennie, traverse une sale période. Depuis début 2026, des pirates contournent la protection via des hyperviseurs, et les jeux protégés tombent désormais en quelques heures au lieu de plusieurs semaines : Resident…",
+      "link": "https://korben.info/denuvo-hyperviseur-bypass-pirates.html",
+      "pubDate": "2026-03-31T10:01:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/denuvo-hyperviseur-bypass-pirates/denuvo-hyperviseur-bypass-pirates-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "421ea8380d7f",
+      "title": "Qobuz en bit-perfect sur Linux (enfin !!)",
+      "description": "Si vous êtes abonné Qobuz et que vous êtes sous Linux, vous connaissez cette douleur sourde qui vous coupe le souffle la nuit : IL N'Y A PAS DE CLIENT OFFICIEL ! Vous êtes donc condamné comme n'importe quel gueux à utiliser le lecteur web, qui est aussi \"audiophile-phile\" qu'un casque de chantier.…",
+      "link": "https://korben.info/qbz-qobuz-client-linux-bit-perfect.html",
+      "pubDate": "2026-03-31T09:24:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/qbz-qobuz-client-linux-bit-perfect/qbz-qobuz-client-linux-bit-perfect-1.avif",
+      "type": "blog"
+    },
+    {
+      "id": "7fb6b79d1a1c",
+      "title": "Atomiser ses contenus grâce à l’IA pour publier plus sur les réseaux sociaux",
+      "description": "Le recyclage de contenu consiste à transformer des articles, vidéos, ou podcasts en formats plus courts pour accroître la visibilité en ligne. En découpant des contenus longs, on crée de nouveaux posts adaptés aux réseaux sociaux, facilitant ainsi la communication régulière sans nécessiter une…",
+      "link": "https://oliviersauvage.com/2026/03/31/atomiser-ses-contenus-grace-a-lia-pour-publier-plus-sur-les-reseaux-sociaux/",
+      "pubDate": "2026-03-31T09:21:55.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f05719b029e5",
       "title": "OpenCiv3 - Civilization III renaît en open source",
       "description": "Vous vous souvenez de Civilization III ? Hé bien des fans ont décidé de le recréer de zéro en open source avec OpenCiv3 , et franchement ça a de la gueule, vous allez voir ! En fait, leur idée c'était pas pas juste de cloner le jeu de Sid Meier tel quel, mais plutôt de le réimaginer en corrigeant…",
