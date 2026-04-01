@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "27c0c222d018",
+      "title": "Fuite Claude Code - 6 trucs à piquer pour vos hooks",
+      "description": "Le code source de Claude Code a fuité hier, et au-delà du buzz, y'a, je trouve, quelques leçons concrètes à tirer de tout ça. Alors rassurez-vous, je vais pas vous balancer du code TypeScript à copier-coller (on n'est pas des cochons), ni des leçons de morale sur ce qu'on peut ou pas pousser sur un…",
+      "link": "https://korben.info/claude-code-6-patterns-bonnes-pratiques-hooks.html",
+      "pubDate": "2026-04-01T12:50:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/claude-code-6-patterns-bonnes-pratiques-hooks/claude-code-6-patterns-bonnes-pratiques-hooks-2.png",
+      "type": "blog"
+    },
+    {
       "id": "a832b39cee74",
       "title": "term.everything - Faites tourner Firefox dans votre terminal",
       "description": "Et si je vous disais qu'on pouvait faire tourner Firefox dans un terminal ? Et pas un navigateur en mode texte, hein. Non, le véritable Firefox, avec ses onglets, les images, la totale... Hé oui c'est possible et que ça fonctionne via SSH, donc depuis un serveur distant. Bienvenue dans le futur (ou…",
