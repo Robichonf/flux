@@ -2,6 +2,38 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "072741c6f2b2",
+      "title": "TurboQuant - Un LLM de 104B sur un MacBook, merci Google",
+      "description": "Vous faites tourner des LLMs en local comme le gros fifou de Hipster IA que vous êtes et, Ô drame, la VRAM de votre ordinateur explose dès que le contexte dépasse 8000 pauvres malheureux tokens ? Le problème c'est le KV cache les amis ! Le KV cache c'est ce truc qui stocke les clés et valeurs…",
+      "link": "https://korben.info/turboquant-compression-kv-cache-llm.html",
+      "pubDate": "2026-04-01T15:00:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47e628d04e0b",
+      "title": "Retours sur le Data Days Lille 2026",
+      "description": "Découvrez le bilan du Data Days Lille 2026 : IA, qualité des données, dbt-duckdb et stratégies de ranking. Un condensé d'expertises pour la data.",
+      "link": "https://blog.ippon.fr/2026/04/01/retours-sur-le-data-days-lille-2026/",
+      "pubDate": "2026-04-01T14:48:47.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/IMG_2366_2.png",
+      "type": "blog"
+    },
+    {
       "id": "27c0c222d018",
       "title": "Fuite Claude Code - 6 trucs à piquer pour vos hooks",
       "description": "Le code source de Claude Code a fuité hier, et au-delà du buzz, y'a, je trouve, quelques leçons concrètes à tirer de tout ça. Alors rassurez-vous, je vais pas vous balancer du code TypeScript à copier-coller (on n'est pas des cochons), ni des leçons de morale sur ce qu'on peut ou pas pousser sur un…",
