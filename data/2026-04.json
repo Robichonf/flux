@@ -2,6 +2,66 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "a832b39cee74",
+      "title": "term.everything - Faites tourner Firefox dans votre terminal",
+      "description": "Et si je vous disais qu'on pouvait faire tourner Firefox dans un terminal ? Et pas un navigateur en mode texte, hein. Non, le véritable Firefox, avec ses onglets, les images, la totale... Hé oui c'est possible et que ça fonctionne via SSH, donc depuis un serveur distant. Bienvenue dans le futur (ou…",
+      "link": "https://korben.info/term-everything-gui-terminal-linux.html",
+      "pubDate": "2026-04-01T08:14:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/term-everything-gui-terminal-linux/term-everything-gui-terminal-linux-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "619a968c6994",
+      "title": "Euro-Office veut remplacer Microsoft 365, mais OnlyOffice crie au vol",
+      "description": "Une coalition d'entreprises européennes vient de lancer Euro-Office, une suite bureautique open source qui ambitionne de concurrencer Microsoft 365. Le problème, c'est que le projet est un fork d'OnlyOffice, et ce dernier accuse Nextcloud et IONOS de violer sa licence. Un projet présenté au…",
+      "link": "https://korben.info/euro-office-veut-remplacer-microsoft-365-mais-onlyoffice-crie-au-vol.html",
+      "pubDate": "2026-04-01T08:07:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0e80ebf5fb5c",
+      "title": "Claude Code prend la fuite",
+      "description": "60 Mo de source maps (ces fichiers qui permettent de remonter du code minifié à l'original) ont été oubliés dans un paquet npm. Et voilà comment Anthropic a involontairement balancé en public le code source complet de Claude Code, son outil à 2.5 milliards de dollars de revenus annuels. Alors…",
+      "link": "https://korben.info/claude-code-fuite-code-source-npm-source-maps.html",
+      "pubDate": "2026-04-01T07:06:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/claude-code-fuite-code-source-npm-source-maps/claude-code-fuite-code-source-npm-source-maps-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3f29394d6757",
+      "title": "Axios, l'une des bibliothèques les plus populaires de npm, piratée pour installer un cheval de Troie",
+      "description": "La bibliothèque JavaScript Axios, téléchargée plus de 100 millions de fois par semaine, a été compromise. Un attaquant a détourné le compte du mainteneur principal pour y glisser un malware multiplateforme qui vise aussi bien macOS que Windows et Linux. Un compte piraté, deux versions vérolées Tout…",
+      "link": "https://korben.info/axios-lune-des-bibliotheques-les-plus-populaires-de-npm-piratee-pour-installer-un-cheval-de-troie.html",
+      "pubDate": "2026-04-01T07:02:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "49db894bedd3",
       "title": "GEO : à l’heure des agents IA, soignez votre page identité",
       "description": "Découvrez l'importance cruciale de la page d'accueil de votre entité pour le SEO et la perception de votre marque. Apprenez à optimiser cette page essentielle pour les moteurs de recherche, l'IA et les utilisateurs, en mettant l'accent sur la confiance et la corroboration. Comprenez l'évolution des…",
