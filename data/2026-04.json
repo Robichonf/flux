@@ -1,0 +1,34 @@
+{
+  "month": "2026-04",
+  "articles": [
+    {
+      "id": "49db894bedd3",
+      "title": "GEO : à l’heure des agents IA, soignez votre page identité",
+      "description": "Découvrez l'importance cruciale de la page d'accueil de votre entité pour le SEO et la perception de votre marque. Apprenez à optimiser cette page essentielle pour les moteurs de recherche, l'IA et les utilisateurs, en mettant l'accent sur la confiance et la corroboration. Comprenez l'évolution des…",
+      "link": "https://oliviersauvage.com/2026/04/01/geo-a-lheure-des-agents-ia-soignez-votre-page-identite/",
+      "pubDate": "2026-04-01T06:41:32.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0b95f7d82cb3",
+      "title": "Le Sénat veut maintenant interdire les réseaux sociaux aux plus de 50 ans",
+      "description": "Vous vous souvenez de cette proposition de loi pour interdire les réseaux sociaux aux moins de 15 ans ? Le Sénat l'a adoptée en première lecture il y a quelques jours, avec un système à deux niveaux. D'abord une liste noire de plateformes jugées nocives d'un côté, et de l'autre, un accès…",
+      "link": "https://korben.info/senat-interdire-reseaux-sociaux-plus-50-ans.html",
+      "pubDate": "2026-04-01T06:10:56.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}
