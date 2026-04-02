@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "845cf2ccf9bb",
+      "title": "La NES-SY2.0 est un synthétiseur qui lit aussi les cartouches Nintendo",
+      "description": "Le designer suédois Love Hultén vient de dévoiler la NES-SY2.0, un synthétiseur fait main qui rend hommage à la NES tout en servant de véritable console de jeu. L'objet accepte les cartouches originales et produit de la musique chiptune. Un objet entre console et instrument La NES-SY2.0 reprend les…",
+      "link": "https://korben.info/la-nes-sy2-0-est-un-synthetiseur-qui-lit-aussi-les-cartouches-nintendo.html",
+      "pubDate": "2026-04-02T08:22:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f5a561553291",
+      "title": "Piratage : Google, Cloudflare et Cisco contraints de bloquer des sites pirates en France",
+      "description": "La cour d'appel de Paris vient de confirmer que les fournisseurs de DNS alternatifs doivent bloquer l'accès aux sites de streaming et d'IPTV pirates. Google, Cloudflare et Cisco ont perdu leur appel face à Canal+. Cinq appels rejetés d'un coup La cour d'appel de Paris a tranché cinq affaires…",
+      "link": "https://korben.info/piratage-google-cloudflare-et-cisco-contraints-de-bloquer-des-sites-pirates-en-france.html",
+      "pubDate": "2026-04-02T08:06:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c827fa103001",
       "title": "EmDash - Cloudflare refait WordPress from scratch",
       "description": "Cloudflare qui sort un successeur open source à WordPress le 1er avril, je vous avoue que ça sentait le poisson d'avril à plein nez. Sauf que non !! EmDash est bien réel, son code est sur GitHub sous licence MIT, et ça s'installe en une commande toute simple ! L'idée de base pour Cloudflare, c'est…",
