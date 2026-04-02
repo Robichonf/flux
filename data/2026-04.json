@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c827fa103001",
+      "title": "EmDash - Cloudflare refait WordPress from scratch",
+      "description": "Cloudflare qui sort un successeur open source à WordPress le 1er avril, je vous avoue que ça sentait le poisson d'avril à plein nez. Sauf que non !! EmDash est bien réel, son code est sur GitHub sous licence MIT, et ça s'installe en une commande toute simple ! L'idée de base pour Cloudflare, c'est…",
+      "link": "https://korben.info/emdash-cloudflare-wordpress-open-source.html",
+      "pubDate": "2026-04-02T00:10:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/emdash-cloudflare-wordpress-open-source/emdash-cloudflare-wordpress-open-source-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "072741c6f2b2",
       "title": "TurboQuant - Un LLM de 104B sur un MacBook, merci Google",
       "description": "Vous faites tourner des LLMs en local comme le gros fifou de Hipster IA que vous êtes et, Ô drame, la VRAM de votre ordinateur explose dès que le contexte dépasse 8000 pauvres malheureux tokens ? Le problème c'est le KV cache les amis ! Le KV cache c'est ce truc qui stocke les clés et valeurs…",
