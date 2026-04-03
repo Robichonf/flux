@@ -2,6 +2,23 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "755ce9173775",
+      "title": "Gemma 4 peut-il remplacer Claude Code ? Benchmark sur un vrai projet Symfony",
+      "description": "Un modèle local de 9.6 GB peut-il générer du code Symfony fonctionnel ? Benchmark de Gemma 4 E4B : 5 scénarios, 15 runs, validation automatisée.",
+      "link": "https://yoandev.co/gemma4-opencode-benchmark",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/gemma4.webp",
+      "type": "blog"
+    },
+    {
       "id": "f8a26d94793d",
       "title": "Design : votre site est-il vraiment clair pour vos prospects ?",
       "description": "L'harmonisation du marketing et du design est essentielle pour maintenir la clarté d'un site web. Avec le temps, la complexité peut obscurcir le message de l'entreprise, rendant difficile sa compréhension par les visiteurs. Il est crucial d'évaluer régulièrement la mission du site et de procéder à…",
