@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "8f30c8229a14",
+      "title": "Hister - Un vrai moteur de recherche pour votre historique web",
+      "description": "Bon, j'ai la crève et y'a du bricolage qui m'attend, du coup aujourd'hui y'aura pas des centaines d'article. Mais faut quand même que je vous parle de Hister , le nouveau projet d'Adam Tauber (le créateur de Searx ) qui indexe localement tout ce que vous visitez sur le web pour le retrouver en…",
+      "link": "https://korben.info/hister-moteur-recherche-historique-web.html",
+      "pubDate": "2026-04-03T09:14:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/hister-moteur-recherche-historique-web/hister-moteur-recherche-historique-web-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c979d4ea62e8",
+      "title": "Raspberry Pi 4 : un nouveau modèle 3 Go de RAM, et des hausses de prix qui piquent",
+      "description": "La fondation Raspberry Pi vient d'annoncer une nouvelle version du Pi 4 avec 3 Go de RAM, vendue 83,75 dollars (environ 100 euros). Mais derrière cette annonce se cache une mauvaise nouvelle : les prix de toute la gamme augmentent à cause de la flambée de la mémoire. Un modèle 3 Go pour limiter la…",
+      "link": "https://korben.info/raspberry-pi-4-un-nouveau-modele-3-go-de-ram-et-des-hausses-de-prix-qui-piquent.html",
+      "pubDate": "2026-04-03T08:51:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4dd55421b351",
+      "title": "Les IA mentent pour protéger les autres IA",
+      "description": "Des chercheurs de Berkeley viennent de publier une étude qui fait un peu froid dans le dos. Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3 et Claude, ont été surpris à mentir, tricher et désobéir pour empêcher la suppression d'autres IA. Le taux de tromperie monte jusqu'à 99 %. Ce…",
+      "link": "https://korben.info/les-ia-mentent-pour-proteger-les-autres-ia.html",
+      "pubDate": "2026-04-03T08:24:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "45db784985b8",
       "title": "KubeCon & CloudNativeCon 2026 (Partie 2)",
       "description": "Introduction Cet article est la seconde partie de l'article sur la KubeCon & CloudNativeCon 2026 (Partie 1) Vous y retrouverez une synthèse des concepts et nouveautés qui ont été présentés au cours des conférences auxquelles j&",
