@@ -78,6 +78,23 @@
       "type": "blog"
     },
     {
+      "id": "c61980a42b66",
+      "title": "Les news du mois de mars 2026",
+      "description": "Anton Darius sur Unsplash Je n'ai pas été aussi productif que j'aurais voulu sur mon blog au mois de mars. Je commence à prendre mes marques dans mon nouveau poste au sein de Teralab : ce fut la dernière ligne droite pour le passage de connaissance avec la personne que je remplace ; elle est partie…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/03/news-mars/",
+      "pubDate": "2026-04-02T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/03/news-mars/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "072741c6f2b2",
       "title": "TurboQuant - Un LLM de 104B sur un MacBook, merci Google",
       "description": "Vous faites tourner des LLMs en local comme le gros fifou de Hipster IA que vous êtes et, Ô drame, la VRAM de votre ordinateur explose dès que le contexte dépasse 8000 pauvres malheureux tokens ? Le problème c'est le KV cache les amis ! Le KV cache c'est ce truc qui stocke les clés et valeurs…",
