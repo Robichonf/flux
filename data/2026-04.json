@@ -2,6 +2,23 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "45db784985b8",
+      "title": "KubeCon & CloudNativeCon 2026 (Partie 2)",
+      "description": "Introduction Cet article est la seconde partie de l'article sur la KubeCon & CloudNativeCon 2026 (Partie 1) Vous y retrouverez une synthèse des concepts et nouveautés qui ont été présentés au cours des conférences auxquelles j&",
+      "link": "https://blog.ippon.fr/2026/04/03/kubecon-cloudnativecon-2026-partie-2/",
+      "pubDate": "2026-04-03T07:00:27.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/Kubecon-Europe-2026.png",
+      "type": "blog"
+    },
+    {
       "id": "755ce9173775",
       "title": "Gemma 4 peut-il remplacer Claude Code ? Benchmark sur un vrai projet Symfony",
       "description": "Un modèle local de 9.6 GB peut-il générer du code Symfony fonctionnel ? Benchmark de Gemma 4 E4B : 5 scénarios, 15 runs, validation automatisée.",
