@@ -81,6 +81,22 @@
       "type": "blog"
     },
     {
+      "id": "a996365b88c6",
+      "title": "Setup",
+      "description": "Dans cette page, je liste simplement l’ensemble de mon setup, avec des liens vers les fabricants (non affiliés). Mes machines J’utilise deux machines pour travailler : un NUC de chez Asus en PC fixe, et un X1 Carbon de chez Lenovo en PC portable. Je conserve mes machines assez longtemps (4 ans en…",
+      "link": "https://codeka.io/setup/",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f8a26d94793d",
       "title": "Design : votre site est-il vraiment clair pour vos prospects ?",
       "description": "L'harmonisation du marketing et du design est essentielle pour maintenir la clarté d'un site web. Avec le temps, la complexité peut obscurcir le message de l'entreprise, rendant difficile sa compréhension par les visiteurs. Il est crucial d'évaluer régulièrement la mission du site et de procéder à…",
