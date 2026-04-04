@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "29baf0a5a430",
+      "title": "IA & Licenciements : Et si l'intelligence artificielle n'était qu'une excuse ?",
+      "description": "273 000 départs prévus dans la tech : l'IA nous remplace-t-elle déjà ou sert-elle de couverture à des plans de licenciements opportunistes ? Analyse d'un basculement de marché où la productivité n'est pas toujours là où on l'attend.",
+      "link": "https://eventuallycoding.com/p/ia-licenciements-et-si-l-intelligence-artificielle-n-etait-qu-une-excuse",
+      "pubDate": "2026-04-04T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1775295949930-ht8yq83.png?width=400",
+      "type": "blog"
+    },
+    {
       "id": "8f30c8229a14",
       "title": "Hister - Un vrai moteur de recherche pour votre historique web",
       "description": "Bon, j'ai la crève et y'a du bricolage qui m'attend, du coup aujourd'hui y'aura pas des centaines d'article. Mais faut quand même que je vous parle de Hister , le nouveau projet d'Adam Tauber (le créateur de Searx ) qui indexe localement tout ce que vous visitez sur le web pour le retrouver en…",
