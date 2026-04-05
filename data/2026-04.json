@@ -48,6 +48,22 @@
       "type": "blog"
     },
     {
+      "id": "ca575a857319",
+      "title": "talosctl-oidc : ajouter le SSO à Talos Linux",
+      "description": "Talos Linux ne supporte pas nativement l'authentification OIDC. Voici comment j'ai construit talosctl-oidc, un serveur d'échange de certificats éphémères qui ponte SSO et mTLS.",
+      "link": "https://une-tasse-de.cafe/blog/talosctl-oidc/",
+      "pubDate": "2026-04-04T22:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "29baf0a5a430",
       "title": "IA & Licenciements : Et si l'intelligence artificielle n'était qu'une excuse ?",
       "description": "273 000 départs prévus dans la tech : l'IA nous remplace-t-elle déjà ou sert-elle de couverture à des plans de licenciements opportunistes ? Analyse d'un basculement de marché où la productivité n'est pas toujours là où on l'attend.",
