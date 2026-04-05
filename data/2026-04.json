@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ae26c982e80e",
+      "title": "YOR - Le robot open source à 10 000 dollars à monter soi-même",
+      "description": "Quand je vois tout le taf que j'ai à la maison, je vous avoue que je rêve d'un robot qui vide le lave-vaisselle, arrose les plantes et ramasse le linge pendant que moi je glandouille sur le canapé (ou que je bosse parce que je glandouille jamais en fait...Argh...). Hé bien bonne nouvelle, une…",
+      "link": "https://korben.info/yourownrobot-ai.html",
+      "pubDate": "2026-04-05T05:28:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/yourownrobot-ai/yourownrobot-ai-1.png",
+      "type": "blog"
+    },
+    {
       "id": "29baf0a5a430",
       "title": "IA & Licenciements : Et si l'intelligence artificielle n'était qu'une excuse ?",
       "description": "273 000 départs prévus dans la tech : l'IA nous remplace-t-elle déjà ou sert-elle de couverture à des plans de licenciements opportunistes ? Analyse d'un basculement de marché où la productivité n'est pas toujours là où on l'attend.",
