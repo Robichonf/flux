@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "685d7c0a4c50",
+      "title": "Archives de Korben - Plus de 20 ans d'articles en un clic",
+      "description": "Retrouver un vieil article sur korben.info, c'est pas toujours simple. La home s'arrête à 5 pages (site statique oblige) et après, fallait se débrouiller avec les catégories ou le moteur de recherche. Alors pour vous faciliter un peu la vie, je vous ai mis à dispo des pages d'archives accessibles…",
+      "link": "https://korben.info/archives-korben-retrouver-articles-anciens.html",
+      "pubDate": "2026-04-07T15:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/archives-korben-retrouver-articles-anciens/archives-korben-retrouver-articles-anciens-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "56f49d334809",
+      "title": "Un Pokémon piégé depuis 15 ans dans un Pokéwalker, et l’issue est terrible pour la pauvre bête",
+      "description": "Un passionné a tenté de récupérer son Pokémon coincé dans un Pokéwalker, ce petit podomètre vendu avec Pokémon HeartGold sur DS en 2009, après avoir perdu la cartouche de jeu. Entre reverse engineering du protocole infrarouge et manipulation du générateur de nombres aléatoires, la tentative est…",
+      "link": "https://korben.info/un-pokemon-piege-depuis-15-ans-dans-un-pokewalker-et-lissue-est-terrible-pour-la-pauvre-bete.html",
+      "pubDate": "2026-04-07T15:04:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "932a2bfefffe",
       "title": "CATAI - Des chats pixel art boostés à l'IA sur votre dock",
       "description": "Des chats en pixel art qui se baladent sur votre dock macOS et qui causent grâce à un LLM local... non vous ne rêvez pas car c'est ce qu'on peut obtenir avec CATAI , qui vous fera adopter 6 matous virtuels avec chacun sa personnalité. En gros, c'est le Tamagotchi de votre dock, sauf qu'au lieu de…",
