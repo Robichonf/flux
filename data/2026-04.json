@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3f6ac5385870",
+      "title": "Un driver Linux contre les périphériques USB piégés",
+      "description": "Vous vous souvenez de BadUSB ? Mais siiii, c'est ce truc dévoilé en 2014 à la Black Hat qui avait foutu la trouille à tout le monde. Ça montrait qu'un simple périphérique USB pouvait se faire passer pour un clavier et balancer des commandes à votre place. Hé bien depuis, les attaques se sont bien…",
+      "link": "https://korben.info/linux-driver-hid-malveillant-protection-noyau.html",
+      "pubDate": "2026-04-07T07:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7b572f235b8",
+      "title": "MemPalace - Quand Milla Jovovich code de l'IA open source",
+      "description": "Milla Jovovich a un compte GitHub !! Oui, l’actrice des films Resident Evil, celle qui découpe des zombies depuis 2002 et qui a également incarné Leeloo dans un film qui est cher à mon cœur a mis en ligne son premier repo. Ça s’appelle MemPalace , et c’est un système de mémoire pour IA, qui vient…",
+      "link": "https://korben.info/mempalace-milla-jovovich-ia-memoire.html",
+      "pubDate": "2026-04-07T07:28:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "15db9a15a119",
       "title": "Stitch : conseils pour utiliser le dernier outil de design de Google",
       "description": "Découvrez Stitch de Google Labs, un outil de design IA qui transforme la création d'interfaces. Apprenez à l'utiliser efficacement en définissant une direction créative claire, en personnalisant les systèmes de design, et en intégrant du contenu percutant. Optimisez votre workflow et créez des…",
