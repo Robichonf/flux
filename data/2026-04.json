@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "01d37cf9482a",
+      "title": "Dualite onde-particule : un YouTuber la teste avec un detecteur de fumee et un capteur a 350 euros",
+      "description": "Un vidéaste scientifique vient de reproduire des expériences de physique quantique depuis chez lui, avec un simple détecteur gamma portable et une capsule radioactive récupérée dans un vieux détecteur de fumée. Et les résultats sont plutôt convaincants. De la physique quantique dans un garage…",
+      "link": "https://korben.info/dualite-onde-particule-un-youtuber-la-teste-avec-un-detecteur-de-fumee-et-un-capteur-a-350-euros.html",
+      "pubDate": "2026-04-07T11:40:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "460705603d36",
+      "title": "macOS - Votre réseau TCP meurt au bout de 49 jours",
+      "description": "49 jours, les amis, c'est la durée de vie d'un Mac avant que son réseau TCP ne s'effondre dans un silence assourdissant. Il suffit d'un overflow d'entier 32 bits dans le kernel XNU, une horloge interne qui se bloque, et hop, plus moyen d'ouvrir la moindre connexion. Le ping marche toujours, parce…",
+      "link": "https://korben.info/macos-tcp-bombe-49-jours.html",
+      "pubDate": "2026-04-07T11:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "078425f99b60",
+      "title": "Il menace un agent du renseignement en parlant à ChatGPT, le RAID débarque chez lui",
+      "description": "Un Strasbourgeois de 37 ans a été interpellé par le RAID après avoir formulé des menaces dans une conversation avec ChatGPT. OpenAI a signalé les propos au FBI, qui a transmis l'alerte aux autorités françaises via la plateforme Pharos. L'affaire a été classée sans suite, mais elle montre que les…",
+      "link": "https://korben.info/il-menace-un-agent-du-renseignement-en-parlant-a-chatgpt-le-raid-debarque-chez-lui.html",
+      "pubDate": "2026-04-07T11:09:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b3ef1b3076c4",
       "title": "Un bidouilleur fait tourner des DVD sur Dreamcast avec un Raspberry Pi",
       "description": "Un développeur connu sous le pseudo ThroatyMumbo vient de réussir un petit exploit : faire lire des DVD à une Sega Dreamcast, la console qui n'a jamais eu droit à cette fonctionnalité. Sa méthode passe par un Raspberry Pi 5, un Raspberry Pi Pico 2 et le port manette de la console, le tout sans la…",
