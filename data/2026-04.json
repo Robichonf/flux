@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "932a2bfefffe",
+      "title": "CATAI - Des chats pixel art boostés à l'IA sur votre dock",
+      "description": "Des chats en pixel art qui se baladent sur votre dock macOS et qui causent grâce à un LLM local... non vous ne rêvez pas car c'est ce qu'on peut obtenir avec CATAI , qui vous fera adopter 6 matous virtuels avec chacun sa personnalité. En gros, c'est le Tamagotchi de votre dock, sauf qu'au lieu de…",
+      "link": "https://korben.info/catai-chats-pixel-art-ia-ollama-macos.html",
+      "pubDate": "2026-04-07T13:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/catai-chats-pixel-art-ia-ollama-macos/catai-chats-pixel-art-ia-ollama-macos-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "01d37cf9482a",
       "title": "Dualite onde-particule : un YouTuber la teste avec un detecteur de fumee et un capteur a 350 euros",
       "description": "Un vidéaste scientifique vient de reproduire des expériences de physique quantique depuis chez lui, avec un simple détecteur gamma portable et une capsule radioactive récupérée dans un vieux détecteur de fumée. Et les résultats sont plutôt convaincants. De la physique quantique dans un garage…",
