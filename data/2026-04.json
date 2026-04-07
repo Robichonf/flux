@@ -2,6 +2,35 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "9ca5c91fe23f",
+      "title": "Nouveautés Brand Graph Generator",
+      "description": "Le Brand Graph Generator a été mis à jour avec un accès gratuit pour 10 générations d'images. Un nouveau wizard simplifie l'ajout de l'identité visuelle, tandis qu'une fonction \"Je suis flemmard\" facilite la création d'infographies. Bientôt disponible en version SaaS, cet outil promet d'améliorer…",
+      "link": "https://oliviersauvage.com/2026/04/07/nouveautes-brand-graph-generator/",
+      "pubDate": "2026-04-07T09:37:21.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73758a641b94",
+      "title": "Gemma Gem - Un agent IA dans Chrome, 100% local",
+      "description": "Les extensions Chrome qui promettent de l'IA, ça pullule de ouf et à vrai dire, la plupart se contentent d'envoyer vos données sur un serveur distant. C'est naze ! Heureusement, l'extension Gemma Gem prend le problème à l'envers puisque son modèle tourne directement dans votre navigateur via…",
+      "link": "https://korben.info/gemma-gem-agent-ia-chrome-local-webgpu.html",
+      "pubDate": "2026-04-07T08:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gemma-gem-agent-ia-chrome-local-webgpu/gemma-gem-agent-ia-chrome-local-webgpu-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3f6ac5385870",
       "title": "Un driver Linux contre les périphériques USB piégés",
       "description": "Vous vous souvenez de BadUSB ? Mais siiii, c'est ce truc dévoilé en 2014 à la Black Hat qui avait foutu la trouille à tout le monde. Ça montrait qu'un simple périphérique USB pouvait se faire passer pour un clavier et balancer des commandes à votre place. Hé bien depuis, les attaques se sont bien…",
