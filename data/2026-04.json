@@ -2,6 +2,35 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "15db9a15a119",
+      "title": "Stitch : conseils pour utiliser le dernier outil de design de Google",
+      "description": "Découvrez Stitch de Google Labs, un outil de design IA qui transforme la création d'interfaces. Apprenez à l'utiliser efficacement en définissant une direction créative claire, en personnalisant les systèmes de design, et en intégrant du contenu percutant. Optimisez votre workflow et créez des…",
+      "link": "https://oliviersauvage.com/2026/04/07/stitch-conseils-pour-utiliser-le-dernier-outil-de-design-de-google/",
+      "pubDate": "2026-04-07T06:24:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "820974c7cb4c",
+      "title": "BlueHammer - Le zero-day Windows lâché par un chercheur en colère",
+      "description": "Ce week-end, pendant qu'on se gavait d'oeufs de Pâques au Cadmium, un chercheur en sécu a balancé un zero-day Windows dans la nature... et tout ça d'après ce que j'ai compris, à cause de Microsoft qui l'a vraiment poussé à bout. L'exploit s'appelle BlueHammer et il permet à quiconque ayant un accès…",
+      "link": "https://korben.info/bluehammer-faille-zero-day-windows.html",
+      "pubDate": "2026-04-07T05:52:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/bluehammer-faille-zero-day-windows/bluehammer-faille-zero-day-windows-2.png",
+      "type": "blog"
+    },
+    {
       "id": "4b8697631f28",
       "title": "Ce smartphone Android fait tourner Red Dead Redemption 2 et Cyberpunk 2077 en local",
       "description": "Le Red Magic 11 Golden Saga Edition est un téléphone Android capable de faire tourner des jeux PC Windows en local, sans connexion internet et sans cloud gaming. Red Dead Redemption 2 tourne à plus de 40 images par seconde, GTA V dépasse les 60, et Cyberpunk 2077 est jouable. Le tout dans la poche.…",
