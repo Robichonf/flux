@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "59e5f234e1b2",
+      "title": "Ghost Murmur - La CIA vous localise grâce à vos battements de cœur",
+      "description": "Si votre coeur bat, sachez que la CIA peut vous retrouver n'importe où ! C'est pas moi qui le dis, c'est John Ratcliffe, le directeur de la CIA en personne, qui l'a annoncé ce lundi 7 avril après que ses équipes aient utilisé un outil baptisé Ghost Murmur pour localiser un membre d'équipage…",
+      "link": "https://korben.info/ghost-murmur-cia-battement-coeur-pilote-iran.html",
+      "pubDate": "2026-04-08T05:11:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e413d2d72974",
       "title": "Glasswing - L'IA d'Anthropic qui déniche des milliers de zero-days",
       "description": "Anthropic vient de lâcher une bombe ! Le labo derrière Claude a dévoilé le Projet Glasswing , une initiative de cybersécurité qui embarque un nouveau modèle, Claude Mythos, tellement efficace pour trouver des failles qu'ils ont décidé de ne pas le rendre public. En gros, l'IA est devenue meilleure…",
