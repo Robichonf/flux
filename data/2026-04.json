@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "9222a5960314",
+      "title": "Rename World - Et si on renommait la Terre entière ?",
+      "description": "Et si vous pouviez renommer n'importe quel lieu sur la carte du monde ? Genre, transformer \"Paris\" en \"Pain au Chocolat City\" ou \"Bordeaux\" en \"Chocolatine Land\" ? Hé bien c'est exactement ce que propose Rename World , et y'a déjà plus de 40 000 renommages au compteur. Le principe est hyper simple…",
+      "link": "https://korben.info/rename-world-carte-renommer-lieux.html",
+      "pubDate": "2026-04-08T11:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rename-world-carte-renommer-lieux/rename-world-carte-renommer-lieux-2.png",
+      "type": "blog"
+    },
+    {
       "id": "de6b48c43052",
       "title": "macMule - L'âne est de retour sur Mac",
       "description": "Vous vous souvenez d'eMule ? Le petit âne qui monopolisait votre connexion ADSL pendant 3 jours pour télécharger un fichier de 700 Mo... et les fameux \"Linux_ISO.avi\" qui n'étaient absolument pas des ISOs Linux ? Eh bien le bougre est de retour sur macOS. macMule c'est eMule packagé en .app native,…",
