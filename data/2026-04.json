@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "8ca464fcc139",
+      "title": "Un ransomware frappe le logiciel de dossiers patients de 80 % des hôpitaux néerlandais",
+      "description": "ChipSoft, l'éditeur qui fournit le logiciel de dossiers médicaux à environ 80 % des hôpitaux aux Pays-Bas, vient d'être touché par un ransomware. Le site de l'entreprise est hors ligne depuis le 7 avril, et on ne sait pas encore si des données de patients ont été volées. Ce qu'il s'est passé…",
+      "link": "https://korben.info/un-ransomware-frappe-le-logiciel-de-dossiers-patients-de-80-des-hopitaux-neerlandais.html",
+      "pubDate": "2026-04-08T15:11:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cda6f2af3a8f",
+      "title": "Test de la Yoto Mini : le baladeur sans ecran qui sauve les trajets en voiture avec vos gosses",
+      "description": "– Contient des liens affiliés Amazon – Après le test du Yoto Player Gen 3 , on a voulu voir ce que valait la version portable. La Yoto Mini coûte environ 70 euros, tient dans une poche et promet 20 heures d'autonomie. On l'a confiée au même testeur de 4 ans, le fils d'une amie. Et on a été plutôt…",
+      "link": "https://korben.info/test-de-la-yoto-mini-le-baladeur-sans-ecran-qui-sauve-les-trajets-en-voiture-avec-vos-gosses.html",
+      "pubDate": "2026-04-08T14:14:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-de-la-yoto-mini-le-baladeur-sans-ecran-qui-sauve-les-trajets-en-voiture-avec-vos-gosses/test-de-la-yoto-mini-le-baladeur-sans-ecran-qui-sauve-les-trajets-en-voiture-avec-vos-gosses-2.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "f8d2a5e45f4b",
       "title": "Hazmat - Vos agents IA en cage sous macOS",
       "description": "J'sais pas si vous vous en rendez compte mais les agents IA qui codent sur votre machine ont accès à vos clés SSH, vos credentials AWS, votre Keychain et compagnie. Ils ont accès à TOUT ! C'est comme filer les clés de votre appart à un gars que vous avez croisé sur le parking de Leclerc y'a pas 5…",
