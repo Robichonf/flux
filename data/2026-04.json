@@ -2,6 +2,65 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "de6b48c43052",
+      "title": "macMule - L'âne est de retour sur Mac",
+      "description": "Vous vous souvenez d'eMule ? Le petit âne qui monopolisait votre connexion ADSL pendant 3 jours pour télécharger un fichier de 700 Mo... et les fameux \"Linux_ISO.avi\" qui n'étaient absolument pas des ISOs Linux ? Eh bien le bougre est de retour sur macOS. macMule c'est eMule packagé en .app native,…",
+      "link": "https://korben.info/macmule-emule-macos-apple-silicon.html",
+      "pubDate": "2026-04-08T09:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/macmule-emule-macos-apple-silicon/macmule-emule-macos-apple-silicon-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d06c7db076d3",
+      "title": "Linux va abandonner le support du processeur Intel 486, sorti en 1989",
+      "description": "Le noyau Linux 7.1 devrait supprimer la possibilité de compiler un noyau pour les processeurs Intel 486. C'est la première fois depuis 2012 qu'une architecture processeur est retirée du noyau, et le minimum requis passera du 486 au Pentium. L'Intel 486 a 37 ans. Un processeur de 1989 L'Intel 486…",
+      "link": "https://korben.info/linux-va-abandonner-le-support-du-processeur-intel-486-sorti-en-1989.html",
+      "pubDate": "2026-04-08T09:25:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b68d9e8680fa",
+      "title": "OpenCloud - L'alternative à Nextcloud en Go et sans base de données",
+      "description": "Si vous avez déjà installé Nextcloud sur un serveur, vous savez que c'est pas une partie de plaisir ! La stack PHP + MySQL, les mises à jour qui cassent tout, les performances qui s'effondrent dès que vous dépassez 50 utilisateurs... Relouuu. Mais c'est là qu' OpenCloud débarque avec une approche…",
+      "link": "https://korben.info/opencloud-alternative-nextcloud-go-auto-hebergement.html",
+      "pubDate": "2026-04-08T08:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/opencloud-alternative-nextcloud-go-auto-hebergement/opencloud-alternative-nextcloud-go-auto-hebergement-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ab12c4d3fedf",
+      "title": "IA générative : comment réussir son premier POC ?",
+      "description": "95% des projets d’IA générative échouent en raison de problèmes méthodologiques. Chez Creatis, une approche par communautés de pratiques a été mise en place, impliquant 7 groupes de travail et 187 tests. Cela a conduit au développement d'un agent conversationnel, améliorant significativement la…",
+      "link": "https://oliviersauvage.com/2026/04/08/ia-generative-comment-reussir-son-premier-poc/",
+      "pubDate": "2026-04-08T08:18:39.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6ef873db5f95",
       "title": "Flatpak corrige une faille qui permettait de s'échapper du bac à sable sur Linux",
       "description": "Le système de distribution d'applications Linux vient de publier la version 1.16.4, qui corrige quatre failles de sécurité découvertes dans son mécanisme de bac à sable. La plus critique permettait à une app de sortir de son environnement isolé pour accéder à tous les fichiers de la machine et y…",
