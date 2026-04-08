@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "f8d2a5e45f4b",
+      "title": "Hazmat - Vos agents IA en cage sous macOS",
+      "description": "J'sais pas si vous vous en rendez compte mais les agents IA qui codent sur votre machine ont accès à vos clés SSH, vos credentials AWS, votre Keychain et compagnie. Ils ont accès à TOUT ! C'est comme filer les clés de votre appart à un gars que vous avez croisé sur le parking de Leclerc y'a pas 5…",
+      "link": "https://korben.info/hazmat-sandbox-macos-agents-ia.html",
+      "pubDate": "2026-04-08T13:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/hazmat-sandbox-macos-agents-ia/hazmat-sandbox-macos-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "cbfbd3fcec57",
+      "title": "Le VLIW, cette architecture de processeur \"impossible\" qui revient par la porte de l'IA",
+      "description": "La chaîne YouTube Asianometry vient de publier une vidéo qui retrace l'histoire du VLIW, une architecture de processeur née dans les années 80 et longtemps considérée comme un échec. Sauf que cette technologie, enterrée avec l'Itanium d'Intel, refait surface dans les puces dédiées à l'intelligence…",
+      "link": "https://korben.info/le-vliw-cette-architecture-de-processeur-impossible-qui-revient-par-la-porte-de-lia.html",
+      "pubDate": "2026-04-08T13:10:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9222a5960314",
       "title": "Rename World - Et si on renommait la Terre entière ?",
       "description": "Et si vous pouviez renommer n'importe quel lieu sur la carte du monde ? Genre, transformer \"Paris\" en \"Pain au Chocolat City\" ou \"Bordeaux\" en \"Chocolatine Land\" ? Hé bien c'est exactement ce que propose Rename World , et y'a déjà plus de 40 000 renommages au compteur. Le principe est hyper simple…",
