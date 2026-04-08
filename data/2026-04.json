@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "e413d2d72974",
+      "title": "Glasswing - L'IA d'Anthropic qui déniche des milliers de zero-days",
+      "description": "Anthropic vient de lâcher une bombe ! Le labo derrière Claude a dévoilé le Projet Glasswing , une initiative de cybersécurité qui embarque un nouveau modèle, Claude Mythos, tellement efficace pour trouver des failles qu'ils ont décidé de ne pas le rendre public. En gros, l'IA est devenue meilleure…",
+      "link": "https://korben.info/glasswing-anthropic-ia-cybersecurite-zero-day.html",
+      "pubDate": "2026-04-08T04:53:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "685d7c0a4c50",
       "title": "Archives de Korben - Plus de 20 ans d'articles en un clic",
       "description": "Retrouver un vieil article sur korben.info, c'est pas toujours simple. La home s'arrête à 5 pages (site statique oblige) et après, fallait se débrouiller avec les catégories ou le moteur de recherche. Alors pour vous faciliter un peu la vie, je vous ai mis à dispo des pages d'archives accessibles…",
