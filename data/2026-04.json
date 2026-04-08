@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "6ef873db5f95",
+      "title": "Flatpak corrige une faille qui permettait de s'échapper du bac à sable sur Linux",
+      "description": "Le système de distribution d'applications Linux vient de publier la version 1.16.4, qui corrige quatre failles de sécurité découvertes dans son mécanisme de bac à sable. La plus critique permettait à une app de sortir de son environnement isolé pour accéder à tous les fichiers de la machine et y…",
+      "link": "https://korben.info/flatpak-corrige-une-faille-qui-permettait-de-sechapper-du-bac-a-sable-sur-linux.html",
+      "pubDate": "2026-04-08T07:43:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "59e5f234e1b2",
       "title": "Ghost Murmur - La CIA vous localise grâce à vos battements de cœur",
       "description": "Si votre coeur bat, sachez que la CIA peut vous retrouver n'importe où ! C'est pas moi qui le dis, c'est John Ratcliffe, le directeur de la CIA en personne, qui l'a annoncé ce lundi 7 avril après que ses équipes aient utilisé un outil baptisé Ghost Murmur pour localiser un membre d'équipage…",
