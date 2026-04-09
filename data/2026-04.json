@@ -2,6 +2,20 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "f366558b3715",
+      "title": "Pour améliorer votre notoriété d’entreprise, arrêtez de mesurer vos clics !",
+      "description": "Le parcours client évolue avec l'IA. Découvrez le nouveau modèle centré sur l'exposition, la mémorisation et le retour. Comprenez les limites des métriques traditionnelles et adaptez votre approche pour influencer les décisions des consommateurs à l'ère de l'intelligence artificielle. L’article…",
+      "link": "https://oliviersauvage.com/2026/04/09/pour-ameliorer-votre-notoriete-dentreprise-arretez-de-mesurer-vos-clics/",
+      "pubDate": "2026-04-09T12:03:00.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c500640ba812",
       "title": "DARPA investit dans une batterie radioactive capable d'alimenter un PC portable pendant des mois",
       "description": "La DARPA vient de confier 5,2 millions de dollars à la startup Avalanche Energy pour développer une batterie à base de particules alpha. L'objectif : créer une source d'énergie compacte de quelques kilos, capable d'alimenter un ordinateur pendant des mois, destinée aux missions spatiales et…",
