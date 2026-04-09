@@ -2,6 +2,20 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "b9866e552e64",
+      "title": "Nouveautés de Google Vids : génération IA, personnalisation, musique",
+      "description": "Google Vids révolutionne la création vidéo avec l'IA Lyria 3 et Veo 3.1. Génération de vidéos gratuite, musique personnalisée, avatars IA personnalisables : découvrez les nouvelles fonctionnalités qui rendent la création vidéo plus accessible et créative que jamais pour tous les utilisateurs de…",
+      "link": "https://oliviersauvage.com/2026/04/09/nouveautes-de-google-vids-generation-ia-personnalisation-musique/",
+      "pubDate": "2026-04-09T05:53:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8ca464fcc139",
       "title": "Un ransomware frappe le logiciel de dossiers patients de 80 % des hôpitaux néerlandais",
       "description": "ChipSoft, l'éditeur qui fournit le logiciel de dossiers médicaux à environ 80 % des hôpitaux aux Pays-Bas, vient d'être touché par un ransomware. Le site de l'entreprise est hors ligne depuis le 7 avril, et on ne sait pas encore si des données de patients ont été volées. Ce qu'il s'est passé…",
