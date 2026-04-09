@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c500640ba812",
+      "title": "DARPA investit dans une batterie radioactive capable d'alimenter un PC portable pendant des mois",
+      "description": "La DARPA vient de confier 5,2 millions de dollars à la startup Avalanche Energy pour développer une batterie à base de particules alpha. L'objectif : créer une source d'énergie compacte de quelques kilos, capable d'alimenter un ordinateur pendant des mois, destinée aux missions spatiales et…",
+      "link": "https://korben.info/darpa-investit-dans-une-batterie-radioactive-capable-dalimenter-un-pc-portable-pendant-des-mois.html",
+      "pubDate": "2026-04-09T09:48:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cb3c6ec2f2c0",
       "title": "Votre pipeline CI/CD GitLab a-t-il des fuites",
       "description": "Si vous bossez avec le CI/CD de GitLab, y'a un angle mort que vous n'avez probablement jamais vérifié : La config de votre pipeline elle-même. Celle qui décide quelles images faire tourner et quels secrets exposer sans oublier les jobs à lancer. Et ça personne ne la scanne ! C'est d'ailleurs…",
