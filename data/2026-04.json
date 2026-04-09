@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "af094e966c8e",
+      "title": "TriliumNext Notes - Vos notes, votre serveur, zéro cloud",
+      "description": "Entre Notion qui vous enferme dans son cloud, Obsidian qui facture la synchro dans son cloud 48 dollars par an et Evernote qui est devenu l'ombre de lui-même... trouver un outil de notes qui tourne chez vous sans dépendre de personne, c'est devenu la quête du Graal. Mais heureusement, TriliumNext…",
+      "link": "https://korben.info/trilium-notes-wiki-personnel-self-hosted.html",
+      "pubDate": "2026-04-09T15:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/trilium-notes-wiki-personnel-self-hosted/trilium-notes-wiki-personnel-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
       "id": "526d422bffdf",
       "title": "Redox OS, le système d'exploitation écrit en Rust, interdit le code généré par IA",
       "description": "Redox OS vient de publier son dernier rapport d'avancement et il y a du nouveau. En plus des progrès sur les pilotes graphiques et le bureau COSMIC, le projet open source a adopté une politique stricte : toute contribution générée par une intelligence artificielle sera refusée et son auteur banni.…",
