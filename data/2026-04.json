@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "4e774cb89139",
+      "title": "Amazon coupe l'accès à la boutique Kindle sur certaines de ces liseuses",
+      "description": "– Contient des liens affiliés Amazon – Amazon va mettre fin au support de ses liseuses Kindle et tablettes Kindle Fire sorties en 2012 ou avant. A partir du 20 mai, ces appareils ne pourront plus acheter, emprunter ou télécharger de nouveaux livres. Seuls les ouvrages déjà présents sur l'appareil…",
+      "link": "https://korben.info/amazon-coupe-lacces-a-la-boutique-kindle-sur-certaines-de-ces-liseuses.html",
+      "pubDate": "2026-04-09T07:53:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f796b1c5f9a1",
+      "title": "AIDGE - Du deep learning sur vos microcontrôleurs",
+      "description": "L'IA embarquée, c'est pas juste un buzzword de salon type CES. C'est vraiment ce qui fait que votre voiture freine toute seule, que votre drone évite les arbres et que votre prothèse auditive filtre le bruit en temps réel. Sauf que pour déployer un réseau de neurones sur un microcontrôleur de 256…",
+      "link": "https://korben.info/aidge-framework-ia-embarquee-cea-2.html",
+      "pubDate": "2026-04-09T07:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/aidge-framework-ia-embarquee-cea-2/aidge-framework-ia-embarquee-cea-2-2.png",
+      "type": "blog"
+    },
+    {
       "id": "b9866e552e64",
       "title": "Nouveautés de Google Vids : génération IA, personnalisation, musique",
       "description": "Google Vids révolutionne la création vidéo avec l'IA Lyria 3 et Veo 3.1. Génération de vidéos gratuite, musique personnalisée, avatars IA personnalisables : découvrez les nouvelles fonctionnalités qui rendent la création vidéo plus accessible et créative que jamais pour tous les utilisateurs de…",
@@ -11,6 +41,21 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c679106ebb0",
+      "title": "Google Chrome adopte enfin les onglets verticaux",
+      "description": "Google vient d'annoncer l'arrivée des onglets verticaux dans Chrome sur ordinateur. Une fonction que des navigateurs comme Edge ou Arc proposaient depuis des années, et qui arrive avec un mode lecture plein écran revu. Comment ça marche L'option est désactivée par défaut. Pour l'activer, il suffit…",
+      "link": "https://korben.info/google-chrome-adopte-enfin-les-onglets-verticaux.html",
+      "pubDate": "2026-04-08T15:18:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
