@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "cb3c6ec2f2c0",
+      "title": "Votre pipeline CI/CD GitLab a-t-il des fuites",
+      "description": "Si vous bossez avec le CI/CD de GitLab, y'a un angle mort que vous n'avez probablement jamais vérifié : La config de votre pipeline elle-même. Celle qui décide quelles images faire tourner et quels secrets exposer sans oublier les jobs à lancer. Et ça personne ne la scanne ! C'est d'ailleurs…",
+      "link": "https://korben.info/plumber-scanner-securite-pipelines-cicd.html",
+      "pubDate": "2026-04-09T09:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/plumber-scanner-securite-pipelines-cicd/plumber-scanner-securite-pipelines-cicd-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "4e774cb89139",
       "title": "Amazon coupe l'accès à la boutique Kindle sur certaines de ces liseuses",
       "description": "– Contient des liens affiliés Amazon – Amazon va mettre fin au support de ses liseuses Kindle et tablettes Kindle Fire sorties en 2012 ou avant. A partir du 20 mai, ces appareils ne pourront plus acheter, emprunter ou télécharger de nouveaux livres. Seuls les ouvrages déjà présents sur l'appareil…",
