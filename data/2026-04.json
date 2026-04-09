@@ -2,6 +2,66 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "526d422bffdf",
+      "title": "Redox OS, le système d'exploitation écrit en Rust, interdit le code généré par IA",
+      "description": "Redox OS vient de publier son dernier rapport d'avancement et il y a du nouveau. En plus des progrès sur les pilotes graphiques et le bureau COSMIC, le projet open source a adopté une politique stricte : toute contribution générée par une intelligence artificielle sera refusée et son auteur banni.…",
+      "link": "https://korben.info/redox-os-le-systeme-dexploitation-ecrit-en-rust-interdit-le-code-genere-par-ia.html",
+      "pubDate": "2026-04-09T13:41:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4eb4ec80bc59",
+      "title": "Tasket++ - Automatisez vos clics sans écrire une ligne",
+      "description": "Simuler des clics, des frappes clavier, planifier l'extinction du PC ou prendre des screenshots en boucle, tout ça sans écrire une seule ligne de code... c'est ce que propose Tasket++ , un petit outil open source développé par un dev français. En gros, c'est un planificateur d'actions utilisateur…",
+      "link": "https://korben.info/tasket-plus-plus-automatiser-actions-windows.html",
+      "pubDate": "2026-04-09T13:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/tasket-plus-plus-automatiser-actions-windows/tasket-plus-plus-automatiser-actions-windows-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b37288b741ba",
+      "title": "Un développeur a réussi à faire tourner Mac OS X sur une Nintendo Wii",
+      "description": "Bryan Keller vient de publier le résultat d'un projet un peu fou : il a porté Mac OS X 10.0 Cheetah sur la Nintendo Wii. La console de 2006 démarre sur le bureau Aqua avec clavier et souris USB. C'est lent, c'est limité, mais ça marche. Pourquoi c'est possible La Wii utilise un processeur PowerPC…",
+      "link": "https://korben.info/un-developpeur-a-reussi-a-faire-tourner-mac-os-x-sur-une-nintendo-wii.html",
+      "pubDate": "2026-04-09T13:14:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f5df3dd531be",
+      "title": "Ce fabricant de tracteurs accepte de payer 99 millions de dollars pour le droit à la réparation",
+      "description": "Le fabricant de tracteurs John Deere vient de signer un accord à 99 millions de dollars pour régler un recours collectif lié au droit à la réparation. L'entreprise devra aussi fournir pendant dix ans les outils logiciels permettant aux agriculteurs de réparer leurs machines eux-mêmes. Un dossier…",
+      "link": "https://korben.info/ce-fabricant-de-tracteurs-accepte-de-payer-99-millions-de-dollars-pour-le-droit-a-la-reparation.html",
+      "pubDate": "2026-04-09T12:48:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f366558b3715",
       "title": "Pour améliorer votre notoriété d’entreprise, arrêtez de mesurer vos clics !",
       "description": "Le parcours client évolue avec l'IA. Découvrez le nouveau modèle centré sur l'exposition, la mémorisation et le retour. Comprenez les limites des métriques traditionnelles et adaptez votre approche pour influencer les décisions des consommateurs à l'ère de l'intelligence artificielle. L’article…",
