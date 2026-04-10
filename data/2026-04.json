@@ -2,6 +2,68 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "0be9d58f0f4c",
+      "title": "Des hackers iraniens s'attaquent aux usines et stations d'eau américaines",
+      "description": "Le FBI, la CISA, la NSA, l'EPA, le département de l'Énergie et le Cyber Command américain ont publié un avis conjoint qui ne laisse pas beaucoup de place au doute. Des hackers affiliés à l'Iran ciblent activement les automates programmables connectés à internet sur le sol américain. Plus…",
+      "link": "https://korben.info/des-hackers-iraniens-sattaquent-aux-usines-et-stations-deau-americaines.html",
+      "pubDate": "2026-04-10T09:57:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cedd07cf3a1e",
+      "title": "Surfshark VPN : ce que l'outil fait vraiment, et ce qu'il ne fait pas",
+      "description": "-- Article en partenariat avec Surfshark -- On voit passer beaucoup d'affirmations sur les VPN. Certains promettent l'anonymat total. D'autres vendent l'idée qu'un simple clic suffit pour devenir invisible. La réalité est plus nuancée, et c'est tant mieux : comprendre les limites d'un outil, c'est…",
+      "link": "https://korben.info/surfshark-vpn-ce-quil-ne-fait-pas.html",
+      "pubDate": "2026-04-10T09:36:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/surfshark-vpn-ce-quil-ne-fait-pas/surfshark-vpn-ce-quil-ne-fait-pas-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ae7fc46bcd50",
+      "title": "ONNX : Le format universel pour déployer vos modèles ML",
+      "description": "ONNX : le format open source pour déployer vos modèles ML en production. Interopérabilité, performance, limites et cas d'usage.",
+      "link": "https://blog.ippon.fr/2026/04/10/onnx-le-format-universel-pour-deployer-vos-modeles-ml/",
+      "pubDate": "2026-04-10T09:33:33.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/Image1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d550ba3ebde9",
+      "title": "Mais pourquoi l'Electronic Frontier Foundation quitte X ?",
+      "description": "L'Electronic Frontier Foundation, la plus grosse association américaine de défense des droits numériques, a annoncé qu'elle quittait X. Après presque vingt ans sur la plateforme, l'organisation estime que le réseau ne remplit plus son rôle. Le départ a été officialisé le 9 avril. Les chiffres sont…",
+      "link": "https://korben.info/mais-pourquoi-lelectronic-frontier-foundation-quitte-x.html",
+      "pubDate": "2026-04-10T08:55:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "93c89abec3b9",
       "title": "Loi Sûre - Le FNAEG veut puiser dans l'ADN récréatif américain",
       "description": "Gérald Darmanin veut que la France aille puiser dans les ADN stockés chez les sociétés américaines de tests récréatifs pour faire tourner le FNAEG. Rien que ça !! Ces tests sont pourtant interdits dans l'Hexagone depuis belle lurette, et la fiabilité de ces boîtes est tellement douteuse qu'elles…",
