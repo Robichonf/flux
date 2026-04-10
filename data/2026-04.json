@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "d839eb831e54",
+      "title": "La Corée du Sud impose un accès mobile universel à ses opérateurs",
+      "description": "Le ministère sud-coréen des Sciences vient d'annoncer un programme d'accès mobile universel. Le principe : une fois votre forfait data épuisé, vous ne tombez plus dans le néant. Les trois opérateurs du pays (SK Telecom, KT et LG Uplus) devront fournir un débit illimité à 400 kbps à tous leurs…",
+      "link": "https://korben.info/la-coree-du-sud-impose-un-acces-mobile-universel-a-ses-operateurs.html",
+      "pubDate": "2026-04-10T07:30:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "77268bbf9e35",
       "title": "[Test] GL.iNet Comet PoE (GL-RM1PE)\nLe KVM IP qui m'a sauvé d'une catastrophe",
       "description": "Le GL.iNet Comet PoE, c'est l'accès BIOS, clavier et écran à distance sur n'importe quelle machine sans IPMI. Test et retour d'expérience après quelques semaines.",
