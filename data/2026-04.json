@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "dbe96dc64c99",
+      "title": "xAI attaque le Colorado en justice pour bloquer sa loi anti-discrimination sur l'IA",
+      "description": "xAI vient de déposer plainte devant un tribunal fédéral du Colorado pour faire annuler le SB 24-205, une loi qui doit entrer en vigueur le 30 juin prochain. Ce texte impose aux développeurs de systèmes d'IA \"à haut risque\" de mettre en place des garde-fous contre les discriminations algorithmiques.…",
+      "link": "https://korben.info/xai-attaque-le-colorado-en-justice-pour-bloquer-sa-loi-anti-discrimination-sur-lia.html",
+      "pubDate": "2026-04-10T13:08:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0be9d58f0f4c",
       "title": "Des hackers iraniens s'attaquent aux usines et stations d'eau américaines",
       "description": "Le FBI, la CISA, la NSA, l'EPA, le département de l'Énergie et le Cyber Command américain ont publié un avis conjoint qui ne laisse pas beaucoup de place au doute. Des hackers affiliés à l'Iran ciblent activement les automates programmables connectés à internet sur le sol américain. Plus…",
