@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "77268bbf9e35",
+      "title": "[Test] GL.iNet Comet PoE (GL-RM1PE)\nLe KVM IP qui m'a sauvé d'une catastrophe",
+      "description": "Le GL.iNet Comet PoE, c'est l'accès BIOS, clavier et écran à distance sur n'importe quelle machine sans IPMI. Test et retour d'expérience après quelques semaines.",
+      "link": "https://domopi.eu/test-gl-inet-comet-poe-gl-rm1pe-le-kvm-ip-qui-ma-sauve-dune-catastrophe-guilla/",
+      "pubDate": "2026-04-10T05:45:24.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/photo_2026-03-16_21-37-16.jpg",
+      "type": "blog"
+    },
+    {
       "id": "af094e966c8e",
       "title": "TriliumNext Notes - Vos notes, votre serveur, zéro cloud",
       "description": "Entre Notion qui vous enferme dans son cloud, Obsidian qui facture la synchro dans son cloud 48 dollars par an et Evernote qui est devenu l'ombre de lui-même... trouver un outil de notes qui tourne chez vous sans dépendre de personne, c'est devenu la quête du Graal. Mais heureusement, TriliumNext…",
