@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "7df6a5b97ae5",
+      "title": "Allformusic - Écoutez YouTube écran éteint (et c'est gratuit)",
+      "description": "Google déteste que vous écoutiez YouTube gratuitement en arrière-plan. C'est comme ça depuis des années, et ça empire... Par exemple, vous verrouillez l'écran 2 secondes et pouf, plus de son. YouTube Premium coûte dans les 13 balles par mois pour débloquer ça, ce qui fait quand même plus de 150…",
+      "link": "https://korben.info/allformusic-ecouter-youtube-arriere-plan.html",
+      "pubDate": "2026-04-11T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "dbe96dc64c99",
       "title": "xAI attaque le Colorado en justice pour bloquer sa loi anti-discrimination sur l'IA",
       "description": "xAI vient de déposer plainte devant un tribunal fédéral du Colorado pour faire annuler le SB 24-205, une loi qui doit entrer en vigueur le 30 juin prochain. Ce texte impose aux développeurs de systèmes d'IA \"à haut risque\" de mettre en place des garde-fous contre les discriminations algorithmiques.…",
