@@ -17,6 +17,22 @@
       "type": "blog"
     },
     {
+      "id": "9a4c02c73332",
+      "title": "Podman avec des Quadlets + GitOps avec Materia",
+      "description": "Comment migrer ses docker-compose vers des quadlets Podman gérés par systemd, en passant par podlet pour la conversion et Materia pour le GitOps.",
+      "link": "https://une-tasse-de.cafe/blog/podlet/",
+      "pubDate": "2026-04-11T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "dbe96dc64c99",
       "title": "xAI attaque le Colorado en justice pour bloquer sa loi anti-discrimination sur l'IA",
       "description": "xAI vient de déposer plainte devant un tribunal fédéral du Colorado pour faire annuler le SB 24-205, une loi qui doit entrer en vigueur le 30 juin prochain. Ce texte impose aux développeurs de systèmes d'IA \"à haut risque\" de mettre en place des garde-fous contre les discriminations algorithmiques.…",
