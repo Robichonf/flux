@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "681810708f06",
+      "title": "Obsidian - Prenez vos notes sans dépendre de personne",
+      "description": "Y'a des outils tellement évidents qu'on oublie d'en parler. Obsidian , j'en ai mentionné l'écosystème plusieurs fois sur le blog, le CLI , le TUI Basalt ... mais j'ai jamais pris le temps de vous le présenter correctement. Alors aujourd'hui, je vais réparer ça. Obsidiant, c'est donc un éditeur de…",
+      "link": "https://korben.info/obsidian-editeur-notes-markdown.html",
+      "pubDate": "2026-04-12T07:34:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/obsidian-editeur-notes-markdown/obsidian-editeur-notes-markdown-2.png",
+      "type": "blog"
+    },
+    {
       "id": "7df6a5b97ae5",
       "title": "Allformusic - Écoutez YouTube écran éteint (et c'est gratuit)",
       "description": "Google déteste que vous écoutiez YouTube gratuitement en arrière-plan. C'est comme ça depuis des années, et ça empire... Par exemple, vous verrouillez l'écran 2 secondes et pouf, plus de son. YouTube Premium coûte dans les 13 balles par mois pour débloquer ça, ce qui fait quand même plus de 150…",
