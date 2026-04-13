@@ -2,6 +2,22 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "2bb645eec6db",
+      "title": "Le renouveau de l'Analyste Programmeur ?",
+      "description": "En 2003, je suis sorti d’IUT avec mon DUT d’ingénierie logicielle en poche et avec le titre d’Analyste Programmeur. Et pendant les années suivantes, peut-être même pendant la moitié ou les deux tiers de ma carrière, j’ai fait beaucoup de programmation et assez peu d’analyse.",
+      "link": "https://blog.pascal-martin.fr/post/le-renouveau-de-analyste-programmeur/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/le-renouveau-de-analyste-programmeur/",
+      "pubDate": "2026-04-13T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "681810708f06",
       "title": "Obsidian - Prenez vos notes sans dépendre de personne",
       "description": "Y'a des outils tellement évidents qu'on oublie d'en parler. Obsidian , j'en ai mentionné l'écosystème plusieurs fois sur le blog, le CLI , le TUI Basalt ... mais j'ai jamais pris le temps de vous le présenter correctement. Alors aujourd'hui, je vais réparer ça. Obsidiant, c'est donc un éditeur de…",
