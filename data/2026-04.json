@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "f669c89d720f",
+      "title": "Rockstar Games piraté via Anodot, ShinyHunters demande une rançon",
+      "description": "Le groupe de hackers ShinyHunters affirme avoir piraté Rockstar Games. Ils menacent de publier tous les documents confidentiels volés sur le dark web si le studio ne leur verse pas de rançon. Le message des hackers est clair : \"Pay or leak.\" Les pirates ne sont pas entrés chez Rockstar par la…",
+      "link": "https://korben.info/rockstar-games-pirate-via-anodot-shinyhunters-demande-une-rancon.html",
+      "pubDate": "2026-04-13T14:54:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3324ae7f3f30",
+      "title": "Meta développe un clone IA de Mark Zuckerberg pour discuter avec ses employés",
+      "description": "Mark Zuckerberg veut que ses salariés puissent lui parler même quand il n'est pas là. Meta travaille sur une version IA photoréaliste et animée de son patron, entraînée sur sa voix, son image, ses manies et ses déclarations publiques. Le projet est encore au stade précoce, mais Zuck s'implique à…",
+      "link": "https://korben.info/meta-developpe-un-clone-ia-de-mark-zuckerberg-pour-discuter-avec-ses-employes.html",
+      "pubDate": "2026-04-13T14:26:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f4f6b5dc30ab",
+      "title": "Parier sur la météo, le nouveau business qui inquiète les climatologues",
+      "description": "Plus de 230 millions de dollars. C'est ce qui a été misé sur le climat et la météo via Kalshi depuis juillet 2021, dont plus de la moitié rien que sur les neuf premiers mois de 2025. La plateforme américaine de marchés de prédiction laisse ses utilisateurs acheter des contrats \"oui\" ou \"non\" sur la…",
+      "link": "https://korben.info/parier-sur-la-meteo-le-nouveau-business-qui-inquiete-les-climatologues.html",
+      "pubDate": "2026-04-13T13:59:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "57f723c402ba",
       "title": "Le Japon lance son IA souveraine avec 8 géants industriels",
       "description": "Gros chantier IA au Japon. SoftBank a pris la tête d'un consortium qui réunit sept autres poids lourds nationaux : NEC, Honda, Sony, trois banques (MUFG, Sumitomo Mitsui, Mizuho) et deux sidérurgistes (Nippon Steel, Kobe Steel). L'objectif : monter une nouvelle société dédiée à la construction…",
