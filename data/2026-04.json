@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "57f723c402ba",
+      "title": "Le Japon lance son IA souveraine avec 8 géants industriels",
+      "description": "Gros chantier IA au Japon. SoftBank a pris la tête d'un consortium qui réunit sept autres poids lourds nationaux : NEC, Honda, Sony, trois banques (MUFG, Sumitomo Mitsui, Mizuho) et deux sidérurgistes (Nippon Steel, Kobe Steel). L'objectif : monter une nouvelle société dédiée à la construction…",
+      "link": "https://korben.info/le-japon-lance-son-ia-souveraine-avec-8-geants-industriels.html",
+      "pubDate": "2026-04-13T12:39:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2f2a60ebecc0",
       "title": "Un journaliste de Bloomberg a préparé le marathon de Paris avec ChatGPT pour seul coach",
       "description": "9 kilos en moins. Ses meilleurs chronos de sa vie sur 5 et 10 km. Et la meilleure forme depuis au moins une décennie. Voilà le bilan que Derek Wallbank, rédacteur en chef chez Bloomberg, affichait à la veille du marathon de Paris, qu'il a couru hier. Son coach pendant ces douze mois de préparation…",
