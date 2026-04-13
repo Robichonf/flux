@@ -2,6 +2,38 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "7668eac678a7",
+      "title": "micasa - Gérez toute votre maison depuis le terminal",
+      "description": "Si vous êtes du genre à tracker vos serveurs, vos containers et vos tâches cron depuis un terminal, vous vous êtes peut-être déjà dit que votre baraque méritait le même traitement, non ? Hé bien c'est exactement ce que propose micasa , une appli en Go qui transforme votre console en tableau de bord…",
+      "link": "https://korben.info/micasa-gestion-maison-terminal.html",
+      "pubDate": "2026-04-13T07:15:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "57e706853519",
+      "title": "Accessibilité numérique : évolution du RGAA",
+      "description": "Le RGAA version 5 arrive et initie un changement de paradigme pour les équipes Produit. Découvrez comment anticiper ses nouvelles exigences.",
+      "link": "https://blog.ippon.fr/2026/04/13/accessibilite-numerique-evolution-du-rgaa/",
+      "pubDate": "2026-04-13T07:00:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/accessibilite---nume--rique.png",
+      "type": "blog"
+    },
+    {
       "id": "2bb645eec6db",
       "title": "Le renouveau de l'Analyste Programmeur ?",
       "description": "En 2003, je suis sorti d’IUT avec mon DUT d’ingénierie logicielle en poche et avec le titre d’Analyste Programmeur. Et pendant les années suivantes, peut-être même pendant la moitié ou les deux tiers de ma carrière, j’ai fait beaucoup de programmation et assez peu d’analyse.",
