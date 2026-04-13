@@ -2,6 +2,22 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "4d9c68d06f2e",
+      "title": "Comparez deux arborescences avec diff, confortablement avec riff",
+      "description": "En migrant des projets d’une instance Gitlab à une autre pour un client, j’ai eu à adapter les pipelines Gitlab-CI qui étaient définis, les runners [...]",
+      "link": "https://blog.seboss666.info/2026/04/comparez-deux-arborescences-avec-diff-confortablement-avec-riff/",
+      "pubDate": "2026-04-13T17:22:37.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2026/03/diff_spiderman.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f669c89d720f",
       "title": "Rockstar Games piraté via Anodot, ShinyHunters demande une rançon",
       "description": "Le groupe de hackers ShinyHunters affirme avoir piraté Rockstar Games. Ils menacent de publier tous les documents confidentiels volés sur le dark web si le studio ne leur verse pas de rançon. Le message des hackers est clair : \"Pay or leak.\" Les pirates ne sont pas entrés chez Rockstar par la…",
@@ -121,6 +137,22 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/04/accessibilite---nume--rique.png",
+      "type": "blog"
+    },
+    {
+      "id": "8a24179a0b65",
+      "title": "Mon expérience pour devenir Kubestronaut",
+      "description": "Après plus d'un an à travailler sur mes certifications et l'obtention du titre de kubestronaut, je suis ravi de partager mon expérience avec vous.",
+      "link": "https://une-tasse-de.cafe/blog/kubestronaut/",
+      "pubDate": "2026-04-13T01:18:18.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
