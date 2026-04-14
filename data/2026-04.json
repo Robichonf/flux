@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ccba800d1617",
+      "title": "Quatre bugs Microsoft ressortent du placard, dont un de 14 ans",
+      "description": "Une vulnérabilité Microsoft patchée en 2012, deux fois, refait surface en 2026 dans des attaques actives. Elle fait partie des quatre failles que la CISA a collées lundi dans son catalogue des bugs activement exploités, avec obligation pour les agences fédérales américaines de patcher sous deux…",
+      "link": "https://korben.info/quatre-bugs-microsoft-ressortent-du-placard-dont-un-de-14-ans.html",
+      "pubDate": "2026-04-14T08:46:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2571b2fa126f",
+      "title": "llmfit - L'outil qui sait quel LLM votre PC peut encaisser",
+      "description": "Vous avez un super GPU de la mort qui tue et vous voulez faire tourner un modèle d'IA en local, mais entre la VRAM dispo, la quantification qui change tout et les 500 modèles existant... c'est tout simplement le bordel pour savoir lequel va passer crèèème sans faire ramer votre machine. On galère…",
+      "link": "https://korben.info/llmfit-trouver-llm-compatible-hardware.html",
+      "pubDate": "2026-04-14T07:05:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/llmfit-trouver-llm-compatible-hardware/llmfit-trouver-llm-compatible-hardware-2.png",
+      "type": "blog"
+    },
+    {
       "id": "4d9c68d06f2e",
       "title": "Comparez deux arborescences avec diff, confortablement avec riff",
       "description": "En migrant des projets d’une instance Gitlab à une autre pour un client, j’ai eu à adapter les pipelines Gitlab-CI qui étaient définis, les runners [...]",
