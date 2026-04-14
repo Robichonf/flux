@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1109269da018",
+      "title": "Test de la batterie externe Anker 25 000 mAh avec DEUX câbles USB intégrés",
+      "description": "– Contient des liens affiliés Amazon – Deux câbles intégrés ? C'est ce qui fait toute la différence sur cette batterie externe Anker de 25 000 mAh, vendue sur Amazon . Un câble rétractable de 70 centimètres, un second de 30 centimètres qui sert aussi de lanière de portage, et 165 watts de puissance…",
+      "link": "https://korben.info/test-de-la-batterie-externe-anker-25-000-mah-avec-deux-cables-usb-integres.html",
+      "pubDate": "2026-04-14T15:35:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-de-la-batterie-externe-anker-25-000-mah-avec-deux-cables-usb-integres/test-de-la-batterie-externe-anker-25-000-mah-avec-deux-cables-usb-integres-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dd0c3014b460",
+      "title": "Stop Killing Games pousse une loi californienne contre les jeux tués par leurs éditeurs",
+      "description": "Le mouvement Stop Killing Games a officialisé son soutien à la Protect Our Games Act, un projet de loi californien qu'il a contribué à rédiger avec le député américain Chris Ward. Le texte a été déposé sous la référence AB-1921 (\"Digital games: ordinary use\"), et il cible directement un des points…",
+      "link": "https://korben.info/stop-killing-games-pousse-une-loi-californienne-contre-les-jeux-tues-par-leurs-editeurs.html",
+      "pubDate": "2026-04-14T14:17:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "473b0a700258",
+      "title": "OBS Studio 32.1 est de sortie avec un nouveau mixeur audio et débloque le simulcast WebRTC",
+      "description": "OBS Studio 32.1 est donc disponible, environ cinq mois après la 32.0, avec deux changements structurants pour les streamers et créateurs de contenu. Tout d'abord, un mixeur audio entièrement repensé. Ensuite le support du simulcast WebRTC, qui change la donne pour quiconque diffuse en WHIP. Le…",
+      "link": "https://korben.info/obs-studio-32-1-est-de-sortie-avec-un-nouveau-mixeur-audio-et-debloque-le-simulcast-webrtc.html",
+      "pubDate": "2026-04-14T13:59:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "830e1419bda0",
       "title": "Linux 7.0 débarque avec un XFS qui se répare tout seul",
       "description": "Linus Torvalds a officialisé Linux 7.0 le 12 avril, et le passage à la version 7 a d’ailleurs été expliquée. Torvalds a dit dans son mail de release qu'il préférait simplement incrémenter le numéro majeur quand les mineures dépassaient la dizaine, histoire de ne pas se retrouver avec un Linux 6.23.…",
