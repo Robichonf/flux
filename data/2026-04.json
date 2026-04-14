@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "830e1419bda0",
+      "title": "Linux 7.0 débarque avec un XFS qui se répare tout seul",
+      "description": "Linus Torvalds a officialisé Linux 7.0 le 12 avril, et le passage à la version 7 a d’ailleurs été expliquée. Torvalds a dit dans son mail de release qu'il préférait simplement incrémenter le numéro majeur quand les mineures dépassaient la dizaine, histoire de ne pas se retrouver avec un Linux 6.23.…",
+      "link": "https://korben.info/linux-7-0-debarque-avec-un-xfs-qui-se-repare-tout-seul.html",
+      "pubDate": "2026-04-14T11:51:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e339fb1162b0",
+      "title": "Cloudflare refond son CLI Wrangler parce que ses clients principaux sont désormais des agents IA",
+      "description": "Figurez-vous que les agents IA sont désormais les premiers consommateurs des APIs Cloudflare, bien devant les développeurs humains. C'est en tous cas ce que l'éditeur déclare publiquement pour justifier une refonte importante de son outil en ligne de commande, Wrangler, et la sortie d'un nouveau…",
+      "link": "https://korben.info/cloudflare-refond-son-cli-wrangler-parce-que-ses-clients-principaux-sont-desormais-des-agents-ia.html",
+      "pubDate": "2026-04-14T11:26:10.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "72dcec2bc4b2",
       "title": "Un faux leader Linux Foundation sur Slack, mais une vraie arnaque derrière",
       "description": "Des attaquants se sont fait passer pour un responsable connu de la Linux Foundation sur le Slack du TODO Group, un groupe de travail dédié aux bureaux de programmes open source. L'objectif, piéger les développeurs en les amenant à cliquer sur un lien d'apparence officielle, puis à installer un faux…",
