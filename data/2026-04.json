@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "72dcec2bc4b2",
+      "title": "Un faux leader Linux Foundation sur Slack, mais une vraie arnaque derrière",
+      "description": "Des attaquants se sont fait passer pour un responsable connu de la Linux Foundation sur le Slack du TODO Group, un groupe de travail dédié aux bureaux de programmes open source. L'objectif, piéger les développeurs en les amenant à cliquer sur un lien d'apparence officielle, puis à installer un faux…",
+      "link": "https://korben.info/un-faux-leader-linux-foundation-sur-slack-mais-une-vraie-arnaque-derriere.html",
+      "pubDate": "2026-04-14T09:52:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ccba800d1617",
       "title": "Quatre bugs Microsoft ressortent du placard, dont un de 14 ans",
       "description": "Une vulnérabilité Microsoft patchée en 2012, deux fois, refait surface en 2026 dans des attaques actives. Elle fait partie des quatre failles que la CISA a collées lundi dans son catalogue des bugs activement exploités, avec obligation pour les agences fédérales américaines de patcher sous deux…",
