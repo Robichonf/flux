@@ -2,6 +2,23 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "bfde26595c17",
+      "title": "Ce que le AWS Summit 2026 nous apprend sur le futur du DevOps",
+      "description": "Retour sur l’AWS Summit 2026 : IA agentique, Amazon EKS, DevOps, souveraineté et innovations cloud qui transforment les architectures modernes.",
+      "link": "https://blog.ippon.fr/2026/04/15/ce-que-le-aws-summit-2026-nous-apprend-sur-le-futur-du-devops/",
+      "pubDate": "2026-04-15T11:38:51.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/Capture-d---e--cran-2026-04-01-a---13.59.56.png",
+      "type": "blog"
+    },
+    {
       "id": "1e47b530da79",
       "title": "GPT-5.4-Cyber, le modèle de cybersécurité qu'OpenAI ne veut pas ouvrir à tout le monde",
       "description": "Le sujet central du lancement de GPT-5.4-Cyber, c'est moins le modèle que le mécanisme d'accès. OpenAI a annoncé une version fine-tunée de GPT-5.4 dédiée aux cas d'usage cybersécurité, avec une particularité assumée : moins de restrictions sur les capacités du modèle, mais accès réservé aux…",
@@ -89,6 +106,23 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "899557651d48",
+      "title": "9 devs, 3 équipes, 2 heures : on a fait un hackathon 100% Vibes Coding",
+      "description": "Pour clôturer deux jours de formation sur Claude Code en séminaire, on a organisé une soirée hackathon avec des thèmes absurdes, des contraintes tirées au sort et une seule consigne : Vibes Coding. 9 devs, des pizzas, et un Deliveroo pour écureuils. Retour d'expérience sur un format à reproduire…",
+      "link": "https://yoandev.co/hackathon-vibes-coding",
+      "pubDate": "2026-04-15T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/20260319.BgUMilYe_8wdWs.webp",
       "type": "blog"
     },
     {
