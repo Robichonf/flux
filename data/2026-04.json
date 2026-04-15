@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c2d94741e2c9",
+      "title": "Firefox Nightly accueille enfin l'API Web Serial, six ans après l'avoir refusée",
+      "description": "Six ans. C'est le temps qu'il aura fallu à Mozilla pour changer d'avis sur l'API Web Serial. Firefox Nightly 151 l'intègre désormais, avec activation via un flag à aller chercher dans le menu. Le premier commit côté code date de mi-janvier, et le déploiement pour les utilisateurs Nightly est…",
+      "link": "https://korben.info/firefox-nightly-accueille-enfin-lapi-web-serial-six-ans-apres-lavoir-refusee.html",
+      "pubDate": "2026-04-15T08:22:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6857ace1ece1",
       "title": "Apple a menacé de virer Grok de l'App Store à cause des deepfakes publiés sur X",
       "description": "Une lettre d'Apple adressée à des sénateurs américains, obtenue par NBC News, révèle qu'Apple a menacé xAI en janvier de retirer Grok de l'App Store si l'entreprise ne bloquait pas sérieusement la génération de deepfakes sexualisés. La menace est restée relativement discrète à l'époque, mais le…",
