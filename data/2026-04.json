@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "6857ace1ece1",
+      "title": "Apple a menacé de virer Grok de l'App Store à cause des deepfakes publiés sur X",
+      "description": "Une lettre d'Apple adressée à des sénateurs américains, obtenue par NBC News, révèle qu'Apple a menacé xAI en janvier de retirer Grok de l'App Store si l'entreprise ne bloquait pas sérieusement la génération de deepfakes sexualisés. La menace est restée relativement discrète à l'époque, mais le…",
+      "link": "https://korben.info/apple-a-menace-de-virer-grok-de-lapp-store-a-cause-des-deepfakes-publies-sur-x.html",
+      "pubDate": "2026-04-15T07:38:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe268c091da2",
+      "title": "Iron Wolf - Wolfenstein 3D recréé en Rust et jouable en ligne",
+      "description": "Wolfenstein 3D, pour ceux qui n'étaient pas nés en 1992, c'est le FPS qui a tout lancé. Le jeu de Carmack et sa bande chez id Software, qui a directement mené à DOOM l'année suivante. Hé bien un dev Rust vient de le recréer de zéro, et c'est 100% jouable dans le navigateur. Iron Wolf , c'est donc…",
+      "link": "https://korben.info/iron-wolf-wolfenstein-3d-rust.html",
+      "pubDate": "2026-04-15T07:23:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/iron-wolf-wolfenstein-3d-rust/iron-wolf-wolfenstein-3d-rust-2.png",
+      "type": "blog"
+    },
+    {
       "id": "43e402719b33",
       "title": "Liens Tech - Avril 2026",
       "description": "La sélection d'avril : notes Markdown, gestion Docker, Kanban, des sauvegardes Restic, LLM local et un éditeur visuel pour Home Assistant.",
