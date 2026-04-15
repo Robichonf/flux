@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "43e402719b33",
+      "title": "Liens Tech - Avril 2026",
+      "description": "La sélection d'avril : notes Markdown, gestion Docker, Kanban, des sauvegardes Restic, LLM local et un éditeur visuel pour Home Assistant.",
+      "link": "https://domopi.eu/liens-tech-avril-2026/",
+      "pubDate": "2026-04-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "1109269da018",
       "title": "Test de la batterie externe Anker 25 000 mAh avec DEUX câbles USB intégrés",
       "description": "– Contient des liens affiliés Amazon – Deux câbles intégrés ? C'est ce qui fait toute la différence sur cette batterie externe Anker de 25 000 mAh, vendue sur Amazon . Un câble rétractable de 70 centimètres, un second de 30 centimètres qui sert aussi de lanière de portage, et 165 watts de puissance…",
