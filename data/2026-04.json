@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1e47b530da79",
+      "title": "GPT-5.4-Cyber, le modèle de cybersécurité qu'OpenAI ne veut pas ouvrir à tout le monde",
+      "description": "Le sujet central du lancement de GPT-5.4-Cyber, c'est moins le modèle que le mécanisme d'accès. OpenAI a annoncé une version fine-tunée de GPT-5.4 dédiée aux cas d'usage cybersécurité, avec une particularité assumée : moins de restrictions sur les capacités du modèle, mais accès réservé aux…",
+      "link": "https://korben.info/gpt-5-4-cyber-le-modele-de-cybersecurite-quopenai-ne-veut-pas-ouvrir-a-tout-le-monde.html",
+      "pubDate": "2026-04-15T10:21:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c05e5e3d9622",
+      "title": "Google sort une app Windows pour faire du Spotlight sur son PC",
+      "description": "L'app desktop Google est officiellement disponible sur Windows 10 et supérieur, dans le monde entier (en anglais pour l'instant), avec un raccourci Alt+Espace qui fait popper une barre de recherche unifiée. Web, Google Drive, fichiers locaux, apps installées, tout est cherchable depuis la même…",
+      "link": "https://korben.info/google-sort-une-app-windows-pour-faire-du-spotlight-sur-son-pc.html",
+      "pubDate": "2026-04-15T10:00:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c2d94741e2c9",
       "title": "Firefox Nightly accueille enfin l'API Web Serial, six ans après l'avoir refusée",
       "description": "Six ans. C'est le temps qu'il aura fallu à Mozilla pour changer d'avis sur l'API Web Serial. Firefox Nightly 151 l'intègre désormais, avec activation via un flag à aller chercher dans le menu. Le premier commit côté code date de mi-janvier, et le déploiement pour les utilisateurs Nightly est…",
