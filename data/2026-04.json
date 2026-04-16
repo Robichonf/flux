@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "f75446b405fd",
+      "title": "Linux commence à retirer le support des processeurs russes Baikal",
+      "description": "Le noyau Linux est en train de retirer le support matériel des processeurs Baikal, fabriqués par Baikal Electronics en Russie. Pas juste les mainteneurs cette fois, le code lui-même. Les drivers et le support de la plateforme MIPS Baikal-T1 sont en cours de suppression dans les sources du noyau,…",
+      "link": "https://korben.info/linux-commence-a-retirer-le-support-des-processeurs-russes-baikal.html",
+      "pubDate": "2026-04-16T16:20:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0b6651f06dbf",
+      "title": "YouTube permet enfin de virer les Shorts de votre page d'accueil",
+      "description": "Zéro. C'est la durée que vous pouvez désormais choisir comme limite Shorts dans les réglages YouTube, sur iOS comme sur Android. Mettez le curseur à zéro, les Shorts disparaissent de votre page d'accueil. Fini le défilement vertical entre deux vidéos longues. Le déploiement mondial est en cours…",
+      "link": "https://korben.info/youtube-permet-enfin-de-virer-les-shorts-de-votre-page-daccueil.html",
+      "pubDate": "2026-04-16T15:59:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e702ebf591b7",
       "title": "WordPress : un pirate achète 30 plugins et y plante une backdoor",
       "description": "Une attaque par la chaîne d'approvisionnement a frappé WordPress début avril. Un individu a racheté une trentaine de plugins via la marketplace Flippa, y a injecté du code malveillant et a attendu huit mois avant de l'activer. WordPress a fermé les 31 plugins concernés le 7 avril, mais la mise à…",
