@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "90af62b11065",
+      "title": "sandbox-exec - L'outil de sandboxing caché de votre Mac",
+      "description": "Sandbox-exec, c'est un utilitaire en ligne de commande dont pas grand monde ne parle mais qui est intégré à macOS et qui permet de lancer n'importe quel programme dans un bac à sable sécurisé, avec des restrictions sur mesure. Apple l'a déprécié, mais ça marche toujours... et c'est franchement…",
+      "link": "https://korben.info/sandbox-exec-sandboxing-macos.html",
+      "pubDate": "2026-04-16T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bfde26595c17",
       "title": "Ce que le AWS Summit 2026 nous apprend sur le futur du DevOps",
       "description": "Retour sur l’AWS Summit 2026 : IA agentique, Amazon EKS, DevOps, souveraineté et innovations cloud qui transforment les architectures modernes.",
