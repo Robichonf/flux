@@ -2,6 +2,83 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "e702ebf591b7",
+      "title": "WordPress : un pirate achète 30 plugins et y plante une backdoor",
+      "description": "Une attaque par la chaîne d'approvisionnement a frappé WordPress début avril. Un individu a racheté une trentaine de plugins via la marketplace Flippa, y a injecté du code malveillant et a attendu huit mois avant de l'activer. WordPress a fermé les 31 plugins concernés le 7 avril, mais la mise à…",
+      "link": "https://korben.info/wordpress-un-pirate-achete-30-plugins-et-y-plante-une-backdoor.html",
+      "pubDate": "2026-04-16T13:45:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59b620ade64f",
+      "title": "X lance les Cashtags, avec cours en temps réel et achat direct au Canada",
+      "description": "Tapez $TSLA ou $BTC dans un post sur X, et maintenant ça vous affiche un cours en temps réel, un graphique interactif et un fil de discussion lié à l'actif. C'est disponible depuis le 14 avril sur iPhone. Pour Android et le site web, ça sera pour plus tard. Le principe est assez simple. Un $ticker…",
+      "link": "https://korben.info/x-lance-les-cashtags-avec-cours-en-temps-reel-et-achat-direct-au-canada.html",
+      "pubDate": "2026-04-16T13:17:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4dc012de5e34",
+      "title": "OpenAI met à jour son Agents SDK avec du sandboxing natif",
+      "description": "La mise à jour d'avril du SDK Agents d'OpenAI introduit deux nouvelles briques qui manquaient pour passer de l'agent-jouet au déploiement réel. Le sandboxing natif permet de confiner un agent dans un espace de travail isolé, avec accès limité aux fichiers et outils d'un périmètre défini. Et le…",
+      "link": "https://korben.info/openai-met-a-jour-son-agents-sdk-avec-du-sandboxing-natif.html",
+      "pubDate": "2026-04-16T12:37:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d5bf5db2b1ec",
+      "title": "Anthropic demande désormais pièce d'identité et selfie pour certains usages de Claude",
+      "description": "Pour accéder à certaines fonctionnalités de Claude, Anthropic peut maintenant vous demander une pièce d'identité officielle (passeport, permis de conduire, carte nationale d'identité) et un selfie en temps réel. La vérification est gérée par Persona, un prestataire externe, et les données ne sont…",
+      "link": "https://korben.info/anthropic-demande-desormais-piece-didentite-et-selfie-pour-certains-usages-de-claude.html",
+      "pubDate": "2026-04-16T12:30:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c25176af280",
+      "title": "Android Makers 2026 - Conférences marquantes",
+      "description": "La Practice Mobile a de nouveau répondu à l'appel des conférences d’Android Makers édition 2026. Et comme toujours, on ne repart pas les mains vides, pour vous on a fait chauffer nos stylos (ou nos claviers) pour vous proposer une compilation des talks qui nous ont marqués.",
+      "link": "https://blog.ippon.fr/2026/04/16/android-makers-2026/",
+      "pubDate": "2026-04-16T12:30:34.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/image1-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "90af62b11065",
       "title": "sandbox-exec - L'outil de sandboxing caché de votre Mac",
       "description": "Sandbox-exec, c'est un utilitaire en ligne de commande dont pas grand monde ne parle mais qui est intégré à macOS et qui permet de lancer n'importe quel programme dans un bac à sable sécurisé, avec des restrictions sur mesure. Apple l'a déprécié, mais ça marche toujours... et c'est franchement…",
