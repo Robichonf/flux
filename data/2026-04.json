@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1cdfd7ab06fa",
+      "title": "selfh.st - L'annuaire vivant du self-hosting",
+      "description": "Quand on fait du self-hosting, y'a toujours ce moment où on se dit \"tiens, y'aurait pas un truc open source pour ça\". Tenez par exemple, là je suis en train de chercher un machin open source pour un mariage qui permet aux invités de balancer leurs photos sur un serveur en scannant un QR Code. Et…",
+      "link": "https://korben.info/selfh-st-apps-annuaire-self-hosting.html",
+      "pubDate": "2026-04-17T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/selfh-st-apps-annuaire-self-hosting/selfh-st-apps-annuaire-self-hosting-1.png",
+      "type": "blog"
+    },
+    {
       "id": "f75446b405fd",
       "title": "Linux commence à retirer le support des processeurs russes Baikal",
       "description": "Le noyau Linux est en train de retirer le support matériel des processeurs Baikal, fabriqués par Baikal Electronics en Russie. Pas juste les mainteneurs cette fois, le code lui-même. Les drivers et le support de la plateforme MIPS Baikal-T1 sont en cours de suppression dans les sources du noyau,…",
