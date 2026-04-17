@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "4cba595f392d",
+      "title": "Faille MCP : 200 000 serveurs exposés à l'exécution de code, Anthropic dit que c'est normal",
+      "description": "200 000 serveurs. C'est le nombre de machines potentiellement exposées à l'exécution de commandes système arbitraires via une faille de conception dans le SDK MCP d'Anthropic, d'après les chercheurs d'OX Security. L'interface STDIO du protocole permet de créer des sous-processus sans contrôle, ce…",
+      "link": "https://korben.info/faille-mcp-200-000-serveurs-exposes-a-lexecution-de-code-anthropic-dit-que-cest-normal.html",
+      "pubDate": "2026-04-17T09:11:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "645cc2cd142b",
+      "title": "Ce matériau composite se répare plus de 1 000 fois et dure des siècles",
+      "description": "1 000 fractures. C'est le nombre de cycles de cassure et de réparation qu'un nouveau composite à fibres a encaissé en labo, sans perdre sa capacité à tenir la route. Les ingénieurs de NC State University ont créé un matériau qui se \"re-soude\" tout seul, et qui pourrait durer entre 125 et 500 ans au…",
+      "link": "https://korben.info/ce-materiau-composite-se-repare-plus-de-1-000-fois-et-dure-des-siecles.html",
+      "pubDate": "2026-04-17T08:22:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "61f0f82cd262",
+      "title": "Bug Cisco : vos bornes Wi-Fi remplissent leur disque avec 5 Mo de logs inutiles par jour",
+      "description": "Plus de 230 modèles de points d'accès Wi-Fi Cisco ont un problème. Les versions 17.12.4 à 17.12.6a de IOS XE embarquent une bibliothèque qui génère un fichier log, cnssdaemon.log, à raison de 5 Mo par jour. Le fichier ne sert à rien. Et impossible de le supprimer depuis la ligne de commande. 5 Mo…",
+      "link": "https://korben.info/bug-cisco-vos-bornes-wi-fi-remplissent-leur-disque-avec-5-mo-de-logs-inutiles-par-jour.html",
+      "pubDate": "2026-04-17T07:47:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1cdfd7ab06fa",
       "title": "selfh.st - L'annuaire vivant du self-hosting",
       "description": "Quand on fait du self-hosting, y'a toujours ce moment où on se dit \"tiens, y'aurait pas un truc open source pour ça\". Tenez par exemple, là je suis en train de chercher un machin open source pour un mariage qui permet aux invités de balancer leurs photos sur un serveur en scannant un QR Code. Et…",
@@ -44,6 +89,23 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f0a9e034b8be",
+      "title": "AWS Summit 2026 : Comment AWS veut simplifier la vie du DevOps",
+      "description": "AWS DevOps Agent révolutionne l'incident response avec l'IA. CloudWatch, observabilité, on-call automation : comment réduire votre MTTR.",
+      "link": "https://blog.ippon.fr/2026/04/16/aws-summit-2026-comment-aws-veut-simplifier-la-vie-du-devops/",
+      "pubDate": "2026-04-16T13:55:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/devops-agent.jpg",
       "type": "blog"
     },
     {
