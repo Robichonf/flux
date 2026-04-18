@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "4ecd473cda27",
+      "title": "PegaProx - Un dashboard pour les gouverner tous",
+      "description": "L'interface web de Proxmox (l'outil de virtualisation que tout bon homelabber connaît), c'est bien... pour UN serveur. Dès que vous commencez à empiler les nodes et les clusters, ça devient vite le bazar avec 15 onglets ouverts. PegaProx , c'est tout simplement un dashboard open source qui unifie…",
+      "link": "https://korben.info/pegaprox-dashboard-proxmox.html",
+      "pubDate": "2026-04-18T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pegaprox-dashboard-proxmox/pegaprox-dashboard-proxmox-2.png",
+      "type": "blog"
+    },
+    {
       "id": "9ff918787807",
       "title": "Mozilla lance Thunderbolt, un client IA open source pensé pour l'entreprise",
       "description": "MZLA, la filiale de la Mozilla Foundation qui gère Thunderbird, sort un client IA open source auto-hébergeable baptisé Thunderbolt. Multi-plateforme, compatible MCP et Agent Client Protocol, avec intégration du framework Haystack de deepset pour le RAG et les agents. Le tout doit pouvoir tourner…",
