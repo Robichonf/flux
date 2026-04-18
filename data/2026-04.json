@@ -32,6 +32,23 @@
       "type": "blog"
     },
     {
+      "id": "8cc7157fe93d",
+      "title": "Symfony en prod sur un mono-VPS : FrankenPHP + K3s, staging + TLS en une demi-journée",
+      "description": "Guide pas-à-pas pour mettre une application Symfony en production sur un mono-VPS : deux environnements (staging + prod) containerisés avec FrankenPHP, orchestrés par K3s, déployés automatiquement via GitHub Actions vers GHCR, avec TLS Let's Encrypt. Tous les snippets sont fournis et prêts à copier.",
+      "link": "https://yoandev.co/symfony-frankenphp-k3s-production",
+      "pubDate": "2026-04-18T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-frankenphp-k3s-production.webp",
+      "type": "blog"
+    },
+    {
       "id": "9ff918787807",
       "title": "Mozilla lance Thunderbolt, un client IA open source pensé pour l'entreprise",
       "description": "MZLA, la filiale de la Mozilla Foundation qui gère Thunderbird, sort un client IA open source auto-hébergeable baptisé Thunderbolt. Multi-plateforme, compatible MCP et Agent Client Protocol, avec intégration du framework Haystack de deepset pour le RAG et les agents. Le tout doit pouvoir tourner…",
