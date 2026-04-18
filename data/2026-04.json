@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1f8419c781c9",
+      "title": "Intel Core Series 3 : les puces d'entrée de gamme sont fabriquées aux Etats-Unis, sans TSMC",
+      "description": "Les processeurs Core Series 3 d'Intel sont en vente, et ce qui est intéressant ici, c'est moins les specs que l'endroit où ils sont fabriqués. Ces puces sortent des usines Intel de Hillsboro (Oregon) et Chandler (Arizona), sur le procédé 18A, l'équivalent du 2 nm chez Intel. Pas de TSMC dans la…",
+      "link": "https://korben.info/intel-core-series-3-les-puces-dentree-de-gamme-sont-fabriquees-aux-etats-unis-sans-tsmc.html",
+      "pubDate": "2026-04-18T07:57:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4ecd473cda27",
       "title": "PegaProx - Un dashboard pour les gouverner tous",
       "description": "L'interface web de Proxmox (l'outil de virtualisation que tout bon homelabber connaît), c'est bien... pour UN serveur. Dès que vous commencez à empiler les nodes et les clusters, ça devient vite le bazar avec 15 onglets ouverts. PegaProx , c'est tout simplement un dashboard open source qui unifie…",
