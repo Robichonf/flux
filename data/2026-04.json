@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "bd137c071057",
+      "title": "Faux mails copyright YouTube - L'arnaque qui cible les créateurs",
+      "description": "Attention les amis, si vous avez une chaîne YouTube, vous allez probablement recevoir ce mail d'un certain \"Edward Evans\" ou autre qui vous explique très poliment que vous avez utilisé sa musique dans une vidéo, qu'il a déposé une plainte, et qu'il serait ravi de résoudre ça \"peacefully\". Surtout…",
+      "link": "https://korben.info/scam-phishing-youtube-copyright-createurs-3.html",
+      "pubDate": "2026-04-19T07:08:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/scam-phishing-youtube-copyright-createurs-3/scam-phishing-youtube-copyright-createurs-3-2.png",
+      "type": "blog"
+    },
+    {
       "id": "1f8419c781c9",
       "title": "Intel Core Series 3 : les puces d'entrée de gamme sont fabriquées aux Etats-Unis, sans TSMC",
       "description": "Les processeurs Core Series 3 d'Intel sont en vente, et ce qui est intéressant ici, c'est moins les specs que l'endroit où ils sont fabriqués. Ces puces sortent des usines Intel de Hillsboro (Oregon) et Chandler (Arizona), sur le procédé 18A, l'équivalent du 2 nm chez Intel. Pas de TSMC dans la…",
