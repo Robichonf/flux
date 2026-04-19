@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "94ebb9a5ae17",
+      "title": "Steam tourne sur Nintendo Switch grace à Proton 11 et au support ARM64",
+      "description": "Quelqu'un a fait tourner l'interface Steam sur une Nintendo Switch. Pas via un hack douteux ni un émulateur bricolé, mais en utilisant la beta officielle de Proton 11 que Valve a publiée avec, pour la première fois, le support des appareils ARM sous Linux. Le résultat a été posté sur BlueSky ( par…",
+      "link": "https://korben.info/steam-tourne-sur-nintendo-switch-grace-a-proton-11-et-au-support-arm64.html",
+      "pubDate": "2026-04-19T07:52:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bd137c071057",
       "title": "Faux mails copyright YouTube - L'arnaque qui cible les créateurs",
       "description": "Attention les amis, si vous avez une chaîne YouTube, vous allez probablement recevoir ce mail d'un certain \"Edward Evans\" ou autre qui vous explique très poliment que vous avez utilisé sa musique dans une vidéo, qu'il a déposé une plainte, et qu'il serait ravi de résoudre ça \"peacefully\". Surtout…",
