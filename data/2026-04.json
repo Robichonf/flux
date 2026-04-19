@@ -2,6 +2,20 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "822fa6dfca72",
+      "title": "Les joies du vibecoding : quand l’IA libère !",
+      "description": "L'IA est souvent perçue négativement, mais elle peut aussi apporter du plaisir au travail. L'auteur partage son expérience positive avec le \"vibe coding\", une méthode qui ravive sa créativité et l'enthousiasme pour le travail. Malgré les défis du marché, l'IA offre des possibilités excitantes pour…",
+      "link": "https://oliviersauvage.com/2026/04/19/les-joies-du-vibecoding-quand-lia-libere/",
+      "pubDate": "2026-04-19T14:53:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "94ebb9a5ae17",
       "title": "Steam tourne sur Nintendo Switch grace à Proton 11 et au support ARM64",
       "description": "Quelqu'un a fait tourner l'interface Steam sur une Nintendo Switch. Pas via un hack douteux ni un émulateur bricolé, mais en utilisant la beta officielle de Proton 11 que Valve a publiée avec, pour la première fois, le support des appareils ARM sous Linux. Le résultat a été posté sur BlueSky ( par…",
