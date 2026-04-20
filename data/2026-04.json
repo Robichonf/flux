@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1605bb2187d1",
+      "title": "Ruby Central en péril financier après le clash des mainteneurs RubyGems",
+      "description": "Ruby Central, l'association qui gère l'écosystème Ruby (RubyGems, Bundler, les conférences RubyConf et RailsConf), est en \"vrai péril financier\". Le conseil d'administration l'a annoncé en se séparant de sa directrice exécutive, Shan Cureton, dans le cadre d'un plan de réduction des coûts. Les…",
+      "link": "https://korben.info/ruby-central-en-peril-financier-apres-le-clash-des-mainteneurs-rubygems.html",
+      "pubDate": "2026-04-20T11:27:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f9bfb416aa71",
+      "title": "Le système de classification des jeux indonésien fuite, avec des tas de données sur de futurs jeux",
+      "description": "En Indonésie, avant de vendre un jeu vidéo, les éditeurs doivent le soumettre à un organisme de classification (l'IGRS) pour obtenir une note d'âge, un peu comme le PEGI en Europe. Pour obtenir leurs notes, les éditeurs envoient des vidéos de gameplay, des infos sur le contenu du jeu, et leurs…",
+      "link": "https://korben.info/le-systeme-de-classification-des-jeux-indonesien-fuite-avec-des-tas-de-donnees-sur-de-futurs-jeux.html",
+      "pubDate": "2026-04-20T11:10:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d42a7aa36a5e",
       "title": "GIMP 3.2.4 corrige un bug du format XCF qui traînait depuis 1999",
       "description": "GIMP 3.2.4 est sorti le 19 avril avec une fournée de corrections de bugs, dont une qui remonte à 1999 dans le code de gestion du format XCF, le format natif de GIMP. 26 ans. Le bug traînait dans le code source depuis les premières versions du logiciel et n'avait jamais été repéré ni corrigé. Pour…",
