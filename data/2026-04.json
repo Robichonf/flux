@@ -2,6 +2,20 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ea6b501e3369",
+      "title": "Claude Design :  être designer sans savoir designer",
+      "description": "Anthropic lance Claude Design, un outil IA collaboratif pour créer des designs, prototypes et présentations. Il s'intègre à Canva, facilite l'exploration créative et accélère la production visuelle. Disponible pour les abonnés Claude Pro, Max, Team et Enterprise, il promet de révolutionner la façon…",
+      "link": "https://oliviersauvage.com/2026/04/20/claude-design-etre-designer-sans-savoir-designer/",
+      "pubDate": "2026-04-20T07:57:50.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "822fa6dfca72",
       "title": "Les joies du vibecoding : quand l’IA libère !",
       "description": "L'IA est souvent perçue négativement, mais elle peut aussi apporter du plaisir au travail. L'auteur partage son expérience positive avec le \"vibe coding\", une méthode qui ravive sa créativité et l'enthousiasme pour le travail. Malgré les défis du marché, l'IA offre des possibilités excitantes pour…",
