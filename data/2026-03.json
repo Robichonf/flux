@@ -33,6 +33,23 @@
       "type": "blog"
     },
     {
+      "id": "4f7169a05b61",
+      "title": "Claude Code a fuité : ce qu'Anthropic construit en secret est bien plus fou que ce qu'ils annoncent ",
+      "description": "Le code source complet de Claude Code s'est retrouvé en libre accès. Pas à cause d'un hack, Anthropic a tout simplement oublié de retirer la source map du paquet npm publié. Un fichier cli.js.map de…",
+      "link": "https://yoandev.co/patreon/patreon-154410942-claude-code-a-fuite-ce-quanthropic-construit-en-secret-est-b",
+      "pubDate": "2026-03-31T13:55:49.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "315ac14effd7",
       "title": "Denuvo tombe en quelques heures grâce aux hyperviseurs",
       "description": "Denuvo, la célèbre protection anti-piratage qui emmerde les joueurs PC depuis une décennie, traverse une sale période. Depuis début 2026, des pirates contournent la protection via des hyperviseurs, et les jeux protégés tombent désormais en quelques heures au lieu de plusieurs semaines : Resident…",
@@ -122,6 +139,23 @@
       "type": "blog"
     },
     {
+      "id": "8966b18cd82e",
+      "title": "Ton lockfile t'a peut-être sauvé la vie cette nuit",
+      "description": "Cette nuit, axios , plus de 100 millions de téléchargements npm par semaine, a été compromis. Un attaquant a pris le contrôle du compte npm du mainteneur principal et a publié deux versions vérolées…",
+      "link": "https://yoandev.co/patreon/patreon-154388466-ton-lockfile-ta-peut-etre-sauve-la-vie-cette-nuit",
+      "pubDate": "2026-03-31T07:54:37.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "891cb566d2d4",
       "title": "Piratage du fichier des armes – 41 000 détenteurs exposés",
       "description": "Le fichier national qui recense toutes les armes détenues en France vient de se faire trouer en version XXL ! En effet, un affreux pirate a réussi à exfiltrer les données liées à la possession de plus de 62 000 armes, et parmi elles, les noms, prénoms, dates de naissance, adresses email et surtout…",
@@ -194,6 +228,23 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d70f8f791680",
+      "title": "cmux, lazygit et yazi",
+      "description": "Mon setup terminal pour coder avec des agents IA : cmux, Yazi et Lazygit.",
+      "link": "https://yoandev.co/patreon/patreon-154320497-cmux-lazygit-et-yazi",
+      "pubDate": "2026-03-30T14:32:49.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
       ],
       "image": null,
       "type": "blog"

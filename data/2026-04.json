@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "d42a7aa36a5e",
+      "title": "GIMP 3.2.4 corrige un bug du format XCF qui traînait depuis 1999",
+      "description": "GIMP 3.2.4 est sorti le 19 avril avec une fournée de corrections de bugs, dont une qui remonte à 1999 dans le code de gestion du format XCF, le format natif de GIMP. 26 ans. Le bug traînait dans le code source depuis les premières versions du logiciel et n'avait jamais été repéré ni corrigé. Pour…",
+      "link": "https://korben.info/gimp-3-2-4-corrige-un-bug-du-format-xcf-qui-trainait-depuis-1999.html",
+      "pubDate": "2026-04-20T09:51:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ea6b501e3369",
       "title": "Claude Design :  être designer sans savoir designer",
       "description": "Anthropic lance Claude Design, un outil IA collaboratif pour créer des designs, prototypes et présentations. Il s'intègre à Canva, facilite l'exploration créative et accélère la production visuelle. Disponible pour les abonnés Claude Pro, Max, Team et Enterprise, il promet de révolutionner la façon…",
@@ -10,6 +25,23 @@
       "source": "Olivier Sauvage (Numerika)",
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca415099858b",
+      "title": "Vercel, Context.ai : l'incident qui préfigure la nouvelle génération d'attaques SaaS",
+      "description": "Le 19 avril 2026, Vercel publie un bulletin de sécurité confirmant un accès non autorisé à certains systèmes internes. Le 20 avril, le CEO Guillermo Rauch précise publiquement l'origine de la…",
+      "link": "https://yoandev.co/patreon/patreon-156061222-vercel-contextai-lincident-qui-prefigure-la-nouvelle-generat",
+      "pubDate": "2026-04-20T06:46:48.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
         "IA"
       ],
       "image": null,
@@ -107,6 +139,23 @@
       "type": "blog"
     },
     {
+      "id": "ef3cadb8684e",
+      "title": "Opus 4.7 à chaud : mes premières heures avec Claude Code",
+      "description": "Je teste Opus 4.7 depuis sa sortie hier soir, et entre ce que j'ai lu dans deux des derniers billets d'Anthropic et mes propres manipulations, voilà ce qui se dégage. À prendre comme des observations…",
+      "link": "https://yoandev.co/patreon/patreon-155840621-opus-47-a-chaud-mes-premieres-heures-avec-claude-code",
+      "pubDate": "2026-04-17T09:35:30.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9ff918787807",
       "title": "Mozilla lance Thunderbolt, un client IA open source pensé pour l'entreprise",
       "description": "MZLA, la filiale de la Mozilla Foundation qui gère Thunderbird, sort un client IA open source auto-hébergeable baptisé Thunderbolt. Multi-plateforme, compatible MCP et Agent Client Protocol, avec intégration du framework Haystack de deepset pour le RAG et les agents. Le tout doit pouvoir tourner…",
@@ -199,6 +248,23 @@
       "type": "blog"
     },
     {
+      "id": "cec371f38266",
+      "title": "Et si j'hébergeais mon blog sur une infrastructure européenne",
+      "description": "Lorna Ladril sur Unsplash Quand j’ai décidé d’ouvrir ce blog, je ne voulais pas gérer une infrastructure complexe surtout pour un simple blog. En suivant ma philisophie KISS (Keep it simple and stupid), j’avais opté pour un CMS qui ne nécessite pas une base de données comme wordpress. Un générateur…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/04/migration-github-codeberg/",
+      "pubDate": "2026-04-17T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/04/migration-github-codeberg/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "f75446b405fd",
       "title": "Linux commence à retirer le support des processeurs russes Baikal",
       "description": "Le noyau Linux est en train de retirer le support matériel des processeurs Baikal, fabriqués par Baikal Electronics en Russie. Pas juste les mainteneurs cette fois, le code lui-même. Les drivers et le support de la plateforme MIPS Baikal-T1 sont en cours de suppression dans les sources du noyau,…",
@@ -224,6 +290,23 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "03e2fcbaaa65",
+      "title": "Claude Opus 4.7 débarque : ce qui change vraiment par rapport à la 4.6",
+      "description": "Anthropic vient de lever le voile sur Claude Opus 4.7 , disponible dès aujourd'hui sur tous les produits Claude, l'API, Amazon Bedrock, Google Cloud Vertex AI et Microsoft Foundry. Si vous suivez la…",
+      "link": "https://yoandev.co/patreon/patreon-155774807-claude-opus-47-debarque-ce-qui-change-vraiment-par-rapport-a",
+      "pubDate": "2026-04-16T15:02:29.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
       ],
       "image": null,
       "type": "blog"
@@ -1577,6 +1660,23 @@
       "type": "blog"
     },
     {
+      "id": "2f3527196b1c",
+      "title": "Anthropic change les règles pour les apps tierces : récupérez votre crédit gratuit",
+      "description": "Comme beaucoup d’entre vous, j’utilise Claude Code au quotidien, et cette annonce me concerne directement.",
+      "link": "https://yoandev.co/patreon/patreon-154749858-anthropic-change-les-regles-pour-les-apps-tierces-recuperez",
+      "pubDate": "2026-04-04T08:30:36.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "29baf0a5a430",
       "title": "IA & Licenciements : Et si l'intelligence artificielle n'était qu'une excuse ?",
       "description": "273 000 départs prévus dans la tech : l'IA nous remplace-t-elle déjà ou sert-elle de couverture à des plans de licenciements opportunistes ? Analyse d'un basculement de marché où la productivité n'est pas toujours là où on l'attend.",
@@ -1632,6 +1732,23 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67332e5138b6",
+      "title": "Les coulisses : comment un bug Ollama est devenu un article de benchmark",
+      "description": "Hey !",
+      "link": "https://yoandev.co/patreon/patreon-154664696-les-coulisses-comment-un-bug-ollama-est-devenu-un-article-de",
+      "pubDate": "2026-04-03T07:24:09.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
       ],
       "image": null,
       "type": "blog"
@@ -1835,6 +1952,23 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cf2a3ed75722",
+      "title": "TurboQuant : l'algorithme de Google qui change l'économie de l'IA ",
+      "description": "Le 24 mars, Google Research a lâché une bombe discrète : TurboQuant , un algorithme de compression qui divise par 6 la mémoire nécessaire à l'inférence IA, sans perte de qualité. En quelques jours…",
+      "link": "https://yoandev.co/patreon/patreon-154484691-turboquant-lalgorithme-de-google-qui-change-leconomie-de-lia",
+      "pubDate": "2026-04-01T07:16:52.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
       ],
       "image": null,
       "type": "blog"
