@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "064f3dd670ee",
+      "title": "AMD GAIA 0.17.3 sait maintenant empaqueter vos agents IA dans un installeur custom",
+      "description": "La 0.17.3 de GAIA, le framework open-source d'AMD pour faire tourner des agents IA en local sur puces Ryzen AI, débarque avec une fonction assez attendue. Vous pouvez désormais exporter vos agents personnalisés et les réimporter sur une autre machine en quelques clics. Très concrètement, vous…",
+      "link": "https://korben.info/amd-gaia-0-17-3-sait-maintenant-empaqueter-vos-agents-ia-dans-un-installeur-custom.html",
+      "pubDate": "2026-04-21T07:48:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "699f1a3e0484",
+      "title": "TRELLIS-Mac - L'image-to-3D de Microsoft passe sur Apple Silicon",
+      "description": "TRELLIS est un modèle IA capable, à partir d'un texte ou d'une image tout ce qu'il y a de plus normal, de générer un modèle en 3D. C'est développé par Microsoft Research et c'est assez génial. D'ailleurs j'en avait parlé en février dernier quand la bête ne tournait encore que sur des cartes NVIDIA.…",
+      "link": "https://korben.info/trellis-mac-limage-to-3d-de-microsoft-passe-sur-apple-silicon.html",
+      "pubDate": "2026-04-21T07:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f0196c60bfae",
+      "title": "Open Slopware - La chasse aux sorcières des projets open source",
+      "description": "Ce matin en buvant mon café, je suis tombé sur un dépôt qui m'a fait tiquer et j'aimerai prendre quelques minutes pour vous en parler. Ça s'appelle Open Slopware , c'est hébergé sur Codeberg, et ça recense tous les projets open source qui ont eu le \"malheur\" de laisser l'IA s'approcher de leur…",
+      "link": "https://korben.info/open-slopware-chasse-aux-sorcieres-ia-open-source.html",
+      "pubDate": "2026-04-21T06:29:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/open-slopware-chasse-aux-sorcieres-ia-open-source/open-slopware-chasse-aux-sorcieres-ia-open-source-2.png",
+      "type": "blog"
+    },
+    {
       "id": "c34fc2acf5c2",
       "title": "Dockman, enfin un gestionnaire Docker Compose natif complet",
       "description": "Dockman : un gestionnaire Docker Compose qui laisse vos fichiers en place et couvre aussi les images, volumes et réseaux.",
