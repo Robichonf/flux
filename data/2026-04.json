@@ -2,6 +2,35 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "da8acf9946fb",
+      "title": "Claude Desktop modifie les permissions de navigateurs que vous n'avez même pas installés",
+      "description": "Des utilisateurs de Claude Desktop sont en train de découvrir que l'application d'Anthropic se permet d'aller bidouiller les réglages de plusieurs navigateurs, y compris ceux qui ne sont pas installés sur la machine. L'idée est simple, c'est pré-configurer l'accès pour que, le jour où vous…",
+      "link": "https://korben.info/claude-desktop-modifie-les-permissions-de-navigateurs-que-vous-navez-meme-pas-installes.html",
+      "pubDate": "2026-04-21T08:20:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "350f80511566",
+      "title": "L’autre moyen d’attirer du trafic en B2B : les contenus interactifs",
+      "description": "L'article propose des dispositifs interactifs, tels que les quiz et infographies, comme moyens efficaces pour attirer et engager des prospects, tout en mémorisant la marque. Il insiste sur l'importance de l'originalité, de l'expérience utilisateur, et de l'utilité des contenus, qui doivent dépasser…",
+      "link": "https://oliviersauvage.com/2026/04/21/lautre-moyen-dattirer-du-trafic-en-b2b-les-contenus-interactifs/",
+      "pubDate": "2026-04-21T08:20:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "064f3dd670ee",
       "title": "AMD GAIA 0.17.3 sait maintenant empaqueter vos agents IA dans un installeur custom",
       "description": "La 0.17.3 de GAIA, le framework open-source d'AMD pour faire tourner des agents IA en local sur puces Ryzen AI, débarque avec une fonction assez attendue. Vous pouvez désormais exporter vos agents personnalisés et les réimporter sur une autre machine en quelques clics. Très concrètement, vous…",
@@ -59,6 +88,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2026/02/Designer--4-.png",
+      "type": "blog"
+    },
+    {
+      "id": "968277d5d6ae",
+      "title": "Toki Pona - 120 mots pour parler de tout",
+      "description": "Y'a 20 ans passés, une linguiste canadienne nommée Sonja Lang a eu une idée un peu folle : créer la langue la plus simple du monde. Le résultat, c'est le Toki Pona, un truc minimaliste qui tient officiellement en 120 mots et que vous pouvez apprendre en quelques heures si votre mémoire n'est pas…",
+      "link": "https://korben.info/langue-rapide-apprendre-geek.html",
+      "pubDate": "2026-04-21T05:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/langue-rapide-apprendre-geek/langue-rapide-apprendre-geek-2.jpg",
       "type": "blog"
     },
     {
