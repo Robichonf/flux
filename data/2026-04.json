@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c34fc2acf5c2",
+      "title": "Dockman, enfin un gestionnaire Docker Compose natif complet",
+      "description": "Dockman : un gestionnaire Docker Compose qui laisse vos fichiers en place et couvre aussi les images, volumes et réseaux.",
+      "link": "https://domopi.eu/dockman-enfin-un-gestionnaire-docker-compose-natif-complet/",
+      "pubDate": "2026-04-21T05:45:43.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/02/Designer--4-.png",
+      "type": "blog"
+    },
+    {
       "id": "fee4c5a5618a",
       "title": "Vercel piraté via un outil IA tiers qui avait les clés du royaume",
       "description": "Vercel, c'est la plateforme d'hébergement web utilisée par des milliers de développeurs et d'entreprises pour déployer leurs sites et applications (c'est eux qui font Next.js, entre autres). Un de leurs employés s'est inscrit sur Context.ai, un assistant IA pour la bureautique, en utilisant son…",
