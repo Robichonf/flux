@@ -2,6 +2,156 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "07422a1fdbbd",
+      "title": "Codex a rooté une TV Samsung tout seul - Faut s'y préparer",
+      "description": "Une IA a rooté une télé Samsung tournant sous KantS2, la plateforme logicielle d'un ancien modèle de la marque. C'est Codex, le modèle de code d'OpenAI, qui a trouvé un driver laissé avec des droits d'écriture sur le firmware, mappé la mémoire physique, et est passé root en quelques étapes. Les…",
+      "link": "https://korben.info/codex-ia-faille-samsung-tv.html",
+      "pubDate": "2026-04-21T13:32:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/codex-ia-faille-samsung-tv/codex-ia-faille-samsung-tv-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3a530bac11a9",
+      "title": "L'Internet Archive met 758 CD-ROM de démos PC Gamer à disposition du public",
+      "description": "Si vous étiez abonné à un magazine de jeux PC dans les années 90 et 2000, vous vous souvenez forcément des CD fournis avec chaque numéro de votre petit journal. Démos jouables de jeux en cours de dev, mods, patchs, bonus, cartes supplémentaires pour les Doom et autres Quake de l'époque : les cover…",
+      "link": "https://korben.info/linternet-archive-met-758-cd-rom-de-demos-pc-gamer-a-disposition-du-public.html",
+      "pubDate": "2026-04-21T13:32:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b32591c457b",
+      "title": "Test de cet accessoire qui va étendre l’autonomie de vos AirTags jusqu’à 10 ans !",
+      "description": "– Contient des liens affiliés Amazon – Prolonger la durée de vie d'un AirTag de quelques mois à plusieurs années, c’est la promesse du boîtier DuHeSin vendu autour de 20 euros sur Amazon. L'accessoire remplace la CR2032 d'origine par deux piles AA classiques, ce qui multiplie l'autonomie par 14…",
+      "link": "https://korben.info/test-de-cet-accessoire-qui-va-etendre-lautonomie-de-vos-airtags-jusqua-10-ans.html",
+      "pubDate": "2026-04-21T13:23:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-de-cet-accessoire-qui-va-etendre-lautonomie-de-vos-airtags-jusqua-10-ans/test-de-cet-accessoire-qui-va-etendre-lautonomie-de-vos-airtags-jusqua-10-ans-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "f01bbe2c6a84",
+      "title": "DroneAware Node - Détecter les drones avec un Raspberry Pi",
+      "description": "Il a zoné au-dessus de votre jardin durant 3 minutes la semaine dernière. Vous l'avez entendu, vous avez levé la tête, mais trop tard ! Encore un putain de drone. Mais lequel ? Et surtout, qui le pilotait ? Alors voilà un projet qui tente de répondre à ces questions pour le prix d'un week-end entre…",
+      "link": "https://korben.info/detecter-drones-raspberry-pi.html",
+      "pubDate": "2026-04-21T13:17:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/detecter-drones-raspberry-pi/detecter-drones-raspberry-pi-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2534b87dbcee",
+      "title": "ONCE - La plateforme auto-hébergée open-source de 37signals",
+      "description": "Payer 15 euros par mois pour un chat d'équipe du genre de Slack, 20 pour un wiki pro, 10 pour un kanban... Et au bout d'un an, vous avez filé l'équivalent d'un MacBook d'occasion à des SaaS qui vivent sur votre dos. C'est ce constat qui a poussé 37signals à ouvrir ONCE. Pour ceux qui rompichent…",
+      "link": "https://korben.info/basecamp-once-plateforme-self-hosting.html",
+      "pubDate": "2026-04-21T13:06:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/basecamp-once-plateforme-self-hosting/basecamp-once-plateforme-self-hosting-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "5ed7994b4314",
+      "title": "UGV Beast - Robot chenillé tout-terrain pour Raspberry Pi 4 et 5",
+      "description": "Et si vous pouviez lâcher un petit char d'assaut bardé d'IA dans votre jardin pour aller cartographier les monticules des taupes ? Hé bien bonne nouvelle puisque ça va être possible grâce à Waveshare qui vient de sortir le UGV Beast , un robot mobile à chenilles propulsé par Raspberry Pi 4 ou 5 qui…",
+      "link": "https://korben.info/ugv-beast-robot-chenille-raspberry-pi.html",
+      "pubDate": "2026-04-21T12:48:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ugv-beast-robot-chenille-raspberry-pi/ugv-beast-robot-chenille-raspberry-pi-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c5fe8fdb910e",
+      "title": "Flow Music - L'IA musicale de Google débarque avec Lyria 3",
+      "description": "Ça y est les amis, comme à Fraggle Rock, Google entre enfin dans la danse de la musique IA avec Flow Music . Son service vient de sortir en freemium, et c'est la réponse officielle de Mountain View à Suno et Udio . Et derrière le volant, on retrouve Lyria 3, le modèle de DeepMind spécialisé dans la…",
+      "link": "https://korben.info/flowmusic-creation-musicale-ia.html",
+      "pubDate": "2026-04-21T12:09:10.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/flowmusic-creation-musicale-ia/flowmusic-creation-musicale-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8a02d4f58cfc",
+      "title": "Cataclysm: Dark Days Ahead - 13 ans de survie post-apo",
+      "description": "Imaginez un jeu où vous pouvez crever de faim, de soif, d'hypothermie ou d'une simple coupure infectée... tout ça pendant la même partie. Bienvenue dans Cataclysm: Dark Days Ahead (CDDA pour les intimes. Oui, comme le logiciel pour ripper des CDs de quand on était jeune. ^^), un roguelike de survie…",
+      "link": "https://korben.info/cataclysm-dark-days-ahead.html",
+      "pubDate": "2026-04-21T12:05:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "10b9b9205d64",
+      "title": "Soulseek - Le P2P musical qui refuse de mourir",
+      "description": "Vous vous souvenez de Soulseek ? Mais siii, ce réseau P2P dédié à la musique rare que vos potes audiophiles utilisaient en 2005 pour choper des bootlegs introuvables ? Hé bah figurez-vous qu'il tourne toujours en 2026, et qu'autour de lui s'est bâtie une communauté d'outils modernes que peu de…",
+      "link": "https://korben.info/soulseek-p2p-musique-nicotine-slskd.html",
+      "pubDate": "2026-04-21T11:52:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/soulseek-p2p-musique-nicotine-slskd/soulseek-p2p-musique-nicotine-slskd-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e6e1a877b1d1",
+      "title": "Grub2Win - Multiboot Linux depuis Windows en mode clic-clic",
+      "description": "Y'a des projets open source qu'on oublie parce qu'ils font leur boulot sans faire de bruit. Grub2Win, est l'un d'entre eux. Un dev seul, 16 années de maintenance, plus de deux millions de téléchargements et aucune campagne marketing ! Ce logiciel gratuit c'est un installateur graphique de GNU GRUB…",
+      "link": "https://korben.info/grub2win-multiboot-windows-linux.html",
+      "pubDate": "2026-04-21T11:34:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/grub2win-multiboot-windows-linux/grub2win-multiboot-windows-linux-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "da8acf9946fb",
       "title": "Claude Desktop modifie les permissions de navigateurs que vous n'avez même pas installés",
       "description": "Des utilisateurs de Claude Desktop sont en train de découvrir que l'application d'Anthropic se permet d'aller bidouiller les réglages de plusieurs navigateurs, y compris ceux qui ne sont pas installés sur la machine. L'idée est simple, c'est pré-configurer l'accès pour que, le jour où vous…",
