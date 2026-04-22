@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "bd4cfc41f84e",
+      "title": "Loi séparatisme - Le blocage sans juge gagne du terrain",
+      "description": "Mis à part son auteur, y'a un truc qui sent pas bon dans l'avant-projet de loi de Laurent Nuñez sur le séparatisme et l'entrisme. Au milieu des mesures sur la dissolution d'assos et l'interdiction d'ouvrages, le texte prévoit en effet d'étendre fortement les pouvoirs de blocage administratif des…",
+      "link": "https://korben.info/loi-separatisme-blocage-administratif-sans-juge.html",
+      "pubDate": "2026-04-22T15:59:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5c6e218eb647",
       "title": "Razor 1911 - Le groupe qui a survécu à tout",
       "description": "Cet article fait partie de ma série spéciale hackers . Bonne lecture ! Il y a quelques jours, lors de la demo party Revision 2026 , dans une salle plongée dans le noir à Sarrebruck, un public de sceners regarde défiler les crédits d'une demo victorieuse. Au milieu des pseudos des graphistes, un nom…",
