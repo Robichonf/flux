@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "9d2217977d43",
+      "title": "Un YouTubeur a peut-être conçu la serrure la plus dure à crocheter qui existe",
+      "description": "La chaîne YouTube Works By Design vient de sortir un projet qui fait pas mal jaser chez les passionnés de crochetage : une serrure dont le cylindre se met littéralement en position fermée après que la clé ait été tournée, rendant l'accès aux goupilles quasi impossible pour n'importe quel individu…",
+      "link": "https://korben.info/un-youtubeur-a-peut-etre-concu-la-serrure-la-plus-dure-a-crocheter-qui-existe.html",
+      "pubDate": "2026-04-22T06:38:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "523986f04277",
+      "title": "LinuxServer - Les images Docker que votre homelab mérite",
+      "description": "Monter un Jellyfin dans Docker, ça prend 3 minutes. Mais retrouver dans 18 mois une image encore maintenue, c'est plus le même kung fu ! En effet, beaucoup d'images populaires sur Docker Hub ont déjà pris 2 ou 3 ans de retard sur leur app upstream, et quand c'est un mainteneur solo qui a lâché…",
+      "link": "https://korben.info/linuxserver-io-images-docker.html",
+      "pubDate": "2026-04-22T06:37:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/linuxserver-io-images-docker/linuxserver-io-images-docker-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "2b526eecc726",
+      "title": "« C'est le comportement attendu » : faille critique et com' désastreuse, la triple faute de Lovable",
+      "description": "Lovable, l'étoile montante du vibe coding (vous savez, ces plateformes où vous décrivez une app en langage naturel et une IA vous génère le code), traverse un sale moment. Un chercheur en sécurité, répondant au doux pseudo de @weezerOSINT, a découvert une faille BOLA (Broken Object Level…",
+      "link": "https://korben.info/cest-le-comportement-attendu-faille-critique-et-com-desastreuse-la-triple-faute-de-lovable.html",
+      "pubDate": "2026-04-22T05:23:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/cest-le-comportement-attendu-faille-critique-et-com-desastreuse-la-triple-faute-de-lovable/cest-le-comportement-attendu-faille-critique-et-com-desastreuse-la-triple-faute-de-lovable-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "07422a1fdbbd",
       "title": "Codex a rooté une TV Samsung tout seul - Faut s'y préparer",
       "description": "Une IA a rooté une télé Samsung tournant sous KantS2, la plateforme logicielle d'un ancien modèle de la marque. C'est Codex, le modèle de code d'OpenAI, qui a trouvé un driver laissé avec des droits d'écriture sur le firmware, mappé la mémoire physique, et est passé root en quelques étapes. Les…",
