@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "9f3157cec64a",
+      "title": "VidStudio - L'éditeur vidéo dans votre navigateur, sans upload",
+      "description": "Un éditeur vidéo qui redimensionne, compresse et coupe vos clips... sans rien uploader nulle part, ça vous dit ??? Ça tombe bien puisque VidStudio fait tourner FFmpeg directement dans votre navigateur ! Vous allez sur vidstudio.app, vous déposez votre vidéo, et tout le traitement se fait ensuite…",
+      "link": "https://korben.info/vidstudio-app-editeur-video-navigateur.html",
+      "pubDate": "2026-04-22T12:15:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/vidstudio-app-editeur-video-navigateur/vidstudio-app-editeur-video-navigateur-2.png",
+      "type": "blog"
+    },
+    {
       "id": "0731977e0a14",
       "title": "Comment fabriquer son propre soda ?",
       "description": "Les beaux jours reviennent, et avec eux l'envie d'un soda bien frais ! Sauf qu'au lieu d'alimenter un énième groupe industriel (coucou Coca Cola), vous pouvez maintenant fabriquer le vôtre à la maison. Et blinry , un développeur allemand, l'a bien compris puisqu'il vient de publier sur GitHub ses 6…",
