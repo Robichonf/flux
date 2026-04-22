@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "7f1437385d5c",
+      "title": "claude-copy - Le copier-coller propre que Claude Code a oublié",
+      "description": "Ah, le presse-papiers et Claude Code... Quelle misère !!! Si vous utilisez l'assistant d'Anthropic dans le terminal, vous connaissez la douleur. Vous copiez 3 lignes pour les coller ailleurs et vous vous retrouvez avec des │ partout, des marges de deux espaces, et des sauts de ligne au milieu des…",
+      "link": "https://korben.info/claude-copy-le-copier-coller-propre-que-claude-code-a-oublie.html",
+      "pubDate": "2026-04-22T08:08:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/claude-copy-le-copier-coller-propre-que-claude-code-a-oublie/claude-copy-le-copier-coller-propre-que-claude-code-a-oublie-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8e15ba4d21c5",
+      "title": "Anthropic teste le retrait de Claude Code pour les nouveaux abonnés Pro à 20 dollars",
+      "description": "Environ 2% des nouveaux abonnés Pro d'Anthropic ne peuvent plus utiliser Claude Code, le CLI de codage maison. L'info vient de The Register ce mardi, et l'entreprise parle d'un test A/B temporaire. Sauf que la page tarifaire publique, elle, a bien été modifiée, avec des croix qui remplacent les…",
+      "link": "https://korben.info/anthropic-teste-le-retrait-de-claude-code-pour-les-nouveaux-abonnes-pro-a-20-dollars.html",
+      "pubDate": "2026-04-22T07:38:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9d2217977d43",
       "title": "Un YouTubeur a peut-être conçu la serrure la plus dure à crocheter qui existe",
       "description": "La chaîne YouTube Works By Design vient de sortir un projet qui fait pas mal jaser chez les passionnés de crochetage : une serrure dont le cylindre se met littéralement en position fermée après que la clé ait été tournée, rendant l'accès aux goupilles quasi impossible pour n'importe quel individu…",
