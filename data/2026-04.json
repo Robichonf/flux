@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "5c6e218eb647",
+      "title": "Razor 1911 - Le groupe qui a survécu à tout",
+      "description": "Cet article fait partie de ma série spéciale hackers . Bonne lecture ! Il y a quelques jours, lors de la demo party Revision 2026 , dans une salle plongée dans le noir à Sarrebruck, un public de sceners regarde défiler les crédits d'une demo victorieuse. Au milieu des pseudos des graphistes, un nom…",
+      "link": "https://korben.info/razor-1911-histoire-scene-cracker.html",
+      "pubDate": "2026-04-22T15:01:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/razor-1911-histoire-scene-cracker/razor-1911-histoire-scene-cracker-1.png",
+      "type": "blog"
+    },
+    {
       "id": "9f3157cec64a",
       "title": "VidStudio - L'éditeur vidéo dans votre navigateur, sans upload",
       "description": "Un éditeur vidéo qui redimensionne, compresse et coupe vos clips... sans rien uploader nulle part, ça vous dit ??? Ça tombe bien puisque VidStudio fait tourner FFmpeg directement dans votre navigateur ! Vous allez sur vidstudio.app, vous déposez votre vidéo, et tout le traitement se fait ensuite…",
