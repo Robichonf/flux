@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "01b8ba2d85f2",
+      "title": "On a laissé 180 tonnes de bazar sur la Lune",
+      "description": "Environ 180 tonnes d'objets fabriqués par l'homme sont déjà posés sur la Lune, dont une grosse partie datant des missions Apollo. e site Hackaday vient de publier un recensement assez complet, qui rappelle que l'exploration lunaire n'a pas laissé que des traces de pas dans le régolithe. Côté…",
+      "link": "https://korben.info/on-a-laisse-180-tonnes-de-bazar-sur-la-lune.html",
+      "pubDate": "2026-04-23T16:02:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0383e2ed4f95",
       "title": "Lotus, le nouveau wiper qui efface les systèmes des entreprises d'énergie vénézuéliennes",
       "description": "Un logiciel malveillant destiné à effacer définitivement les données de postes informatiques vient de faire surface dans le secteur énergétique vénézuélien. La bête a été baptisée \"Lotus\" par les chercheurs de Kaspersky qui l'ont analysé en premier, il a été mise en route en décembre 2025 depuis un…",
