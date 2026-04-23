@@ -2,6 +2,81 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3237aa087946",
+      "title": "Nullroom - Un chat P2P qui s'efface en 15 minutes",
+      "description": "Utiliser une conversation WhatsApp pour partager un mot de passe à un pote, c'est un peu comme écrire son code de carte bleue au marker dans des chiottes publics. Sauf que les messages, eux, restent des années dans l'historique car y'a personne qui viendra nettoyer ça. Heureusement, Nullroom vient…",
+      "link": "https://korben.info/nullroom-un-chat-p2p-qui-sefface-en-15-minutes.html",
+      "pubDate": "2026-04-23T08:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/nullroom-un-chat-p2p-qui-sefface-en-15-minutes/nullroom-un-chat-p2p-qui-sefface-en-15-minutes-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "715ec5285626",
+      "title": "Surfshark et le chiffrement post-quantique : se préparer aujourd'hui pour les menaces de demain",
+      "description": "-- Article en partenariat avec Surfshark -- L'informatique quantique n'est plus un sujet de science-fiction (mais ça, vous le savez, je vous bassine avec ça depuis des années maintenant). Mais les progrès récents laissent penser que des machines capables de casser certains chiffrements actuels…",
+      "link": "https://korben.info/surfshark-chiffrement-post-quantique.html",
+      "pubDate": "2026-04-23T07:44:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/surfshark-chiffrement-post-quantique/surfshark-chiffrement-post-quantique-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bdc8ae19f226",
+      "title": "Flipbook - Le web où chaque page est une image IA",
+      "description": "Flipbook est un navigateur web génératif où aucune page n'existe avant que vous ne la demandiez. Pas de HTML, pas de boutons, pas de liens... A la place, vous tapez simplement un mot ou un sujet dans la barre de recherche (ou vous uploadez une image), et hop, ça vous pond une image en direct façon…",
+      "link": "https://korben.info/flipbook-page-wiki-visuel-ia-infinite.html",
+      "pubDate": "2026-04-23T07:03:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/flipbook-page-wiki-visuel-ia-infinite/flipbook-page-wiki-visuel-ia-infinite-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "99e16437ca2b",
+      "title": "bbDump - L'alternative moderne à pgAdmin, sauce MCP",
+      "description": "pgAdmin, l'outil \"officiel\" pour administrer vos bases PostgreSQL, c'est le type d'interface qu'on n'a pas vraiment envie d'ouvrir un lundi matin ! C'est lent, c'est cheum de ouf en mode figé dans les années 2000 et ça rame sérieusement dès qu'on tente un export un peu costaud. Alors oui je sais,…",
+      "link": "https://korben.info/bbdump-lalternative-moderne-a-pgadmin-sauce-mcp.html",
+      "pubDate": "2026-04-23T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/bbdump-lalternative-moderne-a-pgadmin-sauce-mcp/bbdump-lalternative-moderne-a-pgadmin-sauce-mcp-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f956a5ba13f",
+      "title": "Une faille IndexedDB permettait de relier toutes vos identités Tor",
+      "description": "Bon, les amis, si vous utilisez Tor Browser pour faire du sérieux, faut que vous sachiez un truc. Le bouton \"New Identity\", censé vous donner une nouvelle identité vierge à chaque clic... bah il laissait filer, jusqu'à il y a peu de temps, un identifiant stable tant que Firefox tournait. Deux…",
+      "link": "https://korben.info/firefox-tor-indexeddb-identifiant-stable.html",
+      "pubDate": "2026-04-23T06:12:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/firefox-tor-indexeddb-identifiant-stable/firefox-tor-indexeddb-identifiant-stable-2.png",
+      "type": "blog"
+    },
+    {
       "id": "bd4cfc41f84e",
       "title": "Loi séparatisme - Le blocage sans juge gagne du terrain",
       "description": "Mis à part son auteur, y'a un truc qui sent pas bon dans l'avant-projet de loi de Laurent Nuñez sur le séparatisme et l'entrisme. Au milieu des mesures sur la dissolution d'assos et l'interdiction d'ouvrages, le texte prévoit en effet d'étendre fortement les pouvoirs de blocage administratif des…",
