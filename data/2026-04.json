@@ -2,6 +2,81 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "0383e2ed4f95",
+      "title": "Lotus, le nouveau wiper qui efface les systèmes des entreprises d'énergie vénézuéliennes",
+      "description": "Un logiciel malveillant destiné à effacer définitivement les données de postes informatiques vient de faire surface dans le secteur énergétique vénézuélien. La bête a été baptisée \"Lotus\" par les chercheurs de Kaspersky qui l'ont analysé en premier, il a été mise en route en décembre 2025 depuis un…",
+      "link": "https://korben.info/lotus-le-nouveau-wiper-qui-efface-les-systemes-des-entreprises-denergie-venezueliennes.html",
+      "pubDate": "2026-04-23T13:55:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6fe8a2786eef",
+      "title": "CANviz - Analyser le bus CAN de sa voiture dans le navigateur",
+      "description": "Vous voulez comprendre ce qui se passe dans le cerveau de votre bagnole ? Hé bien pour cela avant, il fallait du matos pro et des suites logicielles à licence annuelle. Mais maintenant, y'a CANviz . Un pip install canviz, un module USB à quelques balles branché sur le bus CAN de la voiture, et hop,…",
+      "link": "https://korben.info/can-bus-analyzer-navigateur.html",
+      "pubDate": "2026-04-23T13:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/can-bus-analyzer-navigateur/can-bus-analyzer-navigateur-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "f2b90abca149",
+      "title": "Apple corrige une faille iOS qui permettait à la police d'extraire des messages supprimés",
+      "description": "Apple a publié hier une mise à jour iOS qui ferme une faille utilisée par les forces de l'ordre américaines pour récupérer des messages supprimés dans des applications comme Signal. La faille concernait la base de données des notifications : quand vous supprimiez un message dans l'appli, la version…",
+      "link": "https://korben.info/apple-corrige-une-faille-ios-qui-permettait-a-la-police-dextraire-des-messages-supprimes.html",
+      "pubDate": "2026-04-23T13:18:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f1fa838a95c",
+      "title": "Lastversion - Trouver la dernière version de n'importe quoi",
+      "description": "Vous bossez sur un Dockerfile et vous avez besoin de la dernière version de nginx. Vous ouvrez GitHub, vous cliquez sur Releases, vous copiez-collez. Et 3 minutes plus tard, rebelote pour curl. Puis pour PHP. Sans parler du fait que dans votre script d'auto-update, vous avez hardcodé une \"v3.2.1\"…",
+      "link": "https://korben.info/lastversion-cli-derniere-version-github.html",
+      "pubDate": "2026-04-23T12:37:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da560cc309e7",
+      "title": "GitHub active par défaut la télémétrie sur son outil en ligne de commande",
+      "description": "Depuis la version 2.91.0 du CLI GitHub publiée mardi, chaque commande que vous tapez dans gh envoie des données de télémétrie vers GitHub par défaut. L'activation est silencieuse, sans message au premier lancement, sans consentement explicite, et il faut fouiller dans la doc pour tomber sur la page…",
+      "link": "https://korben.info/github-active-par-defaut-la-telemetrie-sur-son-outil-en-ligne-de-commande.html",
+      "pubDate": "2026-04-23T11:38:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c1ae938df6b8",
       "title": "Un agent IA chinois a trouvé près de 1 000 failles inédites, dont certaines dans Microsoft Office",
       "description": "360 Digital Security, la filiale cybersécurité du géant chinois Qihoo 360, revendique environ mille vulnérabilités inédites déterrées par un agent IA maison baptisé Vulnerability Discovery Agent. L'annonce, faite le 22 avril, cite nommément Microsoft Office et le framework open source OpenClaw…",
