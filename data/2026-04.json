@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c11b168f14d6",
+      "title": "GNU TeXmacs - Écrivez vos équations comme dans Word",
+      "description": "Ah, LaTeX... Si vous avez un jour essayé de poser 3 équations dans un document sérieux, vous voyez le genre de galère que c'est. Le rendu est magnifique, les maths sont propres, mais faut d'abord digérer son langage de markup avant de réussir à imprimer la moindre intégrale. Heureusement, c'est là…",
+      "link": "https://korben.info/texmacs-alternative-libre-latex.html",
+      "pubDate": "2026-04-23T09:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/texmacs-alternative-libre-latex/texmacs-alternative-libre-latex-2.png",
+      "type": "blog"
+    },
+    {
       "id": "3237aa087946",
       "title": "Nullroom - Un chat P2P qui s'efface en 15 minutes",
       "description": "Utiliser une conversation WhatsApp pour partager un mot de passe à un pote, c'est un peu comme écrire son code de carte bleue au marker dans des chiottes publics. Sauf que les messages, eux, restent des années dans l'historique car y'a personne qui viendra nettoyer ça. Heureusement, Nullroom vient…",
