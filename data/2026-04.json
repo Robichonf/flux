@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c1ae938df6b8",
+      "title": "Un agent IA chinois a trouvé près de 1 000 failles inédites, dont certaines dans Microsoft Office",
+      "description": "360 Digital Security, la filiale cybersécurité du géant chinois Qihoo 360, revendique environ mille vulnérabilités inédites déterrées par un agent IA maison baptisé Vulnerability Discovery Agent. L'annonce, faite le 22 avril, cite nommément Microsoft Office et le framework open source OpenClaw…",
+      "link": "https://korben.info/un-agent-ia-chinois-a-trouve-pres-de-1-000-failles-inedites-dont-certaines-dans-microsoft-office.html",
+      "pubDate": "2026-04-23T11:27:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c11b168f14d6",
       "title": "GNU TeXmacs - Écrivez vos équations comme dans Word",
       "description": "Ah, LaTeX... Si vous avez un jour essayé de poser 3 équations dans un document sérieux, vous voyez le genre de galère que c'est. Le rendu est magnifique, les maths sont propres, mais faut d'abord digérer son langage de markup avant de réussir à imprimer la moindre intégrale. Heureusement, c'est là…",
