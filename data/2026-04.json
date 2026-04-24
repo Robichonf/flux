@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "810eadc98591",
+      "title": "Cinquante ans plus tard, la toute première borne d'arcade Nintendo reprend vie",
+      "description": "Vous connaissez probablement Wild Gunman sur NES, ce petit jeu de tir au Zapper avec des cowboys pixellisés. Mais la version originale, c'est autre chose. En 1974, Nintendo sort une borne d'arcade imaginée par Gunpei Yokoi lui-même, avant qu'il ne devienne la légende derrière la Game Boy. Au lieu…",
+      "link": "https://korben.info/cinquante-ans-plus-tard-la-toute-premiere-borne-darcade-nintendo-reprend-vie.html",
+      "pubDate": "2026-04-24T11:28:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1de0f0ca87e8",
+      "title": "Un soldat des forces spéciales ayant participé à la capture de Maduro arrêté pour avoir parié sur l'opération sur Polymarket",
+      "description": "Le sergent-chef Gannon Van Dyke, 38 ans, stationné à Fort Bragg, a été arrêté et inculpé pour avoir empoché quelques 410 000 dollars de gains sur Polymarket en misant sur la chute de Nicolás Maduro, alors même qu'il participait à l'opération qui l'a capturé. L'information vient du département de la…",
+      "link": "https://korben.info/un-soldat-des-forces-speciales-ayant-participe-a-la-capture-de-maduro-arrete-pour-avoir-parie-sur-loperation-sur-polymarket.html",
+      "pubDate": "2026-04-24T11:16:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59804bf431c1",
+      "title": "Hotfix - Quand l'astreinte au boulot devient un jeu",
+      "description": "Un dev français, Romain Laurent, vient de sortir un jeu qui transforme en divertissement TOUT ce que tous les devs fuient, à savoir l'astreinte de nuit, le téléphone qui sonne à 3h du matin, et le hotfix qu'il faut pondre vite fait avec une prod qui fume. Ça s'appelle Hotfix , ça tourne dans votre…",
+      "link": "https://korben.info/hotfix-astreinte-on-call-jeu-web.html",
+      "pubDate": "2026-04-24T11:10:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/hotfix-astreinte-on-call-jeu-web/hotfix-astreinte-on-call-jeu-web-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "7bb2548c3864",
       "title": "Un bug de PMU espagnol se termine en kidnapping du gérant pour 50 000 euros",
       "description": "L'histoire nous vient de Málaga, racontée par la Policía Nacional et reprise par The Register. Un magasin de paris local est pris en défaut par un bug logiciel qui affiche des gains doublés sur plusieurs tickets de la journée. Les parieurs concernés voient leur jackpot apparaître deux fois à…",
