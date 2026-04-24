@@ -2,6 +2,157 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "7bb2548c3864",
+      "title": "Un bug de PMU espagnol se termine en kidnapping du gérant pour 50 000 euros",
+      "description": "L'histoire nous vient de Málaga, racontée par la Policía Nacional et reprise par The Register. Un magasin de paris local est pris en défaut par un bug logiciel qui affiche des gains doublés sur plusieurs tickets de la journée. Les parieurs concernés voient leur jackpot apparaître deux fois à…",
+      "link": "https://korben.info/un-bug-de-pmu-espagnol-se-termine-en-kidnapping-du-gerant-pour-50-000-euros.html",
+      "pubDate": "2026-04-24T09:39:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ab5e0a5ebd2",
+      "title": "Le pilote Nouveau s'apprête à franchir la barrière HDMI 2.1, bloquée depuis des années sur AMD",
+      "description": "La norme HDMI 2.1, avec ses 4K@120 Hz et ses 8K, est un serpent de mer dans le monde Linux. Depuis trois ans, le HDMI Forum refuse aux développeurs AMD l'accès aux spécifications de la Fixed Rate Link, le composant-clé qui permet de faire passer ces gros débits. Résultat, les utilisateurs Linux…",
+      "link": "https://korben.info/le-pilote-nouveau-sapprete-a-franchir-la-barriere-hdmi-2-1-bloquee-depuis-des-annees-sur-amd.html",
+      "pubDate": "2026-04-24T09:09:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2a357df3d2c7",
+      "title": "Un malware qui pourrait être la toute première cyberarme de l'histoire",
+      "description": "SentinelOne a publié une analyse qui peut redessiner la chronologie connue de la cyberguerre. Baptisé FAST16, ce framework de sabotage informatique a été compilé en 2005, soit cinq ans avant la découverte de Stuxnet. Si les analyses tiennent la route, ça en fait la plus ancienne cyberarme étatique…",
+      "link": "https://korben.info/un-malware-qui-pourrait-etre-la-toute-premiere-cyberarme-de-lhistoire.html",
+      "pubDate": "2026-04-24T08:43:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "388b960fc621",
+      "title": "Mocker - Le clone Docker natif pour Mac Apple Silicon",
+      "description": "Si vous bossez sur Mac et que Docker Desktop commence à vous prendre la tête, les amis, y'a une alternative super cool qui vient de débarquer. Ça s'appelle Mocker , c'est écrit en Swift, c'est sous licence AGPL-3.0, et le principe c'est de remplacer la CLI de Docker à l'identique : mêmes flags,…",
+      "link": "https://korben.info/mocker-docker-alternative-macos.html",
+      "pubDate": "2026-04-24T07:27:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/mocker-docker-alternative-macos/mocker-docker-alternative-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8bd2b9325eba",
+      "title": "C64UX - Un shell Unix-like pour Commodore 64",
+      "description": "Je viens de tomber sur un projet qui va vous renvoyer direct dans les années 80 !! Ça vous dirait que votre vieux Commodore 64 puisse balancer un prompt façon Unix, avec login, éditeur de texte et 30 commandes ? Hé bien c'est exactement ce que propose C64UX , codé en assembleur pur, sans patch ROM…",
+      "link": "https://korben.info/c64ux-shell-unix-commodore-64.html",
+      "pubDate": "2026-04-24T07:23:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/c64ux-shell-unix-commodore-64/c64ux-shell-unix-commodore-64-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "2a223d0f6aed",
+      "title": "Bitwarden CLI compromis : retour sur une attaque supply chain qui vise (encore) les développeurs",
+      "description": "Le 22 avril 2026, entre 17h57 et 19h30 (heure de l'Est) — soit une fenêtre d'un peu plus d'une heure et demie — une version piégée du paquet npm @bitwarden/cli@2026.4.0 a été distribuée sur le…",
+      "link": "https://yoandev.co/patreon/patreon-156413402-bitwarden-cli-compromis-retour-sur-une-attaque-supply-chain",
+      "pubDate": "2026-04-24T06:45:14.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d44909d8bc73",
+      "title": "Bitwarden CLI compromis - Shai-Hulud frappe encore",
+      "description": "Si vous avez installé Bitwarden CLI via npm entre 17h57 et 19h30 PM (heure de New York) ce 22 avril, faut faire le ménage sur votre machine de toute urgence !! En effet, le package @bitwarden/cli version 2026.4.0 a été compromis durant 93 minutes, et le malware qui s'y trouvait a fait des dégâts…",
+      "link": "https://korben.info/bitwarden-cli-compromis-checkmarx-shai-hulud.html",
+      "pubDate": "2026-04-24T06:37:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/bitwarden-cli-compromis-checkmarx-shai-hulud/bitwarden-cli-compromis-checkmarx-shai-hulud-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c02749787ab4",
+      "title": "Auto Reject Cookies - Anti-popups Firefox avec signal GPC",
+      "description": "Les bannières cookies, franchement, plus personne à part quelques no-life ne les lisent. On clique tous sur \"Accepter tout\" par flemme et on sait tous pertinemment que nous venons de nous \"auto-tracker\" comme des débilos. Mais heureusement, y'a une extension Firefox qui fait le refus automatique à…",
+      "link": "https://korben.info/auto-reject-cookies-firefox.html",
+      "pubDate": "2026-04-24T06:27:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/auto-reject-cookies-firefox/auto-reject-cookies-firefox-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "610e6c3b4f2a",
+      "title": "Flipbook : vers un Web sans fin ni fond ?",
+      "description": "Flipbook.page présente un site web sans contenu prédéfini, où des images sont générées en temps réel par une IA. Bien que l'expérience soit visuellement captivante, elle soulève des questions sur le futur du Web, mettant en avant un accès à l'information réinventé, sans structure ni contenus…",
+      "link": "https://oliviersauvage.com/2026/04/24/flipbook-vers-un-web-sans-fin-ni-fond/",
+      "pubDate": "2026-04-24T06:26:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1439f8a1249d",
+      "title": "SpaceX va fabriquer ses propres GPU",
+      "description": "Dans son document S-1 déposé à la SEC en vue de son entrée en Bourse, SpaceX liste la fabrication de ses propres GPU parmi ses dépenses en capital en cours. Reuters a repéré l'extrait, qui fait partie des postes identifiés comme substantiels par l'entreprise, même si aucun chiffre précis n'est…",
+      "link": "https://korben.info/spacex-va-fabriquer-ses-propres-gpu.html",
+      "pubDate": "2026-04-24T05:45:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "01b8ba2d85f2",
       "title": "On a laissé 180 tonnes de bazar sur la Lune",
       "description": "Environ 180 tonnes d'objets fabriqués par l'homme sont déjà posés sur la Lune, dont une grosse partie datant des missions Apollo. e site Hackaday vient de publier un recensement assez complet, qui rappelle que l'exploration lunaire n'a pas laissé que des traces de pas dans le régolithe. Côté…",
