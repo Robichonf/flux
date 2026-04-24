@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "9d11d0324ed5",
+      "title": "J'ai testé le Engwe LE20 Passenger, le vélo cargo aux 350 km d'autonomie",
+      "description": "– Contient des liens affiliés Amazon – Gros bestiau électrique avec deux batteries de 19,2 Ah, le Engwe LE20 Passenger annonce 350 km d'autonomie et embarque jusqu'à 200 kg sur sa banquette arrière. Pendant plusieurs semaines, je l'ai utilisé pour amener ponctuellement un enfant de 5 ans à l'école…",
+      "link": "https://korben.info/jai-teste-le-engwe-le20-passenger-le-velo-cargo-aux-350-km-dautonomie.html",
+      "pubDate": "2026-04-24T12:40:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jai-teste-le-engwe-le20-passenger-le-velo-cargo-aux-350-km-dautonomie/jai-teste-le-engwe-le20-passenger-le-velo-cargo-aux-350-km-dautonomie-2.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "973a81e77cc1",
       "title": "Il fabrique de la RAM dans sa cabane",
       "description": "Imaginez qu'à cause de cette putain de pénurie, vous vous mettiez à fabriquez votre propre RAM à la main dans votre cabane de jardin façon Heisenberg ? Hé bien c'est exactement ce que Dr. Semiconductor vient de réussir, et les 20 premières cellules DRAM de ce fou furieux fonctionnent ! Alors…",
@@ -278,6 +293,21 @@
       "description": "Vous bossez sur un Dockerfile et vous avez besoin de la dernière version de nginx. Vous ouvrez GitHub, vous cliquez sur Releases, vous copiez-collez. Et 3 minutes plus tard, rebelote pour curl. Puis pour PHP. Sans parler du fait que dans votre script d'auto-update, vous avez hardcodé une \"v3.2.1\"…",
       "link": "https://korben.info/lastversion-cli-derniere-version-github.html",
       "pubDate": "2026-04-23T12:37:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc02fe0fb0b1",
+      "title": "Anker présente Thus, sa puce IA maison dédiée aux écouteurs et aux accessoires",
+      "description": "Anker dévoile Thus, sa toute première puce maison conçue pour faire tourner de l'IA directement sur ses appareils. La marque chinoise parle d'un bond de 150 fois en puissance IA pour ses futurs produits Soundcore par rapport à la génération actuelle. Le bond est énorme. Le lancement officiel est…",
+      "link": "https://korben.info/anker-presente-thus-sa-puce-ia-maison-dediee-aux-ecouteurs-et-aux-accessoires.html",
+      "pubDate": "2026-04-23T12:10:00.000Z",
       "source": "Korben (Manu)",
       "sourceUrl": "https://korben.info/feed",
       "categories": [
