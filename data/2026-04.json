@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "973a81e77cc1",
+      "title": "Il fabrique de la RAM dans sa cabane",
+      "description": "Imaginez qu'à cause de cette putain de pénurie, vous vous mettiez à fabriquez votre propre RAM à la main dans votre cabane de jardin façon Heisenberg ? Hé bien c'est exactement ce que Dr. Semiconductor vient de réussir, et les 20 premières cellules DRAM de ce fou furieux fonctionnent ! Alors…",
+      "link": "https://korben.info/dr-semiconductor-ram-maison-cabane-jardin.html",
+      "pubDate": "2026-04-24T12:17:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dr-semiconductor-ram-maison-cabane-jardin/dr-semiconductor-ram-maison-cabane-jardin-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "810eadc98591",
       "title": "Cinquante ans plus tard, la toute première borne d'arcade Nintendo reprend vie",
       "description": "Vous connaissez probablement Wild Gunman sur NES, ce petit jeu de tir au Zapper avec des cowboys pixellisés. Mais la version originale, c'est autre chose. En 1974, Nintendo sort une borne d'arcade imaginée par Gunpei Yokoi lui-même, avant qu'il ne devienne la légende derrière la Game Boy. Au lieu…",
