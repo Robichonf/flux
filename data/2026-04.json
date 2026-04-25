@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "fd13d90a7d75",
+      "title": "Un loup s'échappe en Corée du Sud, et l'IA vient mettre le bordel dans sa capture",
+      "description": "Voici l'histoire de Neukgu, un loup coréen de deux ans qui s'est fait la malle d'un zoo de Daejeon le 8 avril dernier, et qui a tenu en haleine toute la Corée du Sud pendant neuf jours. Sauf que dans la foulée de l'évasion, un homme de 40 ans génère une fausse photo IA du loup en train de traverser…",
+      "link": "https://korben.info/un-loup-sechappe-en-coree-du-sud-et-lia-vient-mettre-le-bordel-dans-sa-capture.html",
+      "pubDate": "2026-04-25T08:45:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/un-loup-sechappe-en-coree-du-sud-et-lia-vient-mettre-le-bordel-dans-sa-capture/un-loup-sechappe-en-coree-du-sud-et-lia-vient-mettre-le-bordel-dans-sa-capture-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "61fcf441f886",
       "title": "Project Deal, l'expérience où des agents Claude négocient des objets pour leurs collègues",
       "description": "Anthropic a partagé hier les résultats de Project Deal, une expérience interne menée en décembre 2025 où des agents Claude ont négocié, acheté et revendu des objets personnels pour le compte de 69 salariés volontaires de leur bureau de San Francisco. Le but : voir ce que ça donne quand des gens…",
@@ -74,6 +89,22 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pack2theroot-faille-linux-root/pack2theroot-faille-linux-root-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "08d05cd2ccb1",
+      "title": "Devoxx France 2026 - Bilan",
+      "description": "Cette année encore (comme les deux années précédentes), j’étais présent à Devoxx France. Cette fois-ci, pas de talk pour moi, j’étais donc en “simple visite”, ce qui enlève un élément de stress (ce n’est pas plus mal non plus). J’ai donc bien profité des trois jours, entre les différents talks, les…",
+      "link": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/",
+      "pubDate": "2026-04-25T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/cover_hu_97ac4ca26c325055.webp",
       "type": "blog"
     },
     {
