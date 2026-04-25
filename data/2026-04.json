@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "587529ee9149",
+      "title": "Les cartes bancaires biométriques sont-elles une vraie avancée ou du bullshit marketing ?",
+      "description": "Depuis quelques jours, plusieurs médias français ressortent cette merveilleuse histoire de la carte bancaire à empreinte digitale comme s'il s'agissait d'une révolution imminente ! Par exemple l'Indépendant titre carrément \"le code à quatre chiffres c'est bientôt fini\". Toudoum !! Sauf que la…",
+      "link": "https://korben.info/cartes-bancaires-biometriques-empreinte-fin-code-pin.html",
+      "pubDate": "2026-04-25T15:33:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/cartes-bancaires-biometriques-empreinte-fin-code-pin/cartes-bancaires-biometriques-empreinte-fin-code-pin-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "fd13d90a7d75",
       "title": "Un loup s'échappe en Corée du Sud, et l'IA vient mettre le bordel dans sa capture",
       "description": "Voici l'histoire de Neukgu, un loup coréen de deux ans qui s'est fait la malle d'un zoo de Daejeon le 8 avril dernier, et qui a tenu en haleine toute la Corée du Sud pendant neuf jours. Sauf que dans la foulée de l'évasion, un homme de 40 ans génère une fausse photo IA du loup en train de traverser…",
