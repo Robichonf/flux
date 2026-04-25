@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "61fcf441f886",
+      "title": "Project Deal, l'expérience où des agents Claude négocient des objets pour leurs collègues",
+      "description": "Anthropic a partagé hier les résultats de Project Deal, une expérience interne menée en décembre 2025 où des agents Claude ont négocié, acheté et revendu des objets personnels pour le compte de 69 salariés volontaires de leur bureau de San Francisco. Le but : voir ce que ça donne quand des gens…",
+      "link": "https://korben.info/project-deal-lexperience-ou-des-agents-claude-negocient-des-objets-pour-leurs-collegues.html",
+      "pubDate": "2026-04-25T07:17:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "60fc9ef30045",
       "title": "Is It Agent Ready - Vérifiez si votre site parle aux agents IA",
       "description": "Si vous avez un site, vous savez déjà qu'il faut l'optimiser et le rendre lisible pour Google. Mais en ce moment, Cloudflare pousse vraiment une toute autre couche par-dessus : le rendre lisible pour les agents IA. Et pour vérifier si vous êtes dans les clous, l'équipe a sorti isitagentready.com ,…",
