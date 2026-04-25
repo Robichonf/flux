@@ -2,6 +2,66 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "60fc9ef30045",
+      "title": "Is It Agent Ready - Vérifiez si votre site parle aux agents IA",
+      "description": "Si vous avez un site, vous savez déjà qu'il faut l'optimiser et le rendre lisible pour Google. Mais en ce moment, Cloudflare pousse vraiment une toute autre couche par-dessus : le rendre lisible pour les agents IA. Et pour vérifier si vous êtes dans les clous, l'équipe a sorti isitagentready.com ,…",
+      "link": "https://korben.info/is-it-agent-ready-scanner-sites-agents-ia.html",
+      "pubDate": "2026-04-25T05:53:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/is-it-agent-ready-scanner-sites-agents-ia/is-it-agent-ready-scanner-sites-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6ffc8f37f56",
+      "title": "RSVP Nano - Une mini-liseuse DIY qui fait défiler les mots",
+      "description": "John Decebal vient de sortir le RSVP Nano , une mini-liseuse open-source qui tient sur un ESP32-S3 et qui affiche votre bibliothèque... un mot à la fois. 92 mm sur 34, et sous licence MIT, je me suis dis que j'allais y jeter un oeil. En fait, le concept tient en 4 mots : Rapid Serial Visual…",
+      "link": "https://korben.info/rsvp-nano-mini-liseuse-poche.html",
+      "pubDate": "2026-04-25T05:34:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rsvp-nano-mini-liseuse-poche/rsvp-nano-mini-liseuse-poche-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f7603beeaaaf",
+      "title": "tar-vfs-index - Monter du .tar.gz dans le browser sans l'extraire",
+      "description": "Distribuer des paquets binaires en WebAssembly, c'est galère. Vous téléchargez le .tar.gz, vous le gunzippez, vous l'extrayez en mémoire... et ça rame sévèrement !! Mais youpi, Jeroen Ooms (qui contribue à webR et bosse chez ROpenSci) vient de publier tar-vfs-index , un petit npm package qui casse…",
+      "link": "https://korben.info/webassembly-tar-navigateur.html",
+      "pubDate": "2026-04-25T05:22:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1c4976f5967",
+      "title": "Pack2theRoot - 12 ans d'accès root offert dans PackageKit",
+      "description": "Si vous tournez sur Ubuntu, Debian, Fedora ou RockyLinux, sachez que votre démon PackageKit a passé presque 12 ans à laisser une porte ouverte vers votre compte root. La Deutsche Telekom Red Team vient en effet de publier Pack2theRoot (CVE-2026-41651), une faille notée 8.8/10 qui permet à n'importe…",
+      "link": "https://korben.info/pack2theroot-faille-linux-root.html",
+      "pubDate": "2026-04-25T05:11:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pack2theroot-faille-linux-root/pack2theroot-faille-linux-root-1.png",
+      "type": "blog"
+    },
+    {
       "id": "9d11d0324ed5",
       "title": "J'ai testé le Engwe LE20 Passenger, le vélo cargo aux 350 km d'autonomie",
       "description": "– Contient des liens affiliés Amazon – Gros bestiau électrique avec deux batteries de 19,2 Ah, le Engwe LE20 Passenger annonce 350 km d'autonomie et embarque jusqu'à 200 kg sur sa banquette arrière. Pendant plusieurs semaines, je l'ai utilisé pour amener ponctuellement un enfant de 5 ans à l'école…",
