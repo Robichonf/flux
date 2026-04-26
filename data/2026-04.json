@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "30b5362c6326",
+      "title": "Hypervibe - Codez avec une télécommande Apple TV",
+      "description": "Vous savez cette télécommande Apple TV de première génération qui traîne dans un tiroir et dont vous ne faites rien ? Bah y'a enfin un truc à faire avec ! Jinsoo An, alias machinarii sur GitHub, vient de sortir Hypervibe , un outil macOS qui transforme la télécommande de l'Apple TV en walkie-talkie…",
+      "link": "https://korben.info/hypervibe-apple-tv-remote-claude-code.html",
+      "pubDate": "2026-04-26T08:35:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hypervibe-apple-tv-remote-claude-code/hypervibe-apple-tv-remote-claude-code-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "fe7cdf58abf0",
       "title": "WinDiskWriter - Créez une clé USB Windows depuis macOS",
       "description": "Cas pratique du week-end : ma pote Alex m'a passé son PC familial tournant sous Windows 8, car son fils a changé le mot de passe du Windows et n'a pas la moindre idée de ce qu'il a tapé. Pour faire sauter ce mot de passe sans tout réinstaller, j'utilise depuis des années la bonne vieille astuce…",
