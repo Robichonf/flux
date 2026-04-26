@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "fe7cdf58abf0",
+      "title": "WinDiskWriter - Créez une clé USB Windows depuis macOS",
+      "description": "Cas pratique du week-end : ma pote Alex m'a passé son PC familial tournant sous Windows 8, car son fils a changé le mot de passe du Windows et n'a pas la moindre idée de ce qu'il a tapé. Pour faire sauter ce mot de passe sans tout réinstaller, j'utilise depuis des années la bonne vieille astuce…",
+      "link": "https://korben.info/windiskwriter-cle-usb-windows-macos.html",
+      "pubDate": "2026-04-26T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/windiskwriter-cle-usb-windows-macos/windiskwriter-cle-usb-windows-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a3ca927b5fcb",
+      "title": "L'IA qui conçoit votre prochain produit DIY",
+      "description": "Ce matin, j'ai demandé à une IA de me concevoir un baladeur qui lit du FLAC. L'outil m'a alors posé quelques questions puis il m'a sorti le design électronique complet en quelques secondes. Blueprint.am , c'est le service de 3E8 Robotics qui transforme une simple phrase en bidule hardware DIY :…",
+      "link": "https://korben.info/blueprint-am-genere-hardware-prompt-ia.html",
+      "pubDate": "2026-04-26T06:45:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/blueprint-am-genere-hardware-prompt-ia/blueprint-am-genere-hardware-prompt-ia-2.png",
+      "type": "blog"
+    },
+    {
       "id": "b5678d7ca519",
       "title": "Configurer votre éditeur Zed sur le bout des doigts",
       "description": "Cela fait maintenant plus d’un an que j’utilise cet éditeur en remplacement de ce bon vieux Sublime Text qui fait décidément beaucoup trop de sur-place. [...]",
