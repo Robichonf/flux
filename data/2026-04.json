@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "482856b53f08",
+      "title": "DeepSeek lance V4, optimisé pour les puces chinoises Huawei Ascend",
+      "description": "DeepSeek a publié la preview de V4, sa nouvelle famille de modèles ajustée pour tourner sur les puces Ascend de Huawei. C'est un peu la première vraie démonstration que l'écosystème chinois peut faire fonctionner un grand modèle d'IA compétitif sans dépendre de Nvidia. Pour rappel, DeepSeek avait…",
+      "link": "https://korben.info/deepseek-lance-v4-optimise-pour-les-puces-chinoises-huawei-ascend.html",
+      "pubDate": "2026-04-27T10:56:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "82d8d602a607",
+      "title": "Firefox embarque en douce le moteur d'adblock open source de Brave",
+      "description": "Mozilla a glissé dans Firefox 149, sorti en mars, le moteur d'adblock open source de Brave, sans communiquer dessus dans les notes de version. L'info est sortie cette semaine via le blog itsfoss et un billet du VP Brave Shivan Kaul Sahib. C'est un retournement assez inattendu : Firefox embarque le…",
+      "link": "https://korben.info/firefox-embarque-en-douce-le-moteur-dadblock-open-source-de-brave.html",
+      "pubDate": "2026-04-27T09:45:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "30b5362c6326",
       "title": "Hypervibe - Codez avec une télécommande Apple TV",
       "description": "Vous savez cette télécommande Apple TV de première génération qui traîne dans un tiroir et dont vous ne faites rien ? Bah y'a enfin un truc à faire avec ! Jinsoo An, alias machinarii sur GitHub, vient de sortir Hypervibe , un outil macOS qui transforme la télécommande de l'Apple TV en walkie-talkie…",
