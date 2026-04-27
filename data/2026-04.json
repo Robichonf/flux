@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "542b43dc566c",
+      "title": "UNIX Magic - Le poster culte de 1986 enfin décodé",
+      "description": "Si vous avez bossé sous Unix dans les années 80, vous avez peut-être déjà croisé ce poster. Un sorcier barbu en robe noire, un chaudron qui déborde, des étagères couvertes de conteneurs étiquetés tar, awk, troff... C'est l'œuvre de Gary Overacre, publiée par UniTech Software dans les années 80…",
+      "link": "https://korben.info/unix-magic-poster-histoire.html",
+      "pubDate": "2026-04-27T18:58:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/unix-magic-poster-histoire/unix-magic-poster-histoire-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "05e00ebedf23",
+      "title": "Cat Gatekeeper - Le chat qui débarque quand vous scrollez trop",
+      "description": "Cat Gatekeeper, c'est une extension Chrome signée Zokuzoku, un développeur japonais et son truc à lui c'est de balancer un chat virtuel sur votre écran quand vous traînez trop longtemps sur les réseaux sociaux (Pour le moment, X, Instagram, TikTok et YouTube). Voilà c'est un peu comme cette grosse…",
+      "link": "https://korben.info/cat-gatekeeper-extension-chat-pause-reseaux-sociaux.html",
+      "pubDate": "2026-04-27T18:07:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "88f4015f7783",
       "title": "Canonical va foutre de l'IA partout dans Ubuntu",
       "description": "Jon Seager, VP Engineering chez Canonical, vient de poser sur le Discourse Ubuntu le plan IA de la distrib pour les 12 prochains mois. Et ça va saupoudrer partout, du speech-to-text amélioré aux workflows agentic, en passant par l'analyse automatisée des logs serveur. Le timing est limpide, et à…",
