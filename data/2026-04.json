@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c868a374c36c",
+      "title": "Test du DJI Mic Mini, le kit de micros sans fil indispensable",
+      "description": "– Contient des liens affiliés Amazon – J'ai pris il y a quelques semaines le pack DJI Mic Mini à 79 euros sur Amazon , deux émetteurs et un récepteur dans un boîtier de charge, pour un usage assez mixte : stories Instagram, vidéos YouTube, et de plus en plus d'appels et de visios où je voulais…",
+      "link": "https://korben.info/test-du-dji-mic-mini-le-kit-de-micros-sans-fil-indispensable.html",
+      "pubDate": "2026-04-27T15:46:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-du-dji-mic-mini-le-kit-de-micros-sans-fil-indispensable/test-du-dji-mic-mini-le-kit-de-micros-sans-fil-indispensable-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "dd0e87bd79b8",
+      "title": "smolvm - Des microVMs qui se lancent en moins de 200ms",
+      "description": "Docker Desktop bouffe la RAM comme vous le saucisson à l'apéro. Et même quand vous n'utilisez pas cette RAM, d'autres outils comme Lima ou Colima prennent aussi de la RAM. Mais c'était sans compter sur smolvm , le projet de BinSquare et de l'équipe smol-machines, qui s'attaque au problème par un…",
+      "link": "https://korben.info/smolvm-microvm-portable-rust.html",
+      "pubDate": "2026-04-27T13:57:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/smolvm-microvm-portable-rust/smolvm-microvm-portable-rust-2.png",
+      "type": "blog"
+    },
+    {
       "id": "0ca77aff5d68",
       "title": "Microsoft lance Windows K2, son chantier interne pour réparer Windows 11",
       "description": "Microsoft a lancé en interne une initiative baptisée Windows K2, dont le but est de répondre aux plaintes les plus fréquentes des utilisateurs de Windows 11. Le projet, démarré au second semestre 2025 et révélé cette semaine par Zac Bowden de Windows Central , attaque trois fronts : la…",
