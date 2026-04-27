@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "88f4015f7783",
+      "title": "Canonical va foutre de l'IA partout dans Ubuntu",
+      "description": "Jon Seager, VP Engineering chez Canonical, vient de poser sur le Discourse Ubuntu le plan IA de la distrib pour les 12 prochains mois. Et ça va saupoudrer partout, du speech-to-text amélioré aux workflows agentic, en passant par l'analyse automatisée des logs serveur. Le timing est limpide, et à…",
+      "link": "https://korben.info/ubuntu-ia-canonical-roadmap-2026.html",
+      "pubDate": "2026-04-27T17:26:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ubuntu-ia-canonical-roadmap-2026/ubuntu-ia-canonical-roadmap-2026-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "705c782f5108",
+      "title": "Pedro de Ayala - Sa lettre chiffrée de 1498 enfin décodée",
+      "description": "Adrian William Jaime, Valeria Tapia Cruz et Mairi Cowan, 3 chercheurs de l'Université de Toronto, viennent de boucler le déchiffrement complet d'une lettre que personne n'avait jamais réussi à lire en entier depuis sa redécouverte en 1860. C'est Bruce Schneier qui relaye l'info sur son blog , et…",
+      "link": "https://korben.info/pedro-ayala-lettre-chiffree-1498-decodee.html",
+      "pubDate": "2026-04-27T16:44:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pedro-ayala-lettre-chiffree-1498-decodee/pedro-ayala-lettre-chiffree-1498-decodee-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "c868a374c36c",
       "title": "Test du DJI Mic Mini, le kit de micros sans fil indispensable",
       "description": "– Contient des liens affiliés Amazon – J'ai pris il y a quelques semaines le pack DJI Mic Mini à 79 euros sur Amazon , deux émetteurs et un récepteur dans un boîtier de charge, pour un usage assez mixte : stories Instagram, vidéos YouTube, et de plus en plus d'appels et de visios où je voulais…",
