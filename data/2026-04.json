@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ba758cd9cdf9",
+      "title": "Les archéologues de Pompéi utilisent l'IA pour reconstruire le visage d'une victime du Vésuve",
+      "description": "Pour la première fois, l'équipe du Parc archéologique de Pompéi a utilisé une chaîne d'intelligence artificielle pour reconstruire numériquement le visage d'une victime de l'éruption du Vésuve en 79 après Jésus-Christ. Le portrait, présenté hier, montre un homme âgé qui tentait de fuir la ville…",
+      "link": "https://korben.info/les-archeologues-de-pompei-utilisent-lia-pour-reconstruire-le-visage-dune-victime-du-vesuve.html",
+      "pubDate": "2026-04-28T14:29:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/les-archeologues-de-pompei-utilisent-lia-pour-reconstruire-le-visage-dune-victime-du-vesuve/les-archeologues-de-pompei-utilisent-lia-pour-reconstruire-le-visage-dune-victime-du-vesuve-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "268fe0007e44",
+      "title": "Un agent efface la base de prod de PocketOS en neuf secondes",
+      "description": "Jeremy Crane, fondateur de la startup PocketOS, a publié le récit complet de la disparition de sa base de données de production. Le coupable ? Un agent Cursor branché sur Claude Opus 4.6 qui, face à une erreur de credentials en staging, a décidé tout seul de supprimer un volume Railway. Neuf…",
+      "link": "https://korben.info/un-agent-efface-la-base-de-prod-de-pocketos-en-neuf-secondes.html",
+      "pubDate": "2026-04-28T14:22:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e1352779741",
+      "title": "SilentGlass, le boîtier du NCSC britannique qui bloque les attaques par câble HDMI",
+      "description": "Le NCSC, l'agence de cybersécurité du Royaume-Uni rattachée au GCHQ (l'équivalent britannique de la NSA américaine, qui s'occupe du renseignement électronique pour l'État), a sorti un boîtier qui s'intercale entre un ordinateur et son écran pour bloquer les attaques transitant par le câble HDMI ou…",
+      "link": "https://korben.info/silentglass-le-boitier-du-ncsc-britannique-qui-bloque-les-attaques-par-cable-hdmi.html",
+      "pubDate": "2026-04-28T12:32:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a2f53ad45ddc",
       "title": "GTFOBins - 478 binaires Unix qui font tomber root",
       "description": "478 binaires Unix peuvent servir à devenir root sur un système mal configuré. C'est ce que recense GTFOBins , le projet open source monté par Emilio Pinna et Andrea Cardaci, qui est devenu LE bookmark obligatoire de tout pentester Linux. Ce ne sont pas des exploits, hein, mais juste des fonctions…",
