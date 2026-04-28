@@ -2,6 +2,110 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "4e7b5d8dc0e8",
+      "title": "Scrapling - Le scraper Python qui se répare tout seul",
+      "description": "Le scraping web, c'est un combat permanent contre les sites qui changent leur HTML toutes les deux semaines. Vous vous emmerdez à coder vos sélecteurs CSS, ça marche pendant un mois, puis le site refait son design et hop, votre script s'eteint en silence. C'est pourquoi Karim Shoair (alias D4Vinci…",
+      "link": "https://korben.info/scrapling-scraper-python-auto-repare.html",
+      "pubDate": "2026-04-28T06:53:10.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/scrapling-scraper-python-auto-repare/scrapling-scraper-python-auto-repare-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "20e4cb69759b",
+      "title": "Technitium - Le DNS qui remplace Pi-hole, Unbound, BIND",
+      "description": "Et si vous aviez UN seul soft qui bloque les pubs comme Pi-hole, qui parle DoH/DoT/DoQ comme AdGuard Home, ET qui sait faire du serveur DNS faisant autorité pour vos zones perso ? Hé bien c'est exactement ce que fait Technitium DNS Server , un projet open source sous licence GPLv3 maintenu par…",
+      "link": "https://korben.info/technitium-dns-server.html",
+      "pubDate": "2026-04-28T06:43:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/technitium-dns-server/technitium-dns-server-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b64a75ff8736",
+      "title": "parallel-rsync - Empiler les rsync en parallèle sans galère",
+      "description": "Vous synchronisez 4 ou 5 dossiers vers plusieurs serveurs avec rsync ? Alors vous connaissez ce sketch quand un job mouline pendant que les autres font la queue, parce que rsync de base c'est mono-thread et ça avance en file indienne. Hé bien y'a un petit utilitaire Python qui dégoupille tout ça,…",
+      "link": "https://korben.info/parallel-rsync.html",
+      "pubDate": "2026-04-28T06:35:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/parallel-rsync/parallel-rsync-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "71b9d5c5ee13",
+      "title": "Notepad++ débarque sur MacOS - Le portage non officiel",
+      "description": "Andrey Letov vient de sortir Notepad++ for Mac , un portage natif Apple Silicon de l'éditeur culte créé par Don Ho. Notez quand même que Don Ho n'a rien à voir avec ce projet. C'est un portage communautaire indépendant, lancé en mars dernier. Vous récupérez le binaire universel qui tourne…",
+      "link": "https://korben.info/notepad-plus-plus-mac-portage-natif.html",
+      "pubDate": "2026-04-28T06:28:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/notepad-plus-plus-mac-portage-natif/notepad-plus-plus-mac-portage-natif-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1261a8ef672a",
+      "title": "Shaker App : L’outil lillois qui veut enfin réconcilier Design et Business (et qui cartonne !)",
+      "description": "User Shaker est une entreprise lilloise innovante dans le domaine du Product Design, récemment récompensée lors de Techinnov 2026. Son outil, Shaker App, facilite la création de spécifications actionnables à partir des User Stories. Grâce à leur expertise en Discovery, Design System et Product…",
+      "link": "https://oliviersauvage.com/2026/04/28/shaker-app-loutil-lillois-qui-veut-enfin-reconcilier-design-et-business-et-qui-cartonne/",
+      "pubDate": "2026-04-28T06:22:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0d276a4b6595",
+      "title": "Sauvegarder votre Raspberry Pi avec rpi-clone et rsync",
+      "description": "Une mise à jour qui se passe mal, une coupure de courant : la carte SD n'y survit pas toujours. rsync + rpi-clone pour ne plus tout reconfigurer depuis zéro.",
+      "link": "https://domopi.eu/sauvegarder-votre-raspberry-pi-avec-rpi-clone-et-rsync/",
+      "pubDate": "2026-04-28T05:45:21.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/01/Designer--1-.png",
+      "type": "blog"
+    },
+    {
+      "id": "6159a4a4dc07",
+      "title": "Quarkdown 2.0 - Du Markdown qui crache PDF, slides et wikis",
+      "description": "Quarkdown vient de passer en v2.0.0, et c'est une mise à jour qui en jette ! Pour ceux qui auraient raté le projet de Giorgio Garofalo, c'est ce compilateur Markdown capable de cracher livres, slides, PDF académiques et wikis à partir du même projet. J'en avais parlé il y a presque un an dans cet…",
+      "link": "https://korben.info/quarkdown-2-multi-format-permissions.html",
+      "pubDate": "2026-04-28T05:43:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/quarkdown-2-multi-format-permissions/quarkdown-2-multi-format-permissions-2.png",
+      "type": "blog"
+    },
+    {
       "id": "542b43dc566c",
       "title": "UNIX Magic - Le poster culte de 1986 enfin décodé",
       "description": "Si vous avez bossé sous Unix dans les années 80, vous avez peut-être déjà croisé ce poster. Un sorcier barbu en robe noire, un chaudron qui déborde, des étagères couvertes de conteneurs étiquetés tar, awk, troff... C'est l'œuvre de Gary Overacre, publiée par UniTech Software dans les années 80…",
