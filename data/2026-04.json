@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "2f289b02657f",
+      "title": "Une manette Sega Master System de 1985 modifiée pour fonctionner en USB-C",
+      "description": "Hackaday a relayé un projet de modification matérielle qui transforme une manette Sega Master System de 1985 en périphérique USB-C compatible avec un PC moderne ou une console de retrogaming actuelle. Le mod ne touche pas au boîtier d'origine et garde la sensation au pouce du gamepad d'époque, tout…",
+      "link": "https://korben.info/une-manette-sega-master-system-de-1985-modifiee-pour-fonctionner-en-usb-c.html",
+      "pubDate": "2026-04-28T15:40:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ba758cd9cdf9",
       "title": "Les archéologues de Pompéi utilisent l'IA pour reconstruire le visage d'une victime du Vésuve",
       "description": "Pour la première fois, l'équipe du Parc archéologique de Pompéi a utilisé une chaîne d'intelligence artificielle pour reconstruire numériquement le visage d'une victime de l'éruption du Vésuve en 79 après Jésus-Christ. Le portrait, présenté hier, montre un homme âgé qui tentait de fuir la ville…",
