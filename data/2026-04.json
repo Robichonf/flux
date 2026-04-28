@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "a2f53ad45ddc",
+      "title": "GTFOBins - 478 binaires Unix qui font tomber root",
+      "description": "478 binaires Unix peuvent servir à devenir root sur un système mal configuré. C'est ce que recense GTFOBins , le projet open source monté par Emilio Pinna et Andrea Cardaci, qui est devenu LE bookmark obligatoire de tout pentester Linux. Ce ne sont pas des exploits, hein, mais juste des fonctions…",
+      "link": "https://korben.info/gtfobins-binaires-unix-escalade-privileges.html",
+      "pubDate": "2026-04-28T10:28:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gtfobins-binaires-unix-escalade-privileges/gtfobins-binaires-unix-escalade-privileges-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ad29f6794b43",
       "title": "BleachBit 6.0 - Le grand nettoyage repart pour un tour",
       "description": "Souvenez-vous, en mai 2025 quand je vous parlais de BleachBit 5.0 et de son grand ménage de printemps. Hé bien Andrew Ziem, le développeur historique du soft, vient de balancer la version 6.0 samedi dernier ! Et c'est annoncé comme la plus grosse release du projet depuis des années, avec plus de…",
