@@ -2,6 +2,81 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ad29f6794b43",
+      "title": "BleachBit 6.0 - Le grand nettoyage repart pour un tour",
+      "description": "Souvenez-vous, en mai 2025 quand je vous parlais de BleachBit 5.0 et de son grand ménage de printemps. Hé bien Andrew Ziem, le développeur historique du soft, vient de balancer la version 6.0 samedi dernier ! Et c'est annoncé comme la plus grosse release du projet depuis des années, avec plus de…",
+      "link": "https://korben.info/bleachbit-6-cookie-manager-vivaldi-zen.html",
+      "pubDate": "2026-04-28T10:07:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0029d80af90a",
+      "title": "Un air hockey miniature en lévitation ultrasonique ? Pourquoi pas !",
+      "description": "Sur Hackaday, un maker a publié une variante rigolote de lévitation acoustique : un mini terrain d'air hockey où les palets flottent au-dessus du sol grâce à des ondes ultrasonores. Le truc fun ça n'est pas la lévitation en elle-même, technique connue depuis longtemps et déjà couverte sur le site,…",
+      "link": "https://korben.info/un-air-hockey-miniature-en-levitation-ultrasonique-pourquoi-pas.html",
+      "pubDate": "2026-04-28T09:44:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "db7adf72bc4b",
+      "title": "Tamawatchi - Un Tamagotchi natif Apple Watch qui mange vos pas",
+      "description": "Tamawatchi , c'est 2,8 Mo de pixel art qui tournent en natif sur Apple Watch sans dépendre d'un iPhone. Michael Ratto, lecteur de korben.info, vient de m'écrire pour m'annoncer la sortie de son Tamagotchi qui se nourrit de vos pas via HealthKit. La première créature est gratuite, et les autres à 99…",
+      "link": "https://korben.info/tamawatchi-tamagotchi-apple-watch-natif.html",
+      "pubDate": "2026-04-28T09:33:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/tamawatchi-tamagotchi-apple-watch-natif/tamawatchi-tamagotchi-apple-watch-natif-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "bf4b8c2f56ac",
+      "title": "Super ZSNES - les devs originaux reviennent après 19 ans",
+      "description": "J'sais pas si vous avez remarqué, mais aujourd'hui, TOUT LE MONDE \"vibe code\" : On balance des prompts à un LLM, on accepte le diff sans comprendre, on commit sans relire et tadaaaa, ça fait des chocapics ! Sauf pour zsKnight et Demo qui viennent de relâcher Super ZSNES , après 19 ans de silence,…",
+      "link": "https://korben.info/super-zsnes-reboot-gpu-emulateur.html",
+      "pubDate": "2026-04-28T09:20:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/super-zsnes-reboot-gpu-emulateur/super-zsnes-reboot-gpu-emulateur-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "cd97f1a42ef5",
+      "title": "NeatMail - L'assistant IA open source pour Gmail/Outlook",
+      "description": "Une boîte mail avec 12 000 messages non lus (genre 32 par jour pendant un an), c'est pas une vie mais c'est pas une fatalité non plus puisque Lakshay Gupta vient de poster NeatMail . Cet outil est un assistant IA qui labelise vos mails Gmail ou Outlook automatiquement et qui rédige des brouillons…",
+      "link": "https://korben.info/neatmail-tri-emails-ia-open-source.html",
+      "pubDate": "2026-04-28T09:04:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/neatmail-tri-emails-ia-open-source/neatmail-tri-emails-ia-open-source-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "4e7b5d8dc0e8",
       "title": "Scrapling - Le scraper Python qui se répare tout seul",
       "description": "Le scraping web, c'est un combat permanent contre les sites qui changent leur HTML toutes les deux semaines. Vous vous emmerdez à coder vos sélecteurs CSS, ça marche pendant un mois, puis le site refait son design et hop, votre script s'eteint en silence. C'est pourquoi Karim Shoair (alias D4Vinci…",
