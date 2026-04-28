@@ -62,6 +62,21 @@
       "type": "blog"
     },
     {
+      "id": "87bc8645531c",
+      "title": "Fibers PHP : anatomie d'une primitive mal aimée",
+      "description": "Fibers PHP: Découvrez cette primitive bas niveau essentielle aux bibliothèques asynchrones. Comprenez son mécanisme de stack switch coopératif et sa différence avec les generators.",
+      "link": "https://lecodeestdanslepre.fr/billets/fibers-php-anatomie-d-une-primitive-mal-aimee",
+      "pubDate": "2026-04-28T11:08:05.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg",
+      "type": "blog"
+    },
+    {
       "id": "a2f53ad45ddc",
       "title": "GTFOBins - 478 binaires Unix qui font tomber root",
       "description": "478 binaires Unix peuvent servir à devenir root sur un système mal configuré. C'est ce que recense GTFOBins , le projet open source monté par Emilio Pinna et Andrea Cardaci, qui est devenu LE bookmark obligatoire de tout pentester Linux. Ce ne sont pas des exploits, hein, mais juste des fonctions…",
