@@ -2,6 +2,35 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "76b09e49d668",
+      "title": "Xiaomi ouvre MiMo-V2.5 et MiMo-V2.5-Pro en open source sous licence MIT",
+      "description": "Xiaomi a publié hier MiMo-V2.5 et MiMo-V2.5-Pro, deux modèles d'IA qu'il met directement en open source sous licence MIT. Le plus gros, le Pro, fait 1 020 milliards de paramètres dont 42 milliards activés en simultané, avec une fenêtre de contexte d'un million de tokens. À noter que tout est…",
+      "link": "https://korben.info/xiaomi-ouvre-mimo-v2-5-et-mimo-v2-5-pro-en-open-source-sous-licence-mit.html",
+      "pubDate": "2026-04-29T10:44:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3fcda7300837",
+      "title": "Lexia : l’IA vocale « Made in France » qui protège vos données les plus sensibles",
+      "description": "Lexia, une startup deeptech française, révolutionne la transcription vocale au sein des entreprises. Avec une précision de plus de 99% et une sécurité des données inégalée, elle transforme les flux de travail en convertissant la parole en information structurée tout en respectant la souveraineté…",
+      "link": "https://oliviersauvage.com/2026/04/29/lexia-lia-vocale-made-in-france-qui-protege-vos-donnees-les-plus-sensibles/",
+      "pubDate": "2026-04-29T09:45:42.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cd0a3ca965d1",
       "title": "Héritage Doctrine : la troisième porte que personne ne montre",
       "description": "Découvrez la stratégie d'héritage Doctrine Mapped Superclass, souvent oubliée face à STI et CTI. Optimisez vos modèles PHP Symfony avec cette troisième approche pour une meilleure qualité de code.",
@@ -14,6 +43,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a62645e251db",
+      "title": "Talkie-1930 - Le LLM qui pense qu'on est en 1930",
+      "description": "Une IA qui pense que 2026 ressemble à un monde fait de bateaux à vapeur et de vastes réseaux ferroviaires, et qui considère qu'une seconde guerre mondiale est très peu probable... voilà Talkie-1930, le nouveau modèle de langage à 13 milliards de paramètres lancé par Nick Levine, David Duvenaud et…",
+      "link": "https://korben.info/talkie-1930-llm-historique.html",
+      "pubDate": "2026-04-29T09:03:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/talkie-1930-llm-historique/talkie-1930-llm-historique-2.png",
       "type": "blog"
     },
     {
