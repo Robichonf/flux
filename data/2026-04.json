@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "0bbfea1dbaf0",
+      "title": "Test du Weenect Chat XS, le collier GPS qui localise mon chat au mètre près",
+      "description": "– Contient des liens affiliés Amazon – Alors dans le titre j’ai écrit chat, mais c’est une chatte, juste je voulais pas vous faire rigoler dès le début, je vous connais. Ma chatte donc… Je la sors depuis plusieurs mois et je la laisse se balader à sa guise dans la résidence, mais l'idée qu'elle…",
+      "link": "https://korben.info/test-du-weenect-chat-xs-le-collier-gps-qui-localise-mon-chat-au-metre-pres.html",
+      "pubDate": "2026-04-29T14:08:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-du-weenect-chat-xs-le-collier-gps-qui-localise-mon-chat-au-metre-pres/test-du-weenect-chat-xs-le-collier-gps-qui-localise-mon-chat-au-metre-pres-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3d529e0670d3",
       "title": "Firefox 151 ajoute le choix du pays sur son VPN intégré gratuit",
       "description": "Pour qui n'utilise pas encore de VPN (on sait jamais, il y a aussi des néophytes qui nous lisent parfois !), c'est un service qui fait passer votre trafic Internet par un serveur intermédiaire situé dans un autre pays. Résultat, les sites web croient que vous vous connectez depuis là-bas, ce qui…",
