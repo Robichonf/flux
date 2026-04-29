@@ -2,6 +2,97 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3eb45b6240a9",
+      "title": "Denuvo enfin contourné sur tous ses jeux solo",
+      "description": "Pour qui n'a jamais fouillé là-dedans, Denuvo est le système anti-piratage le plus utilisé sur les jeux PC depuis 2014. Édité par une boîte autrichienne, il s'ajoute aux jeux pour les empêcher de tourner sans autorisation, et il a longtemps été considéré comme imperforable. Mauvaise nouvelle pour…",
+      "link": "https://korben.info/denuvo-enfin-contourne-sur-tous-ses-jeux-solo.html",
+      "pubDate": "2026-04-29T07:15:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2093105a644f",
+      "title": "Pikimov - L'alternative française à After Effects et CapCut",
+      "description": "Adobe vous fourgue du After Effects en abonnement Creative Cloud obligatoire, et CapCut appartient à ByteDance, avec tout ce que ça implique côté collecte de données et juridiction chinoise. Et dire que pendant ce temps, Clément Cordier, dev solo basé en Normandie, vient de sortir la version 5 de…",
+      "link": "https://korben.info/pikimov-5-alternative-after-effects-capcut.html",
+      "pubDate": "2026-04-29T07:08:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pikimov-5-alternative-after-effects-capcut/pikimov-5-alternative-after-effects-capcut-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7c7652b59f0c",
+      "title": "Du PDD au multi-agent : mon premier REX avec Liza",
+      "description": "Du Prompt-Driven Development au multi-agent orchestré : j'ai confié un projet entier à Liza, un système multi-agent open source. Ce que j'en retiens, ce que ça coûte, et pourquoi le craft fait toute la différence.",
+      "link": "https://blog.ippon.fr/2026/04/29/premier-rex-multi-agent-liza/",
+      "pubDate": "2026-04-29T07:00:12.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/liza-tui-coding-review-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "77f60533c2c1",
+      "title": "Slint - Un toolkit GUI pour Rust, C++, JS et Python",
+      "description": "Vous avez déjà voulu créer une appli desktop qui tourne sur Linux, Mac et Windows en même temps ? En Rust, c'était un peu compliqué jusqu'ici. Heureusement, Slint , créé par la société allemande SixtyFPS GmbH, propose une solution sympa ! L'idée, c'est de décrire votre interface dans des petits…",
+      "link": "https://korben.info/slint-framework-ui-multiplateforme.html",
+      "pubDate": "2026-04-29T06:49:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/slint-framework-ui-multiplateforme/slint-framework-ui-multiplateforme-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "548c6e05918a",
+      "title": "Shelfmark - La relève de Readarr pour vos ebooks",
+      "description": "Readarr a malheureusement fermé boutique en juin dernier et depuis, le créneau Sonarr-pour-bouquins était orphelin. Mais voili que voilà Shelfmark qui débarque pour combler ce trou, et c'est signé calibrain. Cet outil c'est l'évolution directe de Calibre-Web-Automated-Book-Downloader (CWA-BD pour…",
+      "link": "https://korben.info/shelfmark-self-hosted-ebooks-audiobooks.html",
+      "pubDate": "2026-04-29T06:32:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/shelfmark-self-hosted-ebooks-audiobooks/shelfmark-self-hosted-ebooks-audiobooks-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b4fbb0e53705",
+      "title": "Réussir ses webinaires en B2B : la meilleure recette",
+      "description": "Cet article met en avant les avantages des webinaires, soulignant leur coût accessible et leur impact en marketing. Il propose des conseils pratiques pour organiser des webinaires réussis, incluant la préparation, l'animation et l'interaction avec l'audience. Le webinaire est présenté comme un…",
+      "link": "https://oliviersauvage.com/2026/04/29/reussir-ses-webinaires-en-b2b-la-meilleure-recette/",
+      "pubDate": "2026-04-29T05:30:50.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2f289b02657f",
       "title": "Une manette Sega Master System de 1985 modifiée pour fonctionner en USB-C",
       "description": "Hackaday a relayé un projet de modification matérielle qui transforme une manette Sega Master System de 1985 en périphérique USB-C compatible avec un PC moderne ou une console de retrogaming actuelle. Le mod ne touche pas au boîtier d'origine et garde la sensation au pouce du gamepad d'époque, tout…",
