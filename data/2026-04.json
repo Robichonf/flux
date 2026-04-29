@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3d529e0670d3",
+      "title": "Firefox 151 ajoute le choix du pays sur son VPN intégré gratuit",
+      "description": "Pour qui n'utilise pas encore de VPN (on sait jamais, il y a aussi des néophytes qui nous lisent parfois !), c'est un service qui fait passer votre trafic Internet par un serveur intermédiaire situé dans un autre pays. Résultat, les sites web croient que vous vous connectez depuis là-bas, ce qui…",
+      "link": "https://korben.info/firefox-151-ajoute-le-choix-du-pays-sur-son-vpn-integre-gratuit.html",
+      "pubDate": "2026-04-29T12:40:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f9f92e9e8203",
+      "title": "Le DNS souverain européen DNS4EU forcé par la justice française de bloquer des sites pirates",
+      "description": "Coup dur pour DNS4EU. Le résolveur DNS public co-financé par la Commission européenne, présenté il y a moins d'un an comme l'alternative souveraine à Google et Cloudflare, doit désormais bloquer une trentaine de domaines de streaming pirate, sur ordre du tribunal judiciaire de Paris. La décision…",
+      "link": "https://korben.info/le-dns-souverain-europeen-dns4eu-force-par-la-justice-francaise-de-bloquer-des-sites-pirates.html",
+      "pubDate": "2026-04-29T11:44:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "76b09e49d668",
       "title": "Xiaomi ouvre MiMo-V2.5 et MiMo-V2.5-Pro en open source sous licence MIT",
       "description": "Xiaomi a publié hier MiMo-V2.5 et MiMo-V2.5-Pro, deux modèles d'IA qu'il met directement en open source sous licence MIT. Le plus gros, le Pro, fait 1 020 milliards de paramètres dont 42 milliards activés en simultané, avec une fenêtre de contexte d'un million de tokens. À noter que tout est…",
