@@ -2,6 +2,95 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "cd0a3ca965d1",
+      "title": "Héritage Doctrine : la troisième porte que personne ne montre",
+      "description": "Découvrez la stratégie d'héritage Doctrine Mapped Superclass, souvent oubliée face à STI et CTI. Optimisez vos modèles PHP Symfony avec cette troisième approche pour une meilleure qualité de code.",
+      "link": "https://lecodeestdanslepre.fr/billets/heritage-doctrine-la-troisieme-porte-que-personne-ne-montre",
+      "pubDate": "2026-04-29T09:12:17.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f1cb704182a4",
+      "title": "BTP : Ne perdez plus de temps à chercher vos fiches techniques avec OneFiche",
+      "description": "OneFiche est une plateforme collaborative dédiée à la centralisation des fiches techniques dans le secteur du BTP. Elle améliore l'accès à des informations fiables et à jour, facilitant ainsi la collaboration entre les différents acteurs d'un projet. En intégrant des technologies avancées, OneFiche…",
+      "link": "https://oliviersauvage.com/2026/04/29/btp-ne-perdez-plus-de-temps-a-chercher-vos-fiches-techniques-avec-onefiche/",
+      "pubDate": "2026-04-29T08:40:22.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "337064341490",
+      "title": "Ghostty quitte GitHub - Hashimoto craque après 18 ans",
+      "description": "\"GitHub n'est plus un endroit pour faire du travail sérieux.\" C'est signé Mitchell Hashimoto, le créateur de HashiCorp, de Vagrant ou plus récemment de Ghostty, et l'utilisateur numéro 1299 de la plateforme depuis février 2008. Et quand un mec qui a passé 18 ans à pousser du code presque tous les…",
+      "link": "https://korben.info/ghostty-quitte-github-hashimoto.html",
+      "pubDate": "2026-04-29T08:37:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ghostty-quitte-github-hashimoto/ghostty-quitte-github-hashimoto-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "97ea210d021e",
+      "title": "Comment choisir un dumbphone sans se planter",
+      "description": "Si vous avez décidé de passer au dumbphone notamment après avoir lu mon merveilleux article sur le débat dumbphone vs smartphone qui agite le monde en ce moment, vous êtes tombé peut-être démuni sur le choix de votre futur doudou tech. Heureusement, Jose Briones , le type qui modère r/dumbphones et…",
+      "link": "https://korben.info/comment-choisir-dumbphone-2026-france.html",
+      "pubDate": "2026-04-29T07:54:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/comment-choisir-dumbphone-2026-france/comment-choisir-dumbphone-2026-france-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "325faf535a91",
+      "title": "DOOM tourne aussi dans ChatGPT et Claude (évidemment)",
+      "description": "DOOM a déjà été porté sur des thermostats, des tests de grossesse, et même un piano ! Manquait donc plus que les chatbots IA ! Et voilà que c'est fait puisque Chris Nager vient de faire tourner DOOM dans ChatGPT et Claude, jouable directement dans la fenêtre du chat. lien vers la vidéo. Le truc…",
+      "link": "https://korben.info/doom-chatgpt-claude-mcp.html",
+      "pubDate": "2026-04-29T07:31:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/doom-chatgpt-claude-mcp/doom-chatgpt-claude-mcp-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "50e4296eb8cb",
+      "title": "PS5-Linux - Andy Nguyen libère son hack",
+      "description": "PS5-Linux est là !! Andy Nguyen, le security engineer alias theflow0, vient de publier le hack qui transforme une PS5 Phat (les modèles originaux, pas les Slim ni les Pro) en PC 100% Linux. Et le truc cool c'est que ça marche désormais sur les firmwares 3.xx et 4.xx, et pas seulement sur les…",
+      "link": "https://korben.info/ps5-linux-hack-andy-nguyen-firmware.html",
+      "pubDate": "2026-04-29T07:20:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ps5-linux-hack-andy-nguyen-firmware/ps5-linux-hack-andy-nguyen-firmware-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3eb45b6240a9",
       "title": "Denuvo enfin contourné sur tous ses jeux solo",
       "description": "Pour qui n'a jamais fouillé là-dedans, Denuvo est le système anti-piratage le plus utilisé sur les jeux PC depuis 2014. Édité par une boîte autrichienne, il s'ajoute aux jeux pour les empêcher de tourner sans autorisation, et il a longtemps été considéré comme imperforable. Mauvaise nouvelle pour…",
