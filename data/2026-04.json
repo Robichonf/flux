@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "01eca2fbda4f",
+      "title": "Le code source original du premier 86-DOS enfin publié",
+      "description": "45 ans après sa sortie, le code source du tout premier 86-DOS vient d'atterrir sur GitHub . Microsoft a profité de cet anniversaire pour publier les listings d'assembleur originaux, accompagnés de plusieurs versions de PC-DOS 1.00 et de MS-DOS 1.25, sous licence MIT. Tout ceci est dans le dépôt…",
+      "link": "https://korben.info/le-code-source-original-du-premier-86-dos-enfin-publie.html",
+      "pubDate": "2026-04-30T16:19:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cdfdbc86d651",
+      "title": "Une appli Android scanne tous les Raspberry Pi de votre réseau",
+      "description": "Si vous avez plusieurs Raspberry Pi qui traînent chez vous, vous connaissez la galère du DHCP. Le routeur leur balance des IP différentes au gré des redémarrages, et impossible de savoir laquelle correspond à votre Pi-hole, votre Home Assistant ou votre média center sans aller fouiller dans…",
+      "link": "https://korben.info/une-appli-android-scanne-tous-les-raspberry-pi-de-votre-reseau.html",
+      "pubDate": "2026-04-30T15:29:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/une-appli-android-scanne-tous-les-raspberry-pi-de-votre-reseau/une-appli-android-scanne-tous-les-raspberry-pi-de-votre-reseau-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9c96a44ca3a9",
       "title": "Comment activer l'adblock natif de Firefox 149 ?",
       "description": "Vincent en avait parlé il y a peu : Firefox 149 embarque maintenant discrètement adblock-rust , le moteur Adblock de Brave, désactivé par défaut, sans interface, et contrôlé uniquement par deux prefs obscures dans about:config. Bref, c'est là mais y'a rien à actionner directement donc c'est un peu…",
@@ -178,6 +208,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba84b93bc3ba",
+      "title": "C'est parti pour installer EasyAdmin",
+      "description": "Installez EasyAdmin sur Symfony en quelques minutes pour un back-office efficace. Découvrez pourquoi ce bundle est la solution idéale pour administrer vos entités Doctrine. Guide complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/c-est-parti-pour-installer-easyadmin",
+      "pubDate": "2026-04-29T15:59:05.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg",
       "type": "blog"
     },
     {
