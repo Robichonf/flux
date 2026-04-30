@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "9c96a44ca3a9",
+      "title": "Comment activer l'adblock natif de Firefox 149 ?",
+      "description": "Vincent en avait parlé il y a peu : Firefox 149 embarque maintenant discrètement adblock-rust , le moteur Adblock de Brave, désactivé par défaut, sans interface, et contrôlé uniquement par deux prefs obscures dans about:config. Bref, c'est là mais y'a rien à actionner directement donc c'est un peu…",
+      "link": "https://korben.info/adblock-rust-manager.html",
+      "pubDate": "2026-04-30T13:55:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/adblock-rust-manager/adblock-rust-manager-2.png",
+      "type": "blog"
+    },
+    {
       "id": "0e3f56ef7470",
       "title": "Felix \"FX\" Lindner, le hacker de Berlin-Est qui a forcé Huawei à sécuriser ses routeurs",
       "description": "Cet article fait partie de ma série spéciale hackers . Bonne lecture ! Felix \"FX\" Lindner est mort le 1er mars 2026 à l'âge de seulement 49 ans. Et si ce nom ne vous dit rien, c'est normal, car FX n'a jamais cherché les projecteurs. Par contre, ceux qui bossent dans la cybersécurité, eux, savent…",
