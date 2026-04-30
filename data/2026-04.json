@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "0e3f56ef7470",
+      "title": "Felix \"FX\" Lindner, le hacker de Berlin-Est qui a forcé Huawei à sécuriser ses routeurs",
+      "description": "Cet article fait partie de ma série spéciale hackers . Bonne lecture ! Felix \"FX\" Lindner est mort le 1er mars 2026 à l'âge de seulement 49 ans. Et si ce nom ne vous dit rien, c'est normal, car FX n'a jamais cherché les projecteurs. Par contre, ceux qui bossent dans la cybersécurité, eux, savent…",
+      "link": "https://korben.info/felix-fx-lindner-hacker-berlin-recurity-labs.html",
+      "pubDate": "2026-04-30T12:27:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/felix-fx-lindner-hacker-berlin-recurity-labs/felix-fx-lindner-hacker-berlin-recurity-labs-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "93f9724bf37e",
+      "title": "GameDate - Trouver des joueurs pour vos jeux morts et oubliés",
+      "description": "Hier soir, je suis tombé sur GameDate et ça m'a carrément fait remonter 20 ans en arrière, à cette époque bénie l'époque où on passait tous nos nuits sur des jeux comme Wolfenstein: Enemy Territory ou Tribes 2 sans que personne ne nous juge bizarrement. Ce site pour le moins original permet…",
+      "link": "https://korben.info/gamedate-sessions-jeux-morts-anonyme.html",
+      "pubDate": "2026-04-30T12:06:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gamedate-sessions-jeux-morts-anonyme/gamedate-sessions-jeux-morts-anonyme-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "fd3f328784f0",
+      "title": "Kavita, la bibliothèque auto-hébergée pour vos ebooks, comics et manga",
+      "description": "Depuis qu'Amazon a coupé le téléchargement USB de nos ebooks Kindle (sniiiif), héberger sa propre bibliothèque est passé du statut de bricolage du dimanche aprem au geste héroïque de préservation de notre souveraineté ! Alors si vous voulez vous lancer, sachez que Kavita , le serveur de lecture…",
+      "link": "https://korben.info/kavita-serveur-ebooks-self-hosted.html",
+      "pubDate": "2026-04-30T11:56:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/kavita-serveur-ebooks-self-hosted/kavita-serveur-ebooks-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
       "id": "594e38ce6824",
       "title": "Souveraineté numérique : pourquoi basculer sur une stack privacy européenne",
       "description": "-- Article en partenariat avec Proton -- L'actualité de la tech ces derniers mois donne des sueurs froides. Entre les rebondissements autour du CLOUD Act, la section 702 de FISA qui permet aux agences US d'accéder aux données des non-américains sans mandat, et les tensions diplomatiques…",
