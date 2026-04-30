@@ -2,6 +2,65 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "594e38ce6824",
+      "title": "Souveraineté numérique : pourquoi basculer sur une stack privacy européenne",
+      "description": "-- Article en partenariat avec Proton -- L'actualité de la tech ces derniers mois donne des sueurs froides. Entre les rebondissements autour du CLOUD Act, la section 702 de FISA qui permet aux agences US d'accéder aux données des non-américains sans mandat, et les tensions diplomatiques…",
+      "link": "https://korben.info/stack-privacy-europeenne.html",
+      "pubDate": "2026-04-30T11:06:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/stack-privacy-europeenne/stack-privacy-europeenne-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "7c747f6f0c1d",
+      "title": "Distribution.ai : la machine à recycler les contenus marketing",
+      "description": "Distribution.ai est une plateforme d'automatisation marketing qui transforme des contenus uniques en multiples publications sur divers réseaux sociaux. En exploitant l'IA, elle optimise le recyclage des articles, vidéos et podcasts, tout en assurant cohérence et personnalisation. Cela permet…",
+      "link": "https://oliviersauvage.com/2026/04/30/distribution-ai-la-machine-a-recycler-les-contenus-marketing/",
+      "pubDate": "2026-04-30T10:41:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4cea88e7141a",
+      "title": "Copy Fail - Une IA trouve la faille Linux que personne n'a vue",
+      "description": "TS, Amazon Linux 2023, RHEL 10.1 et SUSE 16 sont vulnérables au même code sans modification.\"] is_partnership: false 732 octets, c'est tout ce qu'il faut pour passer de simple utilisateur à root sur n'importe quel Linux non patché compilé depuis 2017, soit la quasi-totalité des kernels. Cette…",
+      "link": "https://korben.info/copy-fail-faille-kernel-linux-decouverte-ia.html",
+      "pubDate": "2026-04-30T09:27:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/copy-fail-faille-kernel-linux-decouverte-ia/copy-fail-faille-kernel-linux-decouverte-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d41e15426611",
+      "title": "PixelFX Morph 2K : un scaler 1080p pour consoles rétro à peu près accessible",
+      "description": "199 $ pour passer vos consoles rétro en HDMI 1080p sans bouillie de pixels et sans latence visible ? C'est ce que promet le Morph 2K, le nouveau scaler analogique-numérique de PixelFX. Pré-commandes le 1er juin, livraisons huit à dix semaines plus tard. L'idée est de prendre n'importe quel signal…",
+      "link": "https://korben.info/pixelfx-morph-2k-un-scaler-1080p-pour-consoles-retro-a-peu-pres-accessible.html",
+      "pubDate": "2026-04-30T09:08:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "28c62a5855d2",
       "title": "Starcraft2.ai - Le coach IA SC2",
       "description": "Starcraft2.ai débarque en force pour les joueurs de StarCraft 2 et de Brood War qui voudraient disséquer leurs replays sans bouger de leur navigateur. Le créateur de ce site, qui se présente sous le pseudo de Tomkit, a sorti un analyseur gratuit qui combine un moteur de rendu isométrique et un…",
