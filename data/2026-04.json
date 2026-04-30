@@ -2,6 +2,66 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "28c62a5855d2",
+      "title": "Starcraft2.ai - Le coach IA SC2",
+      "description": "Starcraft2.ai débarque en force pour les joueurs de StarCraft 2 et de Brood War qui voudraient disséquer leurs replays sans bouger de leur navigateur. Le créateur de ce site, qui se présente sous le pseudo de Tomkit, a sorti un analyseur gratuit qui combine un moteur de rendu isométrique et un…",
+      "link": "https://korben.info/starcraft2-ai-coach-claude-replay.html",
+      "pubDate": "2026-04-30T09:00:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/starcraft2-ai-coach-claude-replay/starcraft2-ai-coach-claude-replay-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a53ef1bc41ad",
+      "title": "Vos capteurs d'humidité meurent dans votre salle de bain à cause... de l'humidité",
+      "description": "Le BME280 et le DHT22, deux capteurs ultra-populaires en domotique, ont une faiblesse cachée dans leur spécifications : ils ne supportent pas la condensation. Les gens de Mellow Labs ont creusé la question sur Hackaday après avoir flingué plusieurs sondes dans une salle de bain, et le coupable est…",
+      "link": "https://korben.info/vos-capteurs-dhumidite-meurent-dans-votre-salle-de-bain-a-cause-de-lhumidite.html",
+      "pubDate": "2026-04-30T07:42:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f80104d2c30b",
+      "title": "Slim - HTTPS local et tunnels publics, tout en un",
+      "description": "Monter un serveur HTTPS local pour bosser sur du Next.js ou du Vite, ça reste étrangement chiant. Faut mkcert pour générer les certifs, faut éditer le /etc/hosts à la mimine, installer caddy ou nginx en reverse proxy par-dessus... bref, vous voyez le diiiiliiiire ! Heureusement, Kamran Ahmed , le…",
+      "link": "https://korben.info/slim-https-local-et-tunnels-publics-tout-en-un.html",
+      "pubDate": "2026-04-30T07:26:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/slim-https-local-et-tunnels-publics-tout-en-un/slim-https-local-et-tunnels-publics-tout-en-un-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "e0997f6bcacb",
+      "title": "Pup branche votre agent IA sur Datadog",
+      "description": "Datadog Labs vient de sortir pup , un outil CLI codé en Rust qui donne à vos agents IA un accès complet à leur plateforme. L'idée c'est que pendant que Vercel et AWS galèrent de ouf à rendre leurs trucs « agent-friendly », Datadog, lui, dégaine un outil dédié qui expose +200 commandes sur plus de…",
+      "link": "https://korben.info/pup-cli-datadog-agents-ia.html",
+      "pubDate": "2026-04-30T07:05:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0bbfea1dbaf0",
       "title": "Test du Weenect Chat XS, le collier GPS qui localise mon chat au mètre près",
       "description": "– Contient des liens affiliés Amazon – Alors dans le titre j’ai écrit chat, mais c’est une chatte, juste je voulais pas vous faire rigoler dès le début, je vous connais. Ma chatte donc… Je la sors depuis plusieurs mois et je la laisse se balader à sa guise dans la résidence, mais l'idée qu'elle…",
