@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "6a9b07028766",
+      "title": "Hadopi : le Conseil d'État éteint la riposte graduée après 17 ans",
+      "description": "Fin de partie pour la riposte graduée. Le Conseil d'État a déclaré illégale, le 30 avril 2026, la phase la plus dure du dispositif anti-piratage Arcom, héritier de la Hadopi. La décision s'applique immédiatement et décapite le système après 17 ans de chasse aux téléchargeurs sur les réseaux…",
+      "link": "https://korben.info/hadopi-le-conseil-detat-eteint-la-riposte-graduee-apres-17-ans.html",
+      "pubDate": "2026-05-01T08:01:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0cab46e11e71",
       "title": "Tunarr - Recréer la télévision qu'on aime zapper dans Plex",
       "description": "Vous vous souvenez de l'époque où on s'écroulait comme des merde dans notre canapé après une grosse journée de boulot et où on regardait juste ce que la télé nous balançait ? Pas de choix à faire sur Netflix, ni de recommandation sur l'Apple TV. On zappait juste en mode no-brain jusqu'à ce qu'on…",
