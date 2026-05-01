@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e8f38d962eae",
+      "title": "Japan Airlines teste des robots humanoïdes pour charger les bagages",
+      "description": "Japan Airlines va confier la manutention des bagages à des robots humanoïdes sur les pistes de l'aéroport Haneda. Le test démarre en mai 2026, dure deux ans, et implique pour commencer deux machines posées au milieu des bagagistes humains. L'opération est pilotée par JAL Ground Service avec GMO AI…",
+      "link": "https://korben.info/japan-airlines-teste-des-robots-humanoides-pour-charger-les-bagages.html",
+      "pubDate": "2026-05-01T11:33:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6a9b07028766",
       "title": "Hadopi : le Conseil d'État éteint la riposte graduée après 17 ans",
       "description": "Fin de partie pour la riposte graduée. Le Conseil d'État a déclaré illégale, le 30 avril 2026, la phase la plus dure du dispositif anti-piratage Arcom, héritier de la Hadopi. La décision s'applique immédiatement et décapite le système après 17 ans de chasse aux téléchargeurs sur les réseaux…",
