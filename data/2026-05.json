@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "29a50b0b2ff9",
+      "title": "Bruteforce de cartes bancaires",
+      "description": "Quand j'achète un truc avec ma CB, c'est vrai que j'évite maintenant de demander le ticket de carte bancaire. Ça ne me sert à rien, et puis j'en fais quoi après ? Je le jette à la poubelle ? Heureusement qu'il n'y a pas de données confidentielles dessus et que tous les chiffres de ma CB sont…",
+      "link": "https://korben.info/carte-bancaire-brute-force.html",
+      "pubDate": "2026-05-02T08:35:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/carte-bancaire-brute-force/carte-bancaire-brute-force-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "a49f816e983d",
       "title": "ip66.dev - Une base de géoloc IP libre et compatible MaxMind",
       "description": "Hello les amis, voici ma petite trouvaille du jour, idéale pour ceux qui jouent en ce moment avec des adresses IP : ip66.dev . C'est une base de géolocalisation IP et entièrement libre, livrée au format MMDB (le même que celui de MaxMind) qui permet de remplacer direct un fichier GeoLite2 dans vos…",
