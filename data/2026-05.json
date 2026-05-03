@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c557851922ab",
+      "title": "BrowserQuest - Le MMO HTML5 de Mozilla est de retour",
+      "description": "BrowserQuest est de retour les amis ! Hé ouais, el famoso MMO HTML5 que Little Workshop avait pondu pour Mozilla en 2012 vient de ressurgir sur threej.in , alors que Mozilla avait officiellement archivé le repo GitHub en janvier 2024. En allant sur ce lien, vous choisissez le nom de votre…",
+      "link": "https://korben.info/browserquest-mmo-mozilla-html5-retour.html",
+      "pubDate": "2026-05-03T14:21:10.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/browserquest-mmo-mozilla-html5-retour/browserquest-mmo-mozilla-html5-retour-2.png",
+      "type": "blog"
+    },
+    {
       "id": "e782f06ce267",
       "title": "Ce jeu Steam flingue votre SSD en silence",
       "description": "108 Go par heure. C'est ce que Windrose, le RPG de pirates en Early Access publié par Kraken Express le 14 avril dernier, écrivait silencieusement sur les SSD des joueurs, sans aucune mention dans les notes de mise à jour. Avec déjà 1,5 million de copies vendues et un pic à 69 000 joueurs…",
