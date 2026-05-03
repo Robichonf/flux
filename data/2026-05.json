@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c5600c6c73a3",
+      "title": "Un C-3PO grandeur nature transformé en assistant vocal qui répond pour de vrai",
+      "description": "Un maker a transformé une réplique grandeur nature de C-3PO en assistant vocal interactif, et le résultat est franchement convaincant. Sa version du droïde papote, répond à vos questions, et tient même une conversation, le tout sans dépendre du moindre cloud une fois en local. Le truc tient sur un…",
+      "link": "https://korben.info/un-c-3po-grandeur-nature-transforme-en-assistant-vocal-qui-repond-pour-de-vrai.html",
+      "pubDate": "2026-05-03T08:20:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "29a50b0b2ff9",
       "title": "Bruteforce de cartes bancaires",
       "description": "Quand j'achète un truc avec ma CB, c'est vrai que j'évite maintenant de demander le ticket de carte bancaire. Ça ne me sert à rien, et puis j'en fais quoi après ? Je le jette à la poubelle ? Heureusement qu'il n'y a pas de données confidentielles dessus et que tous les chiffres de ma CB sont…",
