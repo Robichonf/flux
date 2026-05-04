@@ -2,6 +2,50 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "00ac297993ad",
+      "title": "Novabricks : la plateforme No-Code « à la française » pour réconcilier les métiers et la DSI",
+      "description": "Novabricks est une plateforme \"aPaaS\" qui facilite la création d'applications métiers sans codage grâce au No-Code et Low-Code. Elle répond aux besoins numériques croissants des entreprises, aidant à surmonter les limitations des solutions traditionnelles. Novabricks permet ainsi une rapidité,…",
+      "link": "https://oliviersauvage.com/2026/05/04/novabricks-la-plateforme-no-code-a-la-francaise-pour-reconcilier-les-metiers-et-la-dsi/",
+      "pubDate": "2026-05-04T12:45:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "298e5343ac04",
+      "title": "Zxc, une bibliothèque de compression 2× plus rapide que LZ4",
+      "description": "Deux fois plus rapide que LZ4 en décompression ?? Ah bon c'est possible ? Évidemment, quand Bertrand Lebonnois a publié zxc sur GitHub , et m'a envoyé un email pour me prévenir, j'ai été jeter un œil, surtout aux benchmarks. Et bien après analyse, c'est bien réel ! La philosophie de zxc est assez…",
+      "link": "https://korben.info/zxc-bibliotheque-compression-2x-rapide-lz4.html",
+      "pubDate": "2026-05-04T11:56:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/zxc-bibliotheque-compression-2x-rapide-lz4/zxc-bibliotheque-compression-2x-rapide-lz4-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0cc207dc2b08",
+      "title": "Symfony AI Mate : un troisième port d'entrée pour votre app Symfony",
+      "description": "Découvrez Symfony AI Mate, la solution innovante qui ouvre votre application Symfony aux agents via JSON-RPC sur stdio. Exposez vos services à des IDE ou chatbots en toute sécurité, sans port TCP ouvert. Simplifiez le développement avec cette approche unique.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ai-mate-un-troisieme-port-d-entree-pour-votre-app-symfony",
+      "pubDate": "2026-05-04T11:22:16.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "60638c4640ac",
       "title": "ReactOS, le clone open source de Windows, simplifie son installation",
       "description": "Trois décennies que ReactOS essaie de devenir un clone open source de Windows, et le projet vient de mettre en place deux changements assez gros pour mériter un coup d'œil. La 0.4.16 est entrée en phase finale cette semaine, avec des release candidates qui devraient suivre dans la foulée, et elle…",
