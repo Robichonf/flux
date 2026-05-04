@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "7d1d37561d44",
+      "title": "ffmpeg-over-ip - Le transcodage GPU distant pour Jellyfin",
+      "description": "Jellyfin sans GPU, c'est la croix et la bannière dès que quelqu'un lance un film en 4K. Mais c'était sans compter sur ffmpeg-over-ip qui est capable de transformer un serveur équipé d'un GPU en endpoint de transcoding distant, accessible via un simple binaire qui se fait passer pour ffmpeg. Y'a pas…",
+      "link": "https://korben.info/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin.html",
+      "pubDate": "2026-05-04T14:15:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "35b98d4a426d",
+      "title": "Un robot qui construit des maisons en argile",
+      "description": "Vous connaissez ICON, qui imprime des maisons en béton avec ses grosses machines ? Hé bien Terran Robotics fait en fait pareil, mais avec de la terre, ou plutôt avec l'argile extraite directement du terrain. Du coup ça revient carrément moins cher. Leur techno consiste en un robot suspendu par des…",
+      "link": "https://korben.info/terran-robotics-maisons-terre-robots-texas.html",
+      "pubDate": "2026-05-04T13:26:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/terran-robotics-maisons-terre-robots-texas/terran-robotics-maisons-terre-robots-texas-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "00ac297993ad",
       "title": "Novabricks : la plateforme No-Code « à la française » pour réconcilier les métiers et la DSI",
       "description": "Novabricks est une plateforme \"aPaaS\" qui facilite la création d'applications métiers sans codage grâce au No-Code et Low-Code. Elle répond aux besoins numériques croissants des entreprises, aidant à surmonter les limitations des solutions traditionnelles. Novabricks permet ainsi une rapidité,…",
