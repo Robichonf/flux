@@ -2,6 +2,66 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "60638c4640ac",
+      "title": "ReactOS, le clone open source de Windows, simplifie son installation",
+      "description": "Trois décennies que ReactOS essaie de devenir un clone open source de Windows, et le projet vient de mettre en place deux changements assez gros pour mériter un coup d'œil. La 0.4.16 est entrée en phase finale cette semaine, avec des release candidates qui devraient suivre dans la foulée, et elle…",
+      "link": "https://korben.info/reactos-le-clone-open-source-de-windows-simplifie-son-installation.html",
+      "pubDate": "2026-05-04T11:11:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/reactos-le-clone-open-source-de-windows-simplifie-son-installation/reactos-le-clone-open-source-de-windows-simplifie-son-installation-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a19aa879f131",
+      "title": "Photographier les vraies couleurs en stockant tout le spectre était déjà possible en... 1891",
+      "description": "Hackaday vient de remettre en lumière (c'est le cas de le dire) une technique de photo couleur quasi oubliée et complètement folle : les plaques Lippmann. Au lieu de découper la lumière en trois canaux RGB comme un capteur moderne, elles enregistrent le spectre complet, longueur d'onde par longueur…",
+      "link": "https://korben.info/photographier-les-vraies-couleurs-en-stockant-tout-le-spectre-etait-deja-possible-en-1891.html",
+      "pubDate": "2026-05-04T10:01:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51b434926492",
+      "title": "RTK - Le proxy Rust qui vous fait économiser jusqu'à 90% de tokens",
+      "description": "Si vous utilisez Claude Code au quotidien, vous connaissez ce goût de sang qui vous monte dans la bouche lorsque sans prévenir quand cette putain de limite de quota imposée par Anthropic vous explose à la gueule ! Et le pire c'est que vous n'avez pas l'impression d'avoir fait grand chose. En…",
+      "link": "https://korben.info/rtk-proxy-rust-economiser-tokens.html",
+      "pubDate": "2026-05-04T09:52:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rtk-proxy-rust-economiser-tokens/rtk-proxy-rust-economiser-tokens-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "88844e28fb1c",
+      "title": "OAuth2 Proxy - L'authentification OIDC en reverse proxy",
+      "description": "Vous avez un service qui tourne sur le port 8080, mais aucune authentification native dessus et vous voulez ajouter OAuth2 sans avoir à toucher au code ? Vous êtes vraiment exigeant dans la vie ! Mais comme vos désirs sont des ordres, je vous présente oauth2-proxy dont c'est EXACTEMENT le boulot !…",
+      "link": "https://korben.info/oauth2-proxy-lauthentification-oidc-en-reverse-proxy.html",
+      "pubDate": "2026-05-04T09:32:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/oauth2-proxy-lauthentification-oidc-en-reverse-proxy/oauth2-proxy-lauthentification-oidc-en-reverse-proxy-2.png",
+      "type": "blog"
+    },
+    {
       "id": "a378bdefb394",
       "title": "Agent Safehouse - Un garde-fou pour vos agents IA sur macOS",
       "description": "Comme vous le savez, les LLMs sont assez probabilistes de par leur nature. C'est leur force mais également leur principal problème de sécurité car si votre agent IA a une probabilité de 1% de faire une grosse connerie des enfers par session, sur 100 sessions vous montez à environ 63% de chances…",
