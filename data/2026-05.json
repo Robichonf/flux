@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a378bdefb394",
+      "title": "Agent Safehouse - Un garde-fou pour vos agents IA sur macOS",
+      "description": "Comme vous le savez, les LLMs sont assez probabilistes de par leur nature. C'est leur force mais également leur principal problème de sécurité car si votre agent IA a une probabilité de 1% de faire une grosse connerie des enfers par session, sur 100 sessions vous montez à environ 63% de chances…",
+      "link": "https://korben.info/agent-safehouse-garde-fou-agents-ia-macos.html",
+      "pubDate": "2026-05-04T09:13:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca26b4196c9a",
+      "title": "Un iPod Nano transformé en workstation triple écran",
+      "description": "Sur sa chaîne YouTube \"Will It Work?\", un bidouilleur a réussi à brancher trois moniteurs sur un iPod Nano de sixième génération. Oui, vous avez bien lu, l'iPod cliquable carré qui faisait 4 cm de côté en 2010, et qui n'avait à l'origine aucune sortie vidéo digne de ce nom. Le résultat est un setup…",
+      "link": "https://korben.info/un-ipod-nano-transforme-en-workstation-triple-ecran.html",
+      "pubDate": "2026-05-04T08:23:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a9f0c40ca44",
+      "title": "Coincés durant +5 heures sur Age of Empires 2",
+      "description": "Hier soir Lilian, fidèle lecteur de Korben m'a envoyé une vidéo incroyable qui retrace 5h de combat sur Age of Empires 2 résumées en 34 minutes par TheGreatReview. Faut savoir que je suis fan d'Age of Empires depuis le premier épisode de 1997 . AoE 1, 2, Mythology, AoE 3... j'ai laissé un nombre…",
+      "link": "https://korben.info/thegreatreview-age-of-empires-5-heures.html",
+      "pubDate": "2026-05-04T07:00:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c557851922ab",
       "title": "BrowserQuest - Le MMO HTML5 de Mozilla est de retour",
       "description": "BrowserQuest est de retour les amis ! Hé ouais, el famoso MMO HTML5 que Little Workshop avait pondu pour Mozilla en 2012 vient de ressurgir sur threej.in , alors que Mozilla avait officiellement archivé le repo GitHub en janvier 2024. En allant sur ce lien, vous choisissez le nom de votre…",
@@ -165,6 +210,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/kula-monitoring-linux-self-hosted/kula-monitoring-linux-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c1b8657ecbf4",
+      "title": "Jour 181 : Ce que j'ai appris avec un skill Claude pour du SEO",
+      "description": "Comment utiliser Claude-SEO pour auditer son site ? Test complet sur Writizzy : du JSON-LD aux headers de sécurité. Analyse des conseils de l'IA pour booster le trafic et résoudre les problèmes d'indexation.",
+      "link": "https://eventuallycoding.com/p/jour-181-ce-que-j-ai-appris-avec-un-skill-claude-pour-du-seo",
+      "pubDate": "2026-05-01T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1777635362166-iw90sjp.png",
       "type": "blog"
     }
   ]
