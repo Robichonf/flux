@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "9a24af71d414",
+      "title": "AlmaLinux 10.2 Beta réintroduit le support 32-bit, à contre-courant",
+      "description": "La distribution AlmaLinux a publié sa version 10.2 Beta nommée \"Lavender Lion\", et elle fait un truc que la plupart des distros récentes refusent de faire : remettre du support 32-bit dans le système. Pas un retour total, on s'entend, mais des packages userspace i686 pour faire tourner du logiciel…",
+      "link": "https://korben.info/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant.html",
+      "pubDate": "2026-05-05T07:17:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3a33520b1c52",
+      "title": "Korben - Toujours là 22 ans plus tard, et c'est grâce à vous",
+      "description": "Salut les amis, Aujourd'hui, c'est un jour un peu spécial pour moi, puisque c'est l'anniversaire de mon site web ! Alors je tenais à célébrer ça avec vous parce que les années filent à la vitesse de l'éclair et qu'on ne fête jamais assez les choses. Et il s'en est passé des choses en 22 ans quand…",
+      "link": "https://korben.info/korben-22-ans-plus-tard-toujours-la-grace-a-vous.html",
+      "pubDate": "2026-05-05T07:07:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e6bf8338dac",
+      "title": "Edge - Les mots de passe en clair en mémoire, by design",
+      "description": "Si vous utilisez le gestionnaire de mots de passe intégré à Microsoft Edge, et que vous le trouvez cool, hé bien accrochez-vous les amis, car Tom Jøran Sønstebyseter Rønning, chercheur norvégien en cybersécurité, vient de publier sur GitHub un PoC qui dump TOUS vos credentials en clair directement…",
+      "link": "https://korben.info/edge-mots-de-passe-clair-memoire-by-design.html",
+      "pubDate": "2026-05-05T07:06:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/edge-mots-de-passe-clair-memoire-by-design/edge-mots-de-passe-clair-memoire-by-design-2.png",
+      "type": "blog"
+    },
+    {
       "id": "7d1d37561d44",
       "title": "ffmpeg-over-ip - Le transcodage GPU distant pour Jellyfin",
       "description": "Jellyfin sans GPU, c'est la croix et la bannière dès que quelqu'un lance un film en 4K. Mais c'était sans compter sur ffmpeg-over-ip qui est capable de transformer un serveur équipé d'un GPU en endpoint de transcoding distant, accessible via un simple binaire qui se fait passer pour ffmpeg. Y'a pas…",
