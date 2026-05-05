@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "8f8aa51adc91",
+      "title": "Il démonte une caméra gimbal de drone Shahed-136 récupéré en Ukraine",
+      "description": "Un chercheur du nom de Michel a mis la main sur une caméra de surveillance issue d'un drone Shahed-136 abattu en Ukraine, et il en a fait un démontage très complet. Le Shahed-136, ce drone iranien que la Russie a adopté massivement et qu'elle modifie au fil des mois avec des charges utiles…",
+      "link": "https://korben.info/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine.html",
+      "pubDate": "2026-05-05T10:11:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fdcd2cc18474",
+      "title": "Un slider caméra à trois axes bricolé avec des pièces d'imprimante 3D",
+      "description": "Un slider caméra, c'est ce rail motorisé sur lequel on pose un appareil photo ou une caméra pour qu'elle glisse latéralement pendant la prise de vue, et obtenir ce travelling propre qu'on voit dans les pubs ou les vidéos YouTube un peu soignées. CNCDan , lui, a voulu pousser le concept un cran plus…",
+      "link": "https://korben.info/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d.html",
+      "pubDate": "2026-05-05T09:25:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9a24af71d414",
       "title": "AlmaLinux 10.2 Beta réintroduit le support 32-bit, à contre-courant",
       "description": "La distribution AlmaLinux a publié sa version 10.2 Beta nommée \"Lavender Lion\", et elle fait un truc que la plupart des distros récentes refusent de faire : remettre du support 32-bit dans le système. Pas un retour total, on s'entend, mais des packages userspace i686 pour faire tourner du logiciel…",
