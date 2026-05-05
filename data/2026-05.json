@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "cdae38b159f2",
+      "title": "10 sites pour jouer aux jeux DOS dans votre navigateur gratuitement",
+      "description": "DOOM, Fallout, Theme Hospital, Civilization... il y a sur le web des milliers de jeux DOS jouables directement dans votre navigateur, gratuitement, sans installer quoi que ce soit. Car oui mes amis, l'émulation DOS dans le browser a vraiment mûri, et il existe des dizaines de bons sites qui vous…",
+      "link": "https://korben.info/emulateurs-dos-navigateur-gratuits.html",
+      "pubDate": "2026-05-05T11:44:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/emulateurs-dos-navigateur-gratuits/emulateurs-dos-navigateur-gratuits-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8f8aa51adc91",
       "title": "Il démonte une caméra gimbal de drone Shahed-136 récupéré en Ukraine",
       "description": "Un chercheur du nom de Michel a mis la main sur une caméra de surveillance issue d'un drone Shahed-136 abattu en Ukraine, et il en a fait un démontage très complet. Le Shahed-136, ce drone iranien que la Russie a adopté massivement et qu'elle modifie au fil des mois avec des charges utiles…",
