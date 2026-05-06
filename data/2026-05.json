@@ -2,6 +2,50 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "daf9ee71908c",
+      "title": "Apple ajoute le chiffrement bout-en-bout entre iPhone et Android pour les RCS dans iOS 26.5",
+      "description": "Avec iOS 26.5, Apple corrige enfin un manque que tout le monde signalait depuis l'arrivée du RCS sur iPhone : les messages échangés entre un iPhone et un Android n'étaient pas chiffrés. Côté iPhone-vers-iPhone, les iMessage sont protégés de bout en bout depuis des années. Mais sitôt que la…",
+      "link": "https://korben.info/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5.html",
+      "pubDate": "2026-05-06T13:00:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "983a53e350cd",
+      "title": "Konexio : quand le numérique devient un levier d’inclusion, pas une barrière",
+      "description": "Konexio est une association qui lutte contre l'illectronisme en rendant les compétences numériques accessibles à tous, notamment aux populations vulnérables comme les réfugiés et les jeunes en difficulté. Fondée en 2016, elle offre des formations variées pour favoriser l'inclusion numérique et…",
+      "link": "https://oliviersauvage.com/2026/05/06/konexio-quand-le-numerique-devient-un-levier-dinclusion-pas-une-barriere/",
+      "pubDate": "2026-05-06T12:57:23.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a57e9ef790c0",
+      "title": "WorkBoy - Le PDA fantôme de la Game Boy",
+      "description": "En 1992, Eddie Gil de la boîte anglaise Source R&D et Frank Ballouz de Fabtek s'étaient mis en tête d'une chose : transformer la Game Boy en PDA. La console à pile AA de Nintendo avec son écran vert pissette devait, dans leurs rêves les plus fous, devenir l'agenda électronique des cadres…",
+      "link": "https://korben.info/workboy-game-boy-prototype-perdu-pda.html",
+      "pubDate": "2026-05-06T11:47:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/workboy-game-boy-prototype-perdu-pda/workboy-game-boy-prototype-perdu-pda-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "466f3ddc80b7",
       "title": "VS Code signe vos commits avec Copilot, même sans Copilot",
       "description": "Si vous avez committé du code depuis VS Code depuis mi-avril, allez tout de suite vérifier vos messages de commit car vous avez peut-être un nouveau co-auteur que vous n'avez jamais embauché. En effet, Microsoft a discrètement basculé le réglage par défaut de l'éditeur pour ajouter Co-authored-by:…",
