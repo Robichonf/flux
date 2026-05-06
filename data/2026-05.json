@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "466f3ddc80b7",
+      "title": "VS Code signe vos commits avec Copilot, même sans Copilot",
+      "description": "Si vous avez committé du code depuis VS Code depuis mi-avril, allez tout de suite vérifier vos messages de commit car vous avez peut-être un nouveau co-auteur que vous n'avez jamais embauché. En effet, Microsoft a discrètement basculé le réglage par défaut de l'éditeur pour ajouter Co-authored-by:…",
+      "link": "https://korben.info/vscode-copilot-coauthor-polemique.html",
+      "pubDate": "2026-05-06T10:16:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/vscode-copilot-coauthor-polemique/vscode-copilot-coauthor-polemique-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d43001f7106f",
+      "title": "Chrome installe en douce un modèle IA de 4 Go sur votre disque sans rien demander",
+      "description": "Alexander Hanff, consultant, a remonté un truc pas net sur Chrome. La dernière version du navigateur télécharge en arrière-plan un modèle de langage local appelé Gemini Nano, qui pèse environ 4 Go, sans jamais demander la moindre permission à l'utilisateur. Le fichier s'appelle weights.bin, il…",
+      "link": "https://korben.info/chrome-installe-en-douce-un-modele-ia-de-4-go-sur-votre-disque-sans-rien-demander.html",
+      "pubDate": "2026-05-06T10:09:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "276cb3a6d66e",
       "title": "Un passionné a recréé l'Apple Lisa de 1983 dans un FPGA",
       "description": "Voilà un projet qui sort un peu de l'ordinaire. Un développeur a passé huit mois à réimplémenter intégralement l'Apple Lisa, l'ordinateur lancé par Apple en 1983, à l'intérieur d'un FPGA. Le résultat tourne. Il charge le système d'exploitation Lisa OS et fait fonctionner les logiciels de l'époque…",
