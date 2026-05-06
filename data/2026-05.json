@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "276cb3a6d66e",
+      "title": "Un passionné a recréé l'Apple Lisa de 1983 dans un FPGA",
+      "description": "Voilà un projet qui sort un peu de l'ordinaire. Un développeur a passé huit mois à réimplémenter intégralement l'Apple Lisa, l'ordinateur lancé par Apple en 1983, à l'intérieur d'un FPGA. Le résultat tourne. Il charge le système d'exploitation Lisa OS et fait fonctionner les logiciels de l'époque…",
+      "link": "https://korben.info/un-passionne-a-recree-lapple-lisa-de-1983-dans-un-fpga.html",
+      "pubDate": "2026-05-06T09:12:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45a696cd37ed",
+      "title": "wg-obfuscator - Faire passer WireGuard pour de la visioconf",
+      "description": "Si vous faites tourner WireGuard depuis un réseau filtré par DPI (Genre en Russie, Iran, Chine, et autres pays défenseurs de la libertéééé (non)), vous avez sans doute remarqué que les tunnels tombent rapidement. En effet, les signatures des protocoles et notamment du protocole WireGuard sont…",
+      "link": "https://korben.info/wg-obfuscator.html",
+      "pubDate": "2026-05-06T08:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7aa3c232743c",
+      "title": "Une boucle for contre 11,7 millions de Français : autopsie d'une faille IDOR",
+      "description": "Analysez la faille IDOR exploitée chez l'ANTS. Comprenez cette vulnérabilité critique et découvrez comment la prévenir efficacement avec Symfony et PHP pour sécuriser vos applications web.",
+      "link": "https://lecodeestdanslepre.fr/billets/une-boucle-for-contre-11-7-millions-de-francais-autopsie-d-une-faille-idor",
+      "pubDate": "2026-05-06T06:20:50.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "4aca4999a653",
       "title": "Kawaii - La GameCube découpée au scalpel qui tient dans la poche",
       "description": "Mackie Kannard-Smith vient de sortir Kawaii , une GameCube qui tient dans un porte-clés avec une vraie carte mère Nintendo dedans. Pas d'émulation ni de Raspberry Pi déguisé mais juste du silicium d'origine charcuté à mort pour rentrer dans 60 × 60 × 15,8 mm ! Pour vous donner une idée, c'est plus…",
