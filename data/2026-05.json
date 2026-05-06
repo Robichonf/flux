@@ -2,6 +2,68 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b8acaa4f2f43",
+      "title": "Scattered Spider - Un cybercriminel arrêté à cause d'un collier en diamants",
+      "description": "Y'a des génies du crime, et puis y'a Peter Stokes, alias Bouquet, 19 ans, presque toutes ses dents, double nationalité américano-estonienne, et surtout membre de Scattered Spider, le collectif qui a déjà plumé MGM et Caesars. Le mec a tellement bien réussi son coup qu'il est parti se payer des…",
+      "link": "https://korben.info/scattered-spider-hack-planet-collier-arrete.html",
+      "pubDate": "2026-05-06T15:06:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7a760207d22",
+      "title": "Quand les hackers de Rockstar font monter l'action Take-Two",
+      "description": "Énorme retournement de situation. ShinyHunters, le groupe qui avait piraté Rockstar via Anodot mi-avril et exigé une rançon, a fini par balancer ses données sur internet quand l'éditeur a refusé de payer. Le but était de faire mal financièrement à Take-Two, sauf que les chiffres révélés étaient si…",
+      "link": "https://korben.info/rockstar-hack-take-two-stock.html",
+      "pubDate": "2026-05-06T14:35:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rockstar-hack-take-two-stock/rockstar-hack-take-two-stock-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1dc77faa2ee6",
+      "title": "Les Pays-Bas migrent leur code vers Forgejo et claquent la porte de GitHub",
+      "description": "Le gouvernement néerlandais a ouvert sa propre instance Forgejo à l'adresse code.overheid.nl, hébergée sur les serveurs de l'État via SSC-ICT (le service informatique mutualisé du gouvernement). L'idée dans cette démarche, c'est de regrouper tout le code source produit par les administrations sur…",
+      "link": "https://korben.info/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github.html",
+      "pubDate": "2026-05-06T13:54:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6e5abd011ee9",
+      "title": "L'IA débarque sur le banc de touche : comment la tech transforme le rugby",
+      "description": "L'IA sur le banc de touche : les défis de l'intégration logicielle dans le rugby. Analyse des étapes cruciales pour déployer des solutions de Deep Learning : de la gestion de la qualité vidéo à l'adoption par les coachs, pour une technologie au service de l'humain.",
+      "link": "https://blog.ippon.fr/2026/05/06/lia-debarque-sur-le-banc-de-touche-comment-la-tech-transforme-le-rugby/",
+      "pubDate": "2026-05-06T13:19:47.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Gemini_Generated_Image_ttfd8mttfd8mttfd.png",
+      "type": "blog"
+    },
+    {
       "id": "daf9ee71908c",
       "title": "Apple ajoute le chiffrement bout-en-bout entre iPhone et Android pour les RCS dans iOS 26.5",
       "description": "Avec iOS 26.5, Apple corrige enfin un manque que tout le monde signalait depuis l'arrivée du RCS sur iPhone : les messages échangés entre un iPhone et un Android n'étaient pas chiffrés. Côté iPhone-vers-iPhone, les iMessage sont protégés de bout en bout depuis des années. Mais sitôt que la…",
