@@ -212,6 +212,23 @@
       "type": "blog"
     },
     {
+      "id": "946d82ad2229",
+      "title": "Les news du mois d'avril 2026",
+      "description": "Elin Mel sur Unsplash Avril est terminé, et il fut déjà le mois le plus chaud de l’année. Malgré la pluie et les inondations de cet hiver, nous sommes déjà en sécheresse sur une bonne partie du pays et notamment en Bretagne ! Malgré cette nouvelle démoralisante, je vous ai sélectionné des articles…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/04/news-avril/",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/04/news-avril/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "bf42f08ae9a2",
       "title": "Yeah Pa ! : réinventer le lien social en entreprise par la « JOIE » en 2026",
       "description": "Yeah Pa ! est une entreprise lilloise qui vise à recréer du lien humain en milieu professionnel à travers le jeu. Proposant des événements variés et des solutions ludiques, elle transforme l’expérience de travail en favorisant la cohésion d'équipe, brisant les hiérarchies et améliorant la qualité…",
