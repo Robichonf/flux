@@ -2,6 +2,53 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "053659d09e27",
+      "title": "Qu’est-ce qu’un ADR (Architecture Decision Record) ?",
+      "description": "Découvrez ce qu’est un ADR (Architecture Decision Record), pourquoi il est utile dans un projet logiciel et comment documenter vos décisions techniques simplement.",
+      "link": "https://code-garage.com/blog/qu-est-ce-qu-un-adr-architecture-decision-record",
+      "pubDate": "2026-05-07T07:37:03.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2c08d9d0f91d",
+      "title": "Surfshark sort Dausos : le protocole VPN qui pense enfin à vous",
+      "description": "-- Article en partenariat avec Surfshark VPN -- On connaît tous les grands noms des protocoles VPN : WireGuard, OpenVPN, IKEv2 (Surfshark VPN utilise les 3). Ce sont des bêtes solides, mais elles ont au départ été pondues pour des usages pro, avec des armées de serveurs en entreprise et des configs…",
+      "link": "https://korben.info/surfshark-sort-dausos.html",
+      "pubDate": "2026-05-07T07:25:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/surfshark-sort-dausos/surfshark-sort-dausos-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5c0ffed1c14e",
+      "title": "Docker Bake : une nouvelle manière de build nos images Docker",
+      "description": "Découvrez Docker Bake pour standardiser vos builds Docker. Cette surcouche déclarative de Buildx offre parallélisation intelligente, cache partagé et multi-plateforme.",
+      "link": "https://blog.ippon.fr/2026/05/07/docker-bake-une-nouvelle-maniere-de-build-nos-images-docker/",
+      "pubDate": "2026-05-07T06:01:45.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/docker-bake.png",
+      "type": "blog"
+    },
+    {
       "id": "b8acaa4f2f43",
       "title": "Scattered Spider - Un cybercriminel arrêté à cause d'un collier en diamants",
       "description": "Y'a des génies du crime, et puis y'a Peter Stokes, alias Bouquet, 19 ans, presque toutes ses dents, double nationalité américano-estonienne, et surtout membre de Scattered Spider, le collectif qui a déjà plumé MGM et Caesars. Le mec a tellement bien réussi son coup qu'il est parti se payer des…",
