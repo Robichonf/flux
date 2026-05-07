@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "1072cfa0a0e7",
+      "title": "Un hamster qui court dans une roue peut-il charger un téléphone ? Apparemment oui",
+      "description": "Le YouTubeur « Flamethrower » a documenté un projet aussi inutile que satisfaisant : utiliser un hamster comme source d'énergie pour charger son smartphone. e principe est simple sur le papier. Vous prenez un hamster, vous le mettez dans une roue, vous reliez la roue à un générateur, et au bout…",
+      "link": "https://korben.info/un-hamster-qui-court-dans-une-roue-peut-il-charger-un-telephone-apparemment-oui.html",
+      "pubDate": "2026-05-07T09:26:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "71efc5d54c4a",
+      "title": "Au Royaume-Uni, les enfants contournent la vérification d'âge avec des fausses moustaches dessinées",
+      "description": "Le Royaume-Uni a mis en place via l'Online Safety Act un système de vérification d'âge obligatoire sur les plateformes accessibles aux mineurs, avec contrôles biométriques à la clé pour estimer l'âge à partir d'un selfie. Sur le papier, c'était la grande solution pour empêcher les ados d'accéder à…",
+      "link": "https://korben.info/au-royaume-uni-les-enfants-contournent-la-verification-dage-avec-des-fausses-moustaches-dessinees.html",
+      "pubDate": "2026-05-07T08:39:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6405ec34f124",
+      "title": "GridTV, le guide TV open source pour votre setup IPTV",
+      "description": "Bon, maintenant que vous avez vos chaînes IPTV qui tournent via Tunarr ou xTeVe, votre flux XMLTV est super propre. Mais il vous manque un seul truc : Un guide de programme potable. Hé bien GridTV développé par l'ami JohnnyBeGood est là pour ça ! GridTV c'est une interface web en PHP/JS/CSS qui…",
+      "link": "https://korben.info/gridtv-le-guide-tv-open-source-pour-votre-setup-iptv.html",
+      "pubDate": "2026-05-07T08:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gridtv-le-guide-tv-open-source-pour-votre-setup-iptv/gridtv-le-guide-tv-open-source-pour-votre-setup-iptv-2.png",
+      "type": "blog"
+    },
+    {
       "id": "053659d09e27",
       "title": "Qu’est-ce qu’un ADR (Architecture Decision Record) ?",
       "description": "Découvrez ce qu’est un ADR (Architecture Decision Record), pourquoi il est utile dans un projet logiciel et comment documenter vos décisions techniques simplement.",
