@@ -2,6 +2,35 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ccbe49e0d14e",
+      "title": "LibreSpeed - Le test de vitesse à auto-héberger",
+      "description": "Speedtest.net c'est pratique, sauf que ça a été racheté par Accenture en 2026 et chaque test envoie votre IP, le nom de votre FAI et votre localisation à leurs serveurs... Alors pourquoi ne pas adopter LibreSpeed , l'alternative open source que vous hébergez chez vous, et qui ne contient aucun sans…",
+      "link": "https://korben.info/librespeed-test-de-vitesse-auto-heberger.html",
+      "pubDate": "2026-05-07T11:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/librespeed-test-de-vitesse-auto-heberger/librespeed-test-de-vitesse-auto-heberger-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "58333f89db3a",
+      "title": "Reddit : le nouvel eldorado du marketing digital ?",
+      "description": "Reddit émerge comme une plateforme incontournable pour le marketing digital et les entreprises, grâce à sa richesse en contenu humain, expert et actuel. Les LLM apprécient ce lac de données, redéfinissant ainsi le paysage du SEO. Pour réussir, il est crucial d’adopter une approche authentique tout…",
+      "link": "https://oliviersauvage.com/2026/05/07/reddit-le-nouvel-eldorado-du-marketing-digital/",
+      "pubDate": "2026-05-07T11:18:29.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1072cfa0a0e7",
       "title": "Un hamster qui court dans une roue peut-il charger un téléphone ? Apparemment oui",
       "description": "Le YouTubeur « Flamethrower » a documenté un projet aussi inutile que satisfaisant : utiliser un hamster comme source d'énergie pour charger son smartphone. e principe est simple sur le papier. Vous prenez un hamster, vous le mettez dans une roue, vous reliez la roue à un générateur, et au bout…",
