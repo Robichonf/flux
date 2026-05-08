@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e459e3c5e183",
+      "title": "Dirty Frag - L'exploit kernel Linux qui donne un accès root sur toutes les distros",
+      "description": "Le chercheur en sécu Hyunwoo Kim vient de lâcher dans la nature Dirty Frag, un nouvel exploit kernel Linux qui enchaîne 2 vulnérabilités pour obtenir un accès root sur n'importe quelle distro majeure, avec un taux de réussite proche de 100%. L'embargo devait tenir encore quelques semaines. Il n'a…",
+      "link": "https://korben.info/dirtyfrag.html",
+      "pubDate": "2026-05-08T10:47:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dirtyfrag/dirtyfrag-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "820a4decdd2a",
+      "title": "Google Discover - L'algorithme qui choisit vos actus à votre place",
+      "description": "Vous le savez, il y a un algorithme dans votre téléphone qui décide ce que vous allez lire aujourd'hui et il s'appelle Google Discover. Google Discover, c'est le flux d'articles qui apparaît quand vous ouvrez l'appli Google sur Android ou iOS, ou que vous swippez à gauche depuis la home de votre…",
+      "link": "https://korben.info/google-discover-algorithme-actu.html",
+      "pubDate": "2026-05-08T10:42:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/google-discover-algorithme-actu/google-discover-algorithme-actu-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "e7ea1c47583f",
+      "title": "EasyAdmin : construire un menu admin qui tient la route",
+      "description": "Créez un menu admin EasyAdmin robuste avec Symfony. ConfigureMenuItems(), linkTo: bonnes pratiques pour une navigation back-office efficace.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-construire-un-menu-admin-qui-tient-la-route",
+      "pubDate": "2026-05-08T10:32:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ccbe49e0d14e",
       "title": "LibreSpeed - Le test de vitesse à auto-héberger",
       "description": "Speedtest.net c'est pratique, sauf que ça a été racheté par Accenture en 2026 et chaque test envoie votre IP, le nom de votre FAI et votre localisation à leurs serveurs... Alors pourquoi ne pas adopter LibreSpeed , l'alternative open source que vous hébergez chez vous, et qui ne contient aucun sans…",
