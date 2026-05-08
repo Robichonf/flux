@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "1c7f7d95a91f",
+      "title": "Google Workspace CLI - Pour piloter tous les services Google avec votre IA",
+      "description": "Justin Poehnelt, Senior Developer Relations Engineer chez Google, vient de balancer sur Github un outil en ligne de commande (CLI), codé en Rust qui permet de faire un truc trop pratique, à savoir piloter entièrement Workspace depuis le terminal. Ce logiciel nommé GWS est donc capable de gérer…",
+      "link": "https://korben.info/google-workspace-cli-gws-rust.html",
+      "pubDate": "2026-05-08T16:52:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "39387c359131",
+      "title": "Hash MD5 - 60% des mots de passe craqués en moins d'une heure",
+      "description": "60% des mots de passe hashés en MD5 peuvent être cassés en moins d'une heure... C'est ce que dit en tout cas une étude de Kaspersky publiée cette semaine qui se base sur +231 millions de mots de passe qu'on peut trouver sur le dark web et tirés de fuites ayant eu lieu entre 2023 et 2026. D'après…",
+      "link": "https://korben.info/hash-md5-crackable-une-heure.html",
+      "pubDate": "2026-05-08T16:52:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e459e3c5e183",
       "title": "Dirty Frag - L'exploit kernel Linux qui donne un accès root sur toutes les distros",
       "description": "Le chercheur en sécu Hyunwoo Kim vient de lâcher dans la nature Dirty Frag, un nouvel exploit kernel Linux qui enchaîne 2 vulnérabilités pour obtenir un accès root sur n'importe quelle distro majeure, avec un taux de réussite proche de 100%. L'embargo devait tenir encore quelques semaines. Il n'a…",
