@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "973509c7873c",
+      "title": "GitHub commit spoofing - Quand n'importe qui peut être Linus",
+      "description": "Vous avez confiance dans le nom qui est affiché à côté d'un commit GitHub ? Bah vous pouvez arrêter tout de suite car le chercheur Shani Lavi a documenté il y a quelques années ce que les devs Git sérieux savent depuis longtemps : N'importe qui peut publier un commit avec n'importe quelle identité,…",
+      "link": "https://korben.info/github-commit-spoofing-tutoriel.html",
+      "pubDate": "2026-05-10T16:06:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/github-commit-spoofing-tutoriel/github-commit-spoofing-tutoriel-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ea5e41198d90",
       "title": "Le mirage de la productivité IA : et si on en faisait moins ?",
       "description": "L'IA t'a fait gagner trois heures aujourd'hui. T'en as fait quoi ? Probablement codé trois heures de plus. Pourquoi le temps gagné par l'IA n'est jamais à nous, et comment le reprendre.",
