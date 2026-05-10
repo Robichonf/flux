@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b2b51374975d",
+      "title": "Un widget Tui custom : trois bugs et un chat dégoûté",
+      "description": "Créez un widget personnalisé Tui pour afficher un GIF dans le terminal avec Symfony Terminal. Découvrez les étapes pour étendre AbstractWidget, implémenter render(RenderContext): array et utiliser onAttach(WidgetContext) pour animer une image.",
+      "link": "https://lecodeestdanslepre.fr/billets/un-widget-tui-custom-trois-bugs-et-un-chat-degoute",
+      "pubDate": "2026-05-10T16:24:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "973509c7873c",
       "title": "GitHub commit spoofing - Quand n'importe qui peut être Linus",
       "description": "Vous avez confiance dans le nom qui est affiché à côté d'un commit GitHub ? Bah vous pouvez arrêter tout de suite car le chercheur Shani Lavi a documenté il y a quelques années ce que les devs Git sérieux savent depuis longtemps : N'importe qui peut publier un commit avec n'importe quelle identité,…",
