@@ -2,6 +2,39 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ea5e41198d90",
+      "title": "Le mirage de la productivité IA : et si on en faisait moins ?",
+      "description": "L'IA t'a fait gagner trois heures aujourd'hui. T'en as fait quoi ? Probablement codé trois heures de plus. Pourquoi le temps gagné par l'IA n'est jamais à nous, et comment le reprendre.",
+      "link": "https://yoandev.co/mirage-productivite-ia",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/mirage-productivite-ia.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3cd1780a2e15",
+      "title": "Construire des Golden Images avec Packer sur Scaleway",
+      "description": "Pour mes expérimentations sur Tangled, je souhaitais tester l’auto-hébergement des knot et spindles dans des machines virtuelles (les explications arrivent dans un futur article). C’était donc l’occasion de rejouer un peu sur Scaleway, et avec Packer.",
+      "link": "https://codeka.io/2026/05/10/packer-scaleway/",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/10/packer-scaleway/cover_hu_bfba8d5cff808896.webp",
+      "type": "blog"
+    },
+    {
       "id": "2e009a142515",
       "title": "Varnish 9 et le TLS, cool, et avec Let’s Encrypt ?",
       "description": "J’ai pu expérimenter le support HTTPS de Varnish 9 en live « à l’ancienne » sur une VM Debian 13. Comme la gestion de Let’s Encrypt (d’ACME [...]",
