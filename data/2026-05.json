@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "4702e4633d55",
+      "title": "Documents OVNI déclassifiés - 161 fichiers et zéro preuve",
+      "description": "J'sais pas si vous avez vu mais le Pentagone vient de balancer 161 documents OVNI déclassifiés sur ordre de ce bon vieux Trump ! Pete Hegseth, le secrétaire à la Défense (ou à la Guerre, j'sais plus comment on dit) a donc mis en ligne 119 PDFs, 28 vidéos et 14 images couvrant les années de 1948 à…",
+      "link": "https://korben.info/ovnis-declassifies-pentagone-mai-2026.html",
+      "pubDate": "2026-05-10T18:45:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b2b51374975d",
       "title": "Un widget Tui custom : trois bugs et un chat dégoûté",
       "description": "Créez un widget personnalisé Tui pour afficher un GIF dans le terminal avec Symfony Terminal. Découvrez les étapes pour étendre AbstractWidget, implémenter render(RenderContext): array et utiliser onAttach(WidgetContext) pour animer une image.",
