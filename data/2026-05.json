@@ -2,6 +2,52 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "96aff29a17ab",
+      "title": "DATO Ares Q4 - Le SSD aimanté qui se colle partout",
+      "description": "Le truc cool avec un disque de backup, c'est quand vous arrêtez de le sortir du tiroir. Et c'est ce que permet de faire le DATO Ares Q4 (lien affilié) qui se trouve être aimanté et que je peux donc coller direct sur le côté de mon Mac Studio . Je l'ai depuis bientôt un an, et c'est devenu mon…",
+      "link": "https://korben.info/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup.html",
+      "pubDate": "2026-05-11T08:09:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "029e83e5aafe",
+      "title": "Étude LinkedIn : qu’est-ce qui marche encore en 2026 ?",
+      "description": "Une étude de Social Insider analyse 1,3 million de posts LinkedIn et révèle que l'engagement global augmente, surtout via les documents natifs. Pourtant, les vues de vidéos chutent de 36 %, et la croissance des abonnés ralentit, car les utilisateurs se tournent vers d'autres plateformes pour…",
+      "link": "https://oliviersauvage.com/2026/05/11/etude-linkedin-quest-ce-qui-marche-encore-en-2026/",
+      "pubDate": "2026-05-11T07:37:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a43f4bfd86b",
+      "title": "Devoxx 2026",
+      "description": "L'édition 2026 du Devoxx décrypte les avancées majeures de l'IA sur l'ingénierie logicielle, des architectures multi-agents à l'informatique quantique et aux stratégies pour maintenir la qualité du code.",
+      "link": "https://blog.ippon.fr/2026/05/11/devoxx-2026/",
+      "pubDate": "2026-05-11T07:00:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/devoxx_2026.png",
+      "type": "blog"
+    },
+    {
       "id": "4702e4633d55",
       "title": "Documents OVNI déclassifiés - 161 fichiers et zéro preuve",
       "description": "J'sais pas si vous avez vu mais le Pentagone vient de balancer 161 documents OVNI déclassifiés sur ordre de ce bon vieux Trump ! Pete Hegseth, le secrétaire à la Défense (ou à la Guerre, j'sais plus comment on dit) a donc mis en ligne 119 PDFs, 28 vidéos et 14 images couvrant les années de 1948 à…",
