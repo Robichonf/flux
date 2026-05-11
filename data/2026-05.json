@@ -2,6 +2,65 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "548b1e86608c",
+      "title": "Robots chiens Unitree - La backdoor que personne ne corrige",
+      "description": "Si vous croisez un robot-chien Unitree dans un hall d'HLM, sur un parking, un chantier, ou en train de patrouiller dansv otre ville, faut que vous sachiez 2 trucs quand même : Un, n'importe qui peut le rooter en moins d'une minute avec son téléphone. Et de deux, le robot lui-même envoie en continu…",
+      "link": "https://korben.info/unitree-robots-chiens-backdoor.html",
+      "pubDate": "2026-05-11T13:40:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/unitree-robots-chiens-backdoor/unitree-robots-chiens-backdoor-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a176a16f7a1c",
+      "title": "Les données de 120 000 adhérents LFI dans la nature",
+      "description": "Un hacker au pseudo \"fuzzeddffmepg\" a balancé sur un forum cybercriminel le 7 mai une base de données présentée comme provenant d'Action Populaire, le réseau militant numérique de la France Insoumise. Au programme : environ 120 000 adresses email uniques, 20 000 numéros de téléphone, et un paquet…",
+      "link": "https://korben.info/les-donnees-de-120-000-adherents-lfi-dans-la-nature.html",
+      "pubDate": "2026-05-11T13:14:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "783f297d89e6",
+      "title": "TeePee : la solution no-code qui digitalise les processus métier des entreprises",
+      "description": "TeePee est une solution SaaS no-code développée à Lille, permettant aux entreprises de digitaliser efficacement leurs processus métier sans complexité technique. En centralisant les données et automatisant les opérations, elle s'adresse aux organisations de toutes tailles, notamment dans…",
+      "link": "https://oliviersauvage.com/2026/05/11/teepee-la-solution-no-code-qui-digitalise-les-processus-metier-des-entreprises/",
+      "pubDate": "2026-05-11T12:51:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe6072a7df4d",
+      "title": "myAudi permettaient de localiser un véhicule à partir de son code VIN",
+      "description": "Le numéro VIN de votre voiture est visible sur le bas du pare-brise et récupérable par n'importe qui qui passe à côté. Et croyez le ou non, mais c'est pourtant sur ce numéro, visible de tous, que repose en partie le modèle de sécurité de myAudi, l'application connectée pour contrôler son véhicule…",
+      "link": "https://korben.info/myaudi-app-failles-securite.html",
+      "pubDate": "2026-05-11T11:49:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/myaudi-app-failles-securite/myaudi-app-failles-securite-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "73b9f7fe4a50",
       "title": "JDownloader a diffusé des versions piégées, votre PC est peut-être compromis",
       "description": "Entre le 6 et le 7 mai 2026, le site officiel jdownloader.org a été compromis et a servi pendant un peu plus d'une journée des installeurs piégés à la place des versions légitimes du célèbre gestionnaire de téléchargements. Concrètement, les liens alternatifs pour Windows et l'installateur shell…",
