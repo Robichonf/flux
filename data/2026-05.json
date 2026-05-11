@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "73b9f7fe4a50",
+      "title": "JDownloader a diffusé des versions piégées, votre PC est peut-être compromis",
+      "description": "Entre le 6 et le 7 mai 2026, le site officiel jdownloader.org a été compromis et a servi pendant un peu plus d'une journée des installeurs piégés à la place des versions légitimes du célèbre gestionnaire de téléchargements. Concrètement, les liens alternatifs pour Windows et l'installateur shell…",
+      "link": "https://korben.info/jdownloader-a-diffuse-des-versions-piegees-votre-pc-est-peut-etre-compromis.html",
+      "pubDate": "2026-05-11T10:58:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6442cfa6cbef",
+      "title": "Dusk - Zelda Twilight Princess en natif sur PC, Mac, Linux et mobile",
+      "description": "Plus de 4 000 commits, 5 ans de décompilation acharnée, et selon l'équipe ZeldaRET le plus gros projet de reverse-engineering jamais bouclé sur un jeu Nintendo. Voilà tout ce qu'il a fallu à la team Twilit Realm pour livrer Dusk, leur portage natif de Zelda Twilight Princess sur Windows, macOS,…",
+      "link": "https://korben.info/dusk-port-natif-zelda-twilight-princess.html",
+      "pubDate": "2026-05-11T09:09:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dusk-port-natif-zelda-twilight-princess/dusk-port-natif-zelda-twilight-princess-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "59fc52e4e579",
+      "title": "Spotify génère maintenant vos podcasts tout seul",
+      "description": "Spotify vient d'annoncer un truc intéressant je trouve, qui s'appelle les Personal Podcasts. Le principe c'est de demander absolument tout ce que vous voulez, par exemple un podcast sur un cours que vous venez de suivre, sur un bouquin, sur un article de Korben.info voire sur votre planning de la…",
+      "link": "https://korben.info/spotify-personal-podcasts-ia.html",
+      "pubDate": "2026-05-11T08:48:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/spotify-personal-podcasts-ia/spotify-personal-podcasts-ia-1.png",
+      "type": "blog"
+    },
+    {
       "id": "96aff29a17ab",
       "title": "DATO Ares Q4 - Le SSD aimanté qui se colle partout",
       "description": "Le truc cool avec un disque de backup, c'est quand vous arrêtez de le sortir du tiroir. Et c'est ce que permet de faire le DATO Ares Q4 (lien affilié) qui se trouve être aimanté et que je peux donc coller direct sur le côté de mon Mac Studio . Je l'ai depuis bientôt un an, et c'est devenu mon…",
