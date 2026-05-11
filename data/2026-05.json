@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "9c22d0aa558b",
+      "title": "Faire tourner des LLM gratuitement avec Ollama",
+      "description": "Découvrez comment faire fonctionner un grand modèle de langage localement avec Ollama. Apprenez à installer, à tirer un modèle et à l'intégrer dans votre application Symfony grâce à ce guide complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/faire-tourner-des-llm-gratuitement-avec-ollama",
+      "pubDate": "2026-05-11T19:22:30.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "548b1e86608c",
       "title": "Robots chiens Unitree - La backdoor que personne ne corrige",
       "description": "Si vous croisez un robot-chien Unitree dans un hall d'HLM, sur un parking, un chantier, ou en train de patrouiller dansv otre ville, faut que vous sachiez 2 trucs quand même : Un, n'importe qui peut le rooter en moins d'une minute avec son téléphone. Et de deux, le robot lui-même envoie en continu…",
