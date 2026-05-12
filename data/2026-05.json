@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a31ac8160fc1",
+      "title": "Plus de confort de lecture sur Korben",
+      "description": "Je viens de pousser en prod une fonctionnalité sur laquelle je bosse depuis quelques temps et comme je suis content du résultat, c'est le moment de partager ça avec vous. En haut à gauche du site, juste à côté de l'icône qui change le thème, vous trouverez un petit bouton \"abc\" qui jusqu'à présent…",
+      "link": "https://korben.info/accessibilite-confort-lecture-dyslexie.html",
+      "pubDate": "2026-05-12T10:14:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/accessibilite-confort-lecture-dyslexie/accessibilite-confort-lecture-dyslexie-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ef0115611a53",
       "title": "Termix - L'alternative open source et gratuite à Termius",
       "description": "Si vous cherchez une alternative à Termius qui ne vous coûte pas une petite couille, je crois que j'ai trouvé ce qu'il vous faut ! C'est vrai qu'il y a quelque chose de carrément agréable à pouvoir ouvrir un navigateur depuis n'importe quelle machine et retrouver tous ses serveurs, fichiers et…",
