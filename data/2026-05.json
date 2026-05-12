@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f255e23fe762",
+      "title": "Operation Epic Furious - Trump envahit l'Iran en pixel art",
+      "description": "J'sais pas si vous avez vu passer ça, mais vous pouvez désormais déclencher la guerre Iran-USA directement depuis votre navigateur, tout ça en pixel art, en incarnant ce bon vieux Donald Trump. C'est gratuit, accessible sur epicfurious.com , et c'est signé The Secret Handshake , le collectif…",
+      "link": "https://korben.info/epic-furious-jeu-rpg-trump-iran.html",
+      "pubDate": "2026-05-12T21:00:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/epic-furious-jeu-rpg-trump-iran/epic-furious-jeu-rpg-trump-iran-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "abbe95788360",
       "title": "Ratty, l'émulateur de terminal qui affiche de la 3D directement dans la ligne de commande",
       "description": "Orhun Parmaksız, l'un des principaux mainteneurs de Ratatui (une bibliothèque Rust très utilisée pour créer des interfaces texte dans le terminal), vient de sortir un projet qui sort vraiment des clous. Ça s'appelle Ratty, c'est donc un émulateur de terminal capable d'afficher des objets 3D, des…",
