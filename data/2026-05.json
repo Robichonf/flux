@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "9f7c96855b07",
+      "title": "Le Fisher Price Pixter ressuscité",
+      "description": "Le Fisher Price Pixter, ce jouet éducatif à écran tactile que Mattel vendait entre 2000 et 2002, vient de se faire passer au scanner par Dmitry Grinberg . Alors ce truc n’est pas le truc le plus répandu qui soit, surtout par chez nous, mais on en a trouvé quand même quelques uns à l’époque, et si…",
+      "link": "https://korben.info/le-fisher-price-pixter-ressuscite.html",
+      "pubDate": "2026-05-12T14:34:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/le-fisher-price-pixter-ressuscite/le-fisher-price-pixter-ressuscite-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "eaa4962a08ea",
+      "title": "Google neutralise la première cyber-attaque massive générée par une IA",
+      "description": "Google a balancé l'info via son équipe cyberdéfense, le GTIG (Google Threat Intelligence Group). Des cybercriminels ont utilisé une IA générative pour dénicher et écrire un code d'attaque exploitant une faille inconnue (ce qu'on appelle un zero-day, une vulnérabilité que l'éditeur du logiciel n'a…",
+      "link": "https://korben.info/google-neutralise-la-premiere-cyber-attaque-massive-generee-par-une-ia.html",
+      "pubDate": "2026-05-12T13:49:10.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a393df1df19b",
+      "title": "Vos câbles fibre optique peuvent servir à vous espionner, et ça marche très bien",
+      "description": "Une fibre optique de télécom standard, celle qui passe peut-être à quelques mètres de votre bureau en ce moment, peut être transformée en microphone à distance. C'est ce qu'ont démontré des chercheurs à la conférence NDSS 2026, le rendez-vous annuel de la sécurité réseau qui s'est tenu à San Diego.…",
+      "link": "https://korben.info/vos-cables-fibre-optique-peuvent-servir-a-vous-espionner-et-ca-marche-tres-bien.html",
+      "pubDate": "2026-05-12T13:08:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a31ac8160fc1",
       "title": "Plus de confort de lecture sur Korben",
       "description": "Je viens de pousser en prod une fonctionnalité sur laquelle je bosse depuis quelques temps et comme je suis content du résultat, c'est le moment de partager ça avec vous. En haut à gauche du site, juste à côté de l'icône qui change le thème, vous trouverez un petit bouton \"abc\" qui jusqu'à présent…",
