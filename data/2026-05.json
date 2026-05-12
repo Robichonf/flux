@@ -2,6 +2,66 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ef0115611a53",
+      "title": "Termix - L'alternative open source et gratuite à Termius",
+      "description": "Si vous cherchez une alternative à Termius qui ne vous coûte pas une petite couille, je crois que j'ai trouvé ce qu'il vous faut ! C'est vrai qu'il y a quelque chose de carrément agréable à pouvoir ouvrir un navigateur depuis n'importe quelle machine et retrouver tous ses serveurs, fichiers et…",
+      "link": "https://korben.info/termix-lalternative-open-source-et-gratuite-a-termius.html",
+      "pubDate": "2026-05-12T08:24:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/termix-lalternative-open-source-et-gratuite-a-termius/termix-lalternative-open-source-et-gratuite-a-termius-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3af91f510146",
+      "title": "Des faux installateurs Claude Code se baladent dans Google",
+      "description": "Des faux installateurs Claude Code se baladent dans Google Les chercheurs d'Ontinue, une boîte de cybersécurité, ont publié une analyse d'une campagne de vol de données qui vise directement les développeurs. La méthode est en fait assez simple. Vous tapez \"install claude code\" dans Google, vous…",
+      "link": "https://korben.info/des-faux-installateurs-claude-code-se-baladent-dans-google.html",
+      "pubDate": "2026-05-12T08:09:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8037d33570bf",
+      "title": "Taggez vos photos avec de l'IA en local",
+      "description": "Tagger des milliers de photos à la main, c'est le genre de corvée qu'on remet tous à plus tard depuis des années. Mais c'était sans compter sur photo-folder-tagger de Laurent Voillot qui règle ça grâce à 6 modes IA spécialisés, le tout en local, sans envoyer une seule image dans le cloud. Vous…",
+      "link": "https://korben.info/photo-folder-tagger.html",
+      "pubDate": "2026-05-12T08:08:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/photo-folder-tagger/photo-folder-tagger-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "4fe0cb37a381",
+      "title": "pstop - Le vrai htop natif pour Windows",
+      "description": "Y'a des gens trop habitués à Linux, qui tapent htop par réflexe alors que sous Windows, la commande ne fait rien. Pour que ça fonctionne, faut installer WSL, configurer un sous-système Linux entier, et tout ça juste pour surveiller quelques processus... C'est un peu overkill comme on dit. Mais…",
+      "link": "https://korben.info/pstop-le-vrai-htop-natif-pour-windows.html",
+      "pubDate": "2026-05-12T07:49:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pstop-le-vrai-htop-natif-pour-windows/pstop-le-vrai-htop-natif-pour-windows-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "9c22d0aa558b",
       "title": "Faire tourner des LLM gratuitement avec Ollama",
       "description": "Découvrez comment faire fonctionner un grand modèle de langage localement avec Ollama. Apprenez à installer, à tirer un modèle et à l'intégrer dans votre application Symfony grâce à ce guide complet.",
