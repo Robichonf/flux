@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "abbe95788360",
+      "title": "Ratty, l'émulateur de terminal qui affiche de la 3D directement dans la ligne de commande",
+      "description": "Orhun Parmaksız, l'un des principaux mainteneurs de Ratatui (une bibliothèque Rust très utilisée pour créer des interfaces texte dans le terminal), vient de sortir un projet qui sort vraiment des clous. Ça s'appelle Ratty, c'est donc un émulateur de terminal capable d'afficher des objets 3D, des…",
+      "link": "https://korben.info/ratty-lemulateur-de-terminal-qui-affiche-de-la-3d-directement-dans-la-ligne-de-commande.html",
+      "pubDate": "2026-05-12T15:28:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9f7c96855b07",
       "title": "Le Fisher Price Pixter ressuscité",
       "description": "Le Fisher Price Pixter, ce jouet éducatif à écran tactile que Mattel vendait entre 2000 et 2002, vient de se faire passer au scanner par Dmitry Grinberg . Alors ce truc n’est pas le truc le plus répandu qui soit, surtout par chez nous, mais on en a trouvé quand même quelques uns à l’époque, et si…",
@@ -119,6 +134,22 @@
         "Web"
       ],
       "image": "https://korben.info/pstop-le-vrai-htop-natif-pour-windows/pstop-le-vrai-htop-natif-pour-windows-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "32303d5fd426",
+      "title": "Mise + Krew : vos plugins kubectl en mode déclaratif",
+      "description": "Comment Mise arrive à résoudre les problèmes de Krew et du tooling interne des équipes SRE en général",
+      "link": "https://une-tasse-de.cafe/expresso/mise-krew/",
+      "pubDate": "2026-05-11T22:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
