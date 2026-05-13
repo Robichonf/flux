@@ -2,6 +2,83 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c9927a1b690c",
+      "title": "De l'orchestrateur labyrinthe au facilitateur de projet : Retour sur le meetup Airflow 3.2",
+      "description": "Retour sur le meetup Apache Airflow 3.2 organisé par Astronomer et Ippon Technologies à Paris : Partition Keys pour propager le contexte entre DAGs, Async @task pour paralléliser les micro-tâches, et un REX concret sur l'industrialisation d'Airflow à grande échelle.",
+      "link": "https://blog.ippon.fr/2026/05/13/meetup-apache-airflow-3-2-nouveautes-rex/",
+      "pubDate": "2026-05-13T13:08:35.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Airflow-image.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0af96d71b104",
+      "title": "OpenZFS 2.4.2 sort avec le support du noyau Linux 7.0",
+      "description": "OpenZFS 2.4.2 est sortie ce 12 mai, et c'est une mise à jour qu'attendaient pas mal de gens qui font tourner du Linux 7.0 (le tout dernier noyau Linux stable). OpenZFS, pour ceux qui ne suivent pas, c'est le portage libre du célèbre système de fichiers ZFS originellement développé par Sun…",
+      "link": "https://korben.info/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0.html",
+      "pubDate": "2026-05-13T12:15:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7dce0cf0b738",
+      "title": "Il essaye de réparer une GoPro Hero 10, et c'est l'enfer",
+      "description": "Hugh Jeffreys , le YouTuber australien qui démonte tout ce qu'il trouve, s'est attaqué cette fois à une GoPro Hero 10 achetée 100 dollars avec un message d'erreur \"no camera input\". Traduction : la caméra ne reçoit plus l'image du capteur. Sur Hackaday , le récit complet est savoureux pour qui aime…",
+      "link": "https://korben.info/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer.html",
+      "pubDate": "2026-05-13T11:45:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e74d1b9ec1e",
+      "title": "Magic Pointer, le pointeur de souris pensé par Google DeepMind",
+      "description": "Du côté de Google DeepMind, on s'amuse à réinventer le pointeur de souris. Le projet s'appelle Magic Pointer, c'est un pointeur piloté par Gemini (le modèle d'IA maison de Google) qui comprend ce que vous désignez à l'écran. L'idée est simple. Vous survolez un élément (un tableau, une image, un…",
+      "link": "https://korben.info/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind.html",
+      "pubDate": "2026-05-13T11:18:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "034b107240e6",
+      "title": "Des utilisateurs Google Cloud facturés des milliers de dollars par erreur",
+      "description": "Un truc franchement rageant remonte du côté de chez Google Cloud, et c'est The Register qui a mené l'enquête. Plusieurs développeurs ont vu leur facture Google Cloud exploser entre 3000 et 10000 dollars en quelques minutes, pour des services qu'ils n'ont jamais utilisés : génération vidéo Veo 3,…",
+      "link": "https://korben.info/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur.html",
+      "pubDate": "2026-05-13T10:57:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0916ab351bff",
       "title": "Mise en forme SEO : comment structurer vos contenus pour maximiser la lecture",
       "description": "Un article efficace combine contenu de qualité et mise en forme soignée pour captiver les lecteurs. Les pratiques de présentation, comme l'utilisation de titres clairs, de listes et d'espaces suffisants, améliorent la lisibilité et soutiennent le référencement. Ainsi, une bonne forme maximise…",
