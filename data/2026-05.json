@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "24cb40e4360e",
+      "title": "UnDUNE II - Dune II en entier dans 12 cartouches PICO-8",
+      "description": "UnDUNE II , c'est Dune II qui tient en entier dans une PICO-8 , cette fameuse \"fantasy console\" dont je vous ai déjà parlé. Ça a donc pris près de trois ans de boulot pour Paul Nicholas (alias Liquidream) afin de faire tenir le RTS culte de Westwood Studios dans 128x128 pixels et 16 couleurs. 3…",
+      "link": "https://korben.info/undune2-demake-dune-ii-pico-8.html",
+      "pubDate": "2026-05-13T05:57:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/undune2-demake-dune-ii-pico-8/undune2-demake-dune-ii-pico-8-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "f255e23fe762",
       "title": "Operation Epic Furious - Trump envahit l'Iran en pixel art",
       "description": "J'sais pas si vous avez vu passer ça, mais vous pouvez désormais déclencher la guerre Iran-USA directement depuis votre navigateur, tout ça en pixel art, en incarnant ce bon vieux Donald Trump. C'est gratuit, accessible sur epicfurious.com , et c'est signé The Secret Handshake , le collectif…",
@@ -14,6 +29,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/epic-furious-jeu-rpg-trump-iran/epic-furious-jeu-rpg-trump-iran-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b3f1d7332de3",
+      "title": "CrowdSec : la défense réseau communautaire expliquée",
+      "description": "Découvrez comment CrowdSec protège votre serveur en apprenant des attaques détectées par la communauté et en appliquant des bans instantanément.",
+      "link": "https://lecodeestdanslepre.fr/billets/crowdsec-la-defense-reseau-communautaire-expliquee",
+      "pubDate": "2026-05-12T20:12:34.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
