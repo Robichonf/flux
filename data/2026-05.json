@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b6ed3bcc3042",
+      "title": "Unitree lance son robot mecha à 500 000 dollars",
+      "description": "500 000 dollars. C'est le prix d'entrée annoncé pour le GD01 d'Unitree, un robot mecha de 2,7 mètres de haut que vous pouvez littéralement piloter depuis son torse, façon Pacific Rim version chinoise. Unitree, le fabricant chinois déjà connu pour ses chiens-robots quadrupèdes, passe au stade de la…",
+      "link": "https://korben.info/unitree-lance-son-robot-mecha-a-500-000-dollars.html",
+      "pubDate": "2026-05-13T14:40:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "141fd2689411",
+      "title": "Valve a planqué un Wilhelm Scream dans le nouveau Steam Controller",
+      "description": "Un utilisateur de Reddit a découvert cette semaine que le nouveau Steam Controller de Valve, vendu 100 euros en pré-commande sur le site de Steam, contient un easter egg complètement absurde : si vous lâchez la manette en mode Big Picture (l'interface plein écran de Steam, pensée pour être affichée…",
+      "link": "https://korben.info/valve-a-planque-un-wilhelm-scream-dans-le-nouveau-steam-controller.html",
+      "pubDate": "2026-05-13T14:23:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c9927a1b690c",
       "title": "De l'orchestrateur labyrinthe au facilitateur de projet : Retour sur le meetup Airflow 3.2",
       "description": "Retour sur le meetup Apache Airflow 3.2 organisé par Astronomer et Ippon Technologies à Paris : Partition Keys pour propager le contexte entre DAGs, Async @task pour paralléliser les micro-tâches, et un REX concret sur l'industrialisation d'Airflow à grande échelle.",
