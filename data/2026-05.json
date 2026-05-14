@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "fd27cdc4c5bf",
+      "title": "Saracroche - L'app qui bloque le démarchage téléphonique",
+      "description": "J'sais pas vous, mais en ce moment, moi ça n'arrête pas ! De quoi je parle ? Hé bien des putains d'appels commerciaux / arnaques que je reçois sur mon téléphone. C'est simple, je ne décroche plus aucun numéro que je ne connais pas. Je crois qu'on peut tous dire collectivement qu'on en peut plus. Et…",
+      "link": "https://korben.info/saracroche-bloqueur-appels-indesirables.html",
+      "pubDate": "2026-05-14T07:51:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/saracroche-bloqueur-appels-indesirables/saracroche-bloqueur-appels-indesirables-2.png",
+      "type": "blog"
+    },
+    {
       "id": "b6ed3bcc3042",
       "title": "Unitree lance son robot mecha à 500 000 dollars",
       "description": "500 000 dollars. C'est le prix d'entrée annoncé pour le GD01 d'Unitree, un robot mecha de 2,7 mètres de haut que vous pouvez littéralement piloter depuis son torse, façon Pacific Rim version chinoise. Unitree, le fabricant chinois déjà connu pour ses chiens-robots quadrupèdes, passe au stade de la…",
@@ -188,6 +203,21 @@
       "description": "Découvrez comment CrowdSec protège votre serveur en apprenant des attaques détectées par la communauté et en appliquant des bans instantanément.",
       "link": "https://lecodeestdanslepre.fr/billets/crowdsec-la-defense-reseau-communautaire-expliquee",
       "pubDate": "2026-05-12T20:12:34.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a515f04fdd83",
+      "title": "PHP 8.6 : ce qui est acté, ce qui se joue encore",
+      "description": "Découvrez l'état d'avancement de PHP 8.6 à mi-parcours vers sa GA fin 2026. Sept RFCs implémentées, cinq acceptées, et des sujets clés comme les generics au centre des discussions.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-6-ce-qui-est-dans-le-pot-ce-qui-se-joue-encore",
+      "pubDate": "2026-05-12T19:05:12.000Z",
       "source": "Le Code est dans le Pré",
       "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
