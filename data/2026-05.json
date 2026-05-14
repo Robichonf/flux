@@ -62,6 +62,21 @@
       "type": "blog"
     },
     {
+      "id": "f899158c787a",
+      "title": "Ma stack IA pour développer des produits sans me ruiner",
+      "description": "Est-ce qu'on peut bâtir une app avec l'IA pour 20€/mois ? Voici un retour terrain pour optimiser ces usages : optimisation de tokens, specs et workflow agentique.",
+      "link": "https://eventuallycoding.com/p/ma-stack-ia-pour-developper-des-produits-sans-me-ruiner",
+      "pubDate": "2026-05-14T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1778777417711-qfyj55a.jpg",
+      "type": "blog"
+    },
+    {
       "id": "b6ed3bcc3042",
       "title": "Unitree lance son robot mecha à 500 000 dollars",
       "description": "500 000 dollars. C'est le prix d'entrée annoncé pour le GD01 d'Unitree, un robot mecha de 2,7 mètres de haut que vous pouvez littéralement piloter depuis son torse, façon Pacific Rim version chinoise. Unitree, le fabricant chinois déjà connu pour ses chiens-robots quadrupèdes, passe au stade de la…",
