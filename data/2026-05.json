@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f54964a2a763",
+      "title": "Pour activer ce nouveau pilote graphique libre, il faut littéralement réclamer un pilote cassé",
+      "description": "Je ne vous apprends rien, un GPU, c'est la puce qui calcule l'image que vous voyez à l'écran. Pour qu'elle fonctionne, il lui faut un pilote, le logiciel qui fait le lien entre le matériel et le système d'exploitation. Sur les puces Arm Mali, qu'on retrouve dans des tas de smartphones et de cartes…",
+      "link": "https://korben.info/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse.html",
+      "pubDate": "2026-05-14T15:01:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea78dd7218c5",
+      "title": "Un capteur LiDAR matriciel pour donner la vue en relief à un petit robot",
+      "description": "Le LiDAR, c'est cette techno qui mesure des distances en envoyant des impulsions laser et en chronométrant leur retour, un peu comme un sonar, mais avec de la lumière. On en entend parler surtout pour les voitures autonomes ou les robots aspirateurs. Mellow Labs , une chaîne qui bidouille du…",
+      "link": "https://korben.info/un-capteur-lidar-matriciel-pour-donner-la-vue-en-relief-a-un-petit-robot.html",
+      "pubDate": "2026-05-14T14:30:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8c56789c8fe",
+      "title": "Ces fléchettes incendiaires géantes du XVIe siècle viennent enfin d'être testées",
+      "description": "La Mary Rose, c'était le navire de guerre préféré d'Henri VIII. Il a coulé en 1545 au large de Portsmouth, son épave a été retrouvée en 1971 puis remontée en 1982, et depuis, tout ce qu'elle contenait fascine les historiens. Parmi les objets sortis de la coque, il y avait des armes assez…",
+      "link": "https://korben.info/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees.html",
+      "pubDate": "2026-05-14T14:12:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fd27cdc4c5bf",
       "title": "Saracroche - L'app qui bloque le démarchage téléphonique",
       "description": "J'sais pas vous, mais en ce moment, moi ça n'arrête pas ! De quoi je parle ? Hé bien des putains d'appels commerciaux / arnaques que je reçois sur mon téléphone. C'est simple, je ne décroche plus aucun numéro que je ne connais pas. Je crois qu'on peut tous dire collectivement qu'on en peut plus. Et…",
