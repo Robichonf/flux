@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "7d94ef3ef1fa",
+      "title": "Mythos, l'IA d'Anthropic, aide à percer le kernel d'un Mac M5 en cinq jours",
+      "description": "Cinq jours. C'est le temps qu'il a fallu à l'équipe de Calif, une boîte de sécurité informatique, pour faire tourner un exploit fonctionnel sur un Mac équipé de la dernière puce M5 d'Apple. Et pas n'importe quel exploit : c'est la toute première démonstration publique de contournement de MIE, la…",
+      "link": "https://korben.info/mythos-lia-danthropic-aide-a-percer-le-kernel-dun-mac-m5-en-cinq-jours.html",
+      "pubDate": "2026-05-15T16:45:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea7085415452",
+      "title": "Wikipedia File Explorer - L'encyclopédie en mode Windows XP",
+      "description": "Wikipedia, vous connaissez ça par cœur j'imagine... Hé bien vous allez redécouvrir la plus connue des encyclopédies grâce à Sami Smith qui a lancé explorer.samismith.com , qui transforme quasiment toute l'encyclopédie en fenêtres d'explorateur de fichiers Windows XP. Les catégories sont présentées…",
+      "link": "https://korben.info/wikipedia-explorer-samismith.html",
+      "pubDate": "2026-05-15T13:24:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/wikipedia-explorer-samismith/wikipedia-explorer-samismith-2.png",
+      "type": "blog"
+    },
+    {
       "id": "62ab8abdf5d1",
       "title": "Rocky - Le pote alien de Projet Dernière Chance débarque sur Raspberry Pi",
       "description": "J'sais pas si vous avez vu le film ou lu le livre mais Rocky, c'est l'araignée de roche extraterrestre de Projet Dernière Chance (Project Hail Mary) qui communique en chantant. Et Lahiru Maramba, un dev Firebase en poste chez Google, vient de le recréer en vrai avec un Raspberry Pi Zero 2W et un…",
