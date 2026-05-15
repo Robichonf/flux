@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "62ab8abdf5d1",
+      "title": "Rocky - Le pote alien de Projet Dernière Chance débarque sur Raspberry Pi",
+      "description": "J'sais pas si vous avez vu le film ou lu le livre mais Rocky, c'est l'araignée de roche extraterrestre de Projet Dernière Chance (Project Hail Mary) qui communique en chantant. Et Lahiru Maramba, un dev Firebase en poste chez Google, vient de le recréer en vrai avec un Raspberry Pi Zero 2W et un…",
+      "link": "https://korben.info/rocky-lahirumaramba.html",
+      "pubDate": "2026-05-15T12:52:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d7f699a3e240",
       "title": "Une faille présente depuis 18 ans découverte dans nginx, le serveur qui fait tourner un tiers du web",
       "description": "Nginx, c'est ce logiciel discret qui sert les pages d'environ un site populaire sur trois sur la planète. Quand vous chargez une page web, il y a une bonne chance que ce soit lui qui vous l'envoie. La société DepthFirst AI, spécialisée dans la recherche de failles assistée par intelligence…",
