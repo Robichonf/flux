@@ -2,6 +2,96 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "12f9a3b28ad4",
+      "title": "Une faille permet d'ouvrir un disque BitLocker avec quelques fichiers sur une clé USB",
+      "description": "BitLocker, c'est le système de chiffrement intégré à Windows qui protège vos disques contre quelqu'un qui mettrait la main sur votre machine. Activé par défaut sur Windows 11 et installé sur des millions d'ordinateurs, il est censé garantir que sans votre mot de passe ou votre code de récupération,…",
+      "link": "https://korben.info/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb.html",
+      "pubDate": "2026-05-15T07:46:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3fdbc3252192",
+      "title": "TUIStudio - Pour désigner vos applications terminal",
+      "description": "Vous avez déjà essayé de dessiner une TUI (Interface utilisateur pour le Terminal) à la main dans votre IDE ? Genre, calculer les paddings d'une Box ANSI à la mano et compter les caractères Unicode pour aligner trois colonnes ? Pffff quelle galère !! Hé bien cette mauvaise expérience, Javier Alonso…",
+      "link": "https://korben.info/tuistudio-figma-applications-terminal.html",
+      "pubDate": "2026-05-15T07:35:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/tuistudio-figma-applications-terminal/tuistudio-figma-applications-terminal-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "b32eb8f9c73f",
+      "title": "Fragnesia - Une nouvelle faille Linux dans la lignée de Dirty Frag",
+      "description": "Bon, accrochez vous les amis, car ça enchaine sec sur le kernel Linux en ce moment... Le chercheur William Bowling de l'équipe V12 security vient de lâcher Fragnesia (CVE-2026-46300, CVSS 7.8), un nouvel exploit kernel Linux qui permet d'obtenir un accès root sur toutes les distros majeures, et ce,…",
+      "link": "https://korben.info/fragnesia.html",
+      "pubDate": "2026-05-15T07:33:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4ef3b9f5b2f2",
+      "title": "Mullvad - Votre clé WireGuard vous trahit malgré le VPN",
+      "description": "Je me sors 5 min de mon weekend en amoureux les amis, pour avertir ceux parmi vous qui sont des utilisateurs de Mullvad, peu importe que vous soyez sur macOS, Windows ou un Linux Ubuntu/Debian... Si vous jonglez entre les serveurs en pensant brouiller votre piste, j'ai une mauvaise nouvelle pour…",
+      "link": "https://korben.info/mullvad-exit-ips-fingerprint.html",
+      "pubDate": "2026-05-15T07:19:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/mullvad-exit-ips-fingerprint/mullvad-exit-ips-fingerprint-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "8cbd17699f19",
+      "title": "Il retrouve 400 000 $ de Bitcoin oubliés depuis 11 ans grâce à Claude",
+      "description": "L'histoire est partie d'un changement de mot de passe fait pendant une cuite en 2014. Onze ans plus tard, le malheureux (\" cprkrn \" sur X) avait toujours ses 5 bitcoins coincés dans un portefeuille numérique dont la clé d'accès s'était totalement évaporée de sa mémoire. À l'époque, ça valait…",
+      "link": "https://korben.info/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude.html",
+      "pubDate": "2026-05-15T07:18:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f81f5010f4ac",
+      "title": "EasyAdmin : son premier CrudController",
+      "description": "Découvrez comment bien utiliser le CrudController d'EasyAdmin pour gérer vos entités Symfony de manière propre et efficace. Apprenez à générer un CrudController adapté à votre entité RedirectRule, tout en évitant les pièges liés au mélange de configuration et de logique métier.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-son-premier-crudcontroller",
+      "pubDate": "2026-05-14T18:41:22.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f54964a2a763",
       "title": "Pour activer ce nouveau pilote graphique libre, il faut littéralement réclamer un pilote cassé",
       "description": "Je ne vous apprends rien, un GPU, c'est la puce qui calcule l'image que vous voyez à l'écran. Pour qu'elle fonctionne, il lui faut un pilote, le logiciel qui fait le lien entre le matériel et le système d'exploitation. Sur les puces Arm Mali, qu'on retrouve dans des tas de smartphones et de cartes…",
