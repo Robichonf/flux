@@ -77,6 +77,21 @@
       "type": "blog"
     },
     {
+      "id": "127c9d7f8295",
+      "title": "Symfony Scheduler en prod : j'ai attendu d'avoir Redis pour migrer, et j'ai bien fait",
+      "description": "Symfony Scheduler sans worker Messenger ni Redis n'est qu'un cron déguisé. Découvrez les trois briques à avoir sous la main avant #[AsSchedule] et cinq jobs qui tournent aujourd'hui sur ce site.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-scheduler-en-prod-j-ai-attendu-d-avoir-redis-pour-migrer-et-j-ai-bien-fait",
+      "pubDate": "2026-05-15T15:35:18.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ea7085415452",
       "title": "Wikipedia File Explorer - L'encyclopédie en mode Windows XP",
       "description": "Wikipedia, vous connaissez ça par cœur j'imagine... Hé bien vous allez redécouvrir la plus connue des encyclopédies grâce à Sami Smith qui a lancé explorer.samismith.com , qui transforme quasiment toute l'encyclopédie en fenêtres d'explorateur de fichiers Windows XP. Les catégories sont présentées…",
