@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f72297318e00",
+      "title": "GitLike - Le GitHub décentralisé sur IPFS",
+      "description": "Branislav Đalić, un dev serbe basé à Belgrade, vient de balancer un projet plutôt original baptisé GitLike . Il s'agit d'un GitHub décentralisé qui stocke vos repos sur IPFS et remplace le mot de passe par votre clé Ethereum (votre wallet quoi...). Vous connectez votre wallet via SIWE (le standard…",
+      "link": "https://korben.info/gitlike-github-decentralise-ipfs.html",
+      "pubDate": "2026-05-16T07:42:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gitlike-github-decentralise-ipfs/gitlike-github-decentralise-ipfs-1.png",
+      "type": "blog"
+    },
+    {
       "id": "7d94ef3ef1fa",
       "title": "Mythos, l'IA d'Anthropic, aide à percer le kernel d'un Mac M5 en cinq jours",
       "description": "Cinq jours. C'est le temps qu'il a fallu à l'équipe de Calif, une boîte de sécurité informatique, pour faire tourner un exploit fonctionnel sur un Mac équipé de la dernière puce M5 d'Apple. Et pas n'importe quel exploit : c'est la toute première démonstration publique de contournement de MIE, la…",
