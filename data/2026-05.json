@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "bbe59109b12c",
+      "title": "La folle histoire de la 3DO Blaster, ressuscitée dans un musée",
+      "description": "En 1994, Creative Labs, le fabricant des fameuses cartes son Sound Blaster, a sorti un truc complètement fou : la 3DO Blaster, une carte ISA (le format d'extension standard des PC de l'époque) qui contenait littéralement une console 3DO entière, prête à être greffée dans un PC 386 ou 486. Tous les…",
+      "link": "https://korben.info/la-folle-histoire-de-la-3do-blaster-ressuscitee-dans-un-musee.html",
+      "pubDate": "2026-05-16T09:25:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "389a531fb896",
+      "title": "Ne jetez pas votre vieux PC : le noyau Linux s'apprête à booster ses performances en jeu",
+      "description": "Sur un PC, l'ordonnanceur du système (le scheduler en anglais), c'est ce petit bout du noyau qui décide quelle tâche tourne sur quel cœur du processeur, et pendant combien de temps. Plus il est malin, plus la machine est fluide. Peter Zijlstra, l'un des développeurs historiques du noyau Linux,…",
+      "link": "https://korben.info/ne-jetez-pas-votre-vieux-pc-le-noyau-linux-sapprete-a-booster-ses-performances-en-jeu.html",
+      "pubDate": "2026-05-16T09:01:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f72297318e00",
       "title": "GitLike - Le GitHub décentralisé sur IPFS",
       "description": "Branislav Đalić, un dev serbe basé à Belgrade, vient de balancer un projet plutôt original baptisé GitLike . Il s'agit d'un GitHub décentralisé qui stocke vos repos sur IPFS et remplace le mot de passe par votre clé Ethereum (votre wallet quoi...). Vous connectez votre wallet via SIWE (le standard…",
