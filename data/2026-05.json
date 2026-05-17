@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "3421b21cc412",
+      "title": "Donner une conference tech : les coulisses ",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/donner-une-conference-tech-les-coulisses-03139ca832ae?source=rss-c730ddf97658------2",
+      "pubDate": "2026-05-17T10:54:28.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*YhHB7FViZrJK7btucTiuaw.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "78deea30dcfe",
+      "title": "Des cartes perforées imprimées en 3D et lues par une webcam, parfait pour stocker vos mots de passe à vie",
+      "description": "Les cartes perforées, c'est le truc qu'on associe à l'informatique de grand papa. Des bouts de carton avec des trous dedans qui servaient à programmer les ordinateurs des années 1960. Personne n'aurait l'idée d'en utiliser aujourd'hui. Sauf Bitroller , un bidouilleur qui a eu une autre idée : et si…",
+      "link": "https://korben.info/des-cartes-perforees-imprimees-en-3d-et-lues-par-une-webcam-parfait-pour-stocker-vos-mots-de-passe-a-vie.html",
+      "pubDate": "2026-05-17T09:47:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/des-cartes-perforees-imprimees-en-3d-et-lues-par-une-webcam-parfait-pour-stocker-vos-mots-de-passe-a-vie/des-cartes-perforees-imprimees-en-3d-et-lues-par-une-webcam-parfait-pour-stocker-vos-mots-de-passe-a-vie-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "0d7f5f4f4ca5",
       "title": "Il fait tourner Windows CE sur une Nintendo 64, et ça marche pour de vrai",
       "description": "Un développeur connu sous le pseudo ThroatyMumbo a réussi à porter Windows CE 2.11, un Windows allégé que Microsoft avait sorti à la fin des années 90 pour les petits assistants personnels et certains routeurs, sur une vraie console Nintendo 64 On ne parle pas d'un émulateur ici, mais bien d'une…",
