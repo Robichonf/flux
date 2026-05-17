@@ -17,6 +17,21 @@
       "type": "blog"
     },
     {
+      "id": "dd591ca783af",
+      "title": "Symfony 8.1 : vos Commands passent en mode Controller",
+      "description": "Découvrez comment Symfony 8.1 modernise les Commandes Console avec les value resolvers Doctrine côté console, comme #[MapEntity], pour plus de confort et de performances.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-vos-commands-passent-en-mode-controller",
+      "pubDate": "2026-05-17T13:22:09.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3421b21cc412",
       "title": "Donner une conference tech : les coulisses ",
       "description": "",
