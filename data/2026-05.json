@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b18b03322ba0",
+      "title": "Utiliser npm link pour tester un module localement",
+      "description": "Découvrez comment utiliser la commande npm link pour développer et tester un module NPM localement sans avoir à le publier à chaque modification.",
+      "link": "https://code-garage.com/blog/utiliser-npm-link-pour-tester-un-module-localement",
+      "pubDate": "2026-05-17T16:18:20.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3421b21cc412",
       "title": "Donner une conference tech : les coulisses ",
       "description": "",
