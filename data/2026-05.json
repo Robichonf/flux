@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "0d7f5f4f4ca5",
+      "title": "Il fait tourner Windows CE sur une Nintendo 64, et ça marche pour de vrai",
+      "description": "Un développeur connu sous le pseudo ThroatyMumbo a réussi à porter Windows CE 2.11, un Windows allégé que Microsoft avait sorti à la fin des années 90 pour les petits assistants personnels et certains routeurs, sur une vraie console Nintendo 64 On ne parle pas d'un émulateur ici, mais bien d'une…",
+      "link": "https://korben.info/il-fait-tourner-windows-ce-sur-une-nintendo-64-et-ca-marche-pour-de-vrai.html",
+      "pubDate": "2026-05-17T09:35:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5684f3051de9",
       "title": "Notchi - Une mascotte pixel-art dans l'encoche pour Claude Code",
       "description": "Vous vous souvenez de l'encoche des MacBook Pro et autres Air d'Apple ? Mais siiii, celle qu'on avait tous trouvée bien moche en 2022, au point que je vous avais pondu un article entier pour la faire disparaître ! Hé bien 4 ans plus tard, sk-ruban a décidé de lui donner une vraie utilité avec…",
