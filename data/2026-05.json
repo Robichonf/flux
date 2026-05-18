@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "11384fe282b5",
+      "title": "Hydracker / Darkiworld piraté - Le gérant de YGG se serait refait avoir ?",
+      "description": "Vous vous souvenez de YggTorrent qui s'est fait démonter en full 4K en mars dernier ? Eh ben rebelote !! Le mec qui gérait Ygg serait, d'après le leaker, derrière une autre plateforme pirate nommée Hydracker (l'ex-Darkiworld relooké hier) qui elle aussi s'est fait éclater à son tour. Un certain…",
+      "link": "https://korben.info/hydracker-piratee-gerant-ygg.html",
+      "pubDate": "2026-05-18T16:51:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/hydracker-piratee-gerant-ygg/hydracker-piratee-gerant-ygg-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ab3f608f2818",
       "title": "Sortir les modèles 3D d'un jeu PS5 en passant par le mode Photo et un peu de photogrammétrie",
       "description": "Quand vous voulez récupérer un modèle 3D d'un jeu vidéo, en général il y a deux options. Soit vous fouillez les fichiers du jeu pour en extraire les assets, ce qui demande des outils spécialisés et qui ne marche pas simplement sur console. Soit vous abandonnez. Un bidouilleur connu sous le pseudo…",
