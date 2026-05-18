@@ -2,6 +2,142 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "73eea45a6f62",
+      "title": "Un fan de Linux a transformé son bureau en niveau de Minecraft",
+      "description": "Sur Linux, certains utilisateurs passent des heures à customiser leur bureau pour le rendre joli. Cette pratique a même un nom dans la communauté : le \"ricing\", de l'anglais \"to rice\", qui veut dire bichonner sa machine comme on bichonnerait une voiture tunée. Un utilisateur vient de publier un…",
+      "link": "https://korben.info/un-fan-de-linux-a-transforme-son-bureau-en-niveau-de-minecraft.html",
+      "pubDate": "2026-05-18T11:41:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fde1bf5bdadb",
+      "title": "Lemonade - L'IA locale sur NPU AMD, GPU et Mac",
+      "description": "Vous n'avez pas de Mac Silicon, mais vous avez vu passer mon article de ce matin sur vLLM-MLX et son serveur d'IA local ? Hé bien bonne nouvelle, je suis tombé ce midi sur Lemonade SDK , un serveur d'IA local communautaire sponsorisé par AMD (et largement codé par leurs ingénieurs), qui joue dans…",
+      "link": "https://korben.info/lemonade-sdk-serveur-llm-local-npu-amd.html",
+      "pubDate": "2026-05-18T11:37:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/lemonade-sdk-serveur-llm-local-npu-amd/lemonade-sdk-serveur-llm-local-npu-amd-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ee45b00e0013",
+      "title": "Greg Kroah-Hartman continue de trouver des bugs dans le noyau Linux avec son IA locale",
+      "description": "Greg Kroah-Hartman, le numéro 2 du développement du noyau Linux après Linus Torvalds en personne, s'est offert un nouveau jouet en avril dernier : un assistant IA tournant en local sur son ordinateur, qu'il a appelé gkh_clanker_t1000 en clin d'œil au Terminator. Le but, c'est de faire du fuzzing,…",
+      "link": "https://korben.info/greg-kroah-hartman-continue-de-trouver-des-bugs-dans-le-noyau-linux-avec-son-ia-locale.html",
+      "pubDate": "2026-05-18T11:25:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b31a175001a7",
+      "title": "Oubliez votre PC portable, et passez au Cyberdeck fait maison",
+      "description": "Si vous avez déjà rêvé d'une machine portable qu'on peut démonter, réparer et améliorer pièce par pièce comme un Lego, l'objet construit par Jankbu va vous parler. Le YouTubeur, spécialisé dans la bidouille électronique, vient de publier la vidéo de son cyberdeck, c'est-à-dire un ordinateur…",
+      "link": "https://korben.info/oubliez-votre-pc-portable-et-passez-au-cyberdeck-fait-maison.html",
+      "pubDate": "2026-05-18T11:09:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5ec09f1aa71",
+      "title": "MiniPlasma - La faille Windows que Microsoft croyait corrigée",
+      "description": "Si vous tournez sur un Windows 11 à jour, sachez qu'il existe une faille qui permet à un programme local spécialement conçu de grimper tranquillou jusqu'au compte SYSTEM. Pour rappel, c'est le compte tout-puissant de la machine, c'est à dire celui qui passe même au-dessus de l'administrateur ! Et…",
+      "link": "https://korben.info/miniplasma-windows-0day-elevation-systeme.html",
+      "pubDate": "2026-05-18T10:51:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/miniplasma-windows-0day-elevation-systeme/miniplasma-windows-0day-elevation-systeme-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3396b938f745",
+      "title": "Computer Vision et Rugby : retour d’expérience sur la construction d’un pipeline d’analyse vidéo avec YOLO et DeepFace",
+      "description": "L’IA dans le sport, tout le monde en parle. Le player tracking en NBA, les analyses xG en football, les capteurs GPS dans les maillots… Mais, quand on creuse un peu, on se rend compte que certains sports restent les grands oubliés de cette r&",
+      "link": "https://blog.ippon.fr/2026/05/18/computer-vision-et-rugby-retour-dexperience-sur-la-construction-dun-pipeline-danalyse-video-avec-yolo-et-deepface/",
+      "pubDate": "2026-05-18T09:52:36.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Gemini_Generated_Image_ei981uei981uei98.png",
+      "type": "blog"
+    },
+    {
+      "id": "22834ce04962",
+      "title": "vLLM-MLX - Pour remplacer l'API d'OpenAI par votre propre Mac",
+      "description": "Si vous avez un Mac avec une puce Silicon et que vous en avez marre de raquer pour des tokens à chaque requête API à un LLM à la con, y'a un projet qui mérite, je trouve, le détour. Ça s'appelle vLLM-MLX , et c'est un serveur d'inférence local qui transforme votre Mac en machine à générer du texte,…",
+      "link": "https://korben.info/vllm-mlx-serveur-inference-apple-silicon.html",
+      "pubDate": "2026-05-18T09:23:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/vllm-mlx-serveur-inference-apple-silicon/vllm-mlx-serveur-inference-apple-silicon-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "e5a7bc41d388",
+      "title": "L'histoire géniale du programmeur qui a tout effacé en 1981 à cause d'une astérisque",
+      "description": "Sur The Register, un témoignage improbable d'un lecteur qui raconte la fois où il a effacé toutes les données et tout le code de son entreprise. Voilà qui date pas mal, puisque c,'était en 1981, il avait 21 ans, et il développait tout seul un script de nettoyage pour un mainframe IBM. Le genre de…",
+      "link": "https://korben.info/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque.html",
+      "pubDate": "2026-05-18T08:46:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18d5b0451523",
+      "title": "IA générative et retail : 5 conseils d’expert pour réussir l’intégration et garantir le ROI",
+      "description": "Yann Puslecki, consultant en e-commerce et data, discute de l'intégration de l'IA générative dans les entreprises de retail. Avec 25 ans d'expérience, il souligne l'importance d'aligner la stratégie IA sur la vision globale, de prioriser les initiatives, de redéfinir le rôle humain et de mesurer la…",
+      "link": "https://oliviersauvage.com/2026/05/18/ia-generative-et-retail-5-conseils-dexpert-pour-reussir-lintegration-et-garantir-le-roi/",
+      "pubDate": "2026-05-18T08:37:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5d2c3568733f",
       "title": "ModuleJail - Bloquer les modules kernel Linux inutilisés",
       "description": "Vous ne le savez peut-être pas mais votre serveur Linux embarque plusieurs milliers de modules kernel et pourtant, il n'en utilise que quelques centaines à peine. Tout le reste ça prend la poussière et ça peut vous exposer à des problèmes de sécurité. Hé bien c'est exactement à ces modules inutiles…",
@@ -164,6 +300,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/google-guide-optimisation-ia/google-guide-optimisation-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3aaea3375e37",
+      "title": "jakzal/phpqa : sortir la QA Symfony de son vendor/",
+      "description": "Découvrez jakzal/phpqa, une image Docker pour exécuter des outils de qualité de code en PHP sans les installer dans votre projet. Finis les conflits de dépendances et les paquets inutiles en production.",
+      "link": "https://lecodeestdanslepre.fr/billets/jakzal-phpqa-sortir-la-qa-symfony-de-son-vendor",
+      "pubDate": "2026-05-16T17:56:11.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
