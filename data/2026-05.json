@@ -2,6 +2,66 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "5d2c3568733f",
+      "title": "ModuleJail - Bloquer les modules kernel Linux inutilisés",
+      "description": "Vous ne le savez peut-être pas mais votre serveur Linux embarque plusieurs milliers de modules kernel et pourtant, il n'en utilise que quelques centaines à peine. Tout le reste ça prend la poussière et ça peut vous exposer à des problèmes de sécurité. Hé bien c'est exactement à ces modules inutiles…",
+      "link": "https://korben.info/modulejail-blacklist-modules-kernel-linux-inutilises.html",
+      "pubDate": "2026-05-18T08:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f08bbddfaa05",
+      "title": "Asimov - Le robot humanoïde open source jusqu'à la dernière vis",
+      "description": "\"Free the robot\" !!! C'est le slogan de Menlo Research, et pour une fois c'est pas du flan. En effet, leur Asimov v1 est un humanoïde de 1,20 m et 35 kg, entièrement open source ! Tout est fourni gratuitement donc, les plans de la mécanique, les schémas électriques, le modèle de simulation, ainsi…",
+      "link": "https://korben.info/asimov-robot-humanoide-open-source.html",
+      "pubDate": "2026-05-18T07:24:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/asimov-robot-humanoide-open-source/asimov-robot-humanoide-open-source-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "330b2ceb2590",
+      "title": "Veilid - Tor pour les apps signé Cult of the Dead Cow",
+      "description": "Cult of the Dead Cow , un des plus vieux collectifs hacktivistes encore en activité, ne se contente pas que de balancer des manifestes politiques depuis 1984. Ils codent. Et leur dernier bébé en date s'appelle Veilid , et c'est un framework P2P qui veut faire à vos apps ce que Tor a fait à votre…",
+      "link": "https://korben.info/veilid-framework-p2p.html",
+      "pubDate": "2026-05-18T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/veilid-framework-p2p/veilid-framework-p2p-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "af4da8f23fac",
+      "title": "Liens Tech - Mai 2026",
+      "description": "Mai : gestion Docker, traces GPS, nettoyage macOS, notes IA en local, sauvegardes de bases de données et un audit HAProxy qui rassure.",
+      "link": "https://domopi.eu/liens-tech-mai-2026/",
+      "pubDate": "2026-05-18T05:45:34.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "b18b03322ba0",
       "title": "Utiliser npm link pour tester un module localement",
       "description": "Découvrez comment utiliser la commande npm link pour développer et tester un module NPM localement sans avoir à le publier à chaque modification.",
