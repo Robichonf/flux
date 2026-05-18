@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ab3f608f2818",
+      "title": "Sortir les modèles 3D d'un jeu PS5 en passant par le mode Photo et un peu de photogrammétrie",
+      "description": "Quand vous voulez récupérer un modèle 3D d'un jeu vidéo, en général il y a deux options. Soit vous fouillez les fichiers du jeu pour en extraire les assets, ce qui demande des outils spécialisés et qui ne marche pas simplement sur console. Soit vous abandonnez. Un bidouilleur connu sous le pseudo…",
+      "link": "https://korben.info/sortir-les-modeles-3d-dun-jeu-ps5-en-passant-par-le-mode-photo-et-un-peu-de-photogrammetrie.html",
+      "pubDate": "2026-05-18T14:36:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "17fef762937e",
+      "title": "Claude a fait tourner Adobe Lightroom CC sous Linux",
+      "description": "Faire tourner les logiciels Adobe sous Linux, c'est la quête éternelle des photographes et graphistes qui voudraient bien quitter Windows ou macOS mais qui n'ont rien de comparable côté Linux. Adobe n'a jamais voulu porter sa suite officiellement. Du coup, depuis des années, des développeurs…",
+      "link": "https://korben.info/claude-a-fait-tourner-adobe-lightroom-cc-sous-linux.html",
+      "pubDate": "2026-05-18T14:00:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "73eea45a6f62",
       "title": "Un fan de Linux a transformé son bureau en niveau de Minecraft",
       "description": "Sur Linux, certains utilisateurs passent des heures à customiser leur bureau pour le rendre joli. Cette pratique a même un nom dans la communauté : le \"ricing\", de l'anglais \"to rice\", qui veut dire bichonner sa machine comme on bichonnerait une voiture tunée. Un utilisateur vient de publier un…",
