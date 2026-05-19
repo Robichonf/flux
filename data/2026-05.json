@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a586b9ba51be",
+      "title": "Virtual OS Museum - 1700 OS de 1948 à nos jours dans une VM",
+      "description": "Windows 1.0, le System 6 d'Apple, NeXTSTEP, Multics... Tous ces OS que vous croyiez disparus, hé bien aujourd'hui vous pouvez les rebooter sans avoir à ressortir le moindre vieux matos de votre grenier ! Le bureau de NeXTSTEP 3.3, l'OS de NeXT, la boîte montée par Steve Jobs après Apple",
+      "link": "https://korben.info/virtual-os-museum.html",
+      "pubDate": "2026-05-19T20:05:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/virtual-os-museum/virtual-os-museum-2.png",
+      "type": "blog"
+    },
+    {
       "id": "7c5e96bae916",
       "title": "Cuivrer une pièce imprimée 3D sans cuve géante, c'est possible en la faisant tourner",
       "description": "Hendrik s'est attaqué à un problème classique des makers : électroplaquer une pièce imprimée en 3D un peu grosse, ça demande une cuve énorme remplie de produits chimiques pour la submerger entièrement. Sa solution, fabriquée maison, prend le problème dans l'autre sens : si la pièce ne rentre pas…",
