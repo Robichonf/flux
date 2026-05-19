@@ -2,6 +2,20 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "75692345d0ec",
+      "title": "Solution de cybersécurité et conformité : comment ne plus y passer ses nuits (et ses dimanches) avec Dynatrust ?",
+      "description": "Dynatrust est une plateforme SaaS de gouvernance, risques et conformité (GRC) qui simplifie la gestion de la cybersécurité pour les entreprises. Elle propose des outils d'automatisation, une infrastructure sécurisée en France et un modèle de tarification clair. Dynatrust transforme ainsi les…",
+      "link": "https://oliviersauvage.com/2026/05/19/solution-de-cybersecurite-et-conformite-comment-ne-plus-y-passer-ses-nuits-et-ses-dimanches-avec-dynatrust/",
+      "pubDate": "2026-05-19T12:03:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "62856a684166",
       "title": "Linux 7.2 saura enfin gérer les consoles OneXPlayer",
       "description": "Derek Clark, développeur chez Valve, a fait remonter dans le noyau Linux un nouveau pilote baptisé hid-oxp. Sa fonction : permettre au système de configurer correctement les consoles portables de la marque OneXPlayer, un constructeur chinois qui fabrique des petites consoles PC un peu dans l'esprit…",
