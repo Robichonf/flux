@@ -2,6 +2,95 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "62856a684166",
+      "title": "Linux 7.2 saura enfin gérer les consoles OneXPlayer",
+      "description": "Derek Clark, développeur chez Valve, a fait remonter dans le noyau Linux un nouveau pilote baptisé hid-oxp. Sa fonction : permettre au système de configurer correctement les consoles portables de la marque OneXPlayer, un constructeur chinois qui fabrique des petites consoles PC un peu dans l'esprit…",
+      "link": "https://korben.info/linux-7-2-saura-enfin-gerer-les-consoles-onexplayer.html",
+      "pubDate": "2026-05-19T09:39:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c730b1d7017",
+      "title": "Andon FM - Quand les IA gèrent des radios et pètent un plomb",
+      "description": "Vous vous souvenez de Claudius, cette IA qui gérait un distributeur automatique et qui s'était fait arnaquer comme un bleu ? Hé bien c'est reparti, en pire ou en mieux, c'est selon ^^. Andon Labs, le même labo qui était derrière cette expérience, a confié quatre stations de radio à quatre IA…",
+      "link": "https://korben.info/andon-fm-quatre-ia-radios-autonomes.html",
+      "pubDate": "2026-05-19T08:34:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/andon-fm-quatre-ia-radios-autonomes/andon-fm-quatre-ia-radios-autonomes-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "01d3afbcebb4",
+      "title": "ShadowBroker - Une salle de crise OSINT mondiale chez vous",
+      "description": "Les avions en vol, les cargos, les satellites espions, les zones de brouillage GPS... Imaginez tout ce bordel, à l'échelle de la planète, visible sur une seule carte sombre directement chez vous. Ce serait fou non ? Hé bien c'est ce que nous propose BigBodyCobain qui a sorti ShadowBroker , un…",
+      "link": "https://korben.info/shadowbroker-osint-temps-reel.html",
+      "pubDate": "2026-05-19T08:13:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/shadowbroker-osint-temps-reel/shadowbroker-osint-temps-reel-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c93acdca9c5d",
+      "title": "Ibou Explorer - L'anti-Google Discover français",
+      "description": "Y'a un nouveau projet français qui débarque face à Google, et celui-là va vous plaire, j'en suis sûr ! Ça s'appelle Ibou Explorer, et c'est porté par Sylvain Peyronnet (oui, un des deux frères du SEO français bien connus dans le milieu) et Guillaume Pitel. Leur site vient d'ouvrir en beta publique…",
+      "link": "https://korben.info/ibou-peyronnet-moteur-recherche-ia-francais.html",
+      "pubDate": "2026-05-19T06:56:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ibou-peyronnet-moteur-recherche-ia-francais/ibou-peyronnet-moteur-recherche-ia-francais-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e300872f4ffe",
+      "title": "GEO vs SEO en 2026 : Google remet les points sur les i.",
+      "description": "Beaucoup d'entreprises se posent la question de savoir comment être visible dans les moteurs de recherche IA. Cet article est destiné à faire le point sur l'état des lieux dans ce domaine et est fait pour démystifier certaines recommandations qui courent sur le web. L’article GEO vs SEO en 2026 :…",
+      "link": "https://oliviersauvage.com/2026/05/19/geo-vs-seo-en-2026-google-remet-les-points-sur-les-i/",
+      "pubDate": "2026-05-19T06:53:38.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "070f3c025856",
+      "title": "AudioHijack - Le son inaudible qui pirate votre assistant IA",
+      "description": "Meng Chen, doctorant à l'université Zhejiang, vient de prouver avec son équipe qu'on pouvait complétement détourner un assistant vocal IA avec un simple son que vous prendriez probablement pour un simple parasite. Avec sa bidouille, il a ainsi réussi à pousser les agents vocaux commerciaux de…",
+      "link": "https://korben.info/attaque-audio-cachee-ia-vocale.html",
+      "pubDate": "2026-05-19T05:46:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "11384fe282b5",
       "title": "Hydracker / Darkiworld piraté - Le gérant de YGG se serait refait avoir ?",
       "description": "Vous vous souvenez de YggTorrent qui s'est fait démonter en full 4K en mars dernier ? Eh ben rebelote !! Le mec qui gérait Ygg serait, d'après le leaker, derrière une autre plateforme pirate nommée Hydracker (l'ex-Darkiworld relooké hier) qui elle aussi s'est fait éclater à son tour. Un certain…",
