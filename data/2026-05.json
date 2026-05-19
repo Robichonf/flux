@@ -2,6 +2,66 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "7c5e96bae916",
+      "title": "Cuivrer une pièce imprimée 3D sans cuve géante, c'est possible en la faisant tourner",
+      "description": "Hendrik s'est attaqué à un problème classique des makers : électroplaquer une pièce imprimée en 3D un peu grosse, ça demande une cuve énorme remplie de produits chimiques pour la submerger entièrement. Sa solution, fabriquée maison, prend le problème dans l'autre sens : si la pièce ne rentre pas…",
+      "link": "https://korben.info/cuivrer-une-piece-imprimee-3d-sans-cuve-geante-cest-possible-en-la-faisant-tourner.html",
+      "pubDate": "2026-05-19T15:38:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "88ff4f0e17ae",
+      "title": "Apprendre Prolog avec des Pokémon, c’est possible",
+      "description": "Alexander Petros, qui tient le blog Unplanned Obsolescence , a publié un tutoriel d'environ 3 500 mots qui explique les bases de Prolog, un langage de programmation logique des années 70 très différent des langages courants comme Python ou JavaScript, en utilisant les combats Pokémon comme support…",
+      "link": "https://korben.info/apprendre-prolog-avec-des-pokemon-cest-possible.html",
+      "pubDate": "2026-05-19T15:15:56.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "100b4bb7ec4c",
+      "title": "Voir à 650 mètres dans le noir avec un laser infrarouge et une webcam : c’est faisable",
+      "description": "Project 326, une chaîne YouTube spécialisée dans les bricolages optiques, a montré un système de vision nocturne longue portée monté de A à Z dans un garage. Le résultat tient en quelques composants : un télescope réflecteur imprimé en 3D, une webcam modifiée et un laser infrarouge de deux watts. À…",
+      "link": "https://korben.info/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable.html",
+      "pubDate": "2026-05-19T13:34:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b4940969a2c3",
+      "title": "Un essaim de Waymo s'est mis à tourner en boucle dans une rue résidentielle",
+      "description": "Vous vous levez à 6h du matin, et là, surprise : une cinquantaine de SUV autonomes Waymo s'engouffrent l'un après l'autre dans votre impasse, font demi-tour au rond-point, et repartent dans le même sens. C'est ce qui s'est passé sur Battleview Drive, une rue calme du quartier de Buckhead à Atlanta.…",
+      "link": "https://korben.info/un-essaim-de-waymo-sest-mis-a-tourner-en-boucle-dans-une-rue-residentielle.html",
+      "pubDate": "2026-05-19T13:11:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "75692345d0ec",
       "title": "Solution de cybersécurité et conformité : comment ne plus y passer ses nuits (et ses dimanches) avec Dynatrust ?",
       "description": "Dynatrust est une plateforme SaaS de gouvernance, risques et conformité (GRC) qui simplifie la gestion de la cybersécurité pour les entreprises. Elle propose des outils d'automatisation, une infrastructure sécurisée en France et un modèle de tarification clair. Dynatrust transforme ainsi les…",
