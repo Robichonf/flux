@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f9320541ccaf",
+      "title": "Google Cloud débranche Railway sans prévenir",
+      "description": "Hier soir, le compte Google Cloud de Railway est passé en statut restreint. Du jour au lendemain, sans préavis et sans la moindre explication. Railway, pour ceux qui ne connaissent pas, c'est un service américain qui permet aux développeurs et aux startups de mettre un site ou une application en…",
+      "link": "https://korben.info/google-cloud-debranche-railway-sans-prevenir.html",
+      "pubDate": "2026-05-20T12:03:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bbaf04f6b91c",
       "title": "Il accuse Pizza Hut de lui avoir fait perdre 100 millions à cause d'une IA",
       "description": "Chaac Pizza Northeast, qui exploite plus de 100 restaurants Pizza Hut sur la côte est des États-Unis, attaque son propre franchiseur en justice. Le motif : un logiciel d'IA imposé par le siège pour gérer les livraisons, et qui aurait fait perdre près de 100 millions de dollars au franchisé. Le…",
