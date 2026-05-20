@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "015570522fdc",
+      "title": "J'ai collé un autocollant de raccourcis macOS sur mon Mac, et c’est génial (existe pour Windows aussi !)",
+      "description": "– Contient des liens affiliés Amazon – Je suis tombé sur un accessoire à moins de 10 euros qui ne paie pas de mine, et que j'utilise pourtant tous les jours depuis que je l'ai reçu. C'est un simple autocollant. Un carré de vinyle transparent d'environ 8 cm de côté, qui liste les raccourcis clavier…",
+      "link": "https://korben.info/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi.html",
+      "pubDate": "2026-05-20T13:30:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b24c122af3ef",
+      "title": "Anthropic rachète Stainless, l'outil qui fabrique aussi les SDK de ses concurrents",
+      "description": "Anthropic, la boîte derrière l'IA Claude, a racheté Stainless pour plus de 300 millions de dollars. Stainless, c'est un nom que le grand public ne connaît pas, mais l'outil est partout : il transforme automatiquement la spécification d'une API, l'interface par laquelle deux logiciels se parlent, en…",
+      "link": "https://korben.info/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents.html",
+      "pubDate": "2026-05-20T13:05:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "632603118963",
+      "title": "Une faille inconnue dans un routeur Huawei a mis tout le Luxembourg hors ligne pendant 3 heures",
+      "description": "Le 23 juillet 2025, le Luxembourg entier s'est retrouvé sans réseau mobile, sans téléphone fixe et sans communications d'urgence pendant plus de trois heures. Dix mois plus tard, on connaît enfin la cause grâce au média The Record : une faille jusque-là inconnue dans le logiciel d'un routeur…",
+      "link": "https://korben.info/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures.html",
+      "pubDate": "2026-05-20T12:34:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f9320541ccaf",
       "title": "Google Cloud débranche Railway sans prévenir",
       "description": "Hier soir, le compte Google Cloud de Railway est passé en statut restreint. Du jour au lendemain, sans préavis et sans la moindre explication. Railway, pour ceux qui ne connaissent pas, c'est un service américain qui permet aux développeurs et aux startups de mettre un site ou une application en…",
