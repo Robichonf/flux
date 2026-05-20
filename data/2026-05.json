@@ -2,6 +2,66 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "bbaf04f6b91c",
+      "title": "Il accuse Pizza Hut de lui avoir fait perdre 100 millions à cause d'une IA",
+      "description": "Chaac Pizza Northeast, qui exploite plus de 100 restaurants Pizza Hut sur la côte est des États-Unis, attaque son propre franchiseur en justice. Le motif : un logiciel d'IA imposé par le siège pour gérer les livraisons, et qui aurait fait perdre près de 100 millions de dollars au franchisé. Le…",
+      "link": "https://korben.info/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia.html",
+      "pubDate": "2026-05-20T09:25:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8fe37fc663a0",
+      "title": "WordPress Workspace - L'agent IA d'Automattic",
+      "description": "Si comme moi, vous bloguez encore à l'ancienne, c'est à dire depuis l'interface web de WordPress.com, sachez qu'Automattic vient de balancer une app pour Mac qui s'est donné pour mission de vraiment bousculer votre façon d'écrire. WordPress Workspace est donc un éditeur de site, un agent IA, un…",
+      "link": "https://korben.info/wordpress-workspace-app-mac-automattic.html",
+      "pubDate": "2026-05-20T09:13:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/wordpress-workspace-app-mac-automattic/wordpress-workspace-app-mac-automattic-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "f90f46ac6f89",
+      "title": "HydroTracker - L'app Android qui vous hydrate",
+      "description": "HydroTracker, c'est une app Android open source pour suivre votre consommation d'eau au quotidien. C'est sans pub, ça fonctionne hors-ligne et ça a été mis au point par Ali Cem Çakmak, physicien et développeur passionné ! L'écran d'accueil d'HydroTracker, sobre et lisible",
+      "link": "https://korben.info/hydrotracker-app-android-open-source-hydratation.html",
+      "pubDate": "2026-05-20T08:04:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/hydrotracker-app-android-open-source-hydratation/hydrotracker-app-android-open-source-hydratation-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ec2c73a1d6c3",
+      "title": "Vim passe à GTK4, et Claude est crédité dans les commits",
+      "description": "gVim, la version avec interface graphique du légendaire éditeur de texte Vim, récupère le support de GTK4. Pour situer, GTK c'est la boîte à outils qui dessine les fenêtres, les boutons et les menus des applications sous Linux. Vim tournait jusqu'ici sur GTK2 et GTK3, deux versions vieillissantes.…",
+      "link": "https://korben.info/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits.html",
+      "pubDate": "2026-05-20T07:34:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "657127943413",
       "title": "GitHub hack - Une extension VS Code piège un employé",
       "description": "Alors celle-là, elle est incroyable les copains ! Le piratage du jour vient d'être confirmé par la plateforme qui héberge une bonne moitié du code de la tech mondiale ! En effet, Github a subit un accès non autorisé à ses propres dépôts internes, à cause d'une extension VS Code piégée installée sur…",
