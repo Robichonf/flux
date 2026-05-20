@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "657127943413",
+      "title": "GitHub hack - Une extension VS Code piège un employé",
+      "description": "Alors celle-là, elle est incroyable les copains ! Le piratage du jour vient d'être confirmé par la plateforme qui héberge une bonne moitié du code de la tech mondiale ! En effet, Github a subit un accès non autorisé à ses propres dépôts internes, à cause d'une extension VS Code piégée installée sur…",
+      "link": "https://korben.info/github-hack-vs-code-extension.html",
+      "pubDate": "2026-05-20T05:11:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/github-hack-vs-code-extension/github-hack-vs-code-extension-1.png",
+      "type": "blog"
+    },
+    {
       "id": "a586b9ba51be",
       "title": "Virtual OS Museum - 1700 OS de 1948 à nos jours dans une VM",
       "description": "Windows 1.0, le System 6 d'Apple, NeXTSTEP, Multics... Tous ces OS que vous croyiez disparus, hé bien aujourd'hui vous pouvez les rebooter sans avoir à ressortir le moindre vieux matos de votre grenier ! Le bureau de NeXTSTEP 3.3, l'OS de NeXT, la boîte montée par Steve Jobs après Apple",
