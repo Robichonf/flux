@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c5c3557894dd",
+      "title": "Android 17 travaille sur sa version de \"Continuité\" d'Apple",
+      "description": "Android 17 va donc lancer une fonction baptisée \"Continue On\", et l'idée est simple : reprendre une appli exactement là où vous l'avez laissée, mais sur un autre appareil. Vous lisez un document sur votre téléphone, vous attrapez votre tablette, et hop, vous repartez au même endroit sans rien…",
+      "link": "https://korben.info/android-17-travaille-sur-sa-version-de-continuite-dapple.html",
+      "pubDate": "2026-05-21T16:30:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0dec73e74ef7",
+      "title": "Le bac à sable de Claude Code avait deux failles, et c'est plus gênant qu'il n'y paraît",
+      "description": "Anthropic, l'entreprise derrière l'IA Claude, a corrigé en douce deux failles dans le bac à sable réseau de Claude Code, son assistant de programmation. Un bac à sable, dans le jargon, c'est un enclos de sécurité : il est censé empêcher l'outil de se connecter à des serveurs non autorisés, pour…",
+      "link": "https://korben.info/le-bac-a-sable-de-claude-code-avait-deux-failles-et-cest-plus-genant-quil-ny-parait.html",
+      "pubDate": "2026-05-21T16:17:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "324a1dce1632",
       "title": "Quelqu'un a réussi à faire tourner de vraies fenêtres Linux à l'intérieur de Minecraft",
       "description": "Un développeur connu sous le pseudo EVVIE a sorti Waylandcraft, un projet qui n'aurait jamais dû exister et c'est tant mieux. Le principe : faire tourner de vrais logiciels Linux directement dans le monde de Minecraft, leurs fenêtres posées comme des objets au milieu du jeu. Votre navigateur, votre…",
@@ -252,6 +282,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f02b490657f",
+      "title": "FrankenPHP en dev : un worker chaud, trois --watch empilés, et un cert qui ne demande rien",
+      "description": "Découvrez FrankenPHP en développement : un worker chaud, trois mécanismes de hot reload empilés et un certificat automatique. Comprenez comment FrankenPHP fonctionne et ce que ses fonctionnalités offrent côté développement.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-dev-un-worker-chaud-trois-watch-empiles-et-un-cert-qui-ne-demande-rien",
+      "pubDate": "2026-05-20T11:05:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
