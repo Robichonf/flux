@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "324a1dce1632",
+      "title": "Quelqu'un a réussi à faire tourner de vraies fenêtres Linux à l'intérieur de Minecraft",
+      "description": "Un développeur connu sous le pseudo EVVIE a sorti Waylandcraft, un projet qui n'aurait jamais dû exister et c'est tant mieux. Le principe : faire tourner de vrais logiciels Linux directement dans le monde de Minecraft, leurs fenêtres posées comme des objets au milieu du jeu. Votre navigateur, votre…",
+      "link": "https://korben.info/quelquun-a-reussi-a-faire-tourner-de-vraies-fenetres-linux-a-linterieur-de-minecraft.html",
+      "pubDate": "2026-05-21T15:28:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bbc84ddfefd9",
+      "title": "Ces badges LED de festival se synchronisent tout seuls",
+      "description": "Tony Goacher a résolu un petit casse-tête avec élégance. Son projet CrowdClock, ce sont des badges lumineux pour festival qui clignotent tous en rythme, parfaitement synchronisés. Sauf qu'il n'y a aucun badge maître, aucune appli, aucun appairage. Les badges se mettent d'accord tout seuls. Le truc…",
+      "link": "https://korben.info/ces-badges-led-de-festival-se-synchronisent-tout-seuls.html",
+      "pubDate": "2026-05-21T15:18:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "970cffeadf8e",
+      "title": "Flipper One - Le Linux de poche qui terrifie ses propres créateurs",
+      "description": "Flipper Devices, les gens derrière le fameux Flipper Zero , viennent de dévoiler leur prochain joujou, le Flipper One . Et leur annonce démarre par cette phrase de Pavel Zhovner, le co-fondateur : « on est franchement terrifiés, et on a besoin de vous ». Apparemment, ce nouveau projet l'angoisse et…",
+      "link": "https://korben.info/flipper-one-plateforme-linux-ouverte.html",
+      "pubDate": "2026-05-21T13:16:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/flipper-one-plateforme-linux-ouverte/flipper-one-plateforme-linux-ouverte-1.png",
+      "type": "blog"
+    },
+    {
       "id": "a006c7dbe180",
       "title": "Switchboard - Le centre de contrôle pour vos sessions Claude Code",
       "description": "Claude Code, c'est génial pour coder mais alors pour s'organiser... c'est chiant de fouuuu. J'ai genre 200 fichiers .jsonl qui trainent dans ~/.claude/projects, y'a aucun moyen prévu pour savoir ce qui tourne en ce moment, et autant vous dire que reprendre une conversation d'il y a 3 jours relève…",
