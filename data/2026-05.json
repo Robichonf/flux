@@ -2,6 +2,81 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "bae14b510e84",
+      "title": "Ce PC contient 13 écrans cachés qui diffusent 15 000 GIF en boucle",
+      "description": "Un internaute connu sous le pseudo Several-Bar-6512 a transformé son PC de jeu en quelque chose qui n'a pas d'équivalent : à l'intérieur du boîtier, treize écrans diffusent en boucle plus de 15 000 GIF animés. Pas de RGB clignotant classique. Des écrans. Partout. Le chiffre derrière le projet donne…",
+      "link": "https://korben.info/ce-pc-contient-13-ecrans-caches-qui-diffusent-15-000-gif-en-boucle.html",
+      "pubDate": "2026-05-21T06:43:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a462885791ef",
+      "title": "Refonte complète de mon infrastructure DNS avec Technitium et AdGuard Home en haute disponibilité",
+      "description": "Un setup DNS sans redondance ni zone locale, c'est un SPOF qui s'ignore. Découvrez comment refondre son infrastructure DNS en haute disponibilité avec Technitium, AdGuard Home et Proxmox HA.",
+      "link": "https://domopi.eu/refonte-complete-de-mon-infrastructure-dns-avec-technitium-et-adguard-home-en-haute-disponibilite/",
+      "pubDate": "2026-05-21T05:45:17.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/05/article_dns.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b6c423ca0572",
+      "title": "Fauxx - Pour noyer les trackers sous du faux trafic",
+      "description": "Fauxx part d'une idée toute simple et un peu vicieuse qui est que plutôt que de cacher ce que vous faites en ligne avec votre smartphone Android, pourquoi ne pas générer en permanence des tas de fausses recherches, des faux trajets GPS et des fausses identités ? Cela permet ainsi de noyer vos…",
+      "link": "https://korben.info/fauxx-pollution-donnees-trackers.html",
+      "pubDate": "2026-05-21T05:43:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/fauxx-pollution-donnees-trackers/fauxx-pollution-donnees-trackers-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "2a37210ebf0b",
+      "title": "Chromium - Google publie l'exploit d'une faille vieille de 2 ans et demi",
+      "description": "Bon, alors là, Google a fait encore trèèèès fort. Mercredi matin, la firme de Mountain View a carrément publié sur son propre bug tracker Chromium le code d'exploitation d'une faille... qui n'est toujours pas corrigée ! Et pas une petite vulnérabilité oubliée dans un coin, hein, mais une vraie…",
+      "link": "https://korben.info/google-exploit-chromium-millions-utilisateurs.html",
+      "pubDate": "2026-05-21T05:19:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6604c35d01df",
+      "title": "Créez une passerelle SMS à partir d'un vieux smartphone",
+      "description": "Votre vieux Galaxy S5 qui prend fort la poussière dans un tiroir, mérite mieux je crois ! Un dev, Capcom6 a mis en ligne SMS Gateway for Android , une app Kotlin sous licence Apache 2.0 qui transforme n'importe quel smartphone (Android 5.0+) en passerelle SMS programmable. Cela vous permet de…",
+      "link": "https://korben.info/android-sms-gateway-smartphone-passerelle-api.html",
+      "pubDate": "2026-05-21T05:01:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/android-sms-gateway-smartphone-passerelle-api/android-sms-gateway-smartphone-passerelle-api-2.png",
+      "type": "blog"
+    },
+    {
       "id": "015570522fdc",
       "title": "J'ai collé un autocollant de raccourcis macOS sur mon Mac, et c’est génial (existe pour Windows aussi !)",
       "description": "– Contient des liens affiliés Amazon – Je suis tombé sur un accessoire à moins de 10 euros qui ne paie pas de mine, et que j'utilise pourtant tous les jours depuis que je l'ai reçu. C'est un simple autocollant. Un carré de vinyle transparent d'environ 8 cm de côté, qui liste les raccourcis clavier…",
