@@ -2,6 +2,79 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a006c7dbe180",
+      "title": "Switchboard - Le centre de contrôle pour vos sessions Claude Code",
+      "description": "Claude Code, c'est génial pour coder mais alors pour s'organiser... c'est chiant de fouuuu. J'ai genre 200 fichiers .jsonl qui trainent dans ~/.claude/projects, y'a aucun moyen prévu pour savoir ce qui tourne en ce moment, et autant vous dire que reprendre une conversation d'il y a 3 jours relève…",
+      "link": "https://korben.info/switchboard-claude-code-centre-controle.html",
+      "pubDate": "2026-05-21T11:24:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/switchboard-claude-code-centre-controle/switchboard-claude-code-centre-controle-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "dae999ce27b8",
+      "title": "Google publie son guide d’optimisation pour l’IA : spoiler, arrêtez le bullshit SEO !",
+      "description": "Cet article présente les récentes recommandations de Google pour optimiser le contenu à l'ère de l'IA. Google insiste sur l'importance de l'expérience utilisateur, de contenu authentique et structuré, ainsi que de médias de qualité. Les pratiques à éviter incluent la suroptimisation et…",
+      "link": "https://oliviersauvage.com/2026/05/21/google-publie-son-guide-doptimisation-pour-lia-spoiler-arretez-le-bullshit-seo/",
+      "pubDate": "2026-05-21T11:05:00.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d7047260eae7",
+      "title": "Le guide provisoire du GEO pour le B2B en 2026",
+      "description": "Ce guide du GEO, destiné aux professionnels du B2B, présente les meilleures pratiques pour optimiser la visibilité dans les moteurs d'IA, face à la montée des LLM. Il souligne l'importance d'être cité par ces outils, tout en continuant à valoriser le SEO traditionnel. Le GEO complète le SEO sans le…",
+      "link": "https://oliviersauvage.com/2026/05/21/le-guide-provisoire-du-geo-pour-le-b2b-en-2026/",
+      "pubDate": "2026-05-21T10:25:51.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b0999c8644d1",
+      "title": "ssh-keysign-pwn - La faille kernel Linux cachée depuis 9 ans",
+      "description": "Une faille planquée pendant 9 ans dans le noyau Linux, voilà ce que les chercheurs de Qualys viennent de déterrer. Son petit nom, c'est ssh-keysign-pwn ou DirtyDecrypt (CVE-2026-46333 pour les intimes), et elle permet à n'importe quel utilisateur local sans privilèges de passer root, de lire votre…",
+      "link": "https://korben.info/faille-kernel-linux-ssh-keysign-pwn.html",
+      "pubDate": "2026-05-21T10:21:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "17e2e478eb8d",
+      "title": "Voilà le MacBook Neo le plus rapide du monde",
+      "description": "Sur les sites de benchmark, une petite course s'est lancée autour du MacBook Neo, le portable le moins cher d'Apple. Le but : trouver qui arrivera à le faire tourner le plus vite possible. Et un bricoleur, Salem Techsperts, a brièvement décroché le titre de MacBook Neo le plus rapide du monde,…",
+      "link": "https://korben.info/voila-le-macbook-neo-le-plus-rapide-du-monde.html",
+      "pubDate": "2026-05-21T09:10:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bae14b510e84",
       "title": "Ce PC contient 13 écrans cachés qui diffusent 15 000 GIF en boucle",
       "description": "Un internaute connu sous le pseudo Several-Bar-6512 a transformé son PC de jeu en quelque chose qui n'a pas d'équivalent : à l'intérieur du boîtier, treize écrans diffusent en boucle plus de 15 000 GIF animés. Pas de RGB clignotant classique. Des écrans. Partout. Le chiffre derrière le projet donne…",
