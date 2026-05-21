@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f7bdea9fb321",
+      "title": "Vous avez reçu un colis que vous n'avez pas commandé ? Attention au brushing",
+      "description": "-- Article en partenariat avec Surfshark -- C'est peut-être arrivé à une de vos connaissances récemment (ou même à vous). Un petit colis anonyme, sans expéditeur clair, avec dedans une coque de téléphone bas de gamme ou un ustensile de cuisine bidon. Elle a haussé les épaules, jeté l'objet, oublié…",
+      "link": "https://korben.info/brushing-scams.html",
+      "pubDate": "2026-05-21T16:48:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/brushing-scams/brushing-scams-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "c5c3557894dd",
       "title": "Android 17 travaille sur sa version de \"Continuité\" d'Apple",
       "description": "Android 17 va donc lancer une fonction baptisée \"Continue On\", et l'idée est simple : reprendre une appli exactement là où vous l'avez laissée, mais sur un autre appareil. Vous lisez un document sur votre téléphone, vous attrapez votre tablette, et hop, vous repartez au même endroit sans rien…",
