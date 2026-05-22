@@ -2,6 +2,112 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "3be113a7bd38",
+      "title": "Ce petit gadget DIY vous prédit l'avenir quand vous le secouez",
+      "description": "Le maker connu sous le pseudo gokux a fabriqué un objet aussi inutile que mignon : un fortune cookie électronique. Vous le secouez, et il affiche une prédiction sur son petit écran. Voilà, c'est tout. Et c'est très bien comme ça. Sous le capot, c'est un condensé de composants accessibles. Le…",
+      "link": "https://korben.info/ce-petit-gadget-diy-vous-predit-lavenir-quand-vous-le-secouez.html",
+      "pubDate": "2026-05-22T08:44:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c3d6901ee92",
+      "title": "Boring Notch - L'encoche du MacBook devient enfin utile !",
+      "description": "Depuis 2021, Apple colle une encoche en haut des écrans de MacBook et n'en fait à peu près rien. C'est juste une zone sombre pour cacher la caméra et qui mange la barre des menus. Heureusement, l'équipe TheBoredTeam a décidé que ça suffisait et vient de sortir boring.notch , une app gratuite et…",
+      "link": "https://korben.info/boring-notch-encoche-macbook.html",
+      "pubDate": "2026-05-22T07:58:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "53b7615f5486",
+      "title": "Les clés API Google encore en vie même après leur suppression",
+      "description": "Vous supprimez une clé API Google qui a fuité , et l'interface vous confirme que c'est bien réglé, que la clé ne fonctionne plus. Alors vous commencez à vous détendre en vous disant que vous avez bien fait votre boulot. BAH NAN ! Car vous ne le savez pas, mais cette clé va continuer de fonctionner…",
+      "link": "https://korben.info/cles-api-google-actives-apres-suppression.html",
+      "pubDate": "2026-05-22T07:43:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/cles-api-google-actives-apres-suppression/cles-api-google-actives-apres-suppression-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "6e03dae401b5",
+      "title": "Une console rétro \"Lenovo\" à 72 dollars, bourrée de ROMs Nintendo piratées",
+      "description": "Une console de jeu portable estampillée Lenovo est apparue sur AliExpress à environ 72 dollars, et elle a un détail embarrassant : elle est livrée avec des milliers de jeux Nintendo piratés préinstallés. Le genre de produit qu'on prendrait pour une contrefaçon. Sauf que non. Interrogé sur cette…",
+      "link": "https://korben.info/une-console-retro-lenovo-a-72-dollars-bourree-de-roms-nintendo-piratees.html",
+      "pubDate": "2026-05-22T07:25:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/une-console-retro-lenovo-a-72-dollars-bourree-de-roms-nintendo-piratees/une-console-retro-lenovo-a-72-dollars-bourree-de-roms-nintendo-piratees-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c5f28a0d3f4e",
+      "title": "niri - Le compositor Wayland qui scrolle vos fenêtres à l'infini",
+      "description": "niri , c'est un compositor Wayland écrit en Rust par Ivan Molodetskikh, et il a un drôle de kink qui est de ne jamais redimensionner vos fenêtres dans votre dos. Jamais !! Ainsi, quand vous ouvrez une nouvelle appli, elle vient se coller à droite de la précédente sur une bande horizontale qui…",
+      "link": "https://korben.info/niri-compositor-wayland-tiling-scrollable.html",
+      "pubDate": "2026-05-22T07:07:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/niri-compositor-wayland-tiling-scrollable/niri-compositor-wayland-tiling-scrollable-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7feb813e735b",
+      "title": "Web Serial débarque enfin dans Firefox !",
+      "description": "On est vendredi, j'ai un mal de tête carabiné mais je me pose quand même devant l'ordi pour vous annoncer une bonne nouvelle ! Firefox 151 sur desktop vient enfin d'implémenter une fonctionnalité que Mozilla refusait catégoriquement de supporter depuis 6 ans : le support de l'API Web Serial. Alors…",
+      "link": "https://korben.info/web-serial-firefox.html",
+      "pubDate": "2026-05-22T06:43:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/web-serial-firefox/web-serial-firefox-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "e7506c296f54",
+      "title": "Tangled - une alternative à GitHub sur AT Protocol",
+      "description": "Avec la chute progressive de GitHub, on voit de plus en plus de messages d’entreprises ou de projets qui cherchent à en sortir. Au-delà de l’hébergement d’un simple service Git, GitHub, c’était aussi une plateforme de réseau social. Les développeurs partagent leur code, et on y découvre de nouveaux…",
+      "link": "https://codeka.io/2026/05/22/tangled/",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/22/tangled/cover_hu_504506566c19fc08.webp",
+      "type": "blog"
+    },
+    {
       "id": "f7bdea9fb321",
       "title": "Vous avez reçu un colis que vous n'avez pas commandé ? Attention au brushing",
       "description": "-- Article en partenariat avec Surfshark -- C'est peut-être arrivé à une de vos connaissances récemment (ou même à vous). Un petit colis anonyme, sans expéditeur clair, avec dedans une coque de téléphone bas de gamme ou un ustensile de cuisine bidon. Elle a haussé les épaules, jeté l'objet, oublié…",
