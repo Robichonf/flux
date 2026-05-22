@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a9c79c47cb69",
+      "title": "Ce kit de phishing ouvre les comptes Microsoft 365 sans voler le mot de passe",
+      "description": "Voler un mot de passe ? C'est presque devenu accessoire. Le FBI a lancé une alerte sur Kali365, un kit de piratage qui s'introduit dans les comptes Microsoft 365 d'une entreprise sans jamais avoir besoin du mot de passe, ni du fameux code de la double authentification. La protection que beaucoup…",
+      "link": "https://korben.info/ce-kit-de-phishing-ouvre-les-comptes-microsoft-365-sans-voler-le-mot-de-passe.html",
+      "pubDate": "2026-05-22T13:55:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33d415a2eb87",
+      "title": "Arnaque téléphonique - Micode infiltre le réseau d'escrocs",
+      "description": "Micode vient de lâcher une enquête de presque 50 minutes que vous devriez vraiment regarder, et je la relaie parce qu'elle est d'intérêt public. Avec son équipe, il a infiltré pendant des mois le réseau derrière ces appels qui vous harcèlent plusieurs fois par jour, ces numéros en 0162 que l'Arcep…",
+      "link": "https://korben.info/arnaque-telephonique-faux-remboursement-enquete-micode.html",
+      "pubDate": "2026-05-22T13:19:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b87b70a376a",
+      "title": "Amazon lâche les vieux Kindle - Comment reprendre la main ?",
+      "description": "Depuis quelques jours, les Kindle sortis en 2012 ou avant ont perdu l'accès à la boutique Amazon : plus d'achat, plus d'emprunt, plus de téléchargement, vous gardez bien sûr les bouquins déjà chargés sur l'appareil, mais c'est tout. Alors est ce qu'on chiale comme des petits fragiles victimes…",
+      "link": "https://korben.info/jailbreak-kindle-kindlemodding.html",
+      "pubDate": "2026-05-22T13:10:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jailbreak-kindle-kindlemodding/jailbreak-kindle-kindlemodding-2.png",
+      "type": "blog"
+    },
+    {
       "id": "a09d9490ebfe",
       "title": "Fabriquer un circuit imprimé sans aucun logiciel, juste avec un marqueur",
       "description": "Un bricoleur connu sous le pseudo ALTco a fabriqué un circuit imprimé sans toucher au moindre logiciel. Pas de conception sur ordinateur, pas de commande envoyée à une usine. Juste un marqueur, une plaque de cuivre et un bain chimique. Rien d'autre. La méthode date d'avant l'informatique, et elle…",
