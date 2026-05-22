@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a09d9490ebfe",
+      "title": "Fabriquer un circuit imprimé sans aucun logiciel, juste avec un marqueur",
+      "description": "Un bricoleur connu sous le pseudo ALTco a fabriqué un circuit imprimé sans toucher au moindre logiciel. Pas de conception sur ordinateur, pas de commande envoyée à une usine. Juste un marqueur, une plaque de cuivre et un bain chimique. Rien d'autre. La méthode date d'avant l'informatique, et elle…",
+      "link": "https://korben.info/fabriquer-un-circuit-imprime-sans-aucun-logiciel-juste-avec-un-marqueur.html",
+      "pubDate": "2026-05-22T11:18:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/fabriquer-un-circuit-imprime-sans-aucun-logiciel-juste-avec-un-marqueur/fabriquer-un-circuit-imprime-sans-aucun-logiciel-juste-avec-un-marqueur-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "363923d290a2",
+      "title": "Casio F-91W - Comment régler et utiliser la montre culte ?",
+      "description": "Cet article contient des liens affiliés Bon, vous le savez, j'utilise mon site aussi comme un pense-bête. Et comme je viens de me racheter une nouvelle montre, j'en profite pour me faire mon petit mode d'emploi, rien qu'à moi. Donc je suis au regret de vous annoncer que cet article ne vous…",
+      "link": "https://korben.info/casio-f-91w-reglage-utilisation.html",
+      "pubDate": "2026-05-22T11:05:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/casio-f-91w-reglage-utilisation/casio-f-91w-reglage-utilisation-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "660f20a45e9b",
+      "title": "Il a recréé la veste à écran de Cyberpunk 2077",
+      "description": "Dans le jeu Cyberpunk 2077, un des vêtements qui marquent l'environnement visuel, c'est cette veste avec un petit écran intégré dans le col, qui diffuse des images en boucle. Un objet purement décoratif du jeu, le genre de détail qui pose l'ambiance futuriste sans qu'on puisse vraiment l'avoir.…",
+      "link": "https://korben.info/il-a-recree-la-veste-a-ecran-de-cyberpunk-2077.html",
+      "pubDate": "2026-05-22T11:02:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3be113a7bd38",
       "title": "Ce petit gadget DIY vous prédit l'avenir quand vous le secouez",
       "description": "Le maker connu sous le pseudo gokux a fabriqué un objet aussi inutile que mignon : un fortune cookie électronique. Vous le secouez, et il affiche une prédiction sur son petit écran. Voilà, c'est tout. Et c'est très bien comme ça. Sous le capot, c'est un condensé de composants accessibles. Le…",
@@ -105,6 +150,21 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/05/22/tangled/cover_hu_504506566c19fc08.webp",
+      "type": "blog"
+    },
+    {
+      "id": "096cd8c42300",
+      "title": "EasyAdmin : quand un seul trait configure quatre CRUDs",
+      "description": "Structurer les champs de quatre entités partagées avec EasyAdmin. Quatre CRUDs pour Post, Page, Category et Series. Mutualisation en trait PHP pour éviter le copier-coller. FormField, tabs et fieldsets au service de la maintenabilité.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-quand-un-seul-trait-configure-quatre-cruds",
+      "pubDate": "2026-05-21T17:38:32.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
