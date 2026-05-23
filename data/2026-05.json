@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b54e4d9286b7",
+      "title": "AltStore Classic permet enfin de sideloader des apps sur son iPhone sans ordinateur",
+      "description": "Riley Testut et Shane Gill viennent de sortir une bêta d' AltStore Classic (la 2.3b1 ), qui supprime enfin le besoin d'avoir un ordinateur pour sideloader des apps sur iPhone. AltStore, pour ceux qui débarquent, c'est la boutique alternative qui installe des apps qu'Apple ne veut pas sur son store,…",
+      "link": "https://korben.info/altstore-sideloading-iphone-sans-ordinateur.html",
+      "pubDate": "2026-05-23T06:22:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4ae6000f4bc0",
+      "title": "Tomb Raider 1-3 Remastered - gratuit sur Epic jusqu'au 28 mai",
+      "description": "Aspyr et Crystal Dynamics lâchent en ce moment la trilogie Tomb Raider I-III Remastered gratuitement sur l'Epic Games Store , soit 0€ au lieu de 26,99€. Vous pouvez donc récupérer les trois premières aventures de Lara Croft, celles que Core Design a pondues entre 1996 et 1998, remasterisées comme…",
+      "link": "https://korben.info/tomb-raider-1-3-remastered-gratuit-epic.html",
+      "pubDate": "2026-05-23T05:50:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a9c79c47cb69",
       "title": "Ce kit de phishing ouvre les comptes Microsoft 365 sans voler le mot de passe",
       "description": "Voler un mot de passe ? C'est presque devenu accessoire. Le FBI a lancé une alerte sur Kali365, un kit de piratage qui s'introduit dans les comptes Microsoft 365 d'une entreprise sans jamais avoir besoin du mot de passe, ni du fameux code de la double authentification. La protection que beaucoup…",
