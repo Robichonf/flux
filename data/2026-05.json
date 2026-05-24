@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "cc8136a55572",
+      "title": "Muxcard - Un ordinateur fin comme une carte bancaire",
+      "description": "L'expert en électronique connu sous le pseudo de Krauseler s'est mis en tête un truc que la plupart des ingénieurs auraient lâché au bout d'une semaine, à savoir fabriquer un vrai ordinateur qui tient dans le format exact d'une carte bancaire. Et pas \"à peu près la taille d'une carte\" comme on dit…",
+      "link": "https://korben.info/muxcard-ordinateur-taille-carte-bancaire.html",
+      "pubDate": "2026-05-24T08:25:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/muxcard-ordinateur-taille-carte-bancaire/muxcard-ordinateur-taille-carte-bancaire-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "b54e4d9286b7",
       "title": "AltStore Classic permet enfin de sideloader des apps sur son iPhone sans ordinateur",
       "description": "Riley Testut et Shane Gill viennent de sortir une bêta d' AltStore Classic (la 2.3b1 ), qui supprime enfin le besoin d'avoir un ordinateur pour sideloader des apps sur iPhone. AltStore, pour ceux qui débarquent, c'est la boutique alternative qui installe des apps qu'Apple ne veut pas sur son store,…",
@@ -478,6 +493,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/android-sms-gateway-smartphone-passerelle-api/android-sms-gateway-smartphone-passerelle-api-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c07f40449882",
+      "title": "Sommes-nous à l'ère du code de merde ?",
+      "description": "Il n’y a pas un jour sans qu’on découvre en ce moment une faille de sécurité majeure ou une fuite de données quelque part.",
+      "link": "https://eventuallycoding.com/p/sommes-nous-a-l-ere-du-code-de-merde",
+      "pubDate": "2026-05-21T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1779385294823-sr0yejx.png",
       "type": "blog"
     },
     {
