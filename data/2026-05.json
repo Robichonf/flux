@@ -16,6 +16,22 @@
       "type": "blog"
     },
     {
+      "id": "20b5e62abad5",
+      "title": "Transcript de ma conférence « Des structures de données qui vont vous étonner »",
+      "description": "En 2024-2025, j’ai présenté plusieurs fois ma conférence « Des structures de données qui vont vous étonner », où je parle de quelques structures de données, pour attirer l’attention des développeurs et développeuses sur le fait qu’il en existe beaucoup, qu’il est intéressant de savoir les choisir –…",
+      "link": "https://blog.pascal-martin.fr/post/transcript-conference-structures-de-donnees-qui-vont-vous-etonner/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/transcript-conference-structures-de-donnees-qui-vont-vous-etonner/",
+      "pubDate": "2026-05-25T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cc8136a55572",
       "title": "Muxcard - Un ordinateur fin comme une carte bancaire",
       "description": "L'expert en électronique connu sous le pseudo de Krauseler s'est mis en tête un truc que la plupart des ingénieurs auraient lâché au bout d'une semaine, à savoir fabriquer un vrai ordinateur qui tient dans le format exact d'une carte bancaire. Et pas \"à peu près la taille d'une carte\" comme on dit…",
