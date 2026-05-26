@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "0105c655b420",
+      "title": "Heretic - Virer la censure d'une IA en une commande",
+      "description": "Y'a des entreprises qui claquent des millions pour bien aligner leurs modèles d'IA afin qu'ils refusent toutes les questions sensibles qui font flipper nos amis puritains d’outre-Atlantique et y'a Heretic , un outil signé Philipp Emanuel Weidmann, qui balaye toute censure sur n'importe quel modèle…",
+      "link": "https://korben.info/heretic-decensure-modeles-ia.html",
+      "pubDate": "2026-05-26T08:08:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/heretic-decensure-modeles-ia/heretic-decensure-modeles-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3f9120301b5f",
+      "title": "Quand les Motorola prennent une commission sur vos achats Amazon",
+      "description": "J'sais pas si vous avez vu, mais sur les Motorola Razr 2026, l'app maison Smart Feed intercepte le lancement de l'application Amazon pour y glisser en soumsoum un petit code d'affiliation. Comme ça, à chaque fois que vous tapez sur l'icône Amazon, votre clic se met à rapporter une commission à un…",
+      "link": "https://korben.info/motorola-detourne-amazon-code-affiliation.html",
+      "pubDate": "2026-05-26T07:34:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/motorola-detourne-amazon-code-affiliation/motorola-detourne-amazon-code-affiliation-1.png",
+      "type": "blog"
+    },
+    {
       "id": "a32ff8fc0390",
       "title": "Le point sur l’inbound marketing en B2B",
       "description": "Les LLMs, malgré leur popularité croissante, n'apportent pas encore de trafic significatif en France, où Google demeure le principal moteur de recherche. Le marketing doit s'adapter à des comportements en évolution, privilégiant la création de contenu original et pertinent pour construire une…",
