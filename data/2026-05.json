@@ -2,6 +2,140 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "fded57b2ca96",
+      "title": "256 cœurs et 2 nanomètres - AMD met en production son serveur monstre Epyc Venice",
+      "description": "256 cœurs CPU sur une seule puce. C'est ce que propose le nouvel Epyc Venice d'AMD, sixième génération de son processeur pour serveurs, dont la production de masse vient de démarrer chez le fondeur taïwanais TSMC. Détail technique remarquable, c'est le tout premier processeur destiné au calcul…",
+      "link": "https://korben.info/256-coeurs-et-2-nanometres-amd-met-en-production-son-serveur-monstre-epyc-venice.html",
+      "pubDate": "2026-05-26T16:12:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e028da736188",
+      "title": "L'Italie démantèle Cinemagoal, l'énorme appli de streaming pirate",
+      "description": "Le fisc italien a frappé fort il y a quelques jours. La Guardia di Finanza, sous la direction du parquet de Bologne, vient de démanteler un réseau de piratage de streaming baptisé Cinemagoal, dans une opération nommée \"Tutto Chiaro\" (tout clair, en italien). Plus de 100 perquisitions ont été menées…",
+      "link": "https://korben.info/litalie-demantele-cinemagoal-lenorme-appli-de-streaming-pirate.html",
+      "pubDate": "2026-05-26T16:05:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0aa49dbd5dbc",
+      "title": "Où va Google ? Interview intégrale de Sundar Pichai, CEO de Google – Mai 2026",
+      "description": "Cet article présente une interview de Sundar Pichai, CEO de Google, qui aborde l'impact croissant de l'IA dans les entreprises et son évolution. Pichai souligne les préoccupations autour de l'acceptation de l'IA, la nécessité d'une réglementation, et l'accélération du codage assisté par IA. Les…",
+      "link": "https://oliviersauvage.com/2026/05/26/ou-va-google-interview-integrale-de-sundar-pichai-ceo-de-google/",
+      "pubDate": "2026-05-26T15:54:33.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bfd342fd1283",
+      "title": "Le firmware Linux manquant des laptops HP Panther Lake vient enfin d'arriver",
+      "description": "Si vous venez d'acheter un portable HP équipé d'un Intel Core Ultra Series 3 (nom de code Panther Lake) et que vous y faites tourner Linux, vous allez accueillir cette nouvelle avec une certaine satisfaction. Intel et HP ont enfin poussé le firmware nécessaire à l'activation du fameux Integrated…",
+      "link": "https://korben.info/le-firmware-linux-manquant-des-laptops-hp-panther-lake-vient-enfin-darriver.html",
+      "pubDate": "2026-05-26T15:50:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "46df5aefdc36",
+      "title": "Outlook se met à perdre les images dans vos mails, Microsoft confirme le bug",
+      "description": "Si vous avez remarqué récemment que les logos de vos correspondants pros sont remplacés par une vilaine croix rouge dans Outlook, ou pire, que certaines pièces visuelles disparaissent purement et simplement de vos mails, ce n'est ni votre antivirus ni votre connexion. The Register a sorti le sujet…",
+      "link": "https://korben.info/outlook-se-met-a-perdre-les-images-dans-vos-mails-microsoft-confirme-le-bug.html",
+      "pubDate": "2026-05-26T15:27:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5e94c75ffd3",
+      "title": "Découvrir VueUse : la boîte à outils indispensable pour Vue.js",
+      "description": "Découvrez VueUse, une collection de composables ultra pratiques pour Vue.js. Géolocalisation, presse-papiers, gamepads, état du réseau… gagnez du temps avec useClipboard, useGeolocation, useNetwork et useGamepad.",
+      "link": "https://code-garage.com/blog/decouvrir-vueuse-la-boite-a-outils-indispensable-pour-vuejs",
+      "pubDate": "2026-05-26T15:15:39.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce86c86e41d9",
+      "title": "Bambu Lab épinglé pour violation de licence open source depuis quatre ans",
+      "description": "C'est la Software Freedom Conservancy (SFC), l'ONG américaine qui défend les licences libres, qui a sorti l'affaire. Bambu Lab, l'un des plus gros fabricants d'imprimantes 3D grand public du moment, viole l'AGPLv3 depuis environ quatre ans selon l'organisation. Pas qu'un peu donc. Pour comprendre…",
+      "link": "https://korben.info/bambu-lab-epingle-pour-violation-de-licence-open-source-depuis-quatre-ans.html",
+      "pubDate": "2026-05-26T15:03:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1b6f655ece4",
+      "title": "Philips sort un moniteur avec un écran de chaque côté, et c'est pas idiot",
+      "description": "Un écran de 24 pouces autonome avec une dalle Full HD 120 Hz... des deux côtés. Voilà ce que propose le Philips 24B2D5300, repéré par TechSpot sur la boutique en ligne UK du constructeur, et que la marque revendique comme une première mondiale dans la catégorie des moniteurs. La machine sera…",
+      "link": "https://korben.info/philips-sort-un-moniteur-avec-un-ecran-de-chaque-cote-et-pas-idiot.html",
+      "pubDate": "2026-05-26T14:16:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/philips-sort-un-moniteur-avec-un-ecran-de-chaque-cote-et-pas-idiot/philips-sort-un-moniteur-avec-un-ecran-de-chaque-cote-et-pas-idiot-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "be311597cfc2",
+      "title": "Windows 11 distancé par Ubuntu sur le monstrueux Ryzen 9 9950X3D2 d'AMD",
+      "description": "Nos confrères de chez Phoronix ont publié un comparatif des performances du tout nouveau Ryzen 9 9950X3D2 d'AMD sous deux systèmes : Windows 11 et Ubuntu 26.04 LTS. Le verdict est sans appel, Linux prend une avance très nette sur Windows sur la majorité des charges de travail testées. Petit point…",
+      "link": "https://korben.info/windows-11-distance-par-ubuntu-sur-le-monstrueux-ryzen-9-9950x3d2-damd.html",
+      "pubDate": "2026-05-26T11:31:56.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0105c655b420",
       "title": "Heretic - Virer la censure d'une IA en une commande",
       "description": "Y'a des entreprises qui claquent des millions pour bien aligner leurs modèles d'IA afin qu'ils refusent toutes les questions sensibles qui font flipper nos amis puritains d’outre-Atlantique et y'a Heretic , un outil signé Philipp Emanuel Weidmann, qui balaye toute censure sur n'importe quel modèle…",
