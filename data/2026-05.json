@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ff6a14d83742",
+      "title": "Pax Historia - Le jeu IA qui vous laisse réécrire l'Histoire",
+      "description": "C'est mon plus jeune fils qui m'a fait découvrir ça un soir, et comme j'ai trouvé ça top, bah je vous en parle. C'est un jeu web nommé Pax Historia et ça a été créé par deux colocataires de fac, Eli Bullock-Papa et Ryan Zhang, sur un coin de table durant un hackathon. Et ce n'est ni plus ni moins…",
+      "link": "https://korben.info/paxhistoria-jeu-ia-uchronie-strategie.html",
+      "pubDate": "2026-05-27T07:25:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/paxhistoria-jeu-ia-uchronie-strategie/paxhistoria-jeu-ia-uchronie-strategie-1.png",
+      "type": "blog"
+    },
+    {
       "id": "fded57b2ca96",
       "title": "256 cœurs et 2 nanomètres - AMD met en production son serveur monstre Epyc Venice",
       "description": "256 cœurs CPU sur une seule puce. C'est ce que propose le nouvel Epyc Venice d'AMD, sixième génération de son processeur pour serveurs, dont la production de masse vient de démarrer chez le fondeur taïwanais TSMC. Détail technique remarquable, c'est le tout premier processeur destiné au calcul…",
