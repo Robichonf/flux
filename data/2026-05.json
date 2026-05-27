@@ -2,6 +2,111 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c4832368cc89",
+      "title": "Le Canada coupe sa station radio horaire CHU après plus d'un siècle de service",
+      "description": "Le 22 juin prochain, le Canada va éteindre une voix qui parle sans interruption depuis 1923. La station CHU, opérée par le Conseil national de recherches (l'équivalent canadien du CNRS), cessera ses émissions sur ondes courtes après plus de cent ans de bons et loyaux services. Trois fréquences…",
+      "link": "https://korben.info/le-canada-coupe-sa-station-radio-horaire-chu-apres-plus-dun-siecle-de-service.html",
+      "pubDate": "2026-05-27T14:37:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ebe4bc78a43a",
+      "title": "Une alimentation USB-C miniature pour redonner vie au Commodore 64",
+      "description": "L'alimentation d'origine du Commodore 64 a une fâcheuse réputation : elle a tendance à mourir en cuisant lentement ses propres composants. Le régulateur, noyé dans la résine, ne dissipe pas la chaleur, surchauffe, et finit par cramer en emportant parfois la machine au passage. Pour un ordinateur de…",
+      "link": "https://korben.info/une-alimentation-usb-c-miniature-pour-redonner-vie-au-commodore-64.html",
+      "pubDate": "2026-05-27T13:00:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c1406d334f1",
+      "title": "Un thermostat Honeywell bourré de failles",
+      "description": "Des chercheurs ont passé le thermostat connecté Honeywell X2S à la moulinette du reverse-engineering. Le résultat est un peu embarrassant. L'appareil en question, c'est un thermostat Wi-Fi qui se pilote depuis le smartphone et s'intègre aux installations domotiques, embarque deux puces principales.…",
+      "link": "https://korben.info/un-thermostat-honeywell-bourre-de-failles.html",
+      "pubDate": "2026-05-27T12:55:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2cff303d7a91",
+      "title": "Votre bluetooth est en rade sur Linux ? Il existe une solution",
+      "description": "Une mise à jour récente du noyau Linux a cassé le support de certains adaptateurs Bluetooth MediaTek, ceux qui sont intégrés aux puces Wi-Fi qu'on trouve sur beaucoup de cartes mères modernes. Le résultat : votre clavier sans fil, votre souris ou votre casque Bluetooth ne se connectent plus après…",
+      "link": "https://korben.info/votre-bluetooth-est-en-rade-sur-linux-il-existe-une-solution.html",
+      "pubDate": "2026-05-27T12:39:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "88f1d805fa8a",
+      "title": "Un vélo construit avec les techniques de la Renaissance italienne",
+      "description": "La chaîne YouTube \"How To Make Everything\" s'est lancé un défi très improbable : construire un vélo en n'utilisant que des matériaux et des techniques disponibles à la Renaissance italienne. L'idée tourne autour d'un croquis de bicyclette qu'on attribue parfois à Léonard de Vinci, sauf que les…",
+      "link": "https://korben.info/un-velo-construit-avec-les-techniques-de-la-renaissance-italienne.html",
+      "pubDate": "2026-05-27T09:37:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/un-velo-construit-avec-les-techniques-de-la-renaissance-italienne/un-velo-construit-avec-les-techniques-de-la-renaissance-italienne-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c0f47b70af16",
+      "title": "GhostDesk - Un bureau Linux complet pour votre agent IA",
+      "description": "GhostDesk , c'est un serveur MCP open source qui file à votre agent IA un bureau Linux complet tournant dans Docker. L'agent voit l'écran, clique, tape, lance des applis, comme un humain. Bref, c'est pas juste un browser à la Playwright, puisque grâce à lui, n'importe quelle interface graphique…",
+      "link": "https://korben.info/ghostdesk-agent-ia-bureau-linux-docker.html",
+      "pubDate": "2026-05-27T08:49:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ghostdesk-agent-ia-bureau-linux-docker/ghostdesk-agent-ia-bureau-linux-docker-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5ef181873160",
+      "title": "Submit This Form - Le jeu où le boss final est un formulaire web",
+      "description": "Remplir un formulaire web, c'est sans doute l'activité la plus chiante qu'on puisse faire en ligne. C'est pourquoi Ben, un développeur qui me lit depuis 20 ans (merci !!!), a eu l'idée géniale d'en faire un jeu à part entière. Ça s'appelle Submit This Form, et c'est un puzzle game gratuit…",
+      "link": "https://korben.info/submit-this-form-jeu-puzzle-formulaire.html",
+      "pubDate": "2026-05-27T08:37:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/submit-this-form-jeu-puzzle-formulaire/submit-this-form-jeu-puzzle-formulaire-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ff6a14d83742",
       "title": "Pax Historia - Le jeu IA qui vous laisse réécrire l'Histoire",
       "description": "C'est mon plus jeune fils qui m'a fait découvrir ça un soir, et comme j'ai trouvé ça top, bah je vous en parle. C'est un jeu web nommé Pax Historia et ça a été créé par deux colocataires de fac, Eli Bullock-Papa et Ryan Zhang, sur un coin de table durant un hackathon. Et ce n'est ni plus ni moins…",
