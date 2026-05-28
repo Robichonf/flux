@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "3c11b0e4ef3e",
+      "title": "iOS 26 gèle vos appels FaceTime quand il détecte de la nudité, même entre adultes",
+      "description": "Attention, votre iPhone vous surveille pendant vos appels FaceTime. Depuis iOS 26, Apple a glissé une fonction baptisée \"Sensitive Content Warning\" qui scanne en temps réel le flux vidéo et fige automatiquement la communication dès qu'elle détecte de la nudité. Audio coupé, vidéo coupée, avec un…",
+      "link": "https://korben.info/ios-26-gele-vos-appels-facetime-quand-il-detecte-de-la-nudite-meme-entre-adultes.html",
+      "pubDate": "2026-05-28T13:58:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "148a313bff1a",
+      "title": "Un développeur de malware ooublie son propre token GitHub dans le code",
+      "description": "Voilà qui est rigolo. Un développeur malveillant a essayé de voler les fichiers sensibles des utilisateurs de Claude (l'assistant IA d'Anthropic, concurrent d'OpenAI sur les modèles de langage) en uploadant un package npm piégé. Sauf que dans son code, il a laissé son propre token…",
+      "link": "https://korben.info/un-developpeur-de-malware-ooublie-son-propre-token-github-dans-le-code.html",
+      "pubDate": "2026-05-28T12:51:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eefc674b2443",
+      "title": "NVIDIA CUDA 13.3 fait passer Python en stable et amène un nouveau modèle de programmation pour C++",
+      "description": "Avec la sortie de CUDA 13.3, NVIDIA renforce son écosystème GPU sur deux fronts importants. La version Python passe officiellement en 1.0 (donc considérée comme stable et utilisable en production), et CUDA Tile arrive nativement pour les développeurs C++. Petit rappel pour les non-initiés : CUDA,…",
+      "link": "https://korben.info/nvidia-cuda-13-3-fait-passer-python-en-stable-et-amene-un-nouveau-modele-de-programmation-pour-c.html",
+      "pubDate": "2026-05-28T12:34:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1404468bc860",
       "title": "Autopsie d'une résistance carbone vintage",
       "description": "CuriousMarc, un youtubeur connu pour ses restaurations d'équipements électroniques d'époque, est tombé sur un cas intéressant lors de la réparation d'un oscilloscope Metrix vintage. Après avoir changé tous les condensateurs (un \"recap\" en jargon, opération de routine sur les vieux équipements dont…",
