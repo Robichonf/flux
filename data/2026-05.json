@@ -2,6 +2,65 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e6761a3bd7e6",
+      "title": "BumpMesh - Pour ajouter de la texture à vos impressions 3D",
+      "description": "Stefan Hermann, le mec derrière la chaîne YouTube CNC Kitchen , vient de nous pondre un super outil web baptisé BumpMesh qui permet d'ajouter des textures de \" displacement \" à vos modèles STL, OBJ et 3MF... directement depuis votre navigateur. Vous balancez votre fichier, vous choisissez une…",
+      "link": "https://korben.info/bumpmesh-textures-stl-impression-3d-navigateur.html",
+      "pubDate": "2026-05-28T07:55:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/bumpmesh-textures-stl-impression-3d-navigateur/bumpmesh-textures-stl-impression-3d-navigateur-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "0eb9e48cf976",
+      "title": "Taphouse - La GUI Homebrew avec scanner CVE intégré",
+      "description": "Multimodal Solutions, une boîte grecque, vient de sortir Taphouse 1.5 qui est une GUI native macOS pour Homebrew. GUI c'est pas que le nom de votre collègue qui fout rien, c'est surtout un acronyme qui veut dire Graphic User Interface (Interface Graphique !). Et pour Homebrew, bah c'était pas du…",
+      "link": "https://korben.info/taphouse-homebrew-gui-macos.html",
+      "pubDate": "2026-05-28T07:18:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/taphouse-homebrew-gui-macos/taphouse-homebrew-gui-macos-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ebacd74a6a02",
+      "title": "Où va le SEO en 2026 en France ? Entretien avec Aurélien Bardon, fondateur de ASEOX",
+      "description": "Aurélien Bardon, expert en SEO, partage ses réflexions sur l'évolution du GEO en France. Bien qu'il n'y ait pas d'expert reconnu dans ce domaine émergent, il souligne l'importance d'une approche honnête et proactive face aux technologies LLM. Bardon préconise de se concentrer sur la notoriété et…",
+      "link": "https://oliviersauvage.com/2026/05/28/ou-va-le-seo-en-2026-en-france-entretien-avec-aurelien-bardon-fondateur-de-aseox/",
+      "pubDate": "2026-05-28T06:50:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "624eb8c6db4d",
+      "title": "C'est quoi une Hacker residency ?",
+      "description": "Entre hackerspaces et résidences d'artistes, découvrez le concept des \"Hackers in residence\".",
+      "link": "https://eventuallycoding.com/p/c-est-quoi-une-hacker-residency",
+      "pubDate": "2026-05-28T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1779954519848-eyyuv1q.png",
+      "type": "blog"
+    },
+    {
       "id": "c4832368cc89",
       "title": "Le Canada coupe sa station radio horaire CHU après plus d'un siècle de service",
       "description": "Le 22 juin prochain, le Canada va éteindre une voix qui parle sans interruption depuis 1923. La station CHU, opérée par le Conseil national de recherches (l'équivalent canadien du CNRS), cessera ses émissions sur ondes courtes après plus de cent ans de bons et loyaux services. Trois fréquences…",
