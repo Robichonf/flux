@@ -2,6 +2,66 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "1404468bc860",
+      "title": "Autopsie d'une résistance carbone vintage",
+      "description": "CuriousMarc, un youtubeur connu pour ses restaurations d'équipements électroniques d'époque, est tombé sur un cas intéressant lors de la réparation d'un oscilloscope Metrix vintage. Après avoir changé tous les condensateurs (un \"recap\" en jargon, opération de routine sur les vieux équipements dont…",
+      "link": "https://korben.info/autopsie-dune-resistance-carbone-vintage.html",
+      "pubDate": "2026-05-28T12:22:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95afa8157f8d",
+      "title": "BadHost - Un caractère et votre agent IA passe à l'ennemi",
+      "description": "Les chercheurs de X41 D-Sec viennent de divulguer une faille critique baptisée BadHost (CVE-2026-48710) dans Starlette, le framework Python qui sert de fondation à FastAPI, vLLM , LiteLLM et une grande partie des serveurs MCP basés sur FastAPI. 325 millions de téléchargements par semaine, et il…",
+      "link": "https://korben.info/badhost-starlette-agents-ia.html",
+      "pubDate": "2026-05-28T10:51:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/badhost-starlette-agents-ia/badhost-starlette-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "bf6e1d46c6da",
+      "title": "\"Je capitule\" - Matt Mullenweg est abattu",
+      "description": "Matt Mullenweg vient de publier un billet anniversaire des 23 ans de WordPress, et ce qui devait ressembler à une célébration tient plus de l'appel au secours. Et j'avoue qu'à lecture, ça m'a mis un petit coup au moral... Parce que oui, le créateur de WordPress est épuisé à cause de 19 mois de…",
+      "link": "https://korben.info/matt-mullenweg-wp23-discours-fatigue.html",
+      "pubDate": "2026-05-28T10:23:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "af4c61cf64e1",
+      "title": "Un radioamateur décode le signal de la sonde chinoise Tianwen-2 en route vers un astéroïde",
+      "description": "Daniel Estévez est ce qu'on appelle un radioamateur de haut vol. Spécialisé dans le décodage de signaux satellites et de sondes spatiales, l'Espagnol partage ses analyses techniques sur son blog depuis plusieurs années. Cette fois, il s'est attaqué à un gros morceau : la télémétrie de Tianwen-2, la…",
+      "link": "https://korben.info/un-radioamateur-decode-le-signal-de-la-sonde-chinoise-tianwen-2-en-route-vers-un-asteroide.html",
+      "pubDate": "2026-05-28T09:08:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e6761a3bd7e6",
       "title": "BumpMesh - Pour ajouter de la texture à vos impressions 3D",
       "description": "Stefan Hermann, le mec derrière la chaîne YouTube CNC Kitchen , vient de nous pondre un super outil web baptisé BumpMesh qui permet d'ajouter des textures de \" displacement \" à vos modèles STL, OBJ et 3MF... directement depuis votre navigateur. Vous balancez votre fichier, vous choisissez une…",
