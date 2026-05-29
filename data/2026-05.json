@@ -2,6 +2,51 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "9c7d26cd537a",
+      "title": "Utiq - Le pistage pub de votre opérateur et comment l'éviter",
+      "description": "Si vous avez cliqué un peu vite sur \"J'accepte\" ces derniers jours, vous avez peut-être activé Utiq sans le savoir. Si ça ne vous dit rien, c'est normal puisque c'est le nouvel identifiant publicitaire monté comme des grands par les opérateurs télécoms européens, dont Orange, Deutsche Telekom,…",
+      "link": "https://korben.info/utiq-identifiant-publicitaire-telcos.html",
+      "pubDate": "2026-05-29T12:29:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/utiq-identifiant-publicitaire-telcos/utiq-identifiant-publicitaire-telcos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d5517bbf0e35",
+      "title": "Ils ont créé des villes gérées par IA",
+      "description": "Une société de recherche baptisée Emergence AI a eu une idée à la fois ludique et un peu vertigineuse : bâtir des petites sociétés virtuelles entièrement gérées par des intelligences artificielles, puis les laisser vivre quinze jours pour voir ce qu'elles deviennent. Le projet, appelé Emergence…",
+      "link": "https://korben.info/ils-ont-cree-des-villes-gerees-par-ia.html",
+      "pubDate": "2026-05-29T11:33:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "687df3a79cb9",
+      "title": "Dynamic Workflows - Quand Claude Code orchestre des centaines d'agents",
+      "description": "Faut le reconnaître, malgré toute la bonne volonté qu'elle peut y mettre, y'a encore des tâches trop grosses pour être réalisées en une seule passe avec de l'IA, du genre auditer votre projet de Saas en mousse en intégralité ou traiter les milliers de fichiers que vous récupérez sur le darkweb (ça…",
+      "link": "https://korben.info/dynamic-workflows-claude-code.html",
+      "pubDate": "2026-05-29T11:33:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dynamic-workflows-claude-code/dynamic-workflows-claude-code-2.png",
+      "type": "blog"
+    },
+    {
       "id": "c9189ff6f1c4",
       "title": "SixBack - Ressusciter une Bose SoundTouch avec un ESP32",
       "description": "Si comme moi, vous avez une enceinte Bose SoundTouch , vous savez que ses boutons de radio internet ont cessé de fonctionner début mai. En effet, Bose a coupé le cloud qui tournait derrière, et les six boutons de présélections sont devenus de jolis boutons inutiles. Mais un dev nommé Tostmann, lui,…",
