@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "cc9446535a6c",
+      "title": "FROST - Quand un site web peut vous tracker grâce à votre SSD",
+      "description": "FROST, c'est le nom d'une nouvelle attaque qui transforme votre SSD en mouchard. Des chercheurs de l'université de Graz, avec Daniel Gruss au générique (un des cerveaux derrière Spectre et Meltdown), ont montré qu'un simple site web peut deviner quels autres sites et applis vous avez ouverts et…",
+      "link": "https://korben.info/site-web-espionnage-activite-ssd.html",
+      "pubDate": "2026-05-29T05:23:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3c11b0e4ef3e",
       "title": "iOS 26 gèle vos appels FaceTime quand il détecte de la nudité, même entre adultes",
       "description": "Attention, votre iPhone vous surveille pendant vos appels FaceTime. Depuis iOS 26, Apple a glissé une fonction baptisée \"Sensitive Content Warning\" qui scanne en temps réel le flux vidéo et fige automatiquement la communication dès qu'elle détecte de la nudité. Audio coupé, vidéo coupée, avec un…",
