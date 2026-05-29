@@ -2,6 +2,80 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c9189ff6f1c4",
+      "title": "SixBack - Ressusciter une Bose SoundTouch avec un ESP32",
+      "description": "Si comme moi, vous avez une enceinte Bose SoundTouch , vous savez que ses boutons de radio internet ont cessé de fonctionner début mai. En effet, Bose a coupé le cloud qui tournait derrière, et les six boutons de présélections sont devenus de jolis boutons inutiles. Mais un dev nommé Tostmann, lui,…",
+      "link": "https://korben.info/bose-ressuscite-esp32.html",
+      "pubDate": "2026-05-29T09:25:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/bose-ressuscite-esp32/bose-ressuscite-esp32-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a8b7f493fa96",
+      "title": "Linux va enfin faire tourner le GA100 de NVIDIA avec un pilote 100% libre",
+      "description": "Petite victoire pour le logiciel libre. Avec la prochaine version du noyau Linux, la 7.2, le pilote Nouveau va enfin prendre en charge le GA100 de NVIDIA. Pour situer, Nouveau, c'est le pilote graphique libre développé par la communauté pour faire fonctionner les cartes NVIDIA sans dépendre du…",
+      "link": "https://korben.info/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre.html",
+      "pubDate": "2026-05-29T09:03:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "006fee57c6f8",
+      "title": "AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ?",
+      "description": "Le 29 mai 2026, Mistral a dévoilé lors de sa première présentation en France de nouvelles offres en intelligence artificielle, visant les grandes entreprises. Bien qu'encore petit face aux géants, Mistral propose des outils similaires à ceux de ses concurrents américains, tout en veillant à la…",
+      "link": "https://oliviersauvage.com/2026/05/29/ai-now-summit-2026-le-chat-mistral-va-t-il-devenir-un-tigre/",
+      "pubDate": "2026-05-29T09:00:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb15ac860fa4",
+      "title": "Il transforme deux Xbox One hors service en une clé USB de 10 Go",
+      "description": "En pleine flambée des prix de la mémoire et du stockage, un bricoleur du nom de Chase Fournier a imaginé une façon rigolote de recycler du vieux matériel : récupérer les puces de stockage de deux Xbox One pour les assembler en une seule clé USB de 10 Go, suffisamment compacte pour tenir dans la…",
+      "link": "https://korben.info/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go.html",
+      "pubDate": "2026-05-29T08:51:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33e41e7ded79",
+      "title": "Apocalypse Early Warning - Quand les riches fuiront",
+      "description": "Le pari de Kyle McDonald, le site dont je vais vous parler aujourd'hui c'est que si une catastrophe se prépare, les milliardaires le sauront avant nous et fileront en jet privé. C'est pour ça que cet artiste-programmeur de Los Angeles a construit l' Apocalypse Early Warning System , un site qui…",
+      "link": "https://korben.info/ews-jets-prives-milliardaires-alerte.html",
+      "pubDate": "2026-05-29T07:29:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ews-jets-prives-milliardaires-alerte/ews-jets-prives-milliardaires-alerte-2.png",
+      "type": "blog"
+    },
+    {
       "id": "cc9446535a6c",
       "title": "FROST - Quand un site web peut vous tracker grâce à votre SSD",
       "description": "FROST, c'est le nom d'une nouvelle attaque qui transforme votre SSD en mouchard. Des chercheurs de l'université de Graz, avec Daniel Gruss au générique (un des cerveaux derrière Spectre et Meltdown), ont montré qu'un simple site web peut deviner quels autres sites et applis vous avez ouverts et…",
