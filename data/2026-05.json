@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f81e77a2a375",
+      "title": "OpenAI Privacy Filter - Masquez vos données perso en local",
+      "description": "OpenAI vient de sortir un modèle open source qui repère et masque les données perso dans un texte, et le plus marrant, c'est qu'il tourne chez vous, pas chez eux. Ça nous change ^^. Ça s'appelle Privacy Filter , c'est sous licence Apache 2.0, et ce modèle chope les infos sensibles : noms, emails,…",
+      "link": "https://korben.info/openai-privacy-filter-anonymiser-pii-local.html",
+      "pubDate": "2026-05-30T05:46:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9c7d26cd537a",
       "title": "Utiq - Le pistage pub de votre opérateur et comment l'éviter",
       "description": "Si vous avez cliqué un peu vite sur \"J'accepte\" ces derniers jours, vous avez peut-être activé Utiq sans le savoir. Si ça ne vous dit rien, c'est normal puisque c'est le nouvel identifiant publicitaire monté comme des grands par les opérateurs télécoms européens, dont Orange, Deutsche Telekom,…",
