@@ -2,6 +2,111 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "df1fac09a75e",
+      "title": "Il a transformé un vieil iPhone 8 en serveur OCR alimenté au soleil",
+      "description": "Un iPhone 8 qui dormait dans un tiroir. Hemant Kumar, ingénieur logiciel basé au Canada, l'a ressorti, branché sur un panneau solaire et transformé en serveur de reconnaissance de texte qui tourne sans la moindre interruption depuis maintenant plus d'un an, sans box, sans prise murale, juste le…",
+      "link": "https://korben.info/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil.html",
+      "pubDate": "2026-06-01T16:10:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a3525dcdaf1c",
+      "title": "Ma visseuse de geek préférée a maintenant un écran, et oui, j'ai encore craqué",
+      "description": "– Contient des liens affiliés Amazon – Il y a un peu plus d'un an, je vous parlais ici de ma petite visseuse électrique Hoto, celle qui m'avait réconcilié avec le montage de meubles Ikea, ma grande phobie de toujours, et que je n'avais plus lâchée depuis. Sauf que Hoto a sorti un nouveau modèle…",
+      "link": "https://korben.info/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque.html",
+      "pubDate": "2026-06-01T14:00:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "41dfe1f76216",
+      "title": "De faux utilitaires PC transforment votre carte graphique en mineur de crypto à votre insu",
+      "description": "Vous installez CrystalDiskInfo pour surveiller l'état de vos disques, FurMark pour pousser votre carte graphique dans ses retranchements, HWMonitor pour garder un oeil sur les températures... Attention ! Sauf que depuis quelques semaines, certains de ces téléchargements sont piégés. Les équipes…",
+      "link": "https://korben.info/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu.html",
+      "pubDate": "2026-06-01T13:11:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "975e36314197",
+      "title": "Ils ont refait la machine qui a cassé le code Enigma, version FPGA",
+      "description": "Trois étudiants de l'université Cornell ont reconstruit, sur une puce moderne, la machine qui a permis aux Alliés de casser le code Enigma pendant la Seconde Guerre mondiale. Erica Jiang, Kelvin Resch et Isabella Frank ont mené ce projet dans le cadre du cours ECE 5760, repéré par le site…",
+      "link": "https://korben.info/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga.html",
+      "pubDate": "2026-06-01T12:31:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "79c85a260e0d",
+      "title": "Il glisse un GPU de datacenter dans son PC gaming pour faire tourner une IA en local",
+      "description": "Oscar Molnar voulait une intelligence artificielle qui tourne entièrement chez lui, sans envoyer la moindre donnée vers le cloud, et il y est arrivé pour environ 200 euros en greffant dans son PC une carte graphique qui n'avait normalement rien à faire dans une machine de salon. L'objectif, c'est…",
+      "link": "https://korben.info/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local.html",
+      "pubDate": "2026-06-01T12:07:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "97bf5a8999fd",
+      "title": "À 81 ans, il termine la suite de Head Over Heels qu'il avait commencée il y a 37 ans",
+      "description": "Il aura fallu trente-sept ans à Colin Porch pour voir son jeu enfin sortir, et cette seule durée suffit à résumer l'histoire un peu folle de ce développeur britannique de 81 ans, ancien d'Ocean, l'un des studios de jeux vidéo les plus réputés de l'époque des micro-ordinateurs 8 et 16 bits. Tout…",
+      "link": "https://korben.info/a-81-ans-il-termine-la-suite-de-head-over-heels-quil-avait-commencee-il-y-a-37-ans.html",
+      "pubDate": "2026-06-01T11:43:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/a-81-ans-il-termine-la-suite-de-head-over-heels-quil-avait-commencee-il-y-a-37-ans/a-81-ans-il-termine-la-suite-de-head-over-heels-quil-avait-commencee-il-y-a-37-ans-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "72a8989df9d5",
+      "title": "VideoLAN prépare déjà dav2d, le décodeur libre du futur codec vidéo AV2",
+      "description": "Jean-Baptiste Kempf, le fondateur de VideoLAN, la communauté derrière le lecteur VLC, vient de lever le voile sur dav2d, un décodeur logiciel taillé pour AV2, le prochain grand codec vidéo libre. Sa devise tient en une phrase qu'il assume complètement : un codec n'existe vraiment que le jour où…",
+      "link": "https://korben.info/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2.html",
+      "pubDate": "2026-06-01T11:17:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c7f2b9da76a2",
       "title": "Charger un jeu Mega Drive depuis un vinyle ? Le pari génial d'un bidouilleur",
       "description": "Convertir un jeu de console en son, graver ce son sur un disque vinyle, puis le relire sur une platine pour relancer le jeu, c'est le genre de projet inutile et réjouissant dont seul le monde du retrogaming a le secret, et c'est précisément ce que le bidouilleur Throaty Mumbo a voulu tester sur une…",
