@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e612e2b13237",
+      "title": "Shai-Hulud : un ver vole les identifiants planqué dans des paquets Red Hat",
+      "description": "Du code piégé glissé dans des paquets signés Red Hat, et téléchargé environ 80 000 fois par semaine. C'est le bilan d'une attaque repérée le 1er juin. Pour bien saisir, il faut d'abord savoir ce qu'est npm. C'est l'immense bibliothèque où les développeurs JavaScript piochent des briques de code…",
+      "link": "https://korben.info/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat.html",
+      "pubDate": "2026-06-02T15:14:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba936945bb85",
+      "title": "Des mathématiciens ont calculé Pi avec des monstres de Minecraft, sans écrire une seule ligne de code",
+      "description": "Molly Lynch, de l'université Hollins, et Michael Weselcouch, du Roanoke College, deux profs de maths américains, ont eu une idée que personne n'avait osée tenter : estimer la valeur de Pi en lâchant des monstres dans Minecraft, sans programmer quoi que ce soit, juste en exploitant les règles du…",
+      "link": "https://korben.info/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code.html",
+      "pubDate": "2026-06-02T12:17:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c3949bf5e025",
       "title": "We Are Digital Producers : qu’est-ce qu’un collectif digital efficace et créatif ?",
       "description": "À quoi correspond un collectif de digital producers, à quels besoins du marché répond-il, pour quels types de missions ? Cet article fait suite à un entretien avec l’équipe de We Are Digital Producers et fait le point sur ce qu’un collectif d’experts digitaux peut apporter et dans quel contexte.…",
