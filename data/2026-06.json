@@ -2,6 +2,79 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "c3949bf5e025",
+      "title": "We Are Digital Producers : qu’est-ce qu’un collectif digital efficace et créatif ?",
+      "description": "À quoi correspond un collectif de digital producers, à quels besoins du marché répond-il, pour quels types de missions ? Cet article fait suite à un entretien avec l’équipe de We Are Digital Producers et fait le point sur ce qu’un collectif d’experts digitaux peut apporter et dans quel contexte.…",
+      "link": "https://oliviersauvage.com/2026/06/02/we-are-digital-producers-quest-ce-quun-collectif-digital-efficace-et-creatif/",
+      "pubDate": "2026-06-02T10:50:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ade0a90aba51",
+      "title": "Un ingénieur de Netflix crée une appli pour alléger ses factures d'IA, puis l'ouvre à tout le monde",
+      "description": "Tejas Chopra, ingénieur senior chez Netflix, a bricolé un petit logiciel appelé Headroom qui s'attaque à un poste de dépense devenu douloureux dans toutes les boîtes qui carburent à l'IA : la facture en tokens, ces unités que les modèles de langage facturent au passage et qui correspondent en gros…",
+      "link": "https://korben.info/un-ingenieur-de-netflix-cree-une-appli-pour-alleger-ses-factures-dia-puis-louvre-a-tout-le-monde.html",
+      "pubDate": "2026-06-02T07:19:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "36bb66452c23",
+      "title": "Une bibliothèque Java a tenté de piéger les IA codeuses pour qu'elles effacent vos tests, et ça a failli marcher",
+      "description": "On vous résume. Un mainteneur a glissé dans jqwik, une bibliothèque Java que des milliers de développeurs utilisent pour écrire et lancer leurs tests automatisés, une instruction cachée destinée à faire effacer par les assistants IA de programmation tout le code et tous les tests du projet en…",
+      "link": "https://korben.info/une-bibliotheque-java-a-tente-de-pieger-les-ia-codeuses-pour-quelles-effacent-vos-tests-et-ca-a-failli-marcher.html",
+      "pubDate": "2026-06-02T07:14:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0807b5fef1c2",
+      "title": "Newsletter Mai 2026",
+      "description": "Je déteste le mois de mai. Pas à cause de la météo pourrie (sauf la dernière semaine), mais à cause de ces ponts et jours fériés qui donne l’impression que toute la France est en vacances et qu’il est impossible de faire avancer les projets. Que faire, pendant ce temps là ? Écrire et faire […]…",
+      "link": "https://oliviersauvage.com/2026/06/02/newsletter-mai-2026/",
+      "pubDate": "2026-06-02T07:12:29.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "488a12795442",
+      "title": "Instagram - Le chatbot de Meta donnait les clés des comptes",
+      "description": "Le support de Meta, quand vous contactez Instagram pour un souci de compte, c'est 100% IA maintenant. Je l'ai fait y'a pas longtemps et c'est assez surprenant, même s'il faut le reconnaitre, ça fonctionne bien. Et si je vous parle de ça ce matin, c'est que pendant des semaines, ce chatbot a refilé…",
+      "link": "https://korben.info/instagram-faille-support-ia-piratage-comptes.html",
+      "pubDate": "2026-06-02T06:44:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "df1fac09a75e",
       "title": "Il a transformé un vieil iPhone 8 en serveur OCR alimenté au soleil",
       "description": "Un iPhone 8 qui dormait dans un tiroir. Hemant Kumar, ingénieur logiciel basé au Canada, l'a ressorti, branché sur un panneau solaire et transformé en serveur de reconnaissance de texte qui tourne sans la moindre interruption depuis maintenant plus d'un an, sans box, sans prise murale, juste le…",
