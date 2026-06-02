@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "d26542a878e1",
+      "title": "Ableton Extensions SDK - Codez vos propres outils pour Live",
+      "description": "Je suis trop content parce qu'avec son nouveau SDK pour extensions , Ableton nous permet enfin d'écrire nos propres outils pour son DAW Live en JavaScript. L'intérêt c'est que ces extensions peuvent lire et modifier vos Sets : pistes, clips, notes MIDI, paramètres, automations... et comme ça votre…",
+      "link": "https://korben.info/ableton-live-extensions-sdk.html",
+      "pubDate": "2026-06-02T16:37:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e612e2b13237",
       "title": "Shai-Hulud : un ver vole les identifiants planqué dans des paquets Red Hat",
       "description": "Du code piégé glissé dans des paquets signés Red Hat, et téléchargé environ 80 000 fois par semaine. C'est le bilan d'une attaque repérée le 1er juin. Pour bien saisir, il faut d'abord savoir ce qu'est npm. C'est l'immense bibliothèque où les développeurs JavaScript piochent des briques de code…",
