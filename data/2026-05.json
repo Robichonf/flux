@@ -2,6 +2,23 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "633eb0993e4e",
+      "title": "Les news du mois de mai 2026",
+      "description": "Photo prise à Athènes en mai 2026, vue sur l'Acropole. Le mois de mai est passé à une vitesse affolante, il faut dire qu’avec les différents ponts que nous avons, eu les semaines étaient courtes. Et j’ai eu l’occasion d’aller assister à la conférence Tech-X organisée par l’association Gaia-X à…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/05/news-mai/",
+      "pubDate": "2026-05-31T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/05/news-mai/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "7700aa121e97",
       "title": "Il affiche du web moderne sur un Mac vieux de vingt-cinq ans",
       "description": "Faire s'afficher un site en HTTPS sur une machine qui tournait déjà sous Mac OS 9, le système d'exploitation d'Apple antérieur à Mac OS X, relevait jusqu'ici de l'impossible, et c'est pourtant ce qu'a réussi un développeur connu sous le pseudonyme mplsllc avec un projet baptisé MacSurf. MacSurf est…",
