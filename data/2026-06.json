@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "f2dec548f504",
+      "title": "Libinput corrige une faille qui transformait une fausse manette en accès root",
+      "description": "La bibliothèque libinput est passée en version 1.31.2, et pas pour ajouter des fonctions, mais pour boucher un trou de sécurité plutôt vilain. C'est elle qui gère vos périphériques d'entrée (clavier, souris, pavé tactile, manette) sur la quasi-totalité des Linux modernes, aussi bien sous Wayland…",
+      "link": "https://korben.info/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root.html",
+      "pubDate": "2026-06-04T12:59:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f0630d1452f1",
+      "title": "Webcamoid, ou comment fabriquer une fausse webcam sous Linux sans toucher à une ligne de commande",
+      "description": "Sur Linux, faire passer une vidéo trafiquée pour un vrai flux de webcam dans Zoom ou Discord, ça se fait depuis longtemps. Le souci, c'est que la méthode classique demande de taper des commandes assez obscures dans un terminal. Webcamoid propose de tout faire plus simplement. Une webcam virtuelle,…",
+      "link": "https://korben.info/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande.html",
+      "pubDate": "2026-06-04T12:24:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "441e13d14578",
       "title": "Des circuits électroniques cuits dans de l'argile, et ça marche vraiment",
       "description": "Emily Velasco , bricoleuse et artiste américaine, a fabriqué une carte électronique fonctionnelle à partir d'un simple disque d'argile tourné à la main, sans la moindre plaque de fibre de verre ni le moindre bain d'acide qu'on associe d'habitude à ce genre d'objet. L'idée vient d'ailleurs. Elle…",
