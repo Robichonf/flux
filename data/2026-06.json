@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "cba144e28dfa",
+      "title": "Votre voiture peut devenir un objet connecté de plus dans votre maison",
+      "description": "Branchez un petit boîtier dans la prise de diagnostic de votre voiture, et celle-ci se met à remonter son niveau de carburant, sa température moteur ou la pression de ses pneus directement dans votre système domotique, au même titre qu'une ampoule connectée ou un thermostat. C'est la démonstration…",
+      "link": "https://korben.info/votre-voiture-peut-devenir-un-objet-connecte-de-plus-dans-votre-maison.html",
+      "pubDate": "2026-06-05T07:58:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "131d31b182e6",
+      "title": "Vos données de navigation appartiennent-elles encore à quelqu'un ?",
+      "description": "-- Article en partenariat avec Surfshark -- Posez la question à votre fournisseur d'accès internet. Orange, Free, Bouygues, SFR (ah non, RIP petit opérateur partit trop tôt) vous répondront poliment qu'ils respectent la loi. Et c'est vrai. La Loi de programmation militaire (LPM) en France, impose…",
+      "link": "https://korben.info/surfshark-et-donnees-de-navigation.html",
+      "pubDate": "2026-06-05T05:00:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/surfshark-et-donnees-de-navigation/surfshark-et-donnees-de-navigation-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "f2dec548f504",
       "title": "Libinput corrige une faille qui transformait une fausse manette en accès root",
       "description": "La bibliothèque libinput est passée en version 1.31.2, et pas pour ajouter des fonctions, mais pour boucher un trou de sécurité plutôt vilain. C'est elle qui gère vos périphériques d'entrée (clavier, souris, pavé tactile, manette) sur la quasi-totalité des Linux modernes, aussi bien sous Wayland…",
