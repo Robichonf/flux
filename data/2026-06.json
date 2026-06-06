@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "882a854cb6c9",
+      "title": "Votre enceinte USB peut être piratée par un voisin",
+      "description": "Un chercheur en sécurité a réussi à prendre le contrôle d'un ordinateur en passant par une simple enceinte branchée en USB, à distance, et sans jamais s'approcher de la machine. L'appareil en question est la Sound Blaster Katana V2X, une barre de son vendue autour de 280 euros par Creative…",
+      "link": "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin.html",
+      "pubDate": "2026-06-06T18:26:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "310b081cdb36",
+      "title": "VoxDrop 1.1 - Le moteur vocal d'Apple est devenu mon préféré",
+      "description": "VoxDrop , ma petite app de dictée vocale qui tourne 100% en local sur Mac, passe en version 1.1. Et le gros morceau de cette release, c'est le grand ménage que j'ai fait dans les moteurs de reconnaissance vocale. Le nouveau venu, c'est donc le moteur d'Apple intégré à macOS 26. Il ne pèse rien à…",
+      "link": "https://korben.info/voxdrop-1-1-dictee-vocale-mac.html",
+      "pubDate": "2026-06-06T18:08:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/voxdrop-1-1-dictee-vocale-mac/voxdrop-1-1-dictee-vocale-mac-1.png",
+      "type": "blog"
+    },
+    {
       "id": "e8165d2cf82f",
       "title": "Test de ce chargeur 65W, avec sa taille ridicule qui n’a aucun sens",
       "description": "– Contient des liens affiliés Amazon – Tellement de produits UGREEN passent entre mes mains que c'en est devenu une blague. Plus j'en kiffe un, plus ils m'en envoient un autre. Et à chaque fois, je craque pareil. Mais là je dois avouer que sur celui là je suis complètement en phase (mais vous le…",
