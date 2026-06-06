@@ -107,6 +107,21 @@
       "type": "blog"
     },
     {
+      "id": "4dde60665677",
+      "title": "Le pattern Transactional Outbox avec Postgresql et Rabbitmq",
+      "description": "Comment sécuriser vos écritures entre Postgresql et RabbitMQ sans pénaliser vos performances ? Découvrez le pattern Transactional Outbox",
+      "link": "https://eventuallycoding.com/p/le-pattern-transactional-outbox-avec-postgresql-et-rabbitmq",
+      "pubDate": "2026-06-05T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1780731744816-woxokv4.png?width=400",
+      "type": "blog"
+    },
+    {
       "id": "f2dec548f504",
       "title": "Libinput corrige une faille qui transformait une fausse manette en accès root",
       "description": "La bibliothèque libinput est passée en version 1.31.2, et pas pour ajouter des fonctions, mais pour boucher un trou de sécurité plutôt vilain. C'est elle qui gère vos périphériques d'entrée (clavier, souris, pavé tactile, manette) sur la quasi-totalité des Linux modernes, aussi bien sous Wayland…",
