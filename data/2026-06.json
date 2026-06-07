@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "343d025f2dfb",
+      "title": "ESP32 Bit Pirate - Le Bus Pirate qui tient dans un Cardputer",
+      "description": "Les Bus Pirate , si vous ne connaissez pas encore, ce sont des petites sondes que les bidouilleurs utilisent pour \"parler\" à des puces inconnues, lire une EEPROM ou dumper des firmwares. C'est assez spécifique comme matos, alors c'est pourquoi geo-tp a eu une autre idée, à savoir foutre…",
+      "link": "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking.html",
+      "pubDate": "2026-06-07T07:38:56.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/esp32-bit-pirate-multitool-hardware-hacking/esp32-bit-pirate-multitool-hardware-hacking-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "882a854cb6c9",
       "title": "Votre enceinte USB peut être piratée par un voisin",
       "description": "Un chercheur en sécurité a réussi à prendre le contrôle d'un ordinateur en passant par une simple enceinte branchée en USB, à distance, et sans jamais s'approcher de la machine. L'appareil en question est la Sound Blaster Katana V2X, une barre de son vendue autour de 280 euros par Creative…",
