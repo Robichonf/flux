@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "29db46d3482c",
+      "title": "C0XMO - le botnet qui squatte vos vieux routeurs DD-WRT",
+      "description": "Un vieux routeur DD-WRT qui prend la poussière et que vous n'avez pas mis à jour depuis des lustres, c'est pile poil ce que recherche C0XMO. C'est un nouveau botnet repéré par les chercheurs de Fortinet qui enrôle les machines via une faille de 2021 que beaucoup n'ont jamais bouchée. Et une fois…",
+      "link": "https://korben.info/c0xmo-botnet-faille-dd-wrt-routeurs.html",
+      "pubDate": "2026-06-07T16:38:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5dee94af2589",
+      "title": "Zcash - Une IA déniche en 24h une faille vieille de 4 ans",
+      "description": "Un chercheur en sécurité, Taylor Hornby, a lâché Claude Opus 4.8 sur le code de Zcash et 24 heures plus tard, le modèle lui a déniché une faille bien planquée là depuis 4 ans qui avait échappé aux auditeurs ! Et ce qu'elle permet de faire pique un peu (ouille ouille ^^) ! Car je vous rappelle que…",
+      "link": "https://korben.info/claude-opus-faille-zcash-vie-privee.html",
+      "pubDate": "2026-06-07T16:02:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "296106325f9f",
       "title": "ntsc-rs - L'effet VHS open source qui simule le vrai signal",
       "description": "Les couleurs qui bavent, le grain qui grouille, et cette barre de \"bruit\" qui tremblote en bas de l'image... la VHS, c'est clairement toute une époque !! Le souci, c'est que recréer ce look proprement sur des vidéos, soit c'est galère à la main, soit ça passe par des plugins payants. Heureusement,…",
