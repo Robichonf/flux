@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "c68873f51c48",
+      "title": "Surface RTX Spark Dev Box - L'IA locale signée NVIDIA",
+      "description": "Microsoft vient d'annoncer lors de son événement Build 2026 l'arrivée de sa Surface RTX Spark Dev Box, un petit boîtier qui se pose sur le bureau et qui fait tourner des modèles IA de 120 milliards de paramètres en local, sans rien envoyer dans le cloud. Et bien sûr derrière le badge Surface, c'est…",
+      "link": "https://korben.info/surface-rtx-spark-dev-box-ia-locale.html",
+      "pubDate": "2026-06-07T19:52:56.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/surface-rtx-spark-dev-box-ia-locale/surface-rtx-spark-dev-box-ia-locale-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "29db46d3482c",
       "title": "C0XMO - le botnet qui squatte vos vieux routeurs DD-WRT",
       "description": "Un vieux routeur DD-WRT qui prend la poussière et que vous n'avez pas mis à jour depuis des lustres, c'est pile poil ce que recherche C0XMO. C'est un nouveau botnet repéré par les chercheurs de Fortinet qui enrôle les machines via une faille de 2021 que beaucoup n'ont jamais bouchée. Et une fois…",
@@ -134,6 +149,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/voxdrop-1-1-dictee-vocale-mac/voxdrop-1-1-dictee-vocale-mac-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e5ddde255d59",
+      "title": "Staff42: où en sont sept entreprises tech françaises avec l'IA générative ?",
+      "description": "Imaginez : 7 slides et dix minutes pour raconter l'adoption des agents de développement comme Claude Code dans votre entreprise. Comment cela se passe-t-il ? Quels sont vos succès ? Qu'est-ce qui marche moins bien ? Back Market a réuni plusieurs entreprises à Paris, pour partager leur retour…",
+      "link": "https://www.touilleur-express.fr/2026/06/05/sept-entreprises-tech-francaises-et-l-ia-generative",
+      "pubDate": "2026-06-05T20:28:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
