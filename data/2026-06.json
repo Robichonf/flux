@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "296106325f9f",
+      "title": "ntsc-rs - L'effet VHS open source qui simule le vrai signal",
+      "description": "Les couleurs qui bavent, le grain qui grouille, et cette barre de \"bruit\" qui tremblote en bas de l'image... la VHS, c'est clairement toute une époque !! Le souci, c'est que recréer ce look proprement sur des vidéos, soit c'est galère à la main, soit ça passe par des plugins payants. Heureusement,…",
+      "link": "https://korben.info/ntsc-rs-effet-vhs-analogique.html",
+      "pubDate": "2026-06-07T14:54:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ntsc-rs-effet-vhs-analogique/ntsc-rs-effet-vhs-analogique-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ffad0b7b915c",
+      "title": "DOOM Retro - Le portage qui fait couler encore plus de sang",
+      "description": "DOOM, vous connaissez forcement, sauf peut-être si vous avez moins de 13 ans, lol. Ce célèbre jeu de tir à la première personne (FPS) est un vrai classique des années 90 et même après toutes ces années, il continue d'être apprécié par les fans, notamment grâce aux portages sur les machines récentes…",
+      "link": "https://korben.info/doom-retro-portage-windows.html",
+      "pubDate": "2026-06-07T14:30:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/doom-retro-portage-windows/doom-retro-portage-windows-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "0ee98ee5e1f7",
       "title": "Age of Empires II est aussi conscient que votre ChatGPT",
       "description": "Vous connaissez ce refrain qu'on entend partout dans la presse, comme quoi ChatGPT ou Claude « comprendrait vraiment » ce que vous racontez, qu'il aurait une « morale », une « intention » , voire bientôt une conscience ? Bah Adrian de Wynter, chercheur principal chez Microsoft, vient d'y répondre…",
