@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "0ee98ee5e1f7",
+      "title": "Age of Empires II est aussi conscient que votre ChatGPT",
+      "description": "Vous connaissez ce refrain qu'on entend partout dans la presse, comme quoi ChatGPT ou Claude « comprendrait vraiment » ce que vous racontez, qu'il aurait une « morale », une « intention » , voire bientôt une conscience ? Bah Adrian de Wynter, chercheur principal chez Microsoft, vient d'y répondre…",
+      "link": "https://korben.info/age-of-empires-2-llm-attributs-humains.html",
+      "pubDate": "2026-06-07T13:01:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/age-of-empires-2-llm-attributs-humains/age-of-empires-2-llm-attributs-humains-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "1787721091cd",
+      "title": "Il transforme un microcontrôleur à 8 euros en routeur WiFi-Ethernet, sans la moindre puce réseau",
+      "description": "Difficile de faire plus minimaliste comme routeur. Celui que vient de bricoler Matt Deeds tient sur un Raspberry Pi Pico 2W, ce microcontrôleur grand comme une clé USB que l'on trouve pour une poignée d'euros, et il assure pourtant le pont entre un réseau WiFi et une bonne vieille prise Ethernet.…",
+      "link": "https://korben.info/il-transforme-un-microcontroleur-a-8-euros-en-routeur-wifi-ethernet-sans-la-moindre-puce-reseau.html",
+      "pubDate": "2026-06-07T09:59:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "343d025f2dfb",
       "title": "ESP32 Bit Pirate - Le Bus Pirate qui tient dans un Cardputer",
       "description": "Les Bus Pirate , si vous ne connaissez pas encore, ce sont des petites sondes que les bidouilleurs utilisent pour \"parler\" à des puces inconnues, lire une EEPROM ou dumper des firmwares. C'est assez spécifique comme matos, alors c'est pourquoi geo-tp a eu une autre idée, à savoir foutre…",
