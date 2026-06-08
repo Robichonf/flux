@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "ba13bbe87a59",
+      "title": "Un clone de DOOM en COBOL ça vous dit ?",
+      "description": "Un développeur connu sous le pseudonyme icitry s'est posé une question que personne de sensé ne formule jamais, peut-on coder un jeu de tir à la première personne en COBOL ? La réponse, contre toute attente, est oui, et le résultat est même tout à fait jouable. Pour ceux que ce nom laisse de…",
+      "link": "https://korben.info/un-clone-de-doom-en-cobol-ca-vous-dit.html",
+      "pubDate": "2026-06-08T16:17:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8232c7f82cdc",
       "title": "Test du Leap Nova de chez Strong - Google TV pour réveiller votre vieille téloche",
       "description": "– Contient des liens affiliés Amazon – Mon problème de départ était tout bête, je voulais lancer GeForce Now, le service de Nvidia qui fait tourner des jeux à distance sans grosse machine, directement sur ma télé LG OLED de 2023. Sauf que cette télé, aussi incroyable soit-elle, ne fonctionne qu'en…",
