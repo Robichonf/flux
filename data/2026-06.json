@@ -2,6 +2,81 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "55c125785508",
+      "title": "Pocket World - Avions, navires, radios et météo sur un globe 3D",
+      "description": "Vous avez déjà tous joué avec Flightradar pour pister un vol, ou cliqué au pif sur un globe terrestre pour écouter une radio FM brésilienne . Hé bien Pocket World , c'est un peu tout ça en même temps, plus la météo, les séismes, les bases militaires, les câbles sous-marins, les volcans en éruption,…",
+      "link": "https://korben.info/pocket-world-globe-3d-tracker-temps-reel.html",
+      "pubDate": "2026-06-09T14:42:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pocket-world-globe-3d-tracker-temps-reel/pocket-world-globe-3d-tracker-temps-reel-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "dfc572b14568",
+      "title": "Let's Encrypt - Les sanctions US s'invitent dans le contrat",
+      "description": "Si vous êtes développeur en Iran, à Cuba ou en Corée du Nord, vous venez officiellement de perdre l'accès à Let's Encrypt ! En effet, la version 1.7 du Subscriber Agreement publiée par l'ISRG (Internet Security Research Group), l'organisation derrière le service, est malheureusement entrée en…",
+      "link": "https://korben.info/lets-encrypt-v17-subscriber-agreement.html",
+      "pubDate": "2026-06-09T14:32:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "811c07849fc8",
+      "title": "Lego Batman - Un easter egg Commodore 64 BASIC caché dedans",
+      "description": "Cabel Sasser, le boss de Panic Inc. (les gars derrière Coda, Nova et la fameuse Playdate ), vient de tomber sur un easter egg complètement génial dans LEGO Batman: Legacy of the Dark Knight, le jeu sorti fin mai 2026. Et ce qu'il a découvert, c'est un petit programme Commodore 64 en BASIC affiché à…",
+      "link": "https://korben.info/lego-batman-commodore-64-easter-egg.html",
+      "pubDate": "2026-06-09T14:13:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56d4a1f89c2b",
+      "title": "Le compilateur JIT de Python est menacé, et pas pour une raison technique",
+      "description": "Le conseil de pilotage de Python, l'instance qui tranche les grandes décisions du langage, a demandé le 5 juin la suspension de tout nouveau développement sur son compilateur JIT. Un JIT (just-in-time), c'est un compilateur à la volée : au lieu d'interpréter votre code ligne par ligne, il traduit…",
+      "link": "https://korben.info/le-compilateur-jit-de-python-est-menace-et-pas-pour-une-raison-technique.html",
+      "pubDate": "2026-06-09T13:15:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce4bef58d54e",
+      "title": "Spy Tech - la station de nombres cachée dans le GPS",
+      "description": "Pendant la Guerre froide, les services de renseignement diffusaient sur ondes courtes des suites de chiffres récitées par une voix synthétique, à destination de leurs agents sur le terrain. On appelait ça des \"numbers stations\", et personne en dehors du destinataire ne savait décoder le message.…",
+      "link": "https://korben.info/spy-tech-la-station-de-nombres-cachee-dans-le-gps.html",
+      "pubDate": "2026-06-09T12:11:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/spy-tech-la-station-de-nombres-cachee-dans-le-gps/spy-tech-la-station-de-nombres-cachee-dans-le-gps-1.png",
+      "type": "blog"
+    },
+    {
       "id": "6cb8bf88f698",
       "title": "OpenCV 5.0 sait maintenant faire tourner des IA façon ChatGPT directement dans son moteur",
       "description": "OpenCV, vous l'utilisez sans doute déjà sans le savoir. Cette bibliothèque open source de vision par ordinateur, autrement dit une grosse boîte à outils qui apprend aux logiciels à analyser images et vidéos, se cache derrière la reconnaissance de visages de votre téléphone, les caméras d'usine ou…",
