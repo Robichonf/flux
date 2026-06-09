@@ -2,6 +2,50 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e8f879ad82b3",
+      "title": "Refroidir à -84°C avec une imprimante 3D et de l'air comprimé",
+      "description": "Un youtubeur qui se fait appeler Hyperspace Pirate a fabriqué chez lui un cryogénérateur, c'est-à-dire une machine capable de produire du froid extrême, en imprimant lui-même la plupart des pièces en plastique. Sur ses deux prototypes, il est descendu jusqu'à -84°C. Ce n'est pas un record, et il le…",
+      "link": "https://korben.info/refroidir-a-84c-avec-une-imprimante-3d-et-de-lair-comprime.html",
+      "pubDate": "2026-06-09T07:48:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "aa369a19049d",
+      "title": "Music Decoy - Apple Music ne se lancera plus tout seul",
+      "description": "Vous appuyez sur la touche ▶ Play de votre clavier pour mettre en pause une vidéo. Et c'est ce couillon d'Apple Music qui s'ouvre en grand alors que vous n'avez rien demandé. Ou alors vous branchez votre casque Bluetooth, et le revoilà qui débarque comme votre ex à votre anniversaire. Sachez que si…",
+      "link": "https://korben.info/music-decoy-bloquer-apple-music.html",
+      "pubDate": "2026-06-09T07:25:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/music-decoy-bloquer-apple-music/music-decoy-bloquer-apple-music-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5c2002a25ac5",
+      "title": "Etat du ecommerce B2B en 2026",
+      "description": "Le rapport de Commerce B2B et Novatize sur le e-commerce B2B révèle que 71% des entreprises génèrent une part significative de leur chiffre d’affaires en ligne, mais 78% critiquent leur technologie actuelle. Les défis incluent la personnalisation, l'intégration des systèmes et le manque de…",
+      "link": "https://oliviersauvage.com/2026/06/09/etat-du-ecommerce-b2b-en-2026/",
+      "pubDate": "2026-06-09T06:14:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ba13bbe87a59",
       "title": "Un clone de DOOM en COBOL ça vous dit ?",
       "description": "Un développeur connu sous le pseudonyme icitry s'est posé une question que personne de sensé ne formule jamais, peut-on coder un jeu de tir à la première personne en COBOL ? La réponse, contre toute attente, est oui, et le résultat est même tout à fait jouable. Pour ceux que ce nom laisse de…",
