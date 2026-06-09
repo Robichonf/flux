@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "0170ab4a3294",
+      "title": "GitHub désactive 73 dépôts Microsoft en 105 secondes pour stopper le ver Miasma",
+      "description": "GitHub a désactivé 73 dépôts appartenant à Microsoft en l'espace de 105 secondes, le temps de couper la propagation d'un ver baptisé Miasma. Un ver, vous le savez, c'est ce genre de logiciel malveillant qui se recopie tout seul d'un projet à l'autre, sans la moindre intervention humaine. Celui-là…",
+      "link": "https://korben.info/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma.html",
+      "pubDate": "2026-06-09T16:21:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "55c125785508",
       "title": "Pocket World - Avions, navires, radios et météo sur un globe 3D",
       "description": "Vous avez déjà tous joué avec Flightradar pour pister un vol, ou cliqué au pif sur un globe terrestre pour écouter une radio FM brésilienne . Hé bien Pocket World , c'est un peu tout ça en même temps, plus la météo, les séismes, les bases militaires, les câbles sous-marins, les volcans en éruption,…",
