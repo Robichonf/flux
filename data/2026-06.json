@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "6cb8bf88f698",
+      "title": "OpenCV 5.0 sait maintenant faire tourner des IA façon ChatGPT directement dans son moteur",
+      "description": "OpenCV, vous l'utilisez sans doute déjà sans le savoir. Cette bibliothèque open source de vision par ordinateur, autrement dit une grosse boîte à outils qui apprend aux logiciels à analyser images et vidéos, se cache derrière la reconnaissance de visages de votre téléphone, les caméras d'usine ou…",
+      "link": "https://korben.info/opencv-5-0-sait-maintenant-faire-tourner-des-ia-facon-chatgpt-directement-dans-son-moteur.html",
+      "pubDate": "2026-06-09T09:48:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/opencv-5-0-sait-maintenant-faire-tourner-des-ia-facon-chatgpt-directement-dans-son-moteur/opencv-5-0-sait-maintenant-faire-tourner-des-ia-facon-chatgpt-directement-dans-son-moteur-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "e8f879ad82b3",
       "title": "Refroidir à -84°C avec une imprimante 3D et de l'air comprimé",
       "description": "Un youtubeur qui se fait appeler Hyperspace Pirate a fabriqué chez lui un cryogénérateur, c'est-à-dire une machine capable de produire du froid extrême, en imprimant lui-même la plupart des pièces en plastique. Sur ses deux prototypes, il est descendu jusqu'à -84°C. Ce n'est pas un record, et il le…",
@@ -14,6 +29,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "afaa15f71cc2",
+      "title": "Faille kernel Linux - Un seul caractère et vous voilà root",
+      "description": "Oliver Sieber, un chercheur de chez Exodus Intelligence, vient de publier l'exploit complet d'une faille qui tient dans un seul caractère. C'est la CVE-2026-23111, planquée dans nf_tables, c'est à dire au bout du noyau Linux qui filtre les paquets réseau. Un bug discret donc, qui transforme un…",
+      "link": "https://korben.info/faille-kernel-linux-nf-tables-root.html",
+      "pubDate": "2026-06-09T07:35:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/faille-kernel-linux-nf-tables-root/faille-kernel-linux-nf-tables-root-1.png",
       "type": "blog"
     },
     {
