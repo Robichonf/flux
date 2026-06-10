@@ -2,6 +2,111 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "a091a74c43c3",
+      "title": "Let’s Encrypt c’est cool, mais il est seul au monde",
+      "description": "Ça fait plusieurs fois que je vois passer voire que je participe à des discussions sur les alternatives au service ultra-populaire maintenu par l’Internet Security [...]",
+      "link": "https://blog.seboss666.info/2026/06/lets-encrypt-cest-cool-mais-il-est-seul-au-monde/",
+      "pubDate": "2026-06-10T16:09:45.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2015/12/letsencrypt-logo-horizontal.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "23908d12049c",
+      "title": "Un ver informatique qui raisonne tout seul",
+      "description": "La crainte n'est pas neuve. Mais cette fois la démonstration existe : une équipe réunissant l'université de Toronto, le Vector Institute, l'université de Cambridge et la division recherche de ServiceNow a dévoilé un logiciel malveillant capable de raisonner et de s'adapter seul à mesure qu'il…",
+      "link": "https://korben.info/un-ver-informatique-qui-raisonne-tout-seul.html",
+      "pubDate": "2026-06-10T15:50:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/un-ver-informatique-qui-raisonne-tout-seul/un-ver-informatique-qui-raisonne-tout-seul-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "721321680dc0",
+      "title": "Siri IA bloqué en Europe : Bruxelles renvoie Apple à ses responsabilités",
+      "description": "La Commission européenne vient de couper l'herbe sous le pied d'Apple en affirmant que la décision de ne pas lancer le nouveau Siri dopé à l'intelligence artificielle dans l'Union est le choix d'Apple, et de personne d'autre. La veille, Cupertino avait pourtant désigné un coupable tout trouvé, le…",
+      "link": "https://korben.info/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites.html",
+      "pubDate": "2026-06-10T15:38:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "76df3f45005c",
+      "title": "L'IOCCC 2025 couronne le code C le plus illisible du monde",
+      "description": "Faire tourner Tetris sur un émulateur Game Boy dont le code source tient dans moins de 5 ko de C volontairement incompréhensible, voilà le genre de prouesse que célèbre l'IOCCC, le concours international de code C obfusqué, dont le palmarès 2025 mérite vraiment le détour. Le principe de ce concours…",
+      "link": "https://korben.info/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde.html",
+      "pubDate": "2026-06-10T15:23:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73d24d4e00aa",
+      "title": "Chrome débranche les dernières combines qui faisaient survivre uBlock Origin",
+      "description": "Google ferme les dernières portes. À partir de fin juin, avec Chrome 150 ou 151, les combines qui permettaient encore de garder uBlock Origin en vie dans le navigateur vont sauter une à une, et avec elles à peu près tous les bloqueurs de publicité qui reposaient sur l'ancienne plomberie de Chrome.…",
+      "link": "https://korben.info/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin.html",
+      "pubDate": "2026-06-10T15:03:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "118fa1d2c975",
+      "title": "Anthropic met entre toutes les mains un modèle qu'elle jugeait trop dangereux à publier il y a deux mois",
+      "description": "Voilà autre chose dites donc. En avril, Anthropic, le concurrent direct d'OpenAI et créateur de l'assistant Claude, dévoilait Mythos, un modèle d'intelligence artificielle tellement doué pour dénicher et exploiter des failles informatiques que l'entreprise avait préféré ne pas le diffuser. Il…",
+      "link": "https://korben.info/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois.html",
+      "pubDate": "2026-06-10T14:25:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9383550fcdc9",
+      "title": "Vente complexe en B2B : quel content marketing pour alimenter le commercial ?",
+      "description": "Cet article souligne l'importance d'une collaboration étroite entre le content marketing et les équipes commerciales. Souvent désalignés, ces deux domaines devraient travailler ensemble pour optimiser les outils de vente et répondre aux besoins des clients. Les contenus courts, vidéos et webinaires…",
+      "link": "https://oliviersauvage.com/2026/06/10/vente-complexe-en-b2b-quel-content-marketing-pour-alimenter-le-commercial/",
+      "pubDate": "2026-06-10T13:07:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3ff0fdedac64",
       "title": "Green Bank - La ville « sans ondes » qui écoute l'univers",
       "description": "Aujourd'hui je suis tombé sur une story Instagram d' Artisan de demain qui parlait d'un truc qui m'a plutôt intrigué. En fait, quelque part en Virginie-Occidentale, il existerait une ville qui vit « sans ondes électromagnétiques ». Pas de WiFi, pas de 5G, pas de four à micro-ondes qui ronronne…",
@@ -89,6 +194,23 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/claude-fm-radio-lofi-anthropic/claude-fm-radio-lofi-anthropic-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7c7467dc06c5",
+      "title": "L'IA pollue. L'IA optimise. Et si la vraie question était ailleurs ?",
+      "description": "En une seule matinée, une IA nous a aidés à économiser l'équivalent du tour de la Terre en trajets de camions. On répète partout que l'IA pollue. C'est vrai. Mais alors, comment on tient les deux bouts ?",
+      "link": "https://yoandev.co/ia-pollue-ia-optimise",
+      "pubDate": "2026-06-10T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/algo-camion-ia.webp",
       "type": "blog"
     },
     {
