@@ -2,6 +2,81 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "2386dcacfd30",
+      "title": "eSpectre - Quand votre Wi-Fi détecte les mouvements sans caméra",
+      "description": "C'est toujours un peu magique, ces histoires d'ondes radio. On sait par exemple que notre box Wi-Fi \"voit\" déjà quand on traverse le salon, sauf que jusqu'ici, personne ne l'écoutait vraiment. Mais j'ai découvert qu'on pouvait aller encore plus loin avec un simple ESP32 à 10 balles et le projet…",
+      "link": "https://korben.info/espectre-detection-mouvement-wifi-esp32.html",
+      "pubDate": "2026-06-10T08:01:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/espectre-detection-mouvement-wifi-esp32/espectre-detection-mouvement-wifi-esp32-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "174200356ab7",
+      "title": "Apple Container 1.0 - Le WSL du Mac est enfin là",
+      "description": "Quand on est habitué à Linux et qu'on se retrouve avec un Mac, même si c'est une base unix, c'est déroutant. Heureusement, Apple est de plus en plus ouvert au monde du libre et vient de publier la version 1.0 de Container , avec dedans des « container machines » qui ressemblent furieusement à WSL.…",
+      "link": "https://korben.info/apple-container-machines-linux-mac.html",
+      "pubDate": "2026-06-10T07:43:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/apple-container-machines-linux-mac/apple-container-machines-linux-mac-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1a481f60f2cb",
+      "title": "iOS 27 : votre iPhone va se connecter tout seul à vos comptes pour réparer vos mots de passe pourris",
+      "description": "À la WWDC 2026, Apple a survolé la nouveauté en quelques secondes. Dans iOS 27, l'app Mots de passe ne se contente plus de signaler vos identifiants vulnérables, elle les remplace toute seule, en se rendant sur chaque site à votre place. Le déroulé ressemble à de la magie un peu inquiétante. Vous…",
+      "link": "https://korben.info/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris.html",
+      "pubDate": "2026-06-10T07:09:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f88fcd1f9e4d",
+      "title": "Goddard, le chien robot de Jimmy Neutron, existe maintenant en vrai",
+      "description": "Une créatrice connue sous le pseudo de Kiara a reconstruit Goddard, le chien mécanique du dessin animé Jimmy Neutron, en taille réelle et en version qui bouge pour de bon. Pour ceux qui n'ont pas grandi avec la série, Goddard est le compagnon canin du petit génie Jimmy Neutron : un chien…",
+      "link": "https://korben.info/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai.html",
+      "pubDate": "2026-06-10T06:52:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e13ca54318a3",
+      "title": "Claude FM - La radio lofi planquée dans Claude Code",
+      "description": "Vous aimez bosser avec un petit fond sonore ? Et bien sachez qu'Anthropic diffuse désormais sa propre radio lofi sur YouTube, 24h sur 24. Ça s'appelle Claude FM et c'est même planqué dans Claude Code derrière la commande /radio. Le visuel du stream, sobre comme la com' qui va avec",
+      "link": "https://korben.info/claude-fm-radio-lofi-anthropic.html",
+      "pubDate": "2026-06-10T05:34:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/claude-fm-radio-lofi-anthropic/claude-fm-radio-lofi-anthropic-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "0170ab4a3294",
       "title": "GitHub désactive 73 dépôts Microsoft en 105 secondes pour stopper le ver Miasma",
       "description": "GitHub a désactivé 73 dépôts appartenant à Microsoft en l'espace de 105 secondes, le temps de couper la propagation d'un ver baptisé Miasma. Un ver, vous le savez, c'est ce genre de logiciel malveillant qui se recopie tout seul d'un projet à l'autre, sans la moindre intervention humaine. Celui-là…",
