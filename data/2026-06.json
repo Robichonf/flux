@@ -2,6 +2,156 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "4b8933bf1892",
+      "title": "ReactOS, le clone libre de Windows, fait enfin tourner Half-Life après trente ans de développement",
+      "description": "ReactOS, le système d'exploitation libre qui recopie Windows brique par brique, fait désormais tourner Half-Life ( et oui, décidément c'est la journée ! ), le jeu de tir que Valve a sorti en 1998 et qui a propulsé toute une génération de joueurs dans les couloirs du complexe de Black Mesa. Et là,…",
+      "link": "https://korben.info/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement.html",
+      "pubDate": "2026-06-11T15:59:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2c67382c0557",
+      "title": "GreatXML - BitLocker contourné en quelques clics via WinRE",
+      "description": "BitLocker, je le rappelle c'est quand même le truc censé protéger vos données en cas de vol de votre bécane. Sauf que voilà, la théorie et Redmond, ça fait parfois deux... Le chercheur en sécurité Chaotic Eclipse (déjà à l'origine de BlueHammer ) vient de balancer une nouvelle vulnérabilité…",
+      "link": "https://korben.info/greatxml-bitlocker-bypass.html",
+      "pubDate": "2026-06-11T15:20:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/greatxml-bitlocker-bypass/greatxml-bitlocker-bypass-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4f7a36397e7f",
+      "title": "J'ai testé les Orbi 970, le système WiFi 7 le plus avancé de chez Netgear",
+      "description": "– Contient des liens affiliés Amazon – Netgear vend son Orbi 970 à 1 999 euros le pack de trois ( en promotion, au lieu de 2400 euros ha ha ). Et le tarif a beau faire tousser, ce système maillé en WiFi 7 (la toute dernière norme sans fil, le 802.11be, qui pousse les débits à environ deux fois et…",
+      "link": "https://korben.info/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear.html",
+      "pubDate": "2026-06-11T14:59:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "444ea7ae33e3",
+      "title": "La beta de macOS 27 fait disparaître Asahi Linux des Mac",
+      "description": "Mauvaise surprise pour les utilisateurs d'Asahi Linux, le projet qui fait tourner Linux nativement sur les Mac équipés de puces Apple Silicon (les fameuses M1, M2 et suivantes). La première beta développeur de macOS 27, alias \"Golden Gate\", distribuée le 8 juin juste après la keynote de la WWDC (la…",
+      "link": "https://korben.info/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac.html",
+      "pubDate": "2026-06-11T14:16:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef8c1b910ce8",
+      "title": "Half-Life tourne à 30 fps sur un Nokia N95 de 2007",
+      "description": "Un Nokia N95 qui fait tourner Half-Life à 30 images par seconde, avec la campagne solo complète, le son, les armes et même un clavier Bluetooth, voilà ce que montre la dernière démonstration de Dante Leoncini, un développeur argentin visiblement très patient. Pour resituer, Half-Life, c'est le jeu…",
+      "link": "https://korben.info/half-life-tourne-a-30-fps-sur-un-nokia-n95-de-2007.html",
+      "pubDate": "2026-06-11T13:55:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51cd5e701558",
+      "title": "DOF Simulator - Apprenez la profondeur de champ en jouant",
+      "description": "Vous avez pris une photo que vous aimez beaucoup... Bravo ! Sauf que tout est net du premier plan jusqu'au fond, et ça fait un peu photo de constat d'assurance. Vous avez vraiment du talent ^^ Alors comment faire quand on n'est pas un pro de la photo pour faire les meilleurs clichés ? Et bien c'est…",
+      "link": "https://korben.info/dof-simulator-profondeur-champ.html",
+      "pubDate": "2026-06-11T13:43:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dof-simulator-profondeur-champ/dof-simulator-profondeur-champ-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f133773480a",
+      "title": "Wattcycle dégrade ses batteries en douce une fois les tests YouTube passés",
+      "description": "La batterie Wattcycle LFP que Will Prowse avait démontée face caméra il y a quelques mois, avec ses barres de cuivre massif entre les cellules, ses câbles tressés sous gaine et son assemblage soigné digne de modèles deux fois plus chers, n'existe plus vraiment dans les cartons que reçoivent les…",
+      "link": "https://korben.info/wattcycle-degrade-ses-batteries-en-douce-une-fois-les-tests-youtube-passes.html",
+      "pubDate": "2026-06-11T13:24:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8bad0f8d327b",
+      "title": "Rackula - Le designer de rack serveur open source pour homelab",
+      "description": "Si vous avez un homelab, il vous arrive peut-être parfois de vous retrouver en galère parce qu'en essayant de caser un énième serveur dans votre baie, vous réalisez, trop tard, qu'il vous manque deux unités ou que le switch est monté à la mauvaise profondeur. Heureusement, Gareth Evans, un dev qui…",
+      "link": "https://korben.info/rackula-designer-rack-serveur-homelab.html",
+      "pubDate": "2026-06-11T11:25:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rackula-designer-rack-serveur-homelab/rackula-designer-rack-serveur-homelab-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d0900f52daef",
+      "title": "Surfshark VPN : regarder le sport de chez soi, même quand on est à l’autre bout du monde",
+      "description": "-- Article en partenariat avec Surfshark -- Il y a des gens qui voyagent avec une valise. D’autres seulement avec une tente et des chaussettes (si, j'en connais). D'autres encore avec un abonnement lié à leur pays d’origine. Et pour les fans de sport, c’est souvent la même galère : ils se…",
+      "link": "https://korben.info/surfshark-vpn-regarder-le-sport.html",
+      "pubDate": "2026-06-11T11:11:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/surfshark-vpn-regarder-le-sport/surfshark-vpn-regarder-le-sport-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "56ca1a2b2412",
+      "title": "Il s'est construit une station de radio FM sur mesure avec six scripts bash",
+      "description": "Une radio FM posée dans la cuisine, qui diffuse 24 heures sur 24 un programme fabriqué sur mesure, sans application, sans écran et sans abonnement : voilà le projet d'un bricoleur connu sous le pseudo Trwmato. Tout tient sur un Raspberry Pi Zero, ce mini ordinateur de la taille d'une carte de…",
+      "link": "https://korben.info/il-sest-construit-une-station-de-radio-fm-sur-mesure-avec-six-scripts-bash.html",
+      "pubDate": "2026-06-11T08:34:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1fc5f14e46f5",
       "title": "Entretien avec Yann Gourvennec : comment l’ABM concilie commerce et marketing pour les PME en B2B",
       "description": "Le marketing B2B est confronté à un besoin urgent de réévaluation. Yann Gourvennec souligne que l'ancien modèle de l'entonnoir de vente est obsolète et que l'Account-Based Marketing (ABM) est indispensable. L'accent doit être mis sur la qualité des leads et le développement de relations…",
