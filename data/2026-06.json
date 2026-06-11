@@ -2,6 +2,20 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "1fc5f14e46f5",
+      "title": "Entretien avec Yann Gourvennec : comment l’ABM concilie commerce et marketing pour les PME en B2B",
+      "description": "Le marketing B2B est confronté à un besoin urgent de réévaluation. Yann Gourvennec souligne que l'ancien modèle de l'entonnoir de vente est obsolète et que l'Account-Based Marketing (ABM) est indispensable. L'accent doit être mis sur la qualité des leads et le développement de relations…",
+      "link": "https://oliviersauvage.com/2026/06/11/entretien-avec-yann-gourvennec-comment-labm-concilie-commerce-et-marketing-pour-les-pme-en-b2b/",
+      "pubDate": "2026-06-11T07:56:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a091a74c43c3",
       "title": "Let’s Encrypt c’est cool, mais il est seul au monde",
       "description": "Ça fait plusieurs fois que je vois passer voire que je participe à des discussions sur les alternatives au service ultra-populaire maintenu par l’Internet Security [...]",
