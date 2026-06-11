@@ -18,6 +18,21 @@
       "type": "blog"
     },
     {
+      "id": "f1246b42205f",
+      "title": "Artemis III a son équipage, sa date et un petit problème, la mission n'ira pas sur la Lune",
+      "description": "La NASA a présenté les quatre astronautes d'Artemis III, la fameuse mission censée ramener des humains sur la Lune. Sauf que celle-là n'y posera pas le pied. Cap sur l'été 2027 pour deux semaines en orbite autour de la Terre, et non autour de la Lune. L'idée, c'est une répétition générale : tester…",
+      "link": "https://korben.info/artemis-iii-a-son-equipage-sa-date-et-un-petit-probleme-la-mission-nira-pas-sur-la-lune.html",
+      "pubDate": "2026-06-10T15:54:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "23908d12049c",
       "title": "Un ver informatique qui raisonne tout seul",
       "description": "La crainte n'est pas neuve. Mais cette fois la démonstration existe : une équipe réunissant l'université de Toronto, le Vector Institute, l'université de Cambridge et la division recherche de ServiceNow a dévoilé un logiciel malveillant capable de raisonner et de s'adapter seul à mesure qu'il…",
