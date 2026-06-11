@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "fe741a25d1cb",
+      "title": "eMule - Le grand retour de l'âne du P2P",
+      "description": "eMule ? Sérieusement ? Hé bien oui les amis, le célèbre mulet du P2P n'est pas encore mort de sa belle mort et en ce moment y'a un petit revival de cette bestiole du début des années 2000. C'est logique car les abonnements de streaming se fragmentent de plus en plus et coûtent un bras, les forums…",
+      "link": "https://korben.info/retour-emule-amule.html",
+      "pubDate": "2026-06-11T16:24:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/retour-emule-amule/retour-emule-amule-1.png",
+      "type": "blog"
+    },
+    {
       "id": "4b8933bf1892",
       "title": "ReactOS, le clone libre de Windows, fait enfin tourner Half-Life après trente ans de développement",
       "description": "ReactOS, le système d'exploitation libre qui recopie Windows brique par brique, fait désormais tourner Half-Life ( et oui, décidément c'est la journée ! ), le jeu de tir que Valve a sorti en 1998 et qui a propulsé toute une génération de joueurs dans les couloirs du complexe de Black Mesa. Et là,…",
