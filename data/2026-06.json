@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "24adb92dfe3b",
+      "title": "SteelSeries Sonar - L'alternative gratuite à Voicemeeter",
+      "description": "Si vous voulez mixer vos sources audio sous Windows sans y passer vos nuits en mode David Guetta, vous allez kiffer SteelSeries Sonar et enfin dire adieu à l'interface imbuvable de Voicemeeter et la configuration ultra-pénible d'Equalizer APO ! Ce logiciel de mixage virtuel, totalement gratuit,…",
+      "link": "https://korben.info/steelseries-sonar-alternative-voicemeeter.html",
+      "pubDate": "2026-06-12T06:23:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d95d0f49fc31",
+      "title": "Beszel - Le monitoring de serveur simple et ultra-léger",
+      "description": "Vous connaissez le duo Prometheus et Grafana ? C'est le grand classique pour surveiller ses serveurs, mais configurer tout ce bazar et le garder propre, c'est vite l'enfer. Alors pour ceux qui veulent juste garder un oeil sur leur homelab plutôt que de perdre le peu de cheveux qu'il leur reste à…",
+      "link": "https://korben.info/beszel-monitoring-serveur.html",
+      "pubDate": "2026-06-12T05:39:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/beszel-monitoring-serveur/beszel-monitoring-serveur-2.png",
+      "type": "blog"
+    },
+    {
       "id": "fe741a25d1cb",
       "title": "eMule - Le grand retour de l'âne du P2P",
       "description": "eMule ? Sérieusement ? Hé bien oui les amis, le célèbre mulet du P2P n'est pas encore mort de sa belle mort et en ce moment y'a un petit revival de cette bestiole du début des années 2000. C'est logique car les abonnements de streaming se fragmentent de plus en plus et coûtent un bras, les forums…",
