@@ -2,6 +2,20 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "00ef61babc41",
+      "title": "Pourquoi moins de trafic renvoyé par Google n’est pas une mauvaise nouvelle",
+      "description": "Depuis dix ans, Google réduit le trafic vers les sites web pour garder les utilisateurs sur ses services. Cette tendance, accentuée par l'IA, modifie les stratégies de communication et de SEO. Les entreprises doivent offrir des services en ligne et produire un contenu unique pour attirer un trafic…",
+      "link": "https://oliviersauvage.com/2026/06/12/pourquoi-moins-de-trafic-renvoye-par-google-nest-pas-une-mauvaise-nouvelle/",
+      "pubDate": "2026-06-12T08:01:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "24adb92dfe3b",
       "title": "SteelSeries Sonar - L'alternative gratuite à Voicemeeter",
       "description": "Si vous voulez mixer vos sources audio sous Windows sans y passer vos nuits en mode David Guetta, vous allez kiffer SteelSeries Sonar et enfin dire adieu à l'interface imbuvable de Voicemeeter et la configuration ultra-pénible d'Equalizer APO ! Ce logiciel de mixage virtuel, totalement gratuit,…",
