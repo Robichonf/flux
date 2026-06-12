@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "ccc26129d271",
+      "title": "Git 2.55 active Rust par défaut, et la fin du tout-C est déjà programmée",
+      "description": "Vingt et un ans après sa création par Linus Torvalds, Git amorce pour de bon son changement de langage. La première version de test de Git 2.55, publiée hier, active par défaut le code Rust dans le gestionnaire de versions le plus utilisé au monde, celui qui héberge l'historique d'à peu près tous…",
+      "link": "https://korben.info/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee.html",
+      "pubDate": "2026-06-12T12:44:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "00ef61babc41",
       "title": "Pourquoi moins de trafic renvoyé par Google n’est pas une mauvaise nouvelle",
       "description": "Depuis dix ans, Google réduit le trafic vers les sites web pour garder les utilisateurs sur ses services. Cette tendance, accentuée par l'IA, modifie les stratégies de communication et de SEO. Les entreprises doivent offrir des services en ligne et produire un contenu unique pour attirer un trafic…",
@@ -11,6 +26,36 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68d81824ed8b",
+      "title": "CorridorKey - Le détourage de fond vert par IA",
+      "description": "Détourer un sujet filmé sur un fond vert, c'est le cauchemar classique du compositing. Entre les cheveux rebelles, le flou de mouvement et cette satanée frange verte sur les bords, on y passe vite des heures. Faut dire que la plupart des outils de détourage automatiques actuels c'est de la merde,…",
+      "link": "https://korben.info/corridorkey.html",
+      "pubDate": "2026-06-12T07:40:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/corridorkey/corridorkey-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8dc7791bef1e",
+      "title": "DiffusionGemma : le nouveau modèle de Google écrit son texte d'un bloc, et 4 fois plus vite",
+      "description": "Plus de 1 000 tokens par seconde sur une seule carte H100, l'accélérateur que Nvidia vend aux centres de données, et environ 700 sur une RTX 5090, sa carte gaming haut de gamme. C'est le débit que Google DeepMind annonce pour DiffusionGemma, son nouveau modèle d'IA ouvert, à peu près quatre fois ce…",
+      "link": "https://korben.info/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite.html",
+      "pubDate": "2026-06-12T07:32:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
