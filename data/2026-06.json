@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5031d7a8ed51",
+      "title": "Trump veut couper Claude Fable 5 pour les étrangers - Anthropic coupe tout",
+      "description": "Vendredi soir, vers 23h heure de Paris, Anthropic a reçu un courrier du gouvernement américain. Trois heures plus tard, ses deux modèles d'IA les plus avancés étaient hors ligne. Partout. Pour tout le monde. Anthropic, c'est le concurrent direct d'OpenAI, la boîte derrière l'assistant Claude. Le 9…",
+      "link": "https://korben.info/trump-veut-couper-claude-fable-5-pour-les-etrangers-anthropic-coupe-tout.html",
+      "pubDate": "2026-06-13T05:46:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b4f4d140eccf",
       "title": "AUR Arch Linux - 400 paquets vérolés, êtes-vous touché ?",
       "description": "Si vous tournez sous Arch Linux et que vous piochez vos paquets dans l'AUR, lâchez ce que vous faites 2 minutes et lisez mon article. Car plus de 400 paquets de l'Arch User Repository ont été vérolés ce 11 juin, et le truc qu'ils embarquent ne rigole pas du tout. En effet, des chercheurs de…",
