@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "4a165ac8f880",
+      "title": "Des listes de cybercriminels à télécharger",
+      "description": "Si vous faites un peu de renseignements (OSINT) et que ce que vous cherchez, c'est des pseudos de cybercriminels, spmedia a un truc qui devrait vous plaire. Son repo GitHub Threat-Actor-Usernames-Scrape rassemble environ 773 000 pseudos uniques récupérés sur des forums de cybercriminels. C'est…",
+      "link": "https://korben.info/threat-actor-usernames-scrape-cybercriminels.html",
+      "pubDate": "2026-06-13T15:05:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/threat-actor-usernames-scrape-cybercriminels/threat-actor-usernames-scrape-cybercriminels-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "a899db452abf",
+      "title": "Grasp - Et si votre code ne dépendait plus d'une boîte ?",
+      "description": "Grasp , c'est une alternative décentralisée à GitHub, signée DanConwayDev, le dev derrière ngit. Ça carbure à Nostr , le protocole décentralisé de fiatjaf, et l'idée avec ce truc, c'est que votre identité de dev, ce n'est plus un compte avec un email et un mot de passe, mais juste une paire de clés…",
+      "link": "https://korben.info/grasp-protocol.html",
+      "pubDate": "2026-06-13T14:50:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/grasp-protocol/grasp-protocol-1.png",
+      "type": "blog"
+    },
+    {
       "id": "a020ffa041ef",
       "title": "Save Stargate - Les fans se mobilisent contre Amazon",
       "description": "Si, comme moi, vous êtes un grand fan de la série Stargate , accrochez-vous bien parce que la Porte des Etoiles secoue plutôt pas mal ces derniers jours. J'sais pas si vous saviez mais en novembre dernier, Amazon avait annoncé une nouvelle série, confiée à Martin Gero (un vétéran de la franchise).…",
