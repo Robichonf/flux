@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "a9c1da145842",
+      "title": "CrankGPT : l'IA à manivelle qui se mérite à la force des bras",
+      "description": "CrankGPT vous connaissez ? Elle fait tourner un assistant vocal complet, reconnaissance de la voix comprise, sans prise murale, sans batterie et sans serveur distant, et pour l'alimenter vous tournez une manivelle dont la résistance grimpe quand le modèle réfléchit. Derrière, deux anciens de…",
+      "link": "https://korben.info/crankgpt-lia-a-manivelle-qui-se-merite-a-la-force-des-bras.html",
+      "pubDate": "2026-06-14T14:50:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5d39f251abbc",
+      "title": "Une IA a trouvé les failles que ma QA ne voyait plus",
+      "description": "Une IA a trouvé sur mon site les failles que ma QA ne voyait plus : des garde-fous bien présents, mais qui ne s'exécutaient jamais.",
+      "link": "https://lecodeestdanslepre.fr/billets/une-ia-a-trouve-les-failles-que-ma-qa-ne-voyait-plus",
+      "pubDate": "2026-06-14T13:23:36.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "4a165ac8f880",
       "title": "Des listes de cybercriminels à télécharger",
       "description": "Si vous faites un peu de renseignements (OSINT) et que ce que vous cherchez, c'est des pseudos de cybercriminels, spmedia a un truc qui devrait vous plaire. Son repo GitHub Threat-Actor-Usernames-Scrape rassemble environ 773 000 pseudos uniques récupérés sur des forums de cybercriminels. C'est…",
