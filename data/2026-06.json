@@ -2,6 +2,51 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5563e0d0a0bf",
+      "title": "Google Earth - Un simulateur de vol planqué dans un menu",
+      "description": "Google a planqué un vrai petit simulateur de vol dans Google Earth, et quasiment personne n'en a parlé encore... C'est tout en bas du menu Tools, une option \"Flight simulator\" estampillée \"Experimental\". Vous cliquez dessus, et hop, vous voilà aux commandes d'un avion au-dessus de n'importe quel…",
+      "link": "https://korben.info/google-earth-simulateur-vol-cache.html",
+      "pubDate": "2026-06-15T16:39:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/google-earth-simulateur-vol-cache/google-earth-simulateur-vol-cache-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "003c6cd45b46",
+      "title": "Reconstituer l'écran d'une radio médicale avec une électrode de soudure",
+      "description": "Un bricoleur, MarcellF , s'est mis en tête de produire lui-même l'écran fluorescent qui rend les rayons X visibles. Le genre de composant qu'on imagine sorti d'un labo d'imagerie. Sauf qu'il y est parvenu dans son atelier, en mélangeant des sels dans des creusets. Le principe d'une radio est en…",
+      "link": "https://korben.info/reconstituer-lecran-dune-radio-medicale-avec-une-electrode-de-soudure.html",
+      "pubDate": "2026-06-15T15:23:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1599abc067cb",
+      "title": "dnsweaver - DNS automatique pour Docker, Proxmox et K8s",
+      "description": "Si vous hébergez vos propres services derrière une IP dynamique, vous connaissez sans doute des outils merveilleux comme DynDNS, NoIP, ou encore Cloudflare DDNS. Sauf que dès que votre homelab mélange du Docker, du Proxmox et un cluster Kubernetes, ça devient vite le bordel à maintenir ! Mais…",
+      "link": "https://korben.info/dnsweaver-dns-automatique-homelab.html",
+      "pubDate": "2026-06-15T13:55:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9bd887a4bbe7",
       "title": "Sensefuel : la solution d’IA qui personnalise la recherche et la découverte produits pour l’e-commerce",
       "description": "Sensefuel est une plateforme d'intelligence artificielle qui aide les e-commerçants à offrir une expérience d'achat personnalisée et efficace. Elle améliore la recherche, la conversation et les recommandations de produits, augmentant ainsi les taux de conversion. Adaptée à toutes les tailles…",
