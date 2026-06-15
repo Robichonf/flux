@@ -2,6 +2,127 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "9bd887a4bbe7",
+      "title": "Sensefuel : la solution d’IA qui personnalise la recherche et la découverte produits pour l’e-commerce",
+      "description": "Sensefuel est une plateforme d'intelligence artificielle qui aide les e-commerçants à offrir une expérience d'achat personnalisée et efficace. Elle améliore la recherche, la conversation et les recommandations de produits, augmentant ainsi les taux de conversion. Adaptée à toutes les tailles…",
+      "link": "https://oliviersauvage.com/2026/06/15/sensefuel-la-solution-dia-qui-personnalise-la-recherche-et-la-decouverte-produits-pour-le-commerce/",
+      "pubDate": "2026-06-15T12:02:58.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a5357ec3524d",
+      "title": "Régie des eaux US piratée - Le bluff iranien de Handala",
+      "description": "Handala, un groupe de hackers liés à l'Iran, vient d'annoncer qu'il aurait pu couper l'eau de 2 millions de Californiens. Le groupe a en effet piraté California Water Service et balancé 5 Go de données pour le prouver.... Mais bon, peu importe ce qu'ils disent, la vérité c'est que non, il n'aurait…",
+      "link": "https://korben.info/handala-piratage-regie-eau-californie.html",
+      "pubDate": "2026-06-15T10:30:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f497f6374da9",
+      "title": "RAMwavDroid - Et si on écoutait les malwares Android ?",
+      "description": "Si vous faites un peu de reverse engineering sous Android, vous savez que les malwares modernes font absolument tout ce qu'ils peuvent pour planquer leurs mauvaises intentions, un peu comme vos parents toxiques... Code obfusqué, chargement dynamique, packing...etc, etc. Mais c'était sans compter…",
+      "link": "https://korben.info/malware-android-detection-audio-ramwavdroid.html",
+      "pubDate": "2026-06-15T10:15:10.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/malware-android-detection-audio-ramwavdroid/malware-android-detection-audio-ramwavdroid-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "51e667badeca",
+      "title": "Ironsmith - Décrivez votre app Mac et l'IA la forgera",
+      "description": "Si vous êtes sous macOS, vous avez peut-être une petite app en tête, un truc tout bête que vous cherchez depuis des années sur Korben.info ou ailleurs sans jamais le trouver. Par exemple une app pour renommer des dossiers de captures par date et titre de fenêtre, ou pour splitter régulièrement des…",
+      "link": "https://korben.info/ironsmith-generer-apps-mac-ia.html",
+      "pubDate": "2026-06-15T09:39:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ironsmith-generer-apps-mac-ia/ironsmith-generer-apps-mac-ia-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "0f60a27b3f23",
+      "title": "Interagir avec une boîte mail en Node.js avec ImapFlow et MailParser",
+      "description": "Découvrez comment lire et traiter les emails d’une boîte mail en Node.js avec ImapFlow et MailParser, en utilisant IMAP pour récupérer les messages.",
+      "link": "https://code-garage.com/blog/interagir-avec-une boite-mail-en-nodejs-avec-imapflow-et-mailparser",
+      "pubDate": "2026-06-15T07:46:04.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "10d6533c2a84",
+      "title": "Pac-Hunt - Vengez enfin les fantômes de Pac-Man",
+      "description": "Je ne sais pas si vous avez déjà joué à Pac-Man parce que c'est quand même un bon vieux jeu de boomer, mais si c'est le cas, vous avez peut-être déjà ressenti un peu de peine pour ces petits fantômes qui se font avaler tout cru par ce déglingot de Pac-Man. Non ? Bah Garrit Franke, oui. Du coup il a…",
+      "link": "https://korben.info/pac-hunt-pac-man-inverse.html",
+      "pubDate": "2026-06-15T07:37:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pac-hunt-pac-man-inverse/pac-hunt-pac-man-inverse-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "92503fa01845",
+      "title": "TechReady 2026 : l'IA rebat les cartes du software engineering",
+      "description": "Retour d'expérience collectif Ippon sur TechReady 2026 (Nantes) : l'AI-Driven Development face à la réalité du delivery. Cinq enseignements sur les agents de code, le context engineering, le coût des tokens et la responsabilité humaine.",
+      "link": "https://blog.ippon.fr/2026/06/15/techready-2026-ia-software-engineering/",
+      "pubDate": "2026-06-15T07:12:45.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/20260605_164002.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "08f82545b289",
+      "title": "Liens Tech - Juin 2026",
+      "description": "La sélection du mois : 2FA auto-hébergé, WAF open source, gestion de photos, bibliothèque d'ISO, monitoring de ports et une plateforme de challenges cybersécurité de l'ANSSI.",
+      "link": "https://domopi.eu/liens-tech-juin-2026/",
+      "pubDate": "2026-06-15T05:45:08.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "a9c1da145842",
       "title": "CrankGPT : l'IA à manivelle qui se mérite à la force des bras",
       "description": "CrankGPT vous connaissez ? Elle fait tourner un assistant vocal complet, reconnaissance de la voix comprise, sans prise murale, sans batterie et sans serveur distant, et pour l'alimenter vous tournez une manivelle dont la résistance grimpe quand le modèle réfléchit. Derrière, deux anciens de…",
