@@ -2,6 +2,66 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "aef3d201aee3",
+      "title": "Age of LLM - Un Age of Empires où aucun humain ne joue",
+      "description": "Vous voulez savoir comment GPT-5.5, Claude ou Grok raisonnent quand on les met sous pression ? Hé bien filez-leur un jeu de stratégie et regardez-les se faire la guerre. C'est tout le principe d' Age of LLM , monté par Rymentz, un lecteur du blog où deux IA s'affrontent au tour par tour, sans aucun…",
+      "link": "https://korben.info/age-of-llm-ia-strategie-sans-humains.html",
+      "pubDate": "2026-06-16T08:10:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/age-of-llm-ia-strategie-sans-humains/age-of-llm-ia-strategie-sans-humains-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "40f746c0c415",
+      "title": "FIFA - Un hacker pouvait rickroller le Mondial 2026 en direct",
+      "description": "Avis aux fans de foot parmi vous qui comptent regarder cette Coupe du Monde 2026, j'ai une bonne et une mauvaise nouvelle à vous annoncer ! Non, je déconne, je n'ai que des mauvaises nouvelles à vous annoncer ! La première, c'est qu'un chercheur en sécurité qui se fait appeler BobDaHacker s'est…",
+      "link": "https://korben.info/fifa-faille-streaming-mondial-2026.html",
+      "pubDate": "2026-06-16T07:53:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/fifa-faille-streaming-mondial-2026/fifa-faille-streaming-mondial-2026-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "771bd9b6a038",
+      "title": "Episteme - Le lecteur d'ebooks libre qui lit (vraiment) tout",
+      "description": "Le monde des liseuses, c'est un monde impitoyaaaable. Entre les Kobo, les Kindle, les tablettes chinoises ou encore les formats proprio des ebooks et leurs DRM à la con, c'est super difficile de faire le bon choix. Puis ça coûte cher aussi ces petits trucs... Alors si vous visez les économies,…",
+      "link": "https://korben.info/episteme-lecteur-ebooks-open-source.html",
+      "pubDate": "2026-06-16T06:52:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/episteme-lecteur-ebooks-open-source/episteme-lecteur-ebooks-open-source-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "6a46237c9113",
+      "title": "MOTHER 1 sur SNES - le remake que Nintendo n'a jamais fait",
+      "description": "EarthBound Beginnings Remake est à l'origine un projet entre potes qui traine depuis 19 ans et qui youpi !, vient enfin de voir le jour ! Il s'agit d'un ROM hack mené par un certain Gabbls, qui recrée MOTHER, le tout premier jeu de la série EarthBound, en 16-bit sur le même moteur que celui…",
+      "link": "https://korben.info/mother-1-snes-earthbound-patch.html",
+      "pubDate": "2026-06-16T06:41:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3bda604ef83e",
       "title": "Oracle divise par deux son offre ARM gratuite, sans prévenir",
       "description": "Si vous faites tourner un petit serveur gratuit chez Oracle, je vous invite prestement, comme dirait Godefroy, à aller vérifier votre compte. Car oui mes amis, Oracle vient de diviser par deux son offre \"Always Free\" sur les machines ARM, et ils l'ont fait sans prévenir personne. Bouuuuuh ! Cela…",
