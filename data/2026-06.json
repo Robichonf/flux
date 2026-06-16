@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3bda604ef83e",
+      "title": "Oracle divise par deux son offre ARM gratuite, sans prévenir",
+      "description": "Si vous faites tourner un petit serveur gratuit chez Oracle, je vous invite prestement, comme dirait Godefroy, à aller vérifier votre compte. Car oui mes amis, Oracle vient de diviser par deux son offre \"Always Free\" sur les machines ARM, et ils l'ont fait sans prévenir personne. Bouuuuuh ! Cela…",
+      "link": "https://korben.info/oracle-cloud-always-free-arm-reduit.html",
+      "pubDate": "2026-06-15T21:17:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5563e0d0a0bf",
       "title": "Google Earth - Un simulateur de vol planqué dans un menu",
       "description": "Google a planqué un vrai petit simulateur de vol dans Google Earth, et quasiment personne n'en a parlé encore... C'est tout en bas du menu Tools, une option \"Flight simulator\" estampillée \"Experimental\". Vous cliquez dessus, et hop, vous voilà aux commandes d'un avion au-dessus de n'importe quel…",
