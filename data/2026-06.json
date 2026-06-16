@@ -2,6 +2,95 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "7c6c75add919",
+      "title": "TimeTonic : la plateforme no-code pour numériser, automatiser et simplifier le travail des entreprises",
+      "description": "TimeTonic est une solution no-code qui aide les entreprises à numériser et automatiser leurs processus sans compétences techniques. Elle centralise les données, facilite la collaboration et permet une personnalisation illimitée. Compatible avec de nombreuses applications, elle offre une interface…",
+      "link": "https://oliviersauvage.com/2026/06/16/timetonic-la-plateforme-no-code-pour-numeriser-automatiser-et-simplifier-le-travail-des-entreprises/",
+      "pubDate": "2026-06-16T13:02:44.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8eaf9b670b04",
+      "title": "Test du Dreo TurboCool 516S : je n’ai plus peur de la canicule",
+      "description": "– Contient des liens affiliés Amazon – J'ai posé le Dreo TurboCool 516S sur mon bureau au début de la vague de chaleur, et c'est vite devenu mon arme anti-canicule pour bosser. Ce n'est ni un ventilateur classique, ni un de ces brumisateurs de terrasse qui finissent par coller les touches du…",
+      "link": "https://korben.info/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule.html",
+      "pubDate": "2026-06-16T12:32:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule/test-du-dreo-turbocool-516s-je-nai-plus-peur-de-la-canicule-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "dd85a5e3649a",
+      "title": "OpenCAL - Imprimer un objet en quelques secondes, sans la moindre couche",
+      "description": "Une équipe issue de l'université de Berkeley vient de publier OpenCAL, une version libre et documentée d'une technique d'impression 3D qui ne ressemble à rien de ce qu'on connaît, et le projet est désormais reproductible chez soi avec des composants qu'on trouve dans le commerce. Le principe porte…",
+      "link": "https://korben.info/opencal-imprimer-un-objet-en-quelques-secondes-sans-la-moindre-couche.html",
+      "pubDate": "2026-06-16T10:22:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2e61d46cd17a",
+      "title": "Une veste qui fabrique de l'eau potable à partir de l'air, comme dans Dune",
+      "description": "Des ingénieurs de l'université du Texas à Austin ont mis au point un vêtement qui tire de l'eau potable directement de l'air ambiant, sans réservoir à remplir ni source à proximité, simplement grâce au tissu dont il est fait. Le travail, mené par Guihua Yu et son équipe de la Cockrell School of…",
+      "link": "https://korben.info/une-veste-qui-fabrique-de-leau-potable-a-partir-de-lair-comme-dans-dune.html",
+      "pubDate": "2026-06-16T09:13:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/une-veste-qui-fabrique-de-leau-potable-a-partir-de-lair-comme-dans-dune/une-veste-qui-fabrique-de-leau-potable-a-partir-de-lair-comme-dans-dune-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "87cce01e1697",
+      "title": "Une seule commande, et votre Surface se transformait en presse-papier",
+      "description": "Une seule petite ligne de code envoyée au mauvais endroit pouvait transformer un Surface Laptop en bloc de métal inutilisable. C'est sur cette faille que Microsoft a discrètement travaillé pendant trois mois, avant qu'elle ne soit rendue publique le 12 juin. L'histoire commence de façon assez…",
+      "link": "https://korben.info/une-seule-commande-et-votre-surface-se-transformait-en-presse-papier.html",
+      "pubDate": "2026-06-16T09:00:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8450ff31f07e",
+      "title": "GeoFS - Le simulateur de vol gratuit qui tourne dans le navigateur",
+      "description": "Vous avez aimé le simulateur de vol planqué dans la version web de Google Earth ? Alors GeoFS risque de vous scotcher pour de bon ! GeoFS, c'est un simulateur de vol entièrement gratuit développé par le Français Xavier Tassin, qui tourne directement dans votre navigateur. Vous ouvrez geo-fs.com ,…",
+      "link": "https://korben.info/geofs-simulateur-vol-navigateur.html",
+      "pubDate": "2026-06-16T08:30:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/geofs-simulateur-vol-navigateur/geofs-simulateur-vol-navigateur-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "aef3d201aee3",
       "title": "Age of LLM - Un Age of Empires où aucun humain ne joue",
       "description": "Vous voulez savoir comment GPT-5.5, Claude ou Grok raisonnent quand on les met sous pression ? Hé bien filez-leur un jeu de stratégie et regardez-les se faire la guerre. C'est tout le principe d' Age of LLM , monté par Rymentz, un lecteur du blog où deux IA s'affrontent au tour par tour, sans aucun…",
