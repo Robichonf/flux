@@ -151,6 +151,21 @@
       "type": "blog"
     },
     {
+      "id": "619aa8599d93",
+      "title": "Vibe coding : le garde-fou n'est pas là où on l'a mis",
+      "description": "Analyse des ratés de 2025-2026 : IA en boutique, chatbot BMW, inventaire Starbucks. Où se situe le vrai risque : code, archi, ou décision ? 3 marches de la délégation IA.",
+      "link": "https://lecodeestdanslepre.fr/billets/vibe-coding-garde-fou",
+      "pubDate": "2026-06-16T06:10:36.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3bda604ef83e",
       "title": "Oracle divise par deux son offre ARM gratuite, sans prévenir",
       "description": "Si vous faites tourner un petit serveur gratuit chez Oracle, je vous invite prestement, comme dirait Godefroy, à aller vérifier votre compte. Car oui mes amis, Oracle vient de diviser par deux son offre \"Always Free\" sur les machines ARM, et ils l'ont fait sans prévenir personne. Bouuuuuh ! Cela…",
