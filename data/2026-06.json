@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "8ee86f4a3347",
+      "title": "Commodore Callback 8020 - Le flip phone anti-réseaux sociaux",
+      "description": "Commodore est de retour les amis ! Et pas avec une énième réédition miniaturisé avec IA du C64. Non, la marque, rachetée l'an dernier par le YouTubeur Peri Fractic devenu maintenant son PDG, sort un téléphone à clapet ! Un vrai de vrai de boomer qui se ferme d'un coup sec quand vous en avez marre…",
+      "link": "https://korben.info/commodore-callback-8020.html",
+      "pubDate": "2026-06-16T16:10:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/commodore-callback-8020/commodore-callback-8020-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "7b019f2fd8c2",
+      "title": "Le FBI a bâti une fausse ville entière dans un hangar, juste pour la pirater",
+      "description": "Le FBI possède sa propre ville, sauf que personne n'y habite, et pour cause, elle a été montée de toutes pièces dans un hangar de Huntsville, en Alabama, avec ses maisons meublées, son hôtel, sa station-service, son épicerie, son tribunal, son hôpital et jusqu'à sa compagnie d'électricité, le tout…",
+      "link": "https://korben.info/le-fbi-a-bati-une-fausse-ville-entiere-dans-un-hangar-juste-pour-la-pirater.html",
+      "pubDate": "2026-06-16T14:01:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7c6c75add919",
       "title": "TimeTonic : la plateforme no-code pour numériser, automatiser et simplifier le travail des entreprises",
       "description": "TimeTonic est une solution no-code qui aide les entreprises à numériser et automatiser leurs processus sans compétences techniques. Elle centralise les données, facilite la collaboration et permet une personnalisation illimitée. Compatible avec de nombreuses applications, elle offre une interface…",
