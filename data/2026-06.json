@@ -2,6 +2,35 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "d1fc76fb0ddd",
+      "title": "Un Yoshi tout n'œuf",
+      "description": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Sûrement un des dinosaures les plus connus de toute la planète, il est vert mais ce n'est pas Denver... Je parle de Yoshi bien sûr ! Fidèle ami et destrier de Mario. Un de nos personnages favoris de chez Nintendo. Le voilà de retour…",
+      "link": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test.html",
+      "pubDate": "2026-06-17T10:17:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/avis-yoshi-et-le-livre-mysterieux-test/avis-yoshi-et-le-livre-mysterieux-test-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e302555c1b67",
+      "title": "Skapánê : l’hyper-automatisation intelligente qui transforme vos processus métiers grâce à l’IA",
+      "description": "Skapánê est une solution SaaS d’hyper-automatisation dédiée aux entreprises, notamment dans les secteurs de la banque et de l’assurance. Elle vise à optimiser les processus métiers en réduisant les coûts et les délais de traitement, tout en garantissant la conformité réglementaire et en luttant…",
+      "link": "https://oliviersauvage.com/2026/06/17/skapane-lhyper-automatisation-intelligente-qui-transforme-vos-processus-metiers-grace-a-lia/",
+      "pubDate": "2026-06-17T08:00:00.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "28e594d2103e",
       "title": "UX Insight : L’UX Research face au miroir de l’IA et du Business Design",
       "description": "UX Research face à l'IA et au Business Design : découvrez le décryptage et les insights clés de 5 talks marquants du festival UXinsight.",
