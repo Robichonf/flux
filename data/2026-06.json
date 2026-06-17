@@ -2,6 +2,38 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "28e594d2103e",
+      "title": "UX Insight : L’UX Research face au miroir de l’IA et du Business Design",
+      "description": "UX Research face à l'IA et au Business Design : découvrez le décryptage et les insights clés de 5 talks marquants du festival UXinsight.",
+      "link": "https://blog.ippon.fr/2026/06/17/ux-insight-lux-research-face-au-miroir-de-lia-et-du-business-design/",
+      "pubDate": "2026-06-17T07:03:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/5e0f05d6-d94d-4fb3-9def-22eb5c3d09be.png",
+      "type": "blog"
+    },
+    {
+      "id": "2b3bb56f1366",
+      "title": "Le vieux Pixel de votre tiroir vaut peut-être mieux qu'un serveur",
+      "description": "Des chercheurs de l'université de Californie à San Diego, épaulés par Google, viennent de prouver un truc contre-intuitif : un Pixel mis au rebut il y a trois ans tient encore tête à un serveur professionnel sur certains calculs, au point qu'on peut en assembler un vrai data center au lieu de le…",
+      "link": "https://korben.info/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur.html",
+      "pubDate": "2026-06-17T06:53:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur/le-vieux-pixel-de-votre-tiroir-vaut-peut-etre-mieux-quun-serveur-1.png",
+      "type": "blog"
+    },
+    {
       "id": "8ee86f4a3347",
       "title": "Commodore Callback 8020 - Le flip phone anti-réseaux sociaux",
       "description": "Commodore est de retour les amis ! Et pas avec une énième réédition miniaturisé avec IA du C64. Non, la marque, rachetée l'an dernier par le YouTubeur Peri Fractic devenu maintenant son PDG, sort un téléphone à clapet ! Un vrai de vrai de boomer qui se ferme d'un coup sec quand vous en avez marre…",
