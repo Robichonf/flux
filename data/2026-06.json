@@ -2,6 +2,51 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "adf81f64af45",
+      "title": "Tapo C675D KIT - 2 objectifs 4K et zéro angle mort",
+      "description": "-- Article en partenariat avec Tapo -- La Tapo C675D KIT de TP-Link est une caméra de surveillance solaire qui vient de sortie, avec un truc qu'on voit rarement à ce tarif : 2 objectifs 4K.",
+      "link": "https://korben.info/tapo-c675d-kit-camera-solaire-dual-4k.html",
+      "pubDate": "2026-06-18T07:54:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/tapo-c675d-kit-camera-solaire-dual-4k/tapo-c675d-kit-camera-solaire-dual-4k-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c93fef0974c0",
+      "title": "75 000 pare-feu Fortinet siphonnés : l'attaque FortiBleed touche la moitié du parc mondial",
+      "description": "Environ 75 000 pare-feu Fortinet ont vu leurs identifiants de connexion volés puis vérifiés un par un, des FortiGate, ces boîtiers qui filtrent l'accès au réseau des entreprises et servent très souvent de porte d'entrée VPN pour les salariés en télétravail. Baptisée FortiBleed par les chercheurs…",
+      "link": "https://korben.info/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial.html",
+      "pubDate": "2026-06-18T07:21:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a74d9402d91e",
+      "title": "Qwen-Robot Suite - Alibaba donne un corps à son IA",
+      "description": "Voici une news concernant l'intelligence artificielle, qui je pense devrait vous plaire si vous vous intéressez à la robotique. Alibaba qu'on ne présente plus, vient de sortir sa Qwen-Robot Suite, 3 modèles IA signés Tongyi Lab (les gens derrière Qwen ) imaginé pour donner un corps à l'IA. Parce…",
+      "link": "https://korben.info/qwen-robot-suite-ia-robotique.html",
+      "pubDate": "2026-06-18T06:56:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/qwen-robot-suite-ia-robotique/qwen-robot-suite-ia-robotique-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "982366c0b855",
       "title": "Le X-59 de la NASA vole plus vite que le son, mais sans le bang qui va avec",
       "description": "Le 12 juin, l'avion expérimental X-59 de la NASA a filé à Mach 1,4, soit environ 1 490 km/h, à 17 000 mètres d'altitude. Et au sol, silence. La quête du silence quand on travaille sur un avion qui dépasse le mur du son, c'est étonnant, et pourtant... Normalement, dès qu'un avion dépasse la vitesse…",
