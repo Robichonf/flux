@@ -2,6 +2,98 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "6541ba763b3b",
+      "title": "EQ-Bench - Le benchmark de l'intelligence émotionnelle des IA",
+      "description": "Sam Paech s'est rendu compte qu'on testait toujours les IA sur le code, les maths, et à qui battra un prochain record , mais presque jamais sur leur capacité à comprendre les émotions humaines ou à pondre un texte qui ne sente pas le slop de bot à plein nez. Et c'est pour ça qu'il a monté EQ-Bench…",
+      "link": "https://korben.info/eqbench-intelligence-emotionnelle-ia.html",
+      "pubDate": "2026-06-19T10:01:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/eqbench-intelligence-emotionnelle-ia/eqbench-intelligence-emotionnelle-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "64bd5edd9516",
+      "title": "Un bug qui gèle l'écran des portables AMD sous Linux traîne depuis 2017, et c'est Claude qui a aidé à le corriger",
+      "description": "Si vous utilisez un ordinateur portable à puce graphique AMD Radeon sous Linux, vous avez peut-être déjà vu l'écran se figer d'un coup, sans raison apparente, à peu près une fois par semaine. Ce bug agace les utilisateurs depuis des années, et un correctif vient enfin de pointer le bout de son nez.…",
+      "link": "https://korben.info/un-bug-qui-gele-lecran-des-portables-amd-sous-linux-traine-depuis-2017-et-cest-claude-qui-a-aide-a-le-corriger.html",
+      "pubDate": "2026-06-19T09:47:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/un-bug-qui-gele-lecran-des-portables-amd-sous-linux-traine-depuis-2017-et-cest-claude-qui-a-aide-a-le-corriger/un-bug-qui-gele-lecran-des-portables-amd-sous-linux-traine-depuis-2017-et-cest-claude-qui-a-aide-a-le-corriger-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "43b5b7fa4fb8",
+      "title": "Un mini radar à avions open source à poser sur son bureau",
+      "description": "Un petit boîtier rond, un écran circulaire de 240 pixels de côté, et une seule chose affichée dessus : les avions qui passent au-dessus de votre tête en temps réel. C'est Micro Radar, un projet open source signé Anthony Sturdy, un développeur basé à Londres qui l'a bricolé comme cadeau de mariage…",
+      "link": "https://korben.info/un-mini-radar-a-avions-open-source-a-poser-sur-son-bureau.html",
+      "pubDate": "2026-06-19T08:01:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/un-mini-radar-a-avions-open-source-a-poser-sur-son-bureau/un-mini-radar-a-avions-open-source-a-poser-sur-son-bureau-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "96bf4aaa1cbf",
+      "title": "Windows NT sur GameCube - Parce que pourquoi pas",
+      "description": "La GameCube, on la connaît pour avoir fait tourner la meilleure version de Smash Bros et pour son look de petit cube vaguement \"rectangulaire\". Mais on ne la connait pas vraiment pour faire tourner un système d'exploitation de bureau du milieu des années 90. Et pourtant, une bande de bidouilleurs…",
+      "link": "https://korben.info/windows-nt-nintendo-gamecube.html",
+      "pubDate": "2026-06-19T07:29:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/windows-nt-nintendo-gamecube/windows-nt-nintendo-gamecube-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "86411a213f60",
+      "title": "Skills IA : le guide complet pour comprendre leur cycle de vie",
+      "description": "Skills IA mal testées, mises à jour silencieuses, régressions invisibles : ce guide couvre le cycle de vie complet d'un SKILL.md — du design à l'archivage — avec des evals reproductibles en 3 couches.",
+      "link": "https://blog.ippon.fr/2026/06/19/cycle-de-vie-skill-ia-guide-complet/",
+      "pubDate": "2026-06-19T07:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/HEADER.png",
+      "type": "blog"
+    },
+    {
+      "id": "b7e0161b6715",
+      "title": "Super Mario 64 enfin sur Nintendo DS avec un mode coop",
+      "description": "À tous les nostalgiques de la Nintendo 64 et notamment de Super Mario 64, j'ai un petit truc cool à vous montrer. Tobi Friedly vient de sortir un portage du jeu sur Nintendo DS, et pas n'importe lequel, puisque celui-ci tourne sur la vraie console de 2004, et pas seulement sur la DSi qui embarquait…",
+      "link": "https://korben.info/nintendo-ds-port-super-mario-64-multijoueur.html",
+      "pubDate": "2026-06-19T06:51:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/nintendo-ds-port-super-mario-64-multijoueur/nintendo-ds-port-super-mario-64-multijoueur-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "632f7f2868e8",
       "title": "Entreprises B2B : comment apparaître dans les moteurs de recherche IA ?",
       "description": "L'utilisation croissante des IA pour informer les acheteurs B2B souligne l'importance de la gestion de l'image de marque en ligne. Les entreprises doivent optimiser leur contenu pour être visibles et crédibles auprès des IA, en tenant compte des informations provenant de leurs sites, réseaux…",
