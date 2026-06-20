@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "85825023a86c",
+      "title": "SAMDUO propose une batterie domestique ultra fine",
+      "description": "D'habitude, une batterie domestique, c'est un gros bloc qu'on planque à la cave ou au garage. SAMDUO prend le contre-pied avec sa gamme Nex, présentée cette semaine à Amsterdam, et veut en faire un objet qu'on assume de laisser à la vue de tous. Le modèle E6000 ressemble à un grand cadre fixé au…",
+      "link": "https://korben.info/samduo-propose-une-batterie-domestique-ultra-fine.html",
+      "pubDate": "2026-06-20T09:47:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/samduo-propose-une-batterie-domestique-ultra-fine/samduo-propose-une-batterie-domestique-ultra-fine-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "6541ba763b3b",
       "title": "EQ-Bench - Le benchmark de l'intelligence émotionnelle des IA",
       "description": "Sam Paech s'est rendu compte qu'on testait toujours les IA sur le code, les maths, et à qui battra un prochain record , mais presque jamais sur leur capacité à comprendre les émotions humaines ou à pondre un texte qui ne sente pas le slop de bot à plein nez. Et c'est pour ça qu'il a monté EQ-Bench…",
