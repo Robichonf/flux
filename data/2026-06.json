@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "28d7e3b27e43",
+      "title": "Fatigue informationnelle - Quand fuir l'actu n'est pas une faiblesse",
+      "description": "Je ne lis pas les médias d'actu, et je ne vais quasiment plus sur les réseaux sociaux. Pas par flemme, mais parce qu'à force, je ne voyais plus le monde QUE par le prisme des mauvaises nouvelles et de la négativité (sans parler de la connerie humaine omniprésente mais ça c'est un autre sujet...…",
+      "link": "https://korben.info/fatigue-informationnelle-eviter-mauvaises-nouvelles.html",
+      "pubDate": "2026-06-21T16:45:56.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd00369a122d",
+      "title": "Robots humanoïdes - On attend vraiment qu'il y ait un mort ?",
+      "description": "Je sais pas si vous vous intéressez un petit peu à la robotique, mais cette semaine il y a eu deux vidéos qui sont sorties et je voudrais réagir par rapport à ça. La première, c'est lors d'une démonstration dans la rue d'un robot qui a un moment lève la jambe et éclate le ventre d'un enfant qui se…",
+      "link": "https://korben.info/robots-humanoides-on-attend-vraiment-quil-y-ait-un-mort.html",
+      "pubDate": "2026-06-21T14:16:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b6a077e63afd",
       "title": "F-15 Strike Eagle II - Le simulateur de 1989 cherche des pilotes d'essai",
       "description": "Je ne me lasse jamais de tous ces projets qui ressuscitent des vieux jeux. Et celui dont je vais vous parler aujourd'hui, c'est à neuviemeporte qu'on le doit. Celui-ci s'est donné pour mission de reconstruire ligne de code par ligne de code, ce bon vieux F-15 Strike Eagle II, le simulateur de vol…",
