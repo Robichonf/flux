@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "b6a077e63afd",
+      "title": "F-15 Strike Eagle II - Le simulateur de 1989 cherche des pilotes d'essai",
+      "description": "Je ne me lasse jamais de tous ces projets qui ressuscitent des vieux jeux. Et celui dont je vais vous parler aujourd'hui, c'est à neuviemeporte qu'on le doit. Celui-ci s'est donné pour mission de reconstruire ligne de code par ligne de code, ce bon vieux F-15 Strike Eagle II, le simulateur de vol…",
+      "link": "https://korben.info/f15-strike-eagle-2-reverse-engineering.html",
+      "pubDate": "2026-06-21T10:27:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/f15-strike-eagle-2-reverse-engineering/f15-strike-eagle-2-reverse-engineering-2.png",
+      "type": "blog"
+    },
+    {
       "id": "85825023a86c",
       "title": "SAMDUO propose une batterie domestique ultra fine",
       "description": "D'habitude, une batterie domestique, c'est un gros bloc qu'on planque à la cave ou au garage. SAMDUO prend le contre-pied avec sa gamme Nex, présentée cette semaine à Amsterdam, et veut en faire un objet qu'on assume de laisser à la vue de tous. Le modèle E6000 ressemble à un grand cadre fixé au…",
