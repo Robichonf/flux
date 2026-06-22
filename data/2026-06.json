@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3a63dbf3aac1",
+      "title": "Une ampoule connectée transformée en bibliothèque clandestine de livres interdits",
+      "description": "Aux États-Unis, la guerre contre les livres ne se joue plus seulement dans les conseils d'administration des écoles, mais désormais aussi à l'intérieur d'une ampoule connectée vissée au plafond. La performance est signée Rick Osgood , un bidouilleur qui a transformé un objet du quotidien le plus…",
+      "link": "https://korben.info/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits.html",
+      "pubDate": "2026-06-22T08:11:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "28d7e3b27e43",
       "title": "Fatigue informationnelle - Quand fuir l'actu n'est pas une faiblesse",
       "description": "Je ne lis pas les médias d'actu, et je ne vais quasiment plus sur les réseaux sociaux. Pas par flemme, mais parce qu'à force, je ne voyais plus le monde QUE par le prisme des mauvaises nouvelles et de la négativité (sans parler de la connerie humaine omniprésente mais ça c'est un autre sujet...…",
