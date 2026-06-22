@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3769e5a2ff9c",
+      "title": "Relay attack - Ils volent une voiture avec un babyphone",
+      "description": "Vous vous souvenez du streamer Twitch qui s'était fait piquer sa caisse en plein live, à cause d'un boîtier bizarre posé contre sa porte d'entrée ? Tout le monde a crié au fake évidemment, sauf que dans une certaine mesure, c'était vrai ! Et le voleur, c'était **Mark Rober **en personne,…",
+      "link": "https://korben.info/relay-attack-vol-voiture.html",
+      "pubDate": "2026-06-22T18:36:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/relay-attack-vol-voiture/relay-attack-vol-voiture-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e73ab695d87b",
+      "title": "Test des Eufy Indoor Cam E30, qui ont remplacé toutes mes vielles caméras",
+      "description": "– Contient des liens affiliés Amazon – Cela faisait des années que je tournais avec de très anciennes caméras Eufy, et je me suis dit récemment qu'il était temps de les remplacer. J'ai donc pris l' Indoor Cam E30 , le modèle 4K de la marque qui pivote sur 360 degrés.",
+      "link": "https://korben.info/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras.html",
+      "pubDate": "2026-06-22T13:47:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras-2.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "50faab457b22",
       "title": "Doom tourne désormais sur un bracelet Xiaomi Mi Band 10",
       "description": "Il y a des gens qui se détendent en regardant une petite série. Aaron Christophel, lui, se détend en désossant des bracelets connectés Xiaomi pour leur faire cracher du code qu'aucun ingénieur de la marque n'avait prévu. Ce bidouilleur allemand, plus connu sous le pseudo atc1441, vient de…",
