@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "ab64a6874655",
+      "title": "LightComposer, la lampe qui se règle au cadran comme un vieux téléphone",
+      "description": "Le bidouilleur allemand John Engeln en avait assez. Il voulait une petite lampe de bureau qui change de couleur, point, sans dégainer son smartphone pour télécharger une appli et appairer le moindre objet, et plutôt que de suivre la mode du tout-connecté il est allé piocher du côté des années…",
+      "link": "https://korben.info/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone.html",
+      "pubDate": "2026-06-23T15:13:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ff4339758d54",
       "title": "Cet outil open source traque les conseils de sécurité que l'IA vous a refilés et qui ne valent plus rien",
       "description": "Quand vous demandez à un assistant IA de corriger une faille dans une de vos dépendances, il vous propose presque toujours la même chose : ajouter ce qu'on appelle un \"override\", une ligne de configuration qui force votre projet à utiliser une version saine d'une brique logicielle. Le conseil…",
