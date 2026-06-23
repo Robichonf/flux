@@ -2,6 +2,66 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "6480b3817377",
+      "title": "RawGraphs - Et vos données moches deviennent de beaux graphiques sans coder",
+      "description": "Je ne sais pas si vous manipulez souvent des fichiers CSV, mais sans savoir coder, en tirer un graphique correct, c'est souvent la croix et la bannière ! Excel nous sort en général un camembert tristoune qui pue comme un vrai, et les outils de dataviz exigent que vous sachiez bidouiller du D3.js.…",
+      "link": "https://korben.info/rawgraphs-data-visualisation-open-source.html",
+      "pubDate": "2026-06-23T09:07:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rawgraphs-data-visualisation-open-source/rawgraphs-data-visualisation-open-source-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3ba9d5a3f484",
+      "title": "Codex d'OpenAI bouffait votre SSD - 640 To de logs par an",
+      "description": "Si vous utilisez Codex , le CLI de dev d'OpenAI, allez vite jeter un œil à votre SSD avant qu'il ne rende l'âme ! Si je vous dis ça, c'est parce qu'un utilisateur a remarqué que l'outil écrivait en douce des quantités hallucinantes de logs sur son disque, et son calcul fait un peu peur. En 21…",
+      "link": "https://korben.info/codex-logs-sqlite-ssd-usure.html",
+      "pubDate": "2026-06-23T08:45:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/codex-logs-sqlite-ssd-usure/codex-logs-sqlite-ssd-usure-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c01f04b2c2b0",
+      "title": "Générer un App Password pour utiliser Gmail en IMAP/SMTP ",
+      "description": "Découvrez comment utiliser une adresse Gmail avec IMAP et SMTP grâce aux App Passwords de Google. Une solution simple pour connecter Gmail à vos applications, serveurs et outils d'envoi d'emails.",
+      "link": "https://code-garage.com/blog/generer-un-app-password-pour-utiliser-gmail-en-imap-smtp",
+      "pubDate": "2026-06-23T08:29:07.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "92d147bde0b6",
+      "title": "Vivre sans État - Le doc ARTE qui titille l'anarchiste en vous",
+      "description": "J'sais pas si vous saviez mais l'État, ce truc qui organise et contrôle toute notre vie, sans que nous l'ayons jamais vraiment choisi, n'a que 4 siècles au compteur... C'est comme ça que débute Vivre sans État, un doc qu'ARTE qui vient de sortir dans sa collection Tracks, et que je vous recommande…",
+      "link": "https://korben.info/vivre-sans-etat-documentaire-arte.html",
+      "pubDate": "2026-06-23T07:37:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3769e5a2ff9c",
       "title": "Relay attack - Ils volent une voiture avec un babyphone",
       "description": "Vous vous souvenez du streamer Twitch qui s'était fait piquer sa caisse en plein live, à cause d'un boîtier bizarre posé contre sa porte d'entrée ? Tout le monde a crié au fake évidemment, sauf que dans une certaine mesure, c'était vrai ! Et le voleur, c'était **Mark Rober **en personne,…",
