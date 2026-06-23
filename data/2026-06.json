@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "ff4339758d54",
+      "title": "Cet outil open source traque les conseils de sécurité que l'IA vous a refilés et qui ne valent plus rien",
+      "description": "Quand vous demandez à un assistant IA de corriger une faille dans une de vos dépendances, il vous propose presque toujours la même chose : ajouter ce qu'on appelle un \"override\", une ligne de configuration qui force votre projet à utiliser une version saine d'une brique logicielle. Le conseil…",
+      "link": "https://korben.info/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien.html",
+      "pubDate": "2026-06-23T11:56:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien-2.png",
+      "type": "blog"
+    },
+    {
       "id": "6480b3817377",
       "title": "RawGraphs - Et vos données moches deviennent de beaux graphiques sans coder",
       "description": "Je ne sais pas si vous manipulez souvent des fichiers CSV, mais sans savoir coder, en tirer un graphique correct, c'est souvent la croix et la bannière ! Excel nous sort en général un camembert tristoune qui pue comme un vrai, et les outils de dataviz exigent que vous sachiez bidouiller du D3.js.…",
