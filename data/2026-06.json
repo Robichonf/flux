@@ -2,6 +2,23 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e860e469a5c2",
+      "title": "The Dark Side of AI : Épisode 1",
+      "description": "Derrière l'euphorie de l'IA générative : des travailleurs invisibles à 1€ de l'heure, des chatbots qui nous flattent plutôt que de nous informer, et une bulle que ses propres artisans n'osent plus nier.",
+      "link": "https://blog.ippon.fr/2026/06/24/the-dark-side-of-ai-episode-1/",
+      "pubDate": "2026-06-24T14:21:27.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/illustration.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "223cd42bd037",
       "title": "IoToS - Le prof qui a codé un OS de zéro pour ses élèves",
       "description": "Jean-Marc Biechy est prof d'électronique et d'informatique à l'Institution Saint-Jean de Colmar et il vient de m'envoyer un truc qui m'a scotché. Avec ses élèves, il bidouille des projets Arduino, et plutôt que d'empiler des bouts de code à chaque nouveau montage, il a fait un choix un peu fou :…",
