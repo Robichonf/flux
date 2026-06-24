@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "223cd42bd037",
+      "title": "IoToS - Le prof qui a codé un OS de zéro pour ses élèves",
+      "description": "Jean-Marc Biechy est prof d'électronique et d'informatique à l'Institution Saint-Jean de Colmar et il vient de m'envoyer un truc qui m'a scotché. Avec ses élèves, il bidouille des projets Arduino, et plutôt que d'empiler des bouts de code à chaque nouveau montage, il a fait un choix un peu fou :…",
+      "link": "https://korben.info/iotos-micro-os-arduino-esp32.html",
+      "pubDate": "2026-06-24T11:28:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/iotos-micro-os-arduino-esp32/iotos-micro-os-arduino-esp32-2.png",
+      "type": "blog"
+    },
+    {
       "id": "e1b2bd63fc1d",
       "title": "Tesladeaths - Le compteur des morts de l'Autopilot TESLA (FSD)",
       "description": "Vendredi soir à Katy, au Texas, une Tesla Model 3 a défoncé la façade d'une maison et tué Martha Avila, 76 ans, installée devant la Coupe du Monde. Evidemment, comme d'hab, le constructeur et le conducteur se renvoient déjà la faute mais on se pose tous cette question : Combien de gens sont morts…",
