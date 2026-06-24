@@ -2,6 +2,96 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e1b2bd63fc1d",
+      "title": "Tesladeaths - Le compteur des morts de l'Autopilot TESLA (FSD)",
+      "description": "Vendredi soir à Katy, au Texas, une Tesla Model 3 a défoncé la façade d'une maison et tué Martha Avila, 76 ans, installée devant la Coupe du Monde. Evidemment, comme d'hab, le constructeur et le conducteur se renvoient déjà la faute mais on se pose tous cette question : Combien de gens sont morts…",
+      "link": "https://korben.info/tesladeaths-compteur-morts-autopilot.html",
+      "pubDate": "2026-06-24T09:32:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tesladeaths-compteur-morts-autopilot/tesladeaths-compteur-morts-autopilot-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "763a238541ba",
+      "title": "Une machine à glaçons de cuisine pour refroidir votre carte graphique ?",
+      "description": "22°C en plein Cyberpunk 2077. C'est la température qu'a relevée le YouTubeur TrashBench sur sa RTX 3060, une carte graphique milieu de gamme de Nvidia comme on en trouve dans énormément de PC de joueurs, après l'avoir branchée sur une machine à glaçons de comptoir. Oui oui, on parle bien de…",
+      "link": "https://korben.info/une-machine-a-glacons-de-cuisine-pour-refroidir-votre-carte-graphique.html",
+      "pubDate": "2026-06-24T09:26:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-machine-a-glacons-de-cuisine-pour-refroidir-votre-carte-graphique/une-machine-a-glacons-de-cuisine-pour-refroidir-votre-carte-graphique-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ff1883b447d6",
+      "title": "Le gestionnaire de mots de passe qui vous donne des alias email natifs",
+      "description": "-- Article en partenariat avec Proton -- Si vous avez encore un mot de passe identique sur trois sites, ou que vous vous dites « le 2FA c'est bien, mais je ferai ça plus tard », ce billet est pour vous. Proton Pass, c'est le gestionnaire de mots de passe de Proton, l'éditeur suisse derrière Proton…",
+      "link": "https://korben.info/proton-pass.html",
+      "pubDate": "2026-06-24T07:57:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/proton-pass/proton-pass-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "5ce6404d62cc",
+      "title": "Samsung KNOX - Le bouclier qui ouvrait le kernel des Galaxy",
+      "description": "Samsung nous vend KNOX comme le gros cadenas de nos smartphones Galaxy mais il semblerait que ce soit un gros fail. Si vous ne connaissez pas encore KNOX, c'est la couche maison de Samsung qui garde un oeil sur tout ce qui tourne dans le téléphone afin de nous PROTÉGER (retenez bien ce mot c’est…",
+      "link": "https://korben.info/samsung-knox-faille-kernel-galaxy.html",
+      "pubDate": "2026-06-24T07:33:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3e6a28047f65",
+      "title": "USB4STREAM - Le transfert direct entre 2 machines sous Linux",
+      "description": "Admettons que vous ayez besoin de transmettre des fichiers d'une machine A à une machine B, le plus vite possible et sans vous prendre la tête ? Et bien j'ai ce qu'il vous faut et ça s'appelle USB4STREAM, qui vient d'être fraîchement mergé dans Linux 7.2. C'est Intel qui a pondu ce protocole «…",
+      "link": "https://korben.info/usb4stream-linux-transfert-direct-usb4.html",
+      "pubDate": "2026-06-24T07:15:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/usb4stream-linux-transfert-direct-usb4/usb4stream-linux-transfert-direct-usb4-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8c321435c606",
+      "title": "Favicon - Un site web planqué dans 212 octets",
+      "description": "Si vous ne connaissez pas, un favicon, c'est cette mini icône pixelisée que vous pouvez voir dans l'onglet de votre navigateur qui en général est le logo du site que vous visitez. Hé bien le dev Tim Wehrle a réussi à y faire tenir un site web entier en stockant tout son HTML dans les 212 octets de…",
+      "link": "https://korben.info/favicon-site-web-complet.html",
+      "pubDate": "2026-06-24T06:58:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/favicon-site-web-complet/favicon-site-web-complet-2.png",
+      "type": "blog"
+    },
+    {
       "id": "1529b431ca6a",
       "title": "Une tablette de prison américaine ouverte à la scie",
       "description": "Le réparateur australien Hugh Jeffreys, connu pour ses vidéos de démontage et ses collaborations avec le site de réparation iFixit, a mis la main sur l'un de ces appareils que les prisons américaines louent à leurs détenus pour accéder à une poignée de services autorisés, et il a voulu savoir ce…",
