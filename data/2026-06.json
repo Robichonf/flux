@@ -2,6 +2,51 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3f11d4718246",
+      "title": "Cache-aware scheduling - Le patch Linux qui vise +360% de perf sur MySQL",
+      "description": "L' ordonnanceur du noyau Linux vient de recevoir une proposition de mise à jour qui fait grimper les perfs de façon assez spectaculaire sur certaines charges. Hygon, le fondeur chinois qui fabrique des x86 sous licence de l'architecture Zen d'AMD, a envoyé une série de patches pour étendre le…",
+      "link": "https://korben.info/cache-aware-scheduling-linux-hygon.html",
+      "pubDate": "2026-06-25T16:22:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6bb63808236f",
+      "title": "Clash of Clans 2012 - La version disparue est rejouable en ligne",
+      "description": "C'est triste mais la toute première version de Clash of Clans, celle de 2012, n'était plus jouable nulle part depuis longtemps. En effet, les serveurs officiels rejettent ses vieilles connexions depuis des années, et donc plus personne ne pouvait y remettre les pieds. Mais c'était sans compter sur…",
+      "link": "https://korben.info/clash-of-clans-2012-navigateur.html",
+      "pubDate": "2026-06-25T15:32:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/clash-of-clans-2012-navigateur/clash-of-clans-2012-navigateur-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "84b7048a5283",
+      "title": "Snake sur un switch Ubiquiti - Parfaitement inutile, donc génial",
+      "description": "Si vous cherchez la définition exacte du mot bidouille, la voilà : Prendre un switch réseau à plusieurs centaines d'euros et s'en servir pour jouer à Snake. C'est en tout cas comme cela qu'Adam Jezek voit les choses puisqu'il a eu l'idée de détourner les LEDs RGB des switches Ubiquiti pour y faire…",
+      "link": "https://korben.info/snake-switch-ubiquiti-etherlighting.html",
+      "pubDate": "2026-06-25T15:16:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2fa594ae03d4",
       "title": "Firefox - Personnalisez (enfin) vos raccourcis clavier !",
       "description": "Ça fait des années et des années, je dirais pas loin de 20 ans, que nous, pauvres utilisateurs de Firefox, réclamons un truc tout bête : Pouvoir enfin changer les raccourcis clavier du navigateur. Hé bien croyez le ou non, Mozilla a fini par céder et depuis Firefox 147 , sorti le 13 janvier 2026,…",
