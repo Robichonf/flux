@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "fdac8c9108e2",
+      "title": "Le i-Buddy de MSN Messenger ressuscité",
+      "description": "Le i-Buddy de MSN Messenger ressuscité en accessoire USB Pendant que des nostalgiques s'acharnent depuis des années à ranimer MSN Messenger, la messagerie instantanée de Microsoft débranchée pour de bon depuis longtemps, l'un d'eux connu sous le pseudo Rayly Retro a poussé l'exercice jusqu'à…",
+      "link": "https://korben.info/le-i-buddy-de-msn-messenger-ressuscite.html",
+      "pubDate": "2026-06-25T09:06:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/le-i-buddy-de-msn-messenger-ressuscite/le-i-buddy-de-msn-messenger-ressuscite-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "13108ad06c61",
+      "title": "Distillation - Comment Alibaba aurait aspiré l'IA Claude",
+      "description": "Anthropic vient d'accuser frontalement Alibaba d'avoir siphonné les capacités de son IA Claude. Et le plus dingue dans cette histoire, c'est la méthode qui aurait été employée. Car non, rassurez-vous, personne n'a piraté les serveurs d'Anthropic, personne n'a volé le code source de Claude, et…",
+      "link": "https://korben.info/distillation-modele-ia-alibaba-claude.html",
+      "pubDate": "2026-06-25T07:24:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "41d952895e7c",
       "title": "Rpilocator ferme - Adieu au traqueur de stock Raspberry Pi",
       "description": "Putain, j'sais pas si vous vous souvenez de cette galère que c'était de mettre la main sur un Raspberry Pi neuf y'a pas si longtemps. Et triste nouvelle, le site qui nous a tous sauvés pendant cette galère, rpilocator.com , fermera ses portes en juillet. Apparemment, faire tourner ce service est…",
@@ -212,6 +242,21 @@
         "Web"
       ],
       "image": "https://korben.info/favicon-site-web-complet/favicon-site-web-complet-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1b2ee9188b18",
+      "title": "VPN streaming - Accéder aux catalogues étrangers",
+      "description": "Vous lancez votre soirée TV entre amis, vous tapez le nom de la série ou du film dont TOUT LE MONDE parle, et là PAF, « ce contenu n'est pas disponible dans votre pays ». Oui, c'est un grand classique mais ça fait tout le temps chier. La raison à cela c'est que les catalogues Netflix, Disney+ ou…",
+      "link": "https://korben.info/vpn-streaming.html",
+      "pubDate": "2026-06-24T05:42:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
