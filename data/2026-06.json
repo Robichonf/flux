@@ -2,6 +2,81 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "2fa594ae03d4",
+      "title": "Firefox - Personnalisez (enfin) vos raccourcis clavier !",
+      "description": "Ça fait des années et des années, je dirais pas loin de 20 ans, que nous, pauvres utilisateurs de Firefox, réclamons un truc tout bête : Pouvoir enfin changer les raccourcis clavier du navigateur. Hé bien croyez le ou non, Mozilla a fini par céder et depuis Firefox 147 , sorti le 13 janvier 2026,…",
+      "link": "https://korben.info/firefox-raccourcis-clavier-about-keyboard.html",
+      "pubDate": "2026-06-25T15:09:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-raccourcis-clavier-about-keyboard/firefox-raccourcis-clavier-about-keyboard-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "663d4590adac",
+      "title": "L'app de la Maison Blanche s'incruste sur les tel des fonctionnaires",
+      "description": "J'sais pas si vous avez vu encore ce truc de dingue qui est arrivé aux Etats-Unis mais des employés de l'USDA, du Département d'État et du Département du Travail, qui ont parlé à WIRED sous anonymat par peur de représailles, ont vu apparaître sur l'écran de leur smartphone pro, l'app officielle de…",
+      "link": "https://korben.info/app-maison-blanche-telephones-gouvernement.html",
+      "pubDate": "2026-06-25T14:53:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89747a7d5d87",
+      "title": "TenMatch - Trouver son tournoi de tennis sans galérer",
+      "description": "Tarek, fidèle lecteur de Korben.info m'a envoyé un mail pour me présenter TenMatch , un site web qu'il a codé qui permet de trouver un tournoi de tennis près de chez vous. Vous le savez, le sport et moi, ça fait 2, alors peu de risque que j'utilise son site. Mais je sais que parmi vous, y'en a qui…",
+      "link": "https://korben.info/tenmatch-trouver-tournoi-tennis.html",
+      "pubDate": "2026-06-25T13:51:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tenmatch-trouver-tournoi-tennis/tenmatch-trouver-tournoi-tennis-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "662de0565ef4",
+      "title": "Deno veut transformer vos sites web en applications de bureau",
+      "description": "Deno, le moteur d'exécution JavaScript et TypeScript créé par Ryan Dahl (le développeur qui avait déjà lancé Node.js il y a une quinzaine d'années), s'apprête à faire un sacré pas de côté avec sa prochaine version majeure, qui permettra de fabriquer des applications de bureau pour macOS, Windows et…",
+      "link": "https://korben.info/deno-veut-transformer-vos-sites-web-en-applications-de-bureau.html",
+      "pubDate": "2026-06-25T12:52:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "891f868c7fce",
+      "title": "Squidbleed : une fuite mémoire passée inaperçue pendant 30 ans",
+      "description": "Une faille très bien planquée dans le code depuis 1997, vient seulement d'être corrigée. Elle s'appelle Squidbleed, référencée comme CVE-2026-47729, et elle touche Squid, un serveur proxy open source que des entreprises, des écoles et des fournisseurs d'accès utilisent depuis des lustres pour…",
+      "link": "https://korben.info/squidbleed-une-fuite-memoire-passee-inapercue-pendant-30-ans.html",
+      "pubDate": "2026-06-25T12:15:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/squidbleed-une-fuite-memoire-passee-inapercue-pendant-30-ans/squidbleed-une-fuite-memoire-passee-inapercue-pendant-30-ans-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f61290067ef7",
       "title": "Umihi Music - Lecteur YouTube Music libre",
       "description": "Ça vous dirait de streamer l'ensemble de YouTube Music sur votre smartphone Android avec une appli entièrement libre ??? Hé bien c'est faisable grâce à l'excellent travail de Iliano Kokoro qui a développé Umihi Music. Derrière ce nom à coucher dehors se cache un player de moins de 5 Mo qui vous…",
