@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "b3a8fd0373b6",
+      "title": "Half-Life 2 dans le navigateur - Le hack d'un lycéen",
+      "description": "Vous vous souvenez de la première fois que vous avez lancé Half-Life 2 et que vous avez attrapé une caisse avec le gravity gun ? Eh bien un lycéen qui se fait appeler slqnt vient de remettre tout ça dans votre navigateur, gratuitement, sans avoir à installer Steam ni à télécharger le moindre gros…",
+      "link": "https://korben.info/half-life-2-navigateur-webassembly-slqnt.html",
+      "pubDate": "2026-06-25T22:34:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/half-life-2-navigateur-webassembly-slqnt/half-life-2-navigateur-webassembly-slqnt-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e1f7380b002b",
+      "title": "Adblock for YouTube - 10 millions d'installs et un piège dormant",
+      "description": "Si vous avez installé une extension qui s'appelle \"Adblock for YouTube\" pour virer les pubs de vos vidéos, prenez deux minutes pour lire mon article. Les chercheurs Oleg Zaytsev et Shachar Gritzman, de la boîte de sécurité Island, viennent de passer au peigne fin une de ces extensions installée par…",
+      "link": "https://korben.info/adblock-youtube-extension-injection-script.html",
+      "pubDate": "2026-06-25T22:20:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/adblock-youtube-extension-injection-script/adblock-youtube-extension-injection-script-2.png",
+      "type": "blog"
+    },
+    {
       "id": "997a6d2f043e",
       "title": "Pannes d'IA - Les coupures ont été multipliées par 8 en un an",
       "description": "Vous vous souvenez quand ChatGPT tombait trop souvent en rade et que ça vous faisait juste lever les yeux au ciel avant d'aller vous chercher un café en trainant de la pantoufle ?? Bah cette époque est en train de se terminer mes amis. Les analystes d'Ookla viennent d'éplucher 471 jours de données…",
