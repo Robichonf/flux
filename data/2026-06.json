@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "997a6d2f043e",
+      "title": "Pannes d'IA - Les coupures ont été multipliées par 8 en un an",
+      "description": "Vous vous souvenez quand ChatGPT tombait trop souvent en rade et que ça vous faisait juste lever les yeux au ciel avant d'aller vous chercher un café en trainant de la pantoufle ?? Bah cette époque est en train de se terminer mes amis. Les analystes d'Ookla viennent d'éplucher 471 jours de données…",
+      "link": "https://korben.info/fiabilite-ia-pannes-downdetector-2026.html",
+      "pubDate": "2026-06-25T20:41:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fiabilite-ia-pannes-downdetector-2026/fiabilite-ia-pannes-downdetector-2026-2.png",
+      "type": "blog"
+    },
+    {
       "id": "3f11d4718246",
       "title": "Cache-aware scheduling - Le patch Linux qui vise +360% de perf sur MySQL",
       "description": "L' ordonnanceur du noyau Linux vient de recevoir une proposition de mise à jour qui fait grimper les perfs de façon assez spectaculaire sur certaines charges. Hygon, le fondeur chinois qui fabrique des x86 sous licence de l'architecture Zen d'AMD, a envoyé une série de patches pour étendre le…",
