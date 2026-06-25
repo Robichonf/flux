@@ -2,6 +2,51 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "f61290067ef7",
+      "title": "Umihi Music - Lecteur YouTube Music libre",
+      "description": "Ça vous dirait de streamer l'ensemble de YouTube Music sur votre smartphone Android avec une appli entièrement libre ??? Hé bien c'est faisable grâce à l'excellent travail de Iliano Kokoro qui a développé Umihi Music. Derrière ce nom à coucher dehors se cache un player de moins de 5 Mo qui vous…",
+      "link": "https://korben.info/umihi-music-lecteur-youtube-android.html",
+      "pubDate": "2026-06-25T11:16:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/umihi-music-lecteur-youtube-android/umihi-music-lecteur-youtube-android-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d5229c4e26ef",
+      "title": "Le premier protocole VPN conçu pour vous, pas pour les admins d'entreprise",
+      "description": "-- Article en partenariat avec Surfshark -- Vous vous souvenez de l'époque où choisir un VPN, c'était comme choisir entre la peste et le choléra ? Soit ça ramait, soit on galérait sur des réseaux bloqués, ou encore ça coupait dès que vous passiez du WiFi à la 4G. Hé bien Surfshark a décidé de ne…",
+      "link": "https://korben.info/protocole-vpn-concu-pour-vous.html",
+      "pubDate": "2026-06-25T10:56:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/protocole-vpn-concu-pour-vous/protocole-vpn-concu-pour-vous-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "65720259d9c9",
+      "title": "Fwupd 2.0.21 corrige plus de 250 failles de sécurité repérées grâce à l'IA",
+      "description": "On savait que les modèles d'IA savaient écrire du code, on découvre cette année, de plus en plus qu'ils savent aussi le casser à une échelle qui dépasse l'entendement, et le projet fwupd vient d'en faire les frais d'une manière assez spectaculaire avec sa version 2.0.21, qui rattrape à elle seule…",
+      "link": "https://korben.info/fwupd-2-0-21-corrige-plus-de-250-failles-de-securite-reperees-grace-a-lia.html",
+      "pubDate": "2026-06-25T09:58:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fdac8c9108e2",
       "title": "Le i-Buddy de MSN Messenger ressuscité",
       "description": "Le i-Buddy de MSN Messenger ressuscité en accessoire USB Pendant que des nostalgiques s'acharnent depuis des années à ranimer MSN Messenger, la messagerie instantanée de Microsoft débranchée pour de bon depuis longtemps, l'un d'eux connu sous le pseudo Rayly Retro a poussé l'exercice jusqu'à…",
