@@ -2,6 +2,96 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "d5743b8ae69f",
+      "title": "ANES - Il greffe une seconde puce graphique dans sa NES",
+      "description": "Decrazyo vient de sortir ANES , un mod hardware qui transforme votre vieille NES en lui collant un deuxième PPU, la puce graphique de la console. Résultat, plus de couleurs à l'écran, plus de sprites, et même du parallax scrolling, ces décors qui défilent sur plusieurs plans comme sur les bornes…",
+      "link": "https://korben.info/anes-nes-double-ppu.html",
+      "pubDate": "2026-06-26T09:15:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/anes-nes-double-ppu/anes-nes-double-ppu-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "844e05d09347",
+      "title": "BioPass - Déverrouiller son Linux avec sa tronche et son doigt",
+      "description": "Contrairement à ce que dit Yann Barthès, on n'est pas tous égaux face à la canicule. Et l'autre truc face auquel on n'est pas tous égaux non plus, c'est le déverrouillage biométrique de son ordi. On les connaît les Linuxiens qui regardent avec jalousie leur collègue sous Windows qui déverrouille sa…",
+      "link": "https://korben.info/biopass-login-biometrique-linux.html",
+      "pubDate": "2026-06-26T09:08:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4c89b1a7ce7f",
+      "title": "macUSB - Créer une clé USB macOS sans toucher au Terminal",
+      "description": "Krystian Pierz, un développeur polonais qui se planque derrière le pseudo Kruszoneq, en a eu marre de se galérer à chaque fois pour faire des clés USB bootable pour Mac, alors il a sorti macUSB , une app Mac native (du vrai Swift, pas un machin Electron quoi) qui fait tout le sale boulot à votre…",
+      "link": "https://korben.info/macusb-cle-usb-bootable-macos.html",
+      "pubDate": "2026-06-26T08:52:56.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/macusb-cle-usb-bootable-macos/macusb-cle-usb-bootable-macos-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "f33bf07d1116",
+      "title": "Une IA a lu un rouleau carbonisé par le Vésuve il y a près de 2 000 ans",
+      "description": "Pour la première fois, on connaît le titre exact d'un livre antique sans avoir ouvert le livre. Les chercheurs de la Vesuvius Challenge ont lu, écrit en plein milieu d'un papyrus carbonisé, la mention \"Sur les vices, livre 1\", un traité de philosophie grecque signé Philodème, un penseur épicurien…",
+      "link": "https://korben.info/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans.html",
+      "pubDate": "2026-06-26T08:38:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6fe9b095e43f",
+      "title": "New 3D Golf - Il greffe du Virtual Boy dans une Mega Drive",
+      "description": "Matt Sephton, alias gingerbeardman, a passé une nuit d'avril à arracher un parcours de golf des entrailles d'un vieux jeu, et il en est ressorti avec une idée bien plus tordue. Vous connaissez New 3D Golf Simulation, la série de T&E Soft qui tournait sur PC-9801 dès 1989 ? La Mega Drive en avait…",
+      "link": "https://korben.info/portage-golf-3d-virtual-boy-megadrive.html",
+      "pubDate": "2026-06-26T08:29:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4bd5f7408b26",
+      "title": "Un disque ressuscite le CD+G, ce format graphique oublié des CD audio",
+      "description": "Sur un disque audio classique, il restait depuis toujours quelques canaux de données inutilisés, glissés juste à côté des informations qui affichent le numéro de piste ou le temps écoulé, et c'est précisément dans ces recoins que Philips et Sony avaient logé en 1985 le CD+G, une extension capable…",
+      "link": "https://korben.info/un-disque-ressuscite-le-cdg-ce-format-graphique-oublie-des-cd-audio.html",
+      "pubDate": "2026-06-26T08:28:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-disque-ressuscite-le-cdg-ce-format-graphique-oublie-des-cd-audio/un-disque-ressuscite-le-cdg-ce-format-graphique-oublie-des-cd-audio-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "4ddd1ae83f61",
       "title": "EmuDevz - Le jeu où vous codez votre émulateur NES",
       "description": "Afska, le développeur derrière une flopée d'outils pour Game Boy Advance, a eu avec son studio [r]labs une idée géniale ! Ça s'appelle EmuDevz, et c'est un jeu vidéo dans lequel vous devez coder votre propre émulateur NES. Et pas en cliquant sur des boutons comme un loser, hein mais en pissant du…",
