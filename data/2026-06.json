@@ -2,6 +2,66 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "67732f51ee0d",
+      "title": "Steam Machine - Il passe à 64 Go de RAM et 4 To de SSD avec un simple tournevis",
+      "description": "*-- Contient de liens affiliés -- * La Steam Machine de Valve vient à peine d'arriver dans les salons que le youtubeur ETA Prime l'a déjà éventrée sur son établi. Et je sais pas vous, mais moi j'ai bien envie de voir ça avant de lâcher les 1039 euros qu'elle va couter. Ce petit cube vient de sortir…",
+      "link": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html",
+      "pubDate": "2026-06-26T16:30:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to/steam-machine-teardown-ram-64go-ssd-4to-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7b00ac0a1258",
+      "title": "Dropbox se branche à Claude Code et lui permet de lire vos fichiers",
+      "description": "Dropbox vient de sortir un plugin pour Claude Code , et leur idée c'est de pouvoir brancher vos fichiers Dropbox directement dans vos sessions de dev Claude Code / Cowork. Alors je me suis demandé à quoi ça pouvait bien servir et voici ce que j'ai compris. Une fois que le plugin est en place, ça…",
+      "link": "https://korben.info/dropbox-plugin-claude-code.html",
+      "pubDate": "2026-06-26T16:22:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dropbox-plugin-claude-code/dropbox-plugin-claude-code-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1c3754b21292",
+      "title": "Dolphin - Le Game Boy Player émulé, et c'était pas une blague",
+      "description": "Les développeurs de Dolphin viennent de mettre un point final à un truc qu'ils se traînaient depuis 16 ans : leur émulateur GameCube et Wii sait maintenant émuler le Game Boy Player. Pour tester ça, faut charger une ROM Game Boy via le réglage \"Game Boy Player ROM\" planqué dans les paramètres…",
+      "link": "https://korben.info/dolphin-emulator-2606-game-boy-player.html",
+      "pubDate": "2026-06-26T15:03:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b00c94a2d483",
+      "title": "Dream Server - Un serveur IA complet chez vous en une commande",
+      "description": "Monter une vraie IA à la maison, c'est vite une galère. Vous achetez une super machine puis vous collez dessus toute votre liste au père Noël (Chat local, reco vocale, génération d'image, RAG et compagnie) et vous voilà à empiler des dockers à n'en plus finir. Hé bien Light Heart Labs en a eu marre…",
+      "link": "https://korben.info/dream-server-ia-locale-auto-hebergee.html",
+      "pubDate": "2026-06-26T14:41:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dream-server-ia-locale-auto-hebergee/dream-server-ia-locale-auto-hebergee-2.png",
+      "type": "blog"
+    },
+    {
       "id": "097d0deef0be",
       "title": "Communautés tech toxiques, faudrait en parler à un moment",
       "description": "Y'a un truc dont on parle pas assez dans le milieu tech je trouve, et pourtant tout le monde le constate : Une grande partie des communautés autour du logiciel libre, de Linux, du dev...etc sont devenues des endroits franchement hostiles. Des clubs fermés, peuplés quasi exclusivement de mecs, qui…",
