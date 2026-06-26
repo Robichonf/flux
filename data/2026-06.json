@@ -2,6 +2,66 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "4ddd1ae83f61",
+      "title": "EmuDevz - Le jeu où vous codez votre émulateur NES",
+      "description": "Afska, le développeur derrière une flopée d'outils pour Game Boy Advance, a eu avec son studio [r]labs une idée géniale ! Ça s'appelle EmuDevz, et c'est un jeu vidéo dans lequel vous devez coder votre propre émulateur NES. Et pas en cliquant sur des boutons comme un loser, hein mais en pissant du…",
+      "link": "https://korben.info/emudevz-jeu-coder-emulateur-nes.html",
+      "pubDate": "2026-06-26T07:39:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33313ec94a88",
+      "title": "Le Casio VL-1 de 1981 modernisée pour quelques euros",
+      "description": "En 1981, Casio sortait le VL-1, un drôle d'objet vendu autour de 70 dollars, à mi-chemin entre la calculatrice de poche et le synthétiseur monophonique, avec un séquenceur de cent notes planqué dedans et un afficheur à huit caractères. Un jouet, en apparence. Sauf qu'il s'en est vendu près d'un…",
+      "link": "https://korben.info/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros.html",
+      "pubDate": "2026-06-26T07:33:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "76b97ee47784",
+      "title": "GB-Link USB - Faites jouer vos vraies Game Boy en ligne",
+      "description": "Le bidouilleur Starlarkus vient de sortir son nouveau projet, le GB-Link USB V2 qui n'est ni plus ni moins qu'un petit adaptateur permettant de brancher une VRAIE Game Boy sur le net. Le truc se fait passer pour un câble link tout ce qu'il y a de plus normal, et la console n'y voit que du feu. D'un…",
+      "link": "https://korben.info/gb-link-usb-game-boy-online-multijoueur.html",
+      "pubDate": "2026-06-26T07:25:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gb-link-usb-game-boy-online-multijoueur/gb-link-usb-game-boy-online-multijoueur-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b060f74f0fb0",
+      "title": "OS9Map - OpenStreetMap sur votre Mac de 1999",
+      "description": "Un dev prénommé Yllan vient de sortir OS9Map , une application qui affiche OpenStreetMap directement sur Mac OS 9. Oui, je parle bien du système d'exploitation de 1999 qui ronronnait sur nos vieux PowerPC. Pour l'installer, c'est un bon vieux fichier .sit à décompresser (StuffIt Expander sur la…",
+      "link": "https://korben.info/os9map-openstreetmap-mac-os-9.html",
+      "pubDate": "2026-06-26T06:14:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/os9map-openstreetmap-mac-os-9/os9map-openstreetmap-mac-os-9-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "b3a8fd0373b6",
       "title": "Half-Life 2 dans le navigateur - Le hack d'un lycéen",
       "description": "Vous vous souvenez de la première fois que vous avez lancé Half-Life 2 et que vous avez attrapé une caisse avec le gravity gun ? Eh bien un lycéen qui se fait appeler slqnt vient de remettre tout ça dans votre navigateur, gratuitement, sans avoir à installer Steam ni à télécharger le moindre gros…",
