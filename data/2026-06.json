@@ -242,6 +242,21 @@
       "type": "blog"
     },
     {
+      "id": "ae43da0e350c",
+      "title": "La sobriété, c'est un métier du « ne pas »",
+      "description": "Empreinte carbone du numérique : 3 actions concrètes pour réduire l'impact écologique du code. Découvrez les leviers du développeur.",
+      "link": "https://lecodeestdanslepre.fr/billets/sobriete-numerique-developpeur",
+      "pubDate": "2026-06-26T06:07:32.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "b3a8fd0373b6",
       "title": "Half-Life 2 dans le navigateur - Le hack d'un lycéen",
       "description": "Vous vous souvenez de la première fois que vous avez lancé Half-Life 2 et que vous avez attrapé une caisse avec le gravity gun ? Eh bien un lycéen qui se fait appeler slqnt vient de remettre tout ça dans votre navigateur, gratuitement, sans avoir à installer Steam ni à télécharger le moindre gros…",
