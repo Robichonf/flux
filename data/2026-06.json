@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "59d863b9e140",
+      "title": "La faille d'Amazon Q : ouvrir un projet suffisait à se faire voler ses accès au cloud",
+      "description": "Amazon Q, l'assistant de programmation dopé à l'IA que propose Amazon, pouvait se faire piéger d'une manière aussi simple qu'embarrassante. Petit rappel pour situer. Amazon Q se greffe dans Visual Studio Code, l'éditeur de code de Microsoft que les développeurs utilisent au quotidien, et sert à…",
+      "link": "https://korben.info/la-faille-damazon-q-ouvrir-un-projet-suffisait-a-se-faire-voler-ses-acces-au-cloud.html",
+      "pubDate": "2026-06-27T10:52:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cc64262e0a49",
+      "title": "L'IA générative joue-t-elle au magicien d'Oz ?",
+      "description": "Entre prouesse réelle, AlphaFold ou météo, et fausses IA qui cachent des humains : le tri de ce que l'IA générative tient vraiment en 2026.",
+      "link": "https://lecodeestdanslepre.fr/billets/ia-generative-magicien-oz",
+      "pubDate": "2026-06-27T10:48:29.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "67732f51ee0d",
       "title": "Steam Machine - Il passe à 64 Go de RAM et 4 To de SSD avec un simple tournevis",
       "description": "*-- Contient de liens affiliés -- * La Steam Machine de Valve vient à peine d'arriver dans les salons que le youtubeur ETA Prime l'a déjà éventrée sur son établi. Et je sais pas vous, mais moi j'ai bien envie de voir ça avant de lâcher les 1039 euros qu'elle va couter. Ce petit cube vient de sortir…",
