@@ -182,6 +182,23 @@
       "type": "blog"
     },
     {
+      "id": "1dd2c53abcb1",
+      "title": "Retours sur le Breizhcamp 2026",
+      "description": "Logo officiel du Breizhcamp — La conférence à l'Ouest Retours sur le Breizhcamp 2026 Depuis plusieurs années, le Breizhcamp est une conférence incontournable pour la communauté technologique rennaise. Cette année, j’ai pu y présenter un talk qui me tient à cœur à savoir « Comment je fais ma veille…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/",
+      "pubDate": "2026-06-27T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "67732f51ee0d",
       "title": "Steam Machine - Il passe à 64 Go de RAM et 4 To de SSD avec un simple tournevis",
       "description": "*-- Contient de liens affiliés -- * La Steam Machine de Valve vient à peine d'arriver dans les salons que le youtubeur ETA Prime l'a déjà éventrée sur son établi. Et je sais pas vous, mais moi j'ai bien envie de voir ça avant de lâcher les 1039 euros qu'elle va couter. Ce petit cube vient de sortir…",
