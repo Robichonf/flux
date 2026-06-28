@@ -2,6 +2,66 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "76afab452804",
+      "title": "JaiLIP - L'image piégée qui débride les IA qui voient",
+      "description": "Md Jueal Mia et Hadi Amini, deux chercheurs de Florida International University , ont mis au point une méthode qu'ils ont baptisée JaiLIP qui permet de forger une image capable de contourner les garde-fous des LLM pour les jailbreaker. Pour cela, ils utilisent 2 techniques en simultanée. La…",
+      "link": "https://korben.info/image-piegee-jailbreak-ia-vision-langage.html",
+      "pubDate": "2026-06-28T06:19:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/image-piegee-jailbreak-ia-vision-langage/image-piegee-jailbreak-ia-vision-langage-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "dfbf9f509b8d",
+      "title": "GBCYouTube - YouTube en direct sur une Game Boy Color",
+      "description": "Un bidouilleur du nom de Throaty Mumbo a décidé de s'attaquer à la Game Boy Color (sortie en 1998, ça ne nous rajeunit pas) pour y faire tourner YouTube ! Et du vrai YouTube hein, en streaming, sur 160x144 pixels. Ça s'appelle GBCYoutube et je vous explique tout en détail... Ce qu'il a fait en…",
+      "link": "https://korben.info/youtube-game-boy-color-cartouche.html",
+      "pubDate": "2026-06-28T06:04:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "11ef8c549049",
+      "title": "Steam Controller - elle rampe toute seule vers son chargeur",
+      "description": "Il y a des problèmes qui n'existent pas, et des gens qui les résolvent quand même... Ray Foss en fait partie. Ce dernier a fait en sorte que sa Steam Controller flambant neuve rampe toute seule jusqu'à son chargeur, sans qu'il ait à lever le petit doigt. Et pour cela, il a codé son Triton…",
+      "link": "https://korben.info/steam-controller-retour-chargeur-autonome.html",
+      "pubDate": "2026-06-28T05:55:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/steam-controller-retour-chargeur-autonome/steam-controller-retour-chargeur-autonome-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d2e669ec1b0b",
+      "title": "Beam Universe Splitter - Le hasard quantique fait maison",
+      "description": "David Noel Ng, un chercheur installé à Munich, en avait marre du pile ou face et des tirages de dés truqués par les ordinateurs, alors il a construit une machine qui pose directement la question à l'univers. Son engin, le Beam Universe Splitter, fabrique alors du hasard pur en laissant une…",
+      "link": "https://korben.info/beam-universe-splitter-hasard-quantique.html",
+      "pubDate": "2026-06-28T05:36:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/beam-universe-splitter-hasard-quantique/beam-universe-splitter-hasard-quantique-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "312cf7796e2d",
       "title": "Vibe coding : le crash dont vous êtes le héros",
       "description": "Un vendredi, un assistant un peu trop serviable, et deux jauges qui ne disent pas la même chose. Une partie de vibe coding dont vous êtes le héros.",
@@ -52,6 +112,21 @@
       "description": "Entre prouesse réelle, AlphaFold ou météo, et fausses IA qui cachent des humains : le tri de ce que l'IA générative tient vraiment en 2026.",
       "link": "https://lecodeestdanslepre.fr/billets/ia-generative-magicien-oz",
       "pubDate": "2026-06-27T10:48:29.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6931c1a29c70",
+      "title": "Igor PHP : voir ce que PHPStan ne voit pas en worker mode",
+      "description": "Igor PHP repère les fuites d'état que PHPStan ne voit pas en FrankenPHP worker mode. Premier scan de ce blog : 269 findings bruts, 3 vrais bugs.",
+      "link": "https://lecodeestdanslepre.fr/billets/igor-php-worker-mode",
+      "pubDate": "2026-06-27T07:35:56.000Z",
       "source": "Le Code est dans le Pré",
       "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
