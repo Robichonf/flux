@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "d6d7bb8bbefa",
+      "title": "QR Font - La police qui transforme du texte en QR code",
+      "description": "Tapez [hello] dans votre éditeur, appliquez une police, et le mot se change en QR code scannable. Pas de générateur en ligne, pas d'image à exporter mais juste une police de caractères. C'est l'idée complètement barrée de qr-font , le projet de Jim Paris, et quand j'ai testé la démo, j'avoue, ça…",
+      "link": "https://korben.info/qr-code-police-truetype.html",
+      "pubDate": "2026-06-28T10:56:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/qr-code-police-truetype/qr-code-police-truetype-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5fb91b9e4ec5",
+      "title": "Les flux RSS c'est la vie !",
+      "description": "J'aime bien lire les articles de l'EFF (l'Electronic Frontier Foundation, la Quadrature du Net des américains quoi...) et là ils viennent de publier un truc m'a fait plaisir : un vrai plaidoyer pour la défense du RSS . Vous connaissez mon avis là dessus et c'est vrai que depuis que Google a signé…",
+      "link": "https://korben.info/flux-rss-korben-feedfull.html",
+      "pubDate": "2026-06-28T08:37:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/flux-rss-korben-feedfull/flux-rss-korben-feedfull-1.png",
+      "type": "blog"
+    },
+    {
       "id": "76afab452804",
       "title": "JaiLIP - L'image piégée qui débride les IA qui voient",
       "description": "Md Jueal Mia et Hadi Amini, deux chercheurs de Florida International University , ont mis au point une méthode qu'ils ont baptisée JaiLIP qui permet de forger une image capable de contourner les garde-fous des LLM pour les jailbreaker. Pour cela, ils utilisent 2 techniques en simultanée. La…",
