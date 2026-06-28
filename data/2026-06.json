@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "4cdee0c39792",
+      "title": "Fingerprint Defender - Brouiller son empreinte sur Firefox",
+      "description": "Si vous me lisez depuis longtemps, vous savez forcément que le Fingerprinting est une technique de pistage qui permet de vous identifer en mesurant les petites particularité de votre naigateurs tels que les polices installées, votre carte graphique, la résolution de votre écran et j'en passe.…",
+      "link": "https://korben.info/fingerprint-defender-extension-firefox.html",
+      "pubDate": "2026-06-28T12:17:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fingerprint-defender-extension-firefox/fingerprint-defender-extension-firefox-2.png",
+      "type": "blog"
+    },
+    {
       "id": "d6d7bb8bbefa",
       "title": "QR Font - La police qui transforme du texte en QR code",
       "description": "Tapez [hello] dans votre éditeur, appliquez une police, et le mot se change en QR code scannable. Pas de générateur en ligne, pas d'image à exporter mais juste une police de caractères. C'est l'idée complètement barrée de qr-font , le projet de Jim Paris, et quand j'ai testé la démo, j'avoue, ça…",
