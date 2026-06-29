@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "337004316f72",
+      "title": "Un bateau à ballon à imprimer en 3D",
+      "description": "Alors cette imprimante 3D ? Vous en êtes content ? Non, ne me mentez pas ! Je sais que comme 90% des gens qui en ont une, elle prend grave la poussière !! Mais voici que voilà de quoi la remettre au boulot pour les vacances ! En effet, le designer jp.studio a partagé sur MakerWorld un petit modèle…",
+      "link": "https://korben.info/bateau-ballon-stl-impression-3d.html",
+      "pubDate": "2026-06-29T19:38:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/bateau-ballon-stl-impression-3d/bateau-ballon-stl-impression-3d-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5ea62648c9dc",
       "title": "SB-mini-II - Il reconstruit un Apple II Plus de zéro",
       "description": "L'Apple II, ce vieux bouzin de 1977, n'a jamais eu le moindre secret pour personne. C'est d'autant plus vrai qu'Apple livrait carrément les schémas électronique de sa machine dans le manuel d'origine et à l'époque, des bouquins entier décortiquant chaque circuit étaient vendus dans le commerce.…",
