@@ -2,6 +2,65 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "0c77153625f1",
+      "title": "LinuxMD - du Linux sur la Sega Megadrive",
+      "description": "PROMPT MIDJOURNEY : Real black 1990 Sega Megadrive on a cluttered workbench, Mega EverDrive cartridge in its top slot with USB cable trailing to a laptop, small CRT beside displaying scrolling Linux boot text and a shell prompt, wide shot console in foreground CRT behind, documentary…",
+      "link": "https://korben.info/linux-sega-megadrive.html",
+      "pubDate": "2026-06-29T13:13:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/linux-sega-megadrive/linux-sega-megadrive-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5ea34c7f6296",
+      "title": "Un budget de poids de page : la sobriété qui ne tient plus à la chance",
+      "description": "Poser un budget de poids sur un blog Symfony : pourquoi, comment calibrer le seuil sans se tromper de chiffre, et où l'imposer sans saturer la CI.",
+      "link": "https://lecodeestdanslepre.fr/billets/budget-poids-page",
+      "pubDate": "2026-06-29T12:46:07.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2569a8605292",
+      "title": "B2B Companies: How to Appear in AI Search Engines?",
+      "description": "The increasing use of AI to inform B2B buyers highlights the importance of online brand image management. Companies must optimize their content to be visible and credible to AIs, taking into account information from their websites, social networks, and offline activities. A well-thought-out…",
+      "link": "https://oliviersauvage.com/2026/06/29/b2b-companies-how-to-appear-in-ai-search-engines/",
+      "pubDate": "2026-06-29T11:51:36.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "288f9221ee43",
+      "title": "True First Person Camera 2.0 - Votre vrai corps en vue FPS sur Cyberpunk",
+      "description": "Alors oui, je sais, Cyberpunk 2077 vous montre déjà votre corps quand vous baissez les yeux en plein Night City, jambes comprises. C'est d'ailleurs suffisamment rare en vue FPS pour être souligné. Sauf que cette caméra à la première personne reste raide comme un piquet. La tête de votre personnage…",
+      "link": "https://korben.info/cyberpunk-2077-mod-vue-ego-immersive.html",
+      "pubDate": "2026-06-29T11:39:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3eaef1819e4e",
       "title": "Modos Flow - L'écran e-ink open source qui pousse le refresh à fond",
       "description": "Wenting Zhang, le développeur derrière Modos Labs, s'est attaqué depuis des années à un truc qui faisait rire tout le monde, jusqu'à ce qu'il y parvienne. Son but dans la vie c'était de faire tourner un écran e-ink assez vite pour s'en servir comme écran de PC. Un vrai moniteur, branché en USB-C,…",
