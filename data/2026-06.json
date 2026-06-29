@@ -2,6 +2,50 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "bc3de24f1264",
+      "title": "Alexandria - Vos ebooks en livres audio multi-voix, en local",
+      "description": "Je ne suis pas très client des livres audio parce que mon cerveau, en général, part faire des trucs dans son coin et je me retrouve à rien écouter du tout. Je préfère un petit podcast où ça rigole qu'une œuvre littéraire qui demande de la concentration. Mais je sais que vous appréciez beaucoup les…",
+      "link": "https://korben.info/alexandria-ebook-livre-audio-multivoix.html",
+      "pubDate": "2026-06-29T16:18:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/alexandria-ebook-livre-audio-multivoix/alexandria-ebook-livre-audio-multivoix-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1527308d92f1",
+      "title": "Arthur Mensch fait le point sur Mistral",
+      "description": "Mistral, l'IA française, se positionne comme une alternative aux solutions américaines et chinoises, offrant respect des réglementations et sécurité des données. Son PDG, Arthur Mensch, souligne ses services adaptés aux PME et sa volonté de démocratiser l'IA. Mistral vise à devenir un acteur majeur…",
+      "link": "https://oliviersauvage.com/2026/06/29/arthur-mensch-fait-le-point-sur-mistral/",
+      "pubDate": "2026-06-29T15:14:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "779623c89656",
+      "title": "Un développeur a fait tourner Swift sur un Apple II de 1977",
+      "description": "Swift, le langage maison qu'Apple a sorti en 2014 pour remplacer le vieillissant Objective-C, vient de débarquer sur une machine qui a quarante-neuf ans de plus que lui. Yeo Kheng Meng, un bidouilleur basé à Singapour, a restauré un Apple II Plus puis s'est demandé jusqu'où il pouvait pousser ce…",
+      "link": "https://korben.info/un-developpeur-a-fait-tourner-swift-sur-un-apple-ii-de-1977.html",
+      "pubDate": "2026-06-29T13:54:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0c77153625f1",
       "title": "LinuxMD - du Linux sur la Sega Megadrive",
       "description": "PROMPT MIDJOURNEY : Real black 1990 Sega Megadrive on a cluttered workbench, Mega EverDrive cartridge in its top slot with USB cable trailing to a laptop, small CRT beside displaying scrolling Linux boot text and a shell prompt, wide shot console in foreground CRT behind, documentary…",
