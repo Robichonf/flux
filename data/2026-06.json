@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "aa12eaefa89d",
+      "title": "WSL Containers - des conteneurs Linux sans Docker Desktop",
+      "description": "Microsoft vient de lâcher un truc qui va faire plaisir à tous ceux qui bidouillent fort des conteneurs Linux depuis leur machine Windows. Ça s'appelle WSL Containers (WSLC pour les intimes, et pas WSL 3) et l'objectif c'est de faire tourner des conteneurs Linux nativement sous Windows sans avoir à…",
+      "link": "https://korben.info/wsl-containers-conteneurs-linux-windows.html",
+      "pubDate": "2026-06-29T21:07:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "337004316f72",
       "title": "Un bateau à ballon à imprimer en 3D",
       "description": "Alors cette imprimante 3D ? Vous en êtes content ? Non, ne me mentez pas ! Je sais que comme 90% des gens qui en ont une, elle prend grave la poussière !! Mais voici que voilà de quoi la remettre au boulot pour les vacances ! En effet, le designer jp.studio a partagé sur MakerWorld un petit modèle…",
