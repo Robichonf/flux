@@ -2,6 +2,51 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "0c7253a6c9d2",
+      "title": "Cursor Mobile - Vos agents de coding pilotés depuis iPhone",
+      "description": "Cursor , le célèbre IDE de vibe coding, vient de sortir une app iOS qui permet de piloter des agents IA codant à votre place, directement depuis un smartphone. Je ne parle donc pas d'écrire du code sur un écran de six pouces, hein, mais bien de lancer une tâche, de la confier à un agent qui bosse…",
+      "link": "https://korben.info/cursor-mobile-piloter-agents-ia-smartphone.html",
+      "pubDate": "2026-06-30T11:31:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cursor-mobile-piloter-agents-ia-smartphone/cursor-mobile-piloter-agents-ia-smartphone-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "02a3c28a37b9",
+      "title": "Allégez Nextcloud en virant les dossiers node_modules de l'index",
+      "description": "Si vous avez déjà branché un stockage externe sur votre Nextcloud et regardé occ files:scan ramper en mode larve durant des plombes lors d'une indexation, vous connaissez le coupable. C'est évidemment un dossier node_modules qui contient des dizaines de milliers de tout petits fichiers, qui se fait…",
+      "link": "https://korben.info/nextcloud-files-excludedirs-node-modules.html",
+      "pubDate": "2026-06-30T11:18:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4959d83d18f",
+      "title": "Il a transformé quatre disques durs en enceintes pour rejouer une démo culte de 1993",
+      "description": "Un développeur du nom de Niv Singer a eu l'idée improbable de brancher quatre vieux disques durs en guise d'enceintes, puis de leur faire cracher Second Reality, cette production que le groupe finlandais Future Crew a sortie en 1993 et qui reste, plus de trente ans après, l'une des plus vénérées de…",
+      "link": "https://korben.info/il-a-transforme-quatre-disques-durs-en-enceintes-pour-rejouer-une-demo-culte-de-1993.html",
+      "pubDate": "2026-06-30T09:53:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "74e7e937e09d",
       "title": "IA : pourquoi et comment se former ? Interview exclusive de Manuel Davy",
       "description": "L'interview de Manuel Davy explore la nécessité de former les entreprises et les individus à l'intelligence artificielle (IA). Davy souligne les enjeux sociétaux liés à cette technologie, la diversité des applications de l'IA et le risque d'obsolescence. Il insiste sur l'importance d'une…",
