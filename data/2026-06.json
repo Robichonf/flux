@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "530958fe6ab6",
+      "title": "Claude Desktop - L'appli officielle débarque enfin sur Linux",
+      "description": "Amis linuxiens, je viens vous quérir d'une charmante nouvelle qui va faire frisoter votre barbe. Anthropic vient de sortir son application Claude Desktop pour Linux, et cette fois c'est une beta officielle, qui plus est, installable directement depuis un dépôt apt maison. Vous y retrouvez donc les…",
+      "link": "https://korben.info/claude-desktop-linux.html",
+      "pubDate": "2026-06-30T17:55:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a6a4584344b3",
+      "title": "GLM 5.2 - Le premier modèle IA open source que je garde",
+      "description": "Les amis, il faut que je vous parle de GLM 5.2 . Je l'utilise en ce moment même à travers Z.ai, et c'est la première fois qu'un modèle open weights me donne satisfaction sur ce que je lui demande de faire. Et dieu sait que j'en ai testé de ces putains de modèles ! GLM 5.2, c'est le dernier-né de…",
+      "link": "https://korben.info/glm-5-2-retour-experience.html",
+      "pubDate": "2026-06-30T16:42:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/glm-5-2-retour-experience/glm-5-2-retour-experience-2.png",
+      "type": "blog"
+    },
+    {
       "id": "94842f00a7dc",
       "title": "Hugging Face sait enfin vous dire si un modèle tourne sur votre machine",
       "description": "Vous avez une petite carte graphique, un vieux Mac ou juste un bon processeur, et vous cherchez LE modèle d'IA parfait qui pourra tourner en local sans que ça rame ? Hugging Face vient d'ajouter le filtre qui manquait à sa page Models : un sélecteur de matériel qui ne vous proposera que les modèles…",
