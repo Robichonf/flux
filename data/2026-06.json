@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e20f0f259eee",
+      "title": "GeoSpoof - Le VPN cache votre IP mais le navigateur vous trahit",
+      "description": "Anthony Sgro vient d'open-sourcer un truc que tout utilisateur de VPN devrait avoir sous la main. C'est extension pour Safari, Chrome et Firefox (et pas Faille-Fox, déso) qui s'appelle GeoSpoof et qui part d'un constat tout bête que la plupart des gens ignorent. En fait, votre VPN change masque…",
+      "link": "https://korben.info/geospoof-vpn-navigateur-localisation.html",
+      "pubDate": "2026-06-30T12:48:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/geospoof-vpn-navigateur-localisation/geospoof-vpn-navigateur-localisation-1.png",
+      "type": "blog"
+    },
+    {
       "id": "0c7253a6c9d2",
       "title": "Cursor Mobile - Vos agents de coding pilotés depuis iPhone",
       "description": "Cursor , le célèbre IDE de vibe coding, vient de sortir une app iOS qui permet de piloter des agents IA codant à votre place, directement depuis un smartphone. Je ne parle donc pas d'écrire du code sur un écran de six pouces, hein, mais bien de lancer une tâche, de la confier à un agent qui bosse…",
