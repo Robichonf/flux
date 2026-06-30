@@ -2,6 +2,65 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "74e7e937e09d",
+      "title": "IA : pourquoi et comment se former ? Interview exclusive de Manuel Davy",
+      "description": "L'interview de Manuel Davy explore la nécessité de former les entreprises et les individus à l'intelligence artificielle (IA). Davy souligne les enjeux sociétaux liés à cette technologie, la diversité des applications de l'IA et le risque d'obsolescence. Il insiste sur l'importance d'une…",
+      "link": "https://oliviersauvage.com/2026/06/30/ia-pourquoi-et-comment-se-former-interview-exclusive-de-manuel-davy/",
+      "pubDate": "2026-06-30T08:20:32.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27434a87b2f3",
+      "title": "Un dépôt GitHub trop propre suffit à pirater Claude Code",
+      "description": "Les chercheurs Andre Hall et Miller Engelbrecht, du Zero Day Investigative Network de Mozilla (0DIN), viennent de montrer comment prendre le contrôle complet d'une machine avec un dépôt GitHub qui ne contient aucun code malveillant. Vous clonez le repo, vous demandez à Claude Code de \"faire tourner…",
+      "link": "https://korben.info/claude-code-depot-malveillant-prompt-injection.html",
+      "pubDate": "2026-06-30T07:18:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "34d5d4c2e28c",
+      "title": "Arma Cold War Assault - Code source ouvert pour ses 25 ans",
+      "description": "Il y a 25 ans, le studio tchèque Bohemia Interactive sortait Operation Flashpoint : Cold War Crisis, un shooter tactique qui a marqué toute une génération de joueurs PC. Eh bien, pour l'anniversaire du jeu, ils n'ont pas fait les choses à moitié puisqu'un remaster est en route, une démo gratuite…",
+      "link": "https://korben.info/arma-cold-war-assault-remaster-open-source.html",
+      "pubDate": "2026-06-30T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f46749184e12",
+      "title": "Cet écran e-ink fait tourner la Game Boy à 60 FPS",
+      "description": "Je vous parlais de ces écrans e-ink hier qui sont capables de se rafraichir beaucoup plus rapidement que les écrans tout pâle de nos liseuses. Et v'la ti pas que je tombe sur ce projet de Wenting Channel où le gars a décidé de faire tourner un Pokemon Bleu en 60 fps sur un écran e-ink. Avant…",
+      "link": "https://korben.info/gameboy-emulateur-liseuse-eink-esp32.html",
+      "pubDate": "2026-06-30T05:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "aa12eaefa89d",
       "title": "WSL Containers - des conteneurs Linux sans Docker Desktop",
       "description": "Microsoft vient de lâcher un truc qui va faire plaisir à tous ceux qui bidouillent fort des conteneurs Linux depuis leur machine Windows. Ça s'appelle WSL Containers (WSLC pour les intimes, et pas WSL 3) et l'objectif c'est de faire tourner des conteneurs Linux nativement sous Windows sans avoir à…",
