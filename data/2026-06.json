@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "94842f00a7dc",
+      "title": "Hugging Face sait enfin vous dire si un modèle tourne sur votre machine",
+      "description": "Vous avez une petite carte graphique, un vieux Mac ou juste un bon processeur, et vous cherchez LE modèle d'IA parfait qui pourra tourner en local sans que ça rame ? Hugging Face vient d'ajouter le filtre qui manquait à sa page Models : un sélecteur de matériel qui ne vous proposera que les modèles…",
+      "link": "https://korben.info/huggingface-filtre-modeles-materiel.html",
+      "pubDate": "2026-06-30T16:24:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/huggingface-filtre-modeles-materiel/huggingface-filtre-modeles-materiel-2.png",
+      "type": "blog"
+    },
+    {
       "id": "e20f0f259eee",
       "title": "GeoSpoof - Le VPN cache votre IP mais le navigateur vous trahit",
       "description": "Anthony Sgro vient d'open-sourcer un truc que tout utilisateur de VPN devrait avoir sous la main. C'est extension pour Safari, Chrome et Firefox (et pas Faille-Fox, déso) qui s'appelle GeoSpoof et qui part d'un constat tout bête que la plupart des gens ignorent. En fait, votre VPN change masque…",
