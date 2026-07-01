@@ -2,6 +2,66 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "c8a041df1053",
+      "title": "OpenClaw - L'assistant IA arrive sur iPhone et Android",
+      "description": "Chers amateurs d'OpenClaw, bonne nouvelle, votre outil préféré débarque sur iPhone et Android. Mais contrairement à ce que vous faites d'habitude, pour une fois, je vous conseille de bien lire mon article avant de foncer. En janvier, je vous faisais découvrir rapidement OpenClaw , un assistant IA…",
+      "link": "https://korben.info/openclaw-apps-mobiles-ios-android.html",
+      "pubDate": "2026-07-01T11:33:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openclaw-apps-mobiles-ios-android/openclaw-apps-mobiles-ios-android-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "862d799f5262",
+      "title": "Hide My Email - La faille qui crame votre vraie adresse mail",
+      "description": "Si vous utilisez Hide My Email d'Apple pour éviter de balancer votre vraie adresse mail à tous les sites qui vous la réclament, j'ai une mauvaise nouvelle les amis ! Tyler Murphy, cofondateur d'EasyOptOuts a découvert une entourloupe qui permettrait de remonter jusqu'à votre vraie adresse email...…",
+      "link": "https://korben.info/apple-hide-my-email-faille-adresse-reelle.html",
+      "pubDate": "2026-07-01T11:19:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0ede9997fe0",
+      "title": "Reflect v1.0 - Programmer un humanoïde en une phrase",
+      "description": "Un humanoïde qui traverse un immeuble, appelle l'ascenseur, ouvre un colis avec un outil et range les courses dans un tiroir, tout seul, et sur une seule consigne qui lui est donnée en langage naturel, ce n'est pas de la sorcellerie ! Non, c'est la démo qu'a sortie Flexion Robotics , une startup…",
+      "link": "https://korben.info/flexion-reflect-humanoides-autonomie.html",
+      "pubDate": "2026-07-01T10:07:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/flexion-reflect-humanoides-autonomie/flexion-reflect-humanoides-autonomie-2.avif",
+      "type": "blog"
+    },
+    {
+      "id": "9df33d655be5",
+      "title": "Google agents-cli - Quand votre agent IA en crée d'autres",
+      "description": "Les devs de chez Google viennent de sortir un outil conçu pour les agents IA qui codent afin qu'ils deviennent des experts en développement d'agents IA sur Google Cloud. J'sais pas si je suis très clair, alors je vais essayer de vous expliquer tout ça. Que vous soyez sur Claude Code, Codex d'OpenAI…",
+      "link": "https://korben.info/google-agents-cli-build-agents-ia.html",
+      "pubDate": "2026-07-01T09:31:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/google-agents-cli-build-agents-ia/google-agents-cli-build-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
       "id": "b506c73b742b",
       "title": "Banjo-Kazooie - 20 musiques inédites découvertes 28 ans plus tard",
       "description": "Banjo-Kazooie est un jeu du studio Rare sorti sur Nintendo 64 en 1998, qui dernièrement revient un peu sur le devant de la scène . La communauté des fans le dissèque sous tous les angles depuis des années et pourtant, il en sort encore des surprises ! En effet, le dernier portage sur console de…",
