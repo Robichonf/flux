@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "07604bfbe62e",
+      "title": "ZCode - L'app maison de z.ai pour coder avec GLM",
+      "description": "Hier je vous parlais de GLM 5.2 , le modèle open source que j'ai fini par adopter (en partie) pour bosser. Eh bien la team z.ai (le lab chinois anciennement connu sous le nom de Zhipu AI) enchaîne le bon travail et pousse désormais ZCode , leur propre application pour coder avec des agents IA.…",
+      "link": "https://korben.info/zcode-zai-glm-coding.html",
+      "pubDate": "2026-07-01T20:58:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/zcode-zai-glm-coding/zcode-zai-glm-coding-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8affde8278a2",
       "title": "Claude Code planquait un mouchard dans la date du prompt",
       "description": "Vous utilisez Claude Code tous les jours pour coder, et pendant ce temps-là l'outil d'Anthropic utilisé par des milliers de dev, joue les mouchards. Thereallo , un développeur qui fouillait le binaire par simple souci de vie privée, est tombé sur une fonction qui apparemment modifie en douce la…",
