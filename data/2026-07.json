@@ -2,6 +2,66 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "6c8dc9d565f3",
+      "title": "Korben News Tab - Ne ratez plus jamais un seul de mes articles",
+      "description": "Vous ouvrez combien d'onglets par jour ? Cinquante ? Cent ? Des millions ???? J'en étais sûr !! Et à chaque fois, vous tombez sur cette page blanche de Google de la dépression ou sur les quelques vignettes d'actu remplies de fake news que MSN ou je ne sais qui vous propose. Et bien ce petit moment…",
+      "link": "https://korben.info/extension-firefox-actualites-korben-nouvel-onglet.html",
+      "pubDate": "2026-07-01T14:27:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/extension-firefox-actualites-korben-nouvel-onglet/extension-firefox-actualites-korben-nouvel-onglet-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c49202d26412",
+      "title": "Un Sony Cyber-shot transformé en Game Boy par retroHAI",
+      "description": "Un appareil photo Sony Cyber-shot d'un côté, une Game Boy Advance SP de l'autre, et au milieu un objet qui n'a aucun sens mais qui me plaît bien quand même ! C'est la signature de Hairo Satoh, un modder japonais installé à Yokohama que tout le monde connaît sous le pseudo retroHAI . Le gars se fait…",
+      "link": "https://korben.info/retrohai-mods-cybershot-gameboy.html",
+      "pubDate": "2026-07-01T13:32:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e665a13003ad",
+      "title": "PS5-Linux - La Slim peut enfin tourner sous Linux",
+      "description": "Il y a trois mois, Andy Nguyen (theflow0 pour les intimes) lâchait PS5-Linux et posait direct cette limite bien nette, à savoir que ça ne concernerait que les PS5 Phat, et pas les Slim ni les Pro. Bon ben cette limite vient de sauter pour les Slim. En effet, depuis fin juin, son ps5-linux-loader…",
+      "link": "https://korben.info/ps5-linux-firmware-ps5-slim.html",
+      "pubDate": "2026-07-01T13:13:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b8960c88771c",
+      "title": "Kim Dotcom - Son extradition aux USA se rapproche",
+      "description": "Le 20 janvier 2012, 76 policiers et deux hélicoptères débarquent sur le manoir de Coatesville, en Nouvelle-Zélande, pour coffrer un gros bonhomme allemand la veille de ses 38 ans. Ce bonhomme, c'est Kim Dotcom , le patron de Megaupload. Et quatorze ans plus tard, la justice néo-zélandaise vient…",
+      "link": "https://korben.info/kim-dotcom-extradition-etats-unis.html",
+      "pubDate": "2026-07-01T12:34:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c8a041df1053",
       "title": "OpenClaw - L'assistant IA arrive sur iPhone et Android",
       "description": "Chers amateurs d'OpenClaw, bonne nouvelle, votre outil préféré débarque sur iPhone et Android. Mais contrairement à ce que vous faites d'habitude, pour une fois, je vous conseille de bien lire mon article avant de foncer. En janvier, je vous faisais découvrir rapidement OpenClaw , un assistant IA…",
