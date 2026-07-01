@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "8affde8278a2",
+      "title": "Claude Code planquait un mouchard dans la date du prompt",
+      "description": "Vous utilisez Claude Code tous les jours pour coder, et pendant ce temps-là l'outil d'Anthropic utilisé par des milliers de dev, joue les mouchards. Thereallo , un développeur qui fouillait le binaire par simple souci de vie privée, est tombé sur une fonction qui apparemment modifie en douce la…",
+      "link": "https://korben.info/claude-code-steganographie-requetes.html",
+      "pubDate": "2026-07-01T16:46:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "212ac3c0c146",
+      "title": "Lire la puce de sa carte d'identité en Python sous Linux",
+      "description": "Hubert, fidèle lecteur de Korben.info m'a envoyé un mail pour me dire qu'il avait reçu sa nouvelle carte d'identité. Vous savez celle en petit format avec la puce dedans qu'on peut scanner avec l'app France Identité. Et il en est bien content ! Voilà, l'histoire s'arrête là ! Mais non, je plaisante…",
+      "link": "https://korben.info/carte-identite-electronique-lire-puce-python.html",
+      "pubDate": "2026-07-01T16:28:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/carte-identite-electronique-lire-puce-python/carte-identite-electronique-lire-puce-python-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f19429bab881",
+      "title": "AI Overviews arrive en France : faut-il vraiment optimiser ?",
+      "description": "Google AI Overviews arrive en France. Faut-il optimiser votre stratégie SEO pour être cité ? Décryptage des enjeux et des réglages techniques.",
+      "link": "https://lecodeestdanslepre.fr/billets/optimiser-pour-les-ia-qui-repondent",
+      "pubDate": "2026-07-01T15:32:15.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "6c8dc9d565f3",
       "title": "Korben News Tab - Ne ratez plus jamais un seul de mes articles",
       "description": "Vous ouvrez combien d'onglets par jour ? Cinquante ? Cent ? Des millions ???? J'en étais sûr !! Et à chaque fois, vous tombez sur cette page blanche de Google de la dépression ou sur les quelques vignettes d'actu remplies de fake news que MSN ou je ne sais qui vous propose. Et bien ce petit moment…",
