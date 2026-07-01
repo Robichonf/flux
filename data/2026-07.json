@@ -1,0 +1,50 @@
+{
+  "month": "2026-07",
+  "articles": [
+    {
+      "id": "b506c73b742b",
+      "title": "Banjo-Kazooie - 20 musiques inédites découvertes 28 ans plus tard",
+      "description": "Banjo-Kazooie est un jeu du studio Rare sorti sur Nintendo 64 en 1998, qui dernièrement revient un peu sur le devant de la scène . La communauté des fans le dissèque sous tous les angles depuis des années et pourtant, il en sort encore des surprises ! En effet, le dernier portage sur console de…",
+      "link": "https://korben.info/banjo-kazooie-musiques-inedites-decouvertes.html",
+      "pubDate": "2026-07-01T06:35:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70b8b511a3af",
+      "title": "FaceGate - Verrouiller ses apps macOS en FaceID",
+      "description": "J'sais pas si vous avez remarqué mais autant sous iOS on peut mettre une authentification Face ID sur n'importe quel app, autant sous MacOS, on peut certes verrouiller tout son ordi, mais on ne peut pas locker une app en particulier. Et c'est chiant parce que parfois, on doit laisser son ordi à un…",
+      "link": "https://korben.info/facegate-verrouiller-applications-mac.html",
+      "pubDate": "2026-07-01T06:20:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/facegate-verrouiller-applications-mac/facegate-verrouiller-applications-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b252bf46d44f",
+      "title": "Mythos et Fable 5 - Anthropic sort du rayon tracteur de Trump",
+      "description": "Bonne nouvelle pour tous les drogués de l'IA que vous êtes ! L'administration Trump a enfin fini par lâcher du lest. Hier soir, le Département du Commerce américain a finalement levé les restrictions d'exportation stupides qui pesaient sur Mythos et Fable 5 , les deux modèles les plus puissants…",
+      "link": "https://korben.info/trump-anthropic-mythos-fable-restrictions.html",
+      "pubDate": "2026-07-01T06:00:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/trump-anthropic-mythos-fable-restrictions/trump-anthropic-mythos-fable-restrictions-1.jpg",
+      "type": "blog"
+    }
+  ]
+}
