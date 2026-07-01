@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f76eb6b053c6",
+      "title": "SpaceX aurait développé un appareil IA plus fin qu'un iPhone - Elon Musk dément",
+      "description": "D'après le Wall Street Journal , SpaceX bosserait sur un appareil IA qui serait plus fin qu'un iPhone. Évidemment, ça hype tout le monde, alors je me suis un peu renseigné. Ce serait un petit boitier au look de smartphone que vous pourriez glisser dans votre poche, qui contiendrait une puce…",
+      "link": "https://korben.info/spacex-appareil-ia-plus-fin-iphone.html",
+      "pubDate": "2026-07-01T22:24:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/spacex-appareil-ia-plus-fin-iphone/spacex-appareil-ia-plus-fin-iphone-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "e4c0759c028d",
+      "title": "Witcher Online - Un moddeur transforme le Witcher 3 en MMO",
+      "description": "Le moddeur connu sous le pseudo rejuvenate vient de sortir la version 4.0 de Witcher Online , un super mod qui transforme The Witcher 3: Wild Hunt en multijoueur co-op !!! Aaah, je vois les étoiles dans vos yeux depuis chez moi ! Vous allez pouvoir vous promener en bande dans ce RPG de 2015 alors…",
+      "link": "https://korben.info/witcher-3-online-mod-multijoueur.html",
+      "pubDate": "2026-07-01T21:33:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/witcher-3-online-mod-multijoueur/witcher-3-online-mod-multijoueur-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "07604bfbe62e",
       "title": "ZCode - L'app maison de z.ai pour coder avec GLM",
       "description": "Hier je vous parlais de GLM 5.2 , le modèle open source que j'ai fini par adopter (en partie) pour bosser. Eh bien la team z.ai (le lab chinois anciennement connu sous le nom de Zhipu AI) enchaîne le bon travail et pousse désormais ZCode , leur propre application pour coder avec des agents IA.…",
