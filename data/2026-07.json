@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "1bf5f1be7647",
+      "title": "Google veut scanner votre main pour prouver que vous êtes humain",
+      "description": "Google en a marre que les IA passent ses CAPTCHA les doigts dans le nez, alors sa nouvelle idée de génie à la con pour vérifier que vous êtes bien humain, ça va bientôt être de vous faire agiter la main devant votre webcam. \"Hé COUCOU le CAPTCHA !\" Vous autorisez la caméra, vous faites un petit…",
+      "link": "https://korben.info/google-recaptcha-scan-main.html",
+      "pubDate": "2026-07-02T17:01:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5b97b81b2fdf",
+      "title": "Par quoi remplacer TV Time avant sa fermeture ?",
+      "description": "Triste nouvelle, TV Time tire sa révérence le 15 juillet prochain, et je vous avoue que ça me fait un petit quelque chose. Cette appli, vous la connaissez peut-être sous son nom d'origine, TV Show Time, une petite pépite française dont je vous parlais déjà en 2014 en l'appelant même le PopcornTime…",
+      "link": "https://korben.info/remplacer-tv-time-alternatives-suivi-series.html",
+      "pubDate": "2026-07-02T16:09:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/remplacer-tv-time-alternatives-suivi-series/remplacer-tv-time-alternatives-suivi-series-2.png",
+      "type": "blog"
+    },
+    {
       "id": "4547626112b1",
       "title": "NanoKVM-Go - Le KVM USB-C qui garde vos écrans en mémoire",
       "description": "La société Sipeed vient d'annoncer la sortie d'un nouveau KVM USB-C qui je pense va vous intéresser. Il s'appelle le NanoKVM-GO, il fait la taille d'une grosse boite d'allumettes et permet de prendre le contrôle de n'importe quel appareil capable de cracher de la vidéo via son port USB-C. Donc y'a…",
