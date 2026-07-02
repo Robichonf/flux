@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5bf9999a52d6",
+      "title": "SpudCell - La première cellule artificielle complète",
+      "description": "Les humains font vraiment des trucs de dingues. Surtout les scientifiques !! On a 2 biochimistes de l'Université du Minnesota (Kate Adamala et Aaron Engelhart) qui viennent de créer SpudCell, la première cellule artificielle capable de boucler un cycle de vie complet comme une vraie. Je vais…",
+      "link": "https://korben.info/cellule-artificielle-cycle-vie-complet.html",
+      "pubDate": "2026-07-02T05:13:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cellule-artificielle-cycle-vie-complet/cellule-artificielle-cycle-vie-complet-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "683ecef75aa4",
+      "title": "Un ransomware dans le navigateur ? Suffit de demander à DeepSeek",
+      "description": "Dans la série \"Qu'est-ce qu'on se marre avec les LLMs\", des chercheurs en cybersécurité de Check Point ont tenté une expérience plutôt fun (enfin, je trouve ^^) : Demander à DeepSeek de leur coder un ransomware capable de tourner directement dans le navigateur. Et bah croyez le ou non mais le…",
+      "link": "https://korben.info/deepseek-ransomware-navigateur.html",
+      "pubDate": "2026-07-02T04:51:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f76eb6b053c6",
       "title": "SpaceX aurait développé un appareil IA plus fin qu'un iPhone - Elon Musk dément",
       "description": "D'après le Wall Street Journal , SpaceX bosserait sur un appareil IA qui serait plus fin qu'un iPhone. Évidemment, ça hype tout le monde, alors je me suis un peu renseigné. Ce serait un petit boitier au look de smartphone que vous pourriez glisser dans votre poche, qui contiendrait une puce…",
