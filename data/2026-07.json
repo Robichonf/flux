@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "732ecf163bb1",
+      "title": "Juillet 2027 - La date de péremption des jeux PS3",
+      "description": "Vous avez encore une PS3 qui prend la poussière avec des jeux achetés en dématérialisé dessus ? Alors va falloir vite vous bouger le cul parce que ces sacripants de Sony viennent d'annoncer la fermeture du PlayStation Store sur la PS3 et la PS Vita pour juillet 2027. Et dans la foulée, ils viennent…",
+      "link": "https://korben.info/preservation-jeux-ps3-store-sony-2027.html",
+      "pubDate": "2026-07-02T22:12:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/preservation-jeux-ps3-store-sony-2027/preservation-jeux-ps3-store-sony-2027-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "15ed43ed671a",
+      "title": "Isaac 1 - Un Baymax à 8000$ qui plie votre linge",
+      "description": "Isaac 1, c'est le nouveau robot domestique de Weave Robotics , et sa spécialité c'est de plier le linge, faire les lits et ranger le bazar qui traîne chez vous. Il a l'air rigolo, il est mignon, il a des grands bras et me fait penser un peu à ce robot de dessin animé qui s'appelle Baymax. La bête…",
+      "link": "https://korben.info/robot-plie-linge-isaac-1-weave.html",
+      "pubDate": "2026-07-02T21:21:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/robot-plie-linge-isaac-1-weave/robot-plie-linge-isaac-1-weave-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7e796bdc30cb",
+      "title": "Un boîtier Wi-Fi qui détecte les gens à travers les murs",
+      "description": "Ce serait marrant de détecter quelqu'un dans une pièce voisine, sans utiliser de caméra ou de capteur infrarouge. En fait, c'est possible avec juste du Wifi et c'est ce que nous prouve Talking Sasquach qui vient de se bricoler un petit boitier capable de faire ça. Je vous rassure, l'idée n'a rien…",
+      "link": "https://korben.info/radar-wifi-esp32-detection-personnes.html",
+      "pubDate": "2026-07-02T21:05:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/radar-wifi-esp32-detection-personnes/radar-wifi-esp32-detection-personnes-2.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "1bf5f1be7647",
       "title": "Google veut scanner votre main pour prouver que vous êtes humain",
       "description": "Google en a marre que les IA passent ses CAPTCHA les doigts dans le nez, alors sa nouvelle idée de génie à la con pour vérifier que vous êtes bien humain, ça va bientôt être de vous faire agiter la main devant votre webcam. \"Hé COUCOU le CAPTCHA !\" Vous autorisez la caméra, vous faites un petit…",
