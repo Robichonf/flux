@@ -2,6 +2,65 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "4547626112b1",
+      "title": "NanoKVM-Go - Le KVM USB-C qui garde vos écrans en mémoire",
+      "description": "La société Sipeed vient d'annoncer la sortie d'un nouveau KVM USB-C qui je pense va vous intéresser. Il s'appelle le NanoKVM-GO, il fait la taille d'une grosse boite d'allumettes et permet de prendre le contrôle de n'importe quel appareil capable de cracher de la vidéo via son port USB-C. Donc y'a…",
+      "link": "https://korben.info/sipeed-nanokvm-go.html",
+      "pubDate": "2026-07-02T09:53:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/sipeed-nanokvm-go/sipeed-nanokvm-go-2.avif",
+      "type": "blog"
+    },
+    {
+      "id": "bad2a3429fc0",
+      "title": "La Russie réclame 52 millions à Apple alors qu'ils n'y vendent plus rien",
+      "description": "4 milliards de roubles, c'est ce que réclame Moscou à Apple. Si vous n'êtes pas fortiche en roubles, c'est environ 52 millions de dollars. Mais alors pourquoi la Russie réclame-t-elle une telle somme à Apple ? Eh bien c'est parce que Max , la messagerie du Kremlin ainsi que RuStore, sa boutique…",
+      "link": "https://korben.info/apple-amende-russie-apps-obligatoires.html",
+      "pubDate": "2026-07-02T09:35:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apple-amende-russie-apps-obligatoires/apple-amende-russie-apps-obligatoires-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "df06ab78dc5c",
+      "title": "2026 : les blogs sont morts, vivent les blogs !",
+      "description": "Une étude menée par Daniel Stanica montre qu'au sein des 100 blogs américains influents, plus de 60 ont perdu jusqu'à 85% de leur trafic en quatre ans. Cette baisse est due à des algorithmes de Google et à une conception erronée du contenu. Seuls 21 blogs réussissent à croître, en proposant des…",
+      "link": "https://oliviersauvage.com/2026/07/02/2026-les-blogs-sont-morts-vivent-les-blogs/",
+      "pubDate": "2026-07-02T08:41:34.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac44b025ef63",
+      "title": "Core Web Vitals : mécanique de mesure et pièges à éviter",
+      "description": "D'où viennent les chiffres des Core Web Vitals : ce que CrUX voit (et rate), pourquoi Lighthouse ne prédit rien, et les pièges LCP, INP, CLS à éviter.",
+      "link": "https://lecodeestdanslepre.fr/billets/core-web-vitals-mecanique-pieges",
+      "pubDate": "2026-07-02T06:42:15.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5bf9999a52d6",
       "title": "SpudCell - La première cellule artificielle complète",
       "description": "Les humains font vraiment des trucs de dingues. Surtout les scientifiques !! On a 2 biochimistes de l'Université du Minnesota (Kate Adamala et Aaron Engelhart) qui viennent de créer SpudCell, la première cellule artificielle capable de boucler un cycle de vie complet comme une vraie. Je vais…",
