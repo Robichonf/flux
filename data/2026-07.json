@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "065ed52bf64c",
+      "title": "Microsoft a imaginé un Windows sans applications, juste Copilot",
+      "description": "Honnêtement, avec la puissance actuelle de nos LLM, finalement, est-ce qu'on a encore besoin d'avoir des applications ? Un outil type Claude Code ou Microsoft Copilot, à côté, un gros tas de données diverses et variées, quelques accès à des services et basta ! C'est peut-être ce vers quoi on se…",
+      "link": "https://korben.info/microsoft-project-aion-copilot-os.html",
+      "pubDate": "2026-07-03T11:55:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19de97ee2e72",
+      "title": "Un cafard cyborg en combinaison de plongée",
+      "description": "Un cafard qui plonge et reste sous l'eau trois heures d'affilée, ça n'existait pas jusqu'à la semaine dernière. L'équipe d'Hirotaka Sato, à la NTU de Singapour, avec leurs collègues de l'université Waseda au Japon, viennent de parvenir avec leurs petits doigts, à sangler une combinaison de plongée…",
+      "link": "https://korben.info/cafard-cyborg-plongee-sous-marine.html",
+      "pubDate": "2026-07-03T11:01:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cafard-cyborg-plongee-sous-marine/cafard-cyborg-plongee-sous-marine-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "feafb0c25dee",
       "title": "Valve refuse de vendre ce faceplate e-ink mais file les plans",
       "description": "Ils sont trop sympas chez Valve ! Ils viennent de balancer sur GitLab tous les fichiers nécessaires à la fabrication d'un FacePlate pour leur Steam Machine avec un écran e-ink intégré. Les plans 3D, la liste des composants, le firmware et même les vidéos de montage, tout est sous licence MIT et je…",
@@ -183,6 +213,21 @@
       "type": "blog"
     },
     {
+      "id": "d1a900dd1081",
+      "title": "Mesurer le trafic IA dans ses logs",
+      "description": "13,5 jours de logs Caddy analysés : qui crawle un blog PHP, ce que pèsent GPTBot et ClaudeBot, et ce que vaut un robots.txt écrit sans mesure.",
+      "link": "https://lecodeestdanslepre.fr/billets/mesurer-trafic-ia-logs-crawlers",
+      "pubDate": "2026-07-02T16:16:20.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5b97b81b2fdf",
       "title": "Par quoi remplacer TV Time avant sa fermeture ?",
       "description": "Triste nouvelle, TV Time tire sa révérence le 15 juillet prochain, et je vous avoue que ça me fait un petit quelque chose. Cette appli, vous la connaissez peut-être sous son nom d'origine, TV Show Time, une petite pépite française dont je vous parlais déjà en 2014 en l'appelant même le PopcornTime…",
@@ -239,6 +284,21 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a4a8e45ab384",
+      "title": "La release qui ne comptait plus",
+      "description": "Conventional Commits en entrée, tag et GitHub Release en sortie : un pipeline complet en trois jobs, et les trois squash qui l'ont rendu aveugle.",
+      "link": "https://lecodeestdanslepre.fr/billets/release-automatisee-git-cliff-github-actions",
+      "pubDate": "2026-07-02T07:38:22.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
