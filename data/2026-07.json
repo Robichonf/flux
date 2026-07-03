@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "efeb1b01f9e6",
+      "title": "RomM - Le gestionnaire de ROMs des retro gamers sérieux",
+      "description": "Vous galérez avec vos ROMs de jeux rétro éparpillées un peu partout sur votre PC ? Vous passez des heures à chercher le bon émulateur, les bons fichiers, les bonnes versions ? Et bien tout ça c'est fini, grâce à RomM qui est un gestionnaire de ROMs vraiment cool. Vous lui indiquez le répertoire qui…",
+      "link": "https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime.html",
+      "pubDate": "2026-07-03T13:28:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime/gerer-sa-collection-de-roms-de-jeux-retro-avec-romm-le-manager-ultime-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "065ed52bf64c",
       "title": "Microsoft a imaginé un Windows sans applications, juste Copilot",
       "description": "Honnêtement, avec la puissance actuelle de nos LLM, finalement, est-ce qu'on a encore besoin d'avoir des applications ? Un outil type Claude Code ou Microsoft Copilot, à côté, un gros tas de données diverses et variées, quelques accès à des services et basta ! C'est peut-être ce vers quoi on se…",
@@ -150,6 +165,22 @@
         "Web"
       ],
       "image": "https://korben.info/vos-fichiers-proteges-a-vie/vos-fichiers-proteges-a-vie-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "c8cce01c6743",
+      "title": "La veille de Wittouck - juin 2026",
+      "description": "Ce mois de juin, j’étais en marathon de conférences. DevLille, Tech’Work, Breizhcamp, et je termine la saison avec Riviera Dev. J’ai donc eu peu de temps pour rédiger cette veille (j’étais tout le temps sur Factorio, parce que The Factory Must Grow 🏭⚙️, vous savez bien), Je reprends donc le rythme…",
+      "link": "https://codeka.io/2026/07/03/la-veille-de-wittouck-juin-2026/",
+      "pubDate": "2026-07-03T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/07/03/la-veille-de-wittouck-juin-2026/cover_hu_d3b33f5fe758ec26.webp",
       "type": "blog"
     },
     {
