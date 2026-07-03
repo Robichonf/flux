@@ -2,6 +2,127 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "feafb0c25dee",
+      "title": "Valve refuse de vendre ce faceplate e-ink mais file les plans",
+      "description": "Ils sont trop sympas chez Valve ! Ils viennent de balancer sur GitLab tous les fichiers nécessaires à la fabrication d'un FacePlate pour leur Steam Machine avec un écran e-ink intégré. Les plans 3D, la liste des composants, le firmware et même les vidéos de montage, tout est sous licence MIT et je…",
+      "link": "https://korben.info/steam-machine-faceplate-eink-3d-print.html",
+      "pubDate": "2026-07-03T09:34:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fed340ededa5",
+      "title": "Pegasus a espionné l'eurodéputé qui enquêtait sur Pegasus",
+      "description": "Stelios Kouloglou, ancien eurodéputé grec, et journaliste d'investigation, siégeait à la commission PEGA du Parlement européen et à l'époque, son cheval de bataille c'était de traquer Pegasus, le mouchard pour smartphone de la société israélienne NSO Group. Et bien devinez quoi ? Son smartphone à…",
+      "link": "https://korben.info/pegasus-membre-commission-pega-parlement-europeen.html",
+      "pubDate": "2026-07-03T09:28:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ebd318af04cd",
+      "title": "Claude Opus a écrit seul l'exploit qui a éventré la billetterie de Live Nation",
+      "description": "Un chercheur en sécurité nommé Ian Carroll s'est amusé à lâcher Claude Opus sur la billetterie de Live Nation, afin d'y trouver des failles de sécurité, et l'IA lui a carrément écrit toute la chaîne d'exploitation sans aucune aide. Lui n'a eu qu'à le lancer... Tout démarre avec une session de…",
+      "link": "https://korben.info/claude-ia-faille-sql-billetterie-live-nation.html",
+      "pubDate": "2026-07-03T08:51:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-ia-faille-sql-billetterie-live-nation/claude-ia-faille-sql-billetterie-live-nation-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "caebcd45d75a",
+      "title": "oomwoo - Le robot aspirateur open source à monter soi-même",
+      "description": "La société Maker's Pet vient de lancer oomwoo , un robot aspirateur open source que vous construisez vous-même ! C'est fait à base de Raspberry Pi 5, LiDAR 2D, ROS 2, châssis imprimé en 3D, et le tout fonctionne en local. Sauf qu'il y a un détail rigolo, pour l'instant il fait à peu près tout...…",
+      "link": "https://korben.info/oomwoo-robot-aspirateur-open-source.html",
+      "pubDate": "2026-07-03T08:28:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/oomwoo-robot-aspirateur-open-source/oomwoo-robot-aspirateur-open-source-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2647ec8283db",
+      "title": "iOS 27 veut bloquer les arnaqueurs en temps réel",
+      "description": "Le scénario est toujours le même. Un faux conseiller bancaire au bout du fil, avec un ton pressant qui vous répète de valider vite, et vous confirmez un virement que vous regretterez très fort avant la fin de la journée. C'est précisément cette mécanique qu'Apple veut enrayer avec Trust Insights,…",
+      "link": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel.html",
+      "pubDate": "2026-07-03T08:24:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel/ios-27-veut-bloquer-les-anrnaqueurs-en-temps-reel-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "19f0df9ebe33",
+      "title": "En 2026, les articles écrit avec IA se positionnent-ils mieux que les textes sans IA sur Google ?",
+      "description": "Je suis certain qu’il y a une question que vous vous posez : les textes écrits avec une IA sont-ils de meilleure qualité que ceux écrits par un humain ? Pour en avoir discuté avec pas mal de gens, le débat reste ouvert. Certains sont convaincus que les humains sont battus à plate-couture, tandis…",
+      "link": "https://oliviersauvage.com/2026/07/03/en-2026-les-articles-ecrit-avec-ia-se-positionnent-ils-mieux-que-les-textes-sans-ia-sur-google/",
+      "pubDate": "2026-07-03T08:16:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2e799876b04c",
+      "title": "Piloter un projet data sans être un expert - Le guide pour les gestionnaires de produits et de projets non-techniques",
+      "description": "Vous débutez sur un projet data sans profil technique ? Voici un guide pratique pour comprendre les notions clés, poser les bonnes questions et collaborer efficacement avec votre équipe data.",
+      "link": "https://blog.ippon.fr/2026/07/03/piloter-un-projet-data-sans-etre-un-expert-le-guide-pour-les-gestionnaires-de-produits-et-de-projets-non-techniques/",
+      "pubDate": "2026-07-03T08:12:18.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/Data-Product-Owner.png",
+      "type": "blog"
+    },
+    {
+      "id": "a7823d0af092",
+      "title": "Vos fichiers protégés à vie, et cette fois personne ne vous les piquera",
+      "description": "-- Article en partenariat avec pCloud -- Vous vous souvenez de l'époque où stocker ses photos dans le cloud, c'était synonyme de \"donner ses données à Google pour qu'il les analyse et essaye de vous faire cliquer sur une pub qui pouvait vous intéresser\" ? Hé bien entre le CLOUD Act américain (qui…",
+      "link": "https://korben.info/vos-fichiers-proteges-a-vie.html",
+      "pubDate": "2026-07-03T08:00:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/vos-fichiers-proteges-a-vie/vos-fichiers-proteges-a-vie-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "732ecf163bb1",
       "title": "Juillet 2027 - La date de péremption des jeux PS3",
       "description": "Vous avez encore une PS3 qui prend la poussière avec des jeux achetés en dématérialisé dessus ? Alors va falloir vite vous bouger le cul parce que ces sacripants de Sony viennent d'annoncer la fermeture du PlayStation Store sur la PS3 et la PS Vita pour juillet 2027. Et dans la foulée, ils viennent…",
