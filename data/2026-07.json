@@ -274,6 +274,21 @@
       "type": "blog"
     },
     {
+      "id": "98b2302e3512",
+      "title": "Doctrine sous EXPLAIN : profiler ce blog jusqu'à l'index",
+      "description": "Profiler un blog Symfony réel : requêtes comptées au profiler Doctrine, plans lus sous EXPLAIN ANALYZE, index vérifiés dans pg_stat_user_indexes en prod.",
+      "link": "https://lecodeestdanslepre.fr/billets/doctrine-postgresql-explain-n-plus-1",
+      "pubDate": "2026-07-02T16:19:14.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "d1a900dd1081",
       "title": "Mesurer le trafic IA dans ses logs",
       "description": "13,5 jours de logs Caddy analysés : qui crawle un blog PHP, ce que pèsent GPTBot et ClaudeBot, et ce que vaut un robots.txt écrit sans mesure.",
