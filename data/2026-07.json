@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ad565f2f6dcd",
+      "title": "wacli - Archivez tout WhatsApp en local et faites-y des recherches hors ligne",
+      "description": "Peter Steinberger, le papa de PSPDFKit , s'est mis en tête de faire sortir WhatsApp de sa prison dorée. Et pour cela, il a mis au point wacli, un client WhatsApp qui tourne exclusivement dans votre terminal. Ça se compose donc de commandes que vous pouvez scripter dans la joie et la bonne humeur…",
+      "link": "https://korben.info/wacli-whatsapp-cli-steipete.html",
+      "pubDate": "2026-07-04T08:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fca17b3d69ff",
       "title": "Mars Attack à l'envers ?",
       "description": "Depuis plus d'un siècle, des scientifiques sérieux (en général, ce sont ceux avec du poil sur le nez) se demandent si la vie sur Terre ne serait pas tombée du ciel, portée par un astéroïde. Ce serait fou, non ? C'est cette fameuse théorie de la panspermie (Arrêtez de rigoler les fans de Rick et…",
