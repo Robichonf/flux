@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "636ada7c2569",
+      "title": "Command & Conquer Generals débarque sur iOS / macOS - Merci l'IA !",
+      "description": "Il y a six mois, je vous parlais de Command & Conquer Generals, un jeu mort depuis 12 ans qu’un ver s’amusait à attaquer. Hé bien Ammaar Reshi, un designer connu pour ses projets IA (dont un livre pour enfants généré full IA qui a fait le tour des médias) vient de le ressusciter grâce à l'IA pour…",
+      "link": "https://korben.info/command-conquer-generals-zero-hour-ios-mac.html",
+      "pubDate": "2026-07-05T14:41:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "42e4e3d1812d",
       "title": "EasyAdmin : sécuriser un admin sans toucher à setPermission()",
       "description": "Sécurisez votre back-office EasyAdmin sans setPermission(). Combinez access_control, #[IsGranted] et gardes custom pour une sécurité robuste et efficace.",
