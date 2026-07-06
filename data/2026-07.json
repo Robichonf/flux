@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "97dbfb8a0cf1",
+      "title": "Nomlings - Le Tamagotchi affamé qui dévore vos tokens Claude Code",
+      "description": "Nomlings, c'est un Tamagotchi qui vit à côté de votre terminal, et dont la seule nourriture, ce sont les tokens que crament vos sessions Claude Code. Vous bossez, il mange. Vous glandez, il patiente. Et pendant que vous regardez votre usage fondre comme neige au soleil, bah lui il se régale !! La…",
+      "link": "https://korben.info/nomlings-tamagotchi-claude-code.html",
+      "pubDate": "2026-07-06T13:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/nomlings-tamagotchi-claude-code/nomlings-tamagotchi-claude-code-2.png",
+      "type": "blog"
+    },
+    {
       "id": "eaa16bf3e403",
       "title": "Kordle - Le jeu tech de l'été",
       "description": "Histoire de m'amuser un peu ce weekend, et de vous proposer un truc fun pour vous occuper 30 secondes cet été, je vous ai mis en ligne un petit jeu qui reprend le concept de Wordle (où il faut deviner des mots) mais en version tech. Cela s'appelle Kordle et chaque jour, vous devez trouver un nouvel…",
