@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "95fd2132f28e",
+      "title": "Cold boot attack - Dumper la RAM d'un PC avec 5 Ko d'assembleur",
+      "description": "Vous branchez une clé USB sur un PC, vous démarrez dessus, et le temps de vous servir un petit café, hop, tout le contenu de la mémoire vive est recopié sur la clé. Le rêve pour les gens qui font du forensic, car dans la RAM on trouve des mots de passe, des clés de chiffrement et tout ce qui…",
+      "link": "https://korben.info/baremetal-ram-dumper-cold-boot-attack.html",
+      "pubDate": "2026-07-06T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "636ada7c2569",
       "title": "Command & Conquer Generals débarque sur iOS / macOS - Merci l'IA !",
       "description": "Il y a six mois, je vous parlais de Command & Conquer Generals, un jeu mort depuis 12 ans qu’un ver s’amusait à attaquer. Hé bien Ammaar Reshi, un designer connu pour ses projets IA (dont un livre pour enfants généré full IA qui a fait le tour des médias) vient de le ressusciter grâce à l'IA pour…",
