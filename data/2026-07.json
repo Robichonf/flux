@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "eaa16bf3e403",
+      "title": "Kordle - Le jeu tech de l'été",
+      "description": "Histoire de m'amuser un peu ce weekend, et de vous proposer un truc fun pour vous occuper 30 secondes cet été, je vous ai mis en ligne un petit jeu qui reprend le concept de Wordle (où il faut deviner des mots) mais en version tech. Cela s'appelle Kordle et chaque jour, vous devez trouver un nouvel…",
+      "link": "https://korben.info/kordle-le-jeu-tech-de-lete.html",
+      "pubDate": "2026-07-06T12:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/kordle-le-jeu-tech-de-lete/kordle-le-jeu-tech-de-lete-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "eb635cfc00ce",
+      "title": "Le backup de Schrödinger : rejouer son pg_dump avant d'en avoir besoin",
+      "description": "Testez vos sauvegardes PostgreSQL ! Apprenez à rejouer vos pg_dump quotidiens et mesurez votre RTO avant le sinistre.",
+      "link": "https://lecodeestdanslepre.fr/billets/backup-schrodinger-restaurer-pg-dump",
+      "pubDate": "2026-07-06T10:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/backup-schrodinger-restaurer-pg-dump.png?v=78994141a907d6a6",
+      "type": "blog"
+    },
+    {
+      "id": "087227b4e636",
+      "title": "Comment j'ai fait mon catalogue de vide-maison sans toucher à Figma",
+      "description": "Je déménage bientôt, et comme je quitte ma jolie campagne pour aller dans un endroit plus petit et sans nature (ouin), je dois me débarrasser de pas mal de matériel... Ponceuse, débroussailleuse, taille-haie, tronçonneuse, canapé, tracteur tondeuse.... la totale quoi. Et Le Bon Coin, même si à un…",
+      "link": "https://korben.info/figma-mcp-claude-code-retour-experience.html",
+      "pubDate": "2026-07-06T09:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/figma-mcp-claude-code-retour-experience/figma-mcp-claude-code-retour-experience-1.png",
+      "type": "blog"
+    },
+    {
       "id": "95fd2132f28e",
       "title": "Cold boot attack - Dumper la RAM d'un PC avec 5 Ko d'assembleur",
       "description": "Vous branchez une clé USB sur un PC, vous démarrez dessus, et le temps de vous servir un petit café, hop, tout le contenu de la mémoire vive est recopié sur la clé. Le rêve pour les gens qui font du forensic, car dans la RAM on trouve des mots de passe, des clés de chiffrement et tout ce qui…",
