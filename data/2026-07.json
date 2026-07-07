@@ -2,6 +2,50 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "0e20c323bcc5",
+      "title": "Newsletter juillet 2026 : Comment devenir une entreprise incontournable ?",
+      "description": "Les entreprises incontournables seront celles qui maîtriseront les moteurs de recherche IA Être une entreprise incontournable, c’est quoi ? C’est être celle à laquelle tout le monde pense quand on a un besoin en tête. Dans le B2C, ce sont les marques connues. Dans le B2B, c’est un peu différent.…",
+      "link": "https://oliviersauvage.com/2026/07/07/newsletter-juillet-2026-comment-devenir-une-entreprise-incontournable/",
+      "pubDate": "2026-07-07T14:45:12.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "212697abd436",
+      "title": "Anthropic a repéré la petite zone où Claude pense en douce",
+      "description": "Oulala, Anthropic vient de publier une jolie page de recherche qui fait beaucoup causer. En effet, son équipe d'interprétabilité a repéré, à l'intérieur de ses modèles Claude, une toute petite zone où le modèle rassemble ses pensées intermédiaires, c'est-à-dire celles qu'il est capable de nommer et…",
+      "link": "https://korben.info/anthropic-global-workspace-claude-raisonnement-cache.html",
+      "pubDate": "2026-07-07T14:04:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/anthropic-global-workspace-claude-raisonnement-cache/anthropic-global-workspace-claude-raisonnement-cache-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ed26af635f9b",
+      "title": "Wealthfolio - Suivez vos investissements sans les filer au cloud",
+      "description": "Si vous êtes une grosse feignasse et que votre seul plan pour gratter un peu de thunes, c'est pas juste de bosser, mais de vous faire adopter par un vieux en espérant qu'il y passe très vite, cet article ne va pas vous intéresser, désolé. Par contre, si vous économisez, que vous avez mis un petit…",
+      "link": "https://korben.info/wealthfolio-suivi-portefeuille-bourse-crypto.html",
+      "pubDate": "2026-07-07T13:41:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/wealthfolio-suivi-portefeuille-bourse-crypto/wealthfolio-suivi-portefeuille-bourse-crypto-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "d1e9cc5131c0",
       "title": "TrojPix - Et votre câble vidéo devient une radio qui balance vos secrets",
       "description": "En matière de sécurité, quand on parle de air gap, en général, on ne peut pas faire mieux. Si vous ne connaissez pas le concept, l'idée c'est d'empêcher un ordinateur d'avoir accès à tout type de réseau, que ce soit du wi-fi, de l'Ethernet, etc. etc. C'est un peu le Graal en matière de sécurité. Et…",
