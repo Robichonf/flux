@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "76b711744266",
+      "title": "Bajie - Le robot maison d'Ecovacs, ouvert aux bidouilleurs mais pas open source",
+      "description": "e Ecovacs, le fabricant chinois derrière les aspirateurs robots Deebot, vient de dévoiler Bajie (八界), un engin qui n'a plus rien d'un aspirateur. Comptez 49 990 yuans, un peu plus de 6 000 euros, pour un robot composé d'une base roulante et d'un bras à six axes capable de soulever un kilo. Mais…",
+      "link": "https://korben.info/ecovacs-bajie-robot-domestique-programmable.html",
+      "pubDate": "2026-07-07T10:54:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ecovacs-bajie-robot-domestique-programmable/ecovacs-bajie-robot-domestique-programmable-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "98c75123d8e2",
+      "title": "Januscape - La faille KVM qui dormait depuis 16 ans dans le cloud",
+      "description": "Depuis 16 ans, il y a une énorme faille qui fait dodo dans le coeur de tout ce qui gère la virtualisation sous Linux et personne ne l'avait remarqué, jusqu'à ce que Hyunwoo Kim, un chercheur en sécurité connu sous le pseudo @v4bel débarque. Ce dernier vient de dénicher un use-after-free dans le…",
+      "link": "https://korben.info/faille-kvm-januscape-evasion-vm-cloud.html",
+      "pubDate": "2026-07-07T09:55:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/faille-kvm-januscape-evasion-vm-cloud/faille-kvm-januscape-evasion-vm-cloud-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "a818f59100ff",
+      "title": "Un ESP32 à quelques euros pour éviter le clavier Touch ID d'Apple",
+      "description": "Posez votre doigt sur un capteur et hop, votre session s'ouvre. Sur un Mac, ce petit confort passe par exemple par le Magic Keyboard avec Touch ID (lien affilié) parce qu'Apple réserve la biométrie à son propre matériel. Mais le bidouilleur Zimeng Xiong a trouvé ça un peu chéros, alors il a bricolé…",
+      "link": "https://korben.info/tinytouch-esp32-empreinte-deverrouillage.html",
+      "pubDate": "2026-07-07T08:51:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tinytouch-esp32-empreinte-deverrouillage/tinytouch-esp32-empreinte-deverrouillage-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "97dbfb8a0cf1",
       "title": "Nomlings - Le Tamagotchi affamé qui dévore vos tokens Claude Code",
       "description": "Nomlings, c'est un Tamagotchi qui vit à côté de votre terminal, et dont la seule nourriture, ce sont les tokens que crament vos sessions Claude Code. Vous bossez, il mange. Vous glandez, il patiente. Et pendant que vous regardez votre usage fondre comme neige au soleil, bah lui il se régale !! La…",
