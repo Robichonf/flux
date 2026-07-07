@@ -2,6 +2,66 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "d1e9cc5131c0",
+      "title": "TrojPix - Et votre câble vidéo devient une radio qui balance vos secrets",
+      "description": "En matière de sécurité, quand on parle de air gap, en général, on ne peut pas faire mieux. Si vous ne connaissez pas le concept, l'idée c'est d'empêcher un ordinateur d'avoir accès à tout type de réseau, que ce soit du wi-fi, de l'Ethernet, etc. etc. C'est un peu le Graal en matière de sécurité. Et…",
+      "link": "https://korben.info/trojpix-exfiltration-air-gap-cable-video.html",
+      "pubDate": "2026-07-07T12:50:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/trojpix-exfiltration-air-gap-cable-video/trojpix-exfiltration-air-gap-cable-video-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d13cd60c30ec",
+      "title": "Tromper les caméras de surveillance avec une veste",
+      "description": "Nicole Scheller a passé toutes ses études de mode à bosser sur un sujet qui compte pour elle : la contre-surveillance. Tout ceci a fini par devenir un vrai métier : depuis septembre 2023, sa marque Urban Privacy, montée à Leipzig avec le designer Daniel PreuB, habille ceux qui n'ont pas envie…",
+      "link": "https://korben.info/tromper-les-cameras-de-surveillance-avec-une-veste.html",
+      "pubDate": "2026-07-07T12:25:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tromper-les-cameras-de-surveillance-avec-une-veste/tromper-les-cameras-de-surveillance-avec-une-veste-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "235dbcda5bcb",
+      "title": "Ce fichier fantôme de Windows 11 gonfle tout seul et avale tout votre disque",
+      "description": "Bon, j'avoue que j'ai un petit peu lâché l'affaire pour mon summer body. Avec cette canicule, je suis à deux doigts de me faire une raclette. Par contre, s'il y a un truc dont je ne supporte pas qu'il grossisse, c'est bien mon système d'exploitation. Et pourtant, si vous êtes sous Windows 11, eh…",
+      "link": "https://korben.info/windows-11-capabilityaccessmanager-espace-disque.html",
+      "pubDate": "2026-07-07T12:09:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89ca220cddc5",
+      "title": "Ils ont transformé une simple vidéo YouTube en jeu Mario Kart jouable au clavier",
+      "description": "Voilà typiquement le genre de bidouille qui rappelle pourquoi internet est génial. Deux chaînes YouTube, Atlas Arcade et Animated Subtitles, ont mis en ligne une vidéo baptisée « Mario Kart but it's PLAYABLE in YouTube! ». Et le titre ne ment pas : on y joue vraiment, directement dans le lecteur,…",
+      "link": "https://korben.info/ils-ont-transforme-une-simple-video-youtube-en-jeu-mario-kart-jouable-au-clavier.html",
+      "pubDate": "2026-07-07T12:08:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ils-ont-transforme-une-simple-video-youtube-en-jeu-mario-kart-jouable-au-clavier/ils-ont-transforme-une-simple-video-youtube-en-jeu-mario-kart-jouable-au-clavier-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "76b711744266",
       "title": "Bajie - Le robot maison d'Ecovacs, ouvert aux bidouilleurs mais pas open source",
       "description": "e Ecovacs, le fabricant chinois derrière les aspirateurs robots Deebot, vient de dévoiler Bajie (八界), un engin qui n'a plus rien d'un aspirateur. Comptez 49 990 yuans, un peu plus de 6 000 euros, pour un robot composé d'une base roulante et d'un bras à six axes capable de soulever un kilo. Mais…",
