@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "0f921970ec1b",
+      "title": "GitLost - Un seul mot suffit pour faire cracher ses dépôts privés à l'IA de GitHub",
+      "description": "Et c'est reparti pour un tour ! Qu'est-ce que vous pensez d'un dépôt privé sur Github qui serait capable d'exfiltrer tout seul son propre code dans une section commentaire visiblement publiquement par tout le monde. Ce serait ouf non ? Hé bien c'est le tour de passe-passe que Sasi Levi, de chez…",
+      "link": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives.html",
+      "pubDate": "2026-07-08T09:04:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3387dabbdcd5",
+      "title": "On ne vivrait pas dans une simulation, et ça m'embête",
+      "description": "Vous pouvez ranger la pilule rouge tout de suite les amis car une équipe de physiciens menée par Mir Faizal vient d'affirmer, calculs à l'appui, que notre univers ne peut pas être une simulation informatique. Et il n'annonce pas ça en mode \"On n'a pas encore trouvé LA preuve\", non... Apparemment,…",
+      "link": "https://korben.info/univers-simulation-etude-ubc.html",
+      "pubDate": "2026-07-08T08:39:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8f375413a4b9",
+      "title": "Une recompilation PC d'Animal Crossing",
+      "description": "Un dev anonyme sous le pseudo flyngmt vient de sortir ACGC-PC-Port , un portage PC natif d'Animal Crossing sur GameCube. Pas un émulateur hein, le vrai code du jeu qui tourne directement sur votre machine. Si vous avez usé votre GameCube dessus au début des années 2000, votre cœur de rétrogamer va…",
+      "link": "https://korben.info/animal-crossing-gamecube-port-pc-natif.html",
+      "pubDate": "2026-07-08T08:18:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0e20c323bcc5",
       "title": "Newsletter juillet 2026 : Comment devenir une entreprise incontournable ?",
       "description": "Les entreprises incontournables seront celles qui maîtriseront les moteurs de recherche IA Être une entreprise incontournable, c’est quoi ? C’est être celle à laquelle tout le monde pense quand on a un besoin en tête. Dans le B2C, ce sont les marques connues. Dans le B2B, c’est un peu différent.…",
