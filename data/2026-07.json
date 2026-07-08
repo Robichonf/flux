@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3d7c27c1416d",
+      "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
+      "description": "Snif, snif, macOS 28 ne lira plus vos disques chiffrés en Mac OS Étendu. C'est écrit dans un document de support Apple publié le 7 juillet, alors si vous stockiez là-dessus vos photos de 2014, vos factures, votre mémoire de fac ou une sauvegarde Time Machine chiffrée de l'ancienne époque, bah c'est…",
+      "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html",
+      "pubDate": "2026-07-08T20:17:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0c09bd068a1c",
       "title": "Minecraft - 17 ans pour inventer la chaise (enfin, le coussin)",
       "description": "Si vous avez déjà planqué un wagonnet dans un bloc d'escalier pour faire croire que votre perso Minecraft s'asseyait dans un fauteuil, vous savez de quoi je parle. En effet, depuis la version Classic de 2009, la communauté Minecraft bricole des trucs pas possibles pour un geste aussi simple que...…",
