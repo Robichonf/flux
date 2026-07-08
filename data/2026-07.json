@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5840519c4b39",
+      "title": "JSON-LD et schema.org : baliser pour l'ère des agents",
+      "description": "Découvrez comment le JSON-LD et schema.org redéfinissent le balisage pour les agents IA. Ce billet analyse ce qui compte encore en 2026 pour votre SEO.",
+      "link": "https://lecodeestdanslepre.fr/billets/json-ld-ere-agentique",
+      "pubDate": "2026-07-08T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/json-ld-ere-agentique.png?v=cca4e0ea0ee37e39",
+      "type": "blog"
+    },
+    {
+      "id": "941fdbbae5e0",
+      "title": "Votre prochaine barrette de RAM sera-t-elle un champignon ?",
+      "description": "Un champignon shiitake qui fait office de mémoire informatique genre RAM, c'est la trouvaille d'une équipe de l'Ohio State University. Et l'idée a l'air bien plus sérieuse qu'elle n'en a l'air... John LaRocco et Qudsia Tahmina ont pris du mycélium de shiitake, l'ont cultivé sur des graines de…",
+      "link": "https://korben.info/ram-champignon-shiitake-memristor.html",
+      "pubDate": "2026-07-08T10:18:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0f921970ec1b",
       "title": "GitLost - Un seul mot suffit pour faire cracher ses dépôts privés à l'IA de GitHub",
       "description": "Et c'est reparti pour un tour ! Qu'est-ce que vous pensez d'un dépôt privé sur Github qui serait capable d'exfiltrer tout seul son propre code dans une section commentaire visiblement publiquement par tout le monde. Ce serait ouf non ? Hé bien c'est le tour de passe-passe que Sasi Levi, de chez…",
