@@ -2,6 +2,96 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "bda382d01817",
+      "title": "Windows cache un identifiant secret que Microsoft file au FBI",
+      "description": "Putain, c'est abusé, vous allez voir ! Peter Stokes, 19 ans, accusé d'appartenir au groupe Scattered Spider, enchaînait les VPN et changeait de pays pour brouiller les pistes mais le FBI l'a quand même coincé. Et vous savez grâce à quoi ? Hé bien grâce à un petit numéro planqué dans son Windows.…",
+      "link": "https://korben.info/windows-gdid-identifiant-mouchard-vpn.html",
+      "pubDate": "2026-07-08T12:55:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ffa55ee1676d",
+      "title": "Proton 11 ressuscite Dino Crisis et Resident Evil sur Linux",
+      "description": "Je sais pas si vous avez vu mais Valve vient de sortir Proton 11, la nouvelle version stable de sa couche de compatibilité qui fait tourner les jeux Windows sur Linux via Steam Play. Et cette fois, c'est basé sur Wine 11, donc il y a pas mal de \"nouveaux\" vieux jeux qui sont maintenant jouables.…",
+      "link": "https://korben.info/proton-11-jeux-windows-linux.html",
+      "pubDate": "2026-07-08T12:42:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23f99840b366",
+      "title": "Cette Atari Jaguar de 1993 boote sous Linux avec 2 Mo de RAM",
+      "description": "Une Atari Jaguar, la console de 1993 qu'Atari vendait comme la première machine 64 bits et que le marché a snobée, vient de booter sous Linux pour la première fois ! Derrière ce hack, un développeur connu sous le pseudo de Cakehonolulu , qui a collé un vrai noyau sur le Motorola 68000 de la bécane.…",
+      "link": "https://korben.info/linux-atari-jaguar-68000.html",
+      "pubDate": "2026-07-08T12:12:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/linux-atari-jaguar-68000/linux-atari-jaguar-68000-1.avif",
+      "type": "blog"
+    },
+    {
+      "id": "a5b129d2c4b5",
+      "title": "Ça c'est ma veille tech",
+      "description": "Ça fait un moment que ça me trotte dans la tête et vous êtes plusieurs à me réclamer régulièrement ma veille, comme dans la chanson, en mode \"Allez Korben, montre-nous tes RSS, allez Korben montre-nous tes flux !\". C'est vrai que c'est un peu le nerf de la guerre pour moi et avoir un outil pour…",
+      "link": "https://korben.info/veille-tech-direct-flux-rss.html",
+      "pubDate": "2026-07-08T12:05:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/veille-tech-direct-flux-rss/veille-tech-direct-flux-rss-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "4fe401e981b8",
+      "title": "Le retour de Movie Maker montre la lourdeur de Clipchamp",
+      "description": "Vous vous souvenez de Windows Movie Maker ? Mais siiii, ce petit logiciel de montage livré avec les Windows depuis l'époque de Windows ME ? C'est celui sur lequel vous avez bricolé vos premiers diaporamas de vacances avec des transitions en forme d'étoile. Aaah, ça vous parle maintenant, hein ? Eh…",
+      "link": "https://korben.info/windows-movie-maker-clipchamp-ram-2026.html",
+      "pubDate": "2026-07-08T11:32:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-movie-maker-clipchamp-ram-2026/windows-movie-maker-clipchamp-ram-2026-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9f4606b13c98",
+      "title": "Test du MOVA ViAX 500 : cette tondeuse a converti un jardinier qui ne voulait pas de robot dans son jardin",
+      "description": "– Contient des liens affiliés Amazon – J’ai reçu en test ce robot tondeuse d’une gamme grand public accessible pour le tester en conditions réelles. J’ai moi-même un petit jardin, mais pour le tester, j’ai préféré apporter l’objet chez une personne de mon entourage qui avait un jardin plus grand,…",
+      "link": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin.html",
+      "pubDate": "2026-07-08T11:21:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin-2.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "5840519c4b39",
       "title": "JSON-LD et schema.org : baliser pour l'ère des agents",
       "description": "Découvrez comment le JSON-LD et schema.org redéfinissent le balisage pour les agents IA. Ce billet analyse ce qui compte encore en 2026 pour votre SEO.",
