@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "0c09bd068a1c",
+      "title": "Minecraft - 17 ans pour inventer la chaise (enfin, le coussin)",
+      "description": "Si vous avez déjà planqué un wagonnet dans un bloc d'escalier pour faire croire que votre perso Minecraft s'asseyait dans un fauteuil, vous savez de quoi je parle. En effet, depuis la version Classic de 2009, la communauté Minecraft bricole des trucs pas possibles pour un geste aussi simple que...…",
+      "link": "https://korben.info/minecraft-sasseoir-fonction-officielle.html",
+      "pubDate": "2026-07-08T19:17:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d5484a89ab74",
       "title": "GDID Windows - Coupez le mouchard qui vous traque même sous VPN",
       "description": "Comme je vous le disais tout à l'heure, en avril 2026, le FBI a coincé un membre présumé de Scattered Spider. Le mec planquait son trafic derrière un VPN, avec des IP dans trois pays différents. Et devinez quoi ? Ce n'est pas une fausse manip qui l'a balancé mais un identifiant que votre Windows se…",
