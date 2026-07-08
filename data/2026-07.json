@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "4cef4aca6557",
+      "title": "Données de santé Doctolib - Comment vous opposer à leur usage IA ?",
+      "description": "Cet aprem, je bossais tranquillou quand j'ai reçu un mail de DoctoLib qui m'a bien énervé avec pour titre : \"Doctolib s'engage dans la recherche pour améliorer la santé\". Bon, si on s'arrête au titre, on se dit \"Ah bravo, Doctolib\", sauf qu'en le lisant en entier, j'ai vite compris qu'ils venaient…",
+      "link": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html",
+      "pubDate": "2026-07-08T15:23:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante/doctolib-recherche-ia-opposition-donnees-sante-1.png",
+      "type": "blog"
+    },
+    {
       "id": "bda382d01817",
       "title": "Windows cache un identifiant secret que Microsoft file au FBI",
       "description": "Putain, c'est abusé, vous allez voir ! Peter Stokes, 19 ans, accusé d'appartenir au groupe Scattered Spider, enchaînait les VPN et changeait de pays pour brouiller les pistes mais le FBI l'a quand même coincé. Et vous savez grâce à quoi ? Hé bien grâce à un petit numéro planqué dans son Windows.…",
