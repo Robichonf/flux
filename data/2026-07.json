@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3396f8ae9252",
+      "title": "Tuta veut déménager vos 22 ans de Gmail sans rien perdre",
+      "description": "Quitter Gmail, c'est vrai, tout le monde y pense. Pour ma part, c'est fait depuis très longtemps, mais c'est vrai qu'abandonner des années et des années de mails, de factures, de photos, etc., tout ce qu'on a reçu, il n'y a personne qui est très motivé pour ça. Alors il y a bien sûr des…",
+      "link": "https://korben.info/tuta-mail-import-emails.html",
+      "pubDate": "2026-07-09T11:05:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "06796b58b3d4",
       "title": "Hoodik - Le cloud perso qui n'a jamais vu vos fichiers en clair",
       "description": "Votre Nextcloud sait tout de vous. L'admin du serveur (vous, ou pire, quelqu'un d'autre) peut ouvrir n'importe quel fichier stocké dessus, parce que le chiffrement de bout en bout reste une option planquée dans un plugin. C'est pourquoi Hoodik , un projet de Tibor Hudik prend le problème à…",
