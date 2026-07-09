@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "06796b58b3d4",
+      "title": "Hoodik - Le cloud perso qui n'a jamais vu vos fichiers en clair",
+      "description": "Votre Nextcloud sait tout de vous. L'admin du serveur (vous, ou pire, quelqu'un d'autre) peut ouvrir n'importe quel fichier stocké dessus, parce que le chiffrement de bout en bout reste une option planquée dans un plugin. C'est pourquoi Hoodik , un projet de Tibor Hudik prend le problème à…",
+      "link": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust.html",
+      "pubDate": "2026-07-09T08:04:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust/hoodik-cloud-e2ee-auto-heberge-rust-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f2a522340225",
+      "title": "Firefox dans Docker - Le navigateur jetable pour surfer sans flipper",
+      "description": "On reçoit tous des mails un peu bizarres avec des liens qu'on n'ose pas ouvrir, et pourtant on est curieux, on est tenté parfois... C'est difficile de résister mais heureusement l'équipe de Linuxserver.io a pondu un truc super pour ça. Il s'agit tout simplement d'une instance de Firefox qui tourne…",
+      "link": "https://korben.info/firefox-docker-conteneur-isole-surf-securise.html",
+      "pubDate": "2026-07-09T06:42:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-docker-conteneur-isole-surf-securise/firefox-docker-conteneur-isole-surf-securise-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3c58bbe38d6e",
+      "title": "Tecno, itel et Infinix cachent un mouchard système impossible à virer",
+      "description": "Si vous lisez ça depuis Abidjan, Dakar, Douala ou Kinshasa, y'a une chance sur deux que votre téléphone soit un Tecno, un Infinix ou un itel. Trois marques, mais un seul patron : Transsion, qui trône sur près de la moitié des smartphones vendus en Afrique. Et si je vous parle de ça aujourd'hui,…",
+      "link": "https://korben.info/transsion-smartphones-telemetrie-afrique.html",
+      "pubDate": "2026-07-09T06:10:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/transsion-smartphones-telemetrie-afrique/transsion-smartphones-telemetrie-afrique-1.png",
+      "type": "blog"
+    },
+    {
       "id": "3d7c27c1416d",
       "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
       "description": "Snif, snif, macOS 28 ne lira plus vos disques chiffrés en Mac OS Étendu. C'est écrit dans un document de support Apple publié le 7 juillet, alors si vous stockiez là-dessus vos photos de 2014, vos factures, votre mémoire de fac ou une sauvegarde Time Machine chiffrée de l'ancienne époque, bah c'est…",
