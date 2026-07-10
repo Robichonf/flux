@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "892f5929f983",
+      "title": "Votre cerveau en mode pilote automatique - Bruxelles accuse Meta",
+      "description": "Il est 1h12 du mat', vous êtes allongé dans le canap, le téléphone à 20 cm du museau, et votre pouce swipe encore et encore dans un automatisme le plus complet... Un reel de chat, une recette de lasagnes, un type qui répare une tondeuse. Vous aviez ouvert Instagram pour répondre à un message d'un…",
+      "link": "https://korben.info/meta-scroll-infini-design-addictif-dsa.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-10T15:16:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "536fa8dbc93e",
+      "title": "EVE Online - 30 dépôts MIT sur GitHub, dont un qui ne compile pas",
+      "description": "8 825 joueurs qui se canardent au même endroit, sur un seul serveur, pendant 14 heures. C'était en 2020 dans le système FWST-8 d'EVE Online, et le moteur qui a encaissé ça s'appelle Carbon. Et si je vous cause de ça c'est parce que Fenris Creations (le studio du jeu, ex-CCP Games) vient de le poser…",
+      "link": "https://korben.info/eve-online-moteur-carbon-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-10T15:04:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e0aab8c0d46",
+      "title": "Fiber Memory - Stocker la mémoire d'une IA dans 1 000 km de fibre optique",
+      "description": "Accrochez-vous parce que celle-là, elle est bien barrée ! Des chercheurs de l'université d'Uppsala veulent stocker la mémoire d'une IA... dans de la lumière. Leur projet Fiber Memory fait tourner les données d'un LLM en boucle dans 1 000 km de fibre optique, et les puces se servent au passage !…",
+      "link": "https://korben.info/fiber-memory-accelerateurs-boucle-fibre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-10T14:28:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fiber-memory-accelerateurs-boucle-fibre/fiber-memory-accelerateurs-boucle-fibre-2.png",
+      "type": "blog"
+    },
+    {
       "id": "b578e1a53063",
       "title": "Créer des exécutables avec Node 25+",
       "description": "Découvrez la nouvelle fonctionnalité de Node.js qui permet de créer des exécutables directement, sans utiliser de modules externes comme pkg ou nexe.",
