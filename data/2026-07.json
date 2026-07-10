@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ce0ce48df1eb",
+      "title": "L'affiche avant le film : des images OG dessinées en PHP, sans Chromium",
+      "description": "Découvrez comment générer des images Open Graph personnalisées en PHP, en utilisant GD et Imagick, pour des aperçus de liens uniques sans Chromium.",
+      "link": "https://lecodeestdanslepre.fr/billets/images-og-dessinees-en-php",
+      "pubDate": "2026-07-10T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/images-og-dessinees-en-php.png?v=c11664e7a3030e2c",
+      "type": "blog"
+    },
+    {
+      "id": "0e988c465c75",
+      "title": "Chat Control - 314 contre, 112 absents, et le texte passe",
+      "description": "314 députés européens ont voté jeudi pour enterrer Chat Control et 276 ont voté pour le garder. Et c'est quand même passé OKLM. Et oui, pas la peine de vous frotter les yeux, je vais vous expliquer tout ça. En seconde lecture, le Parlement a besoin d'une majorité absolue de ses membres pour rejeter…",
+      "link": "https://korben.info/chat-control-europe-scan-messages.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-10T08:59:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/chat-control-europe-scan-messages/chat-control-europe-scan-messages-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c447617f5da0",
+      "title": "StatCounter n'identifie plus 1 visite sur 5 (et ça fausse tout)",
+      "description": "Windows serait passé sous la barre des 60 % de parts de marché. C'est ce qu'on peut lire un peu partout dans la presse tech cette semaine. C'est StatCounter qui le dit avec précisément 56,61 % de Windows comptabilisé en juin 2026. Et juste en dessous, sur la ligne suivante du même tableau, il y a…",
+      "link": "https://korben.info/windows-part-marche-statcounter.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-10T08:27:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-part-marche-statcounter/windows-part-marche-statcounter-2.png",
+      "type": "blog"
+    },
+    {
       "id": "784ef03c0fcc",
       "title": "OWA Light - Le webmail de secours Exchange passe l'arme à gauche",
       "description": "OWA Light vit ses derniers mois. Microsoft l'a annoncé le 8 juillet, la déclinaison allégée du webmail d'Exchange Server sera coupée dans une prochaine mise à jour, attendue pour août 2026. Presque 20 ans de service, c'est beau. Il est maintenant temps de prendre sa retraite (Qui a dit : \"Toi…",
