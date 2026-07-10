@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "b578e1a53063",
+      "title": "Créer des exécutables avec Node 25+",
+      "description": "Découvrez la nouvelle fonctionnalité de Node.js qui permet de créer des exécutables directement, sans utiliser de modules externes comme pkg ou nexe.",
+      "link": "https://code-garage.com/blog/creer-des-executables-avec-nodejs",
+      "pubDate": "2026-07-10T12:15:42.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ce0ce48df1eb",
       "title": "L'affiche avant le film : des images OG dessinées en PHP, sans Chromium",
       "description": "Découvrez comment générer des images Open Graph personnalisées en PHP, en utilisant GD et Imagick, pour des aperçus de liens uniques sans Chromium.",
