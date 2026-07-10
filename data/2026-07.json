@@ -107,6 +107,21 @@
       "type": "blog"
     },
     {
+      "id": "4d6fc668e802",
+      "title": "IA et écologie, fantasme ou bouc émissaire pratique ?",
+      "description": "Dur de parler d’IA en ce moment. J’ai rarement, voire jamais, vu un sujet aussi polarisé dans la tech.",
+      "link": "https://eventuallycoding.com/p/ia-et-ecologie-fantasme-ou-bouc-emissaire-pratique",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "784ef03c0fcc",
       "title": "OWA Light - Le webmail de secours Exchange passe l'arme à gauche",
       "description": "OWA Light vit ses derniers mois. Microsoft l'a annoncé le 8 juillet, la déclinaison allégée du webmail d'Exchange Server sera coupée dans une prochaine mise à jour, attendue pour août 2026. Presque 20 ans de service, c'est beau. Il est maintenant temps de prendre sa retraite (Qui a dit : \"Toi…",
