@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "e66711af6bff",
+      "title": "OpenLogi - Votre souris Logitech sans le bloatware d'Options+",
+      "description": "Logitech Options+, vous connaissez ce délire, je pense... Pour régler 3 boutons de souris, on vous pousse à créer un compte, à partager vos data, et à laisser une usine à gaz tourner H24 en tâche de fond. Le dev AprilNEA en a eu marre, du coup il a écrit OpenLogi en Rust et son truc fait le même…",
+      "link": "https://korben.info/openlogi-alternative-logitech-options.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-11T06:59:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openlogi-alternative-logitech-options/openlogi-alternative-logitech-options-2.png",
+      "type": "blog"
+    },
+    {
       "id": "69505b650055",
       "title": "Il détourne un chien robot Unitree pour aider son père",
       "description": "Prenez un chien robot d'Unitree, du genre qui patrouille dans les usines, ajoutez-y un siège baquet, un harnais et pas mal de code et vous obtiendrez un nouveau genre de jambes bioniques du futur ! Jake Laser a réalisé ça pour son père, en fauteuil roulant depuis une dizaine d'années à cause d'une…",
