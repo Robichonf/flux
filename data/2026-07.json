@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "00f32f1c2a3a",
+      "title": "Tangem - La faille laser qui condamne votre carte crypto à vie",
+      "description": "Vous voyez le principe du wallet crypto au format carte bancaire ? Ça se compose d'une puce, d'un code, et de vos précieuses clés privées cryptos planquées dedans. Et bah figurez-vous que Baptistin Boilot, un chercheur de chez Ledger Donjon, vient de montrer qu'avec un laser, un scalpel et une…",
+      "link": "https://korben.info/laser-reset-wallet-tangem.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-11T11:55:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/laser-reset-wallet-tangem/laser-reset-wallet-tangem-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "55a98f8a094b",
+      "title": "Un Kindle rooté à cause d'une faute de frappe d'Amazon",
+      "description": "Vous le savez, j'adore mon Kindle ! Je manque effectivement de temps pour lire tout ce que je voudrais mais bon, on verra ça quand la retraite sera là ^^. En attendant, ce que j'ignorais, c'est que sur les Kindle récents, il y a encore un petit navigateur web, plus exactement un vieux Chrome de…",
+      "link": "https://korben.info/kindle-faille-critique-piratage-distance.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-11T11:11:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/kindle-faille-critique-piratage-distance/kindle-faille-critique-piratage-distance-1.png",
+      "type": "blog"
+    },
+    {
       "id": "e66711af6bff",
       "title": "OpenLogi - Votre souris Logitech sans le bloatware d'Options+",
       "description": "Logitech Options+, vous connaissez ce délire, je pense... Pour régler 3 boutons de souris, on vous pousse à créer un compte, à partager vos data, et à laisser une usine à gaz tourner H24 en tâche de fond. Le dev AprilNEA en a eu marre, du coup il a écrit OpenLogi en Rust et son truc fait le même…",
