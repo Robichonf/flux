@@ -47,6 +47,22 @@
       "type": "blog"
     },
     {
+      "id": "12acdc466b3b",
+      "title": "Karpenter + Cluster API",
+      "description": "Mon cheminement pour autoscaler un cluster OVH déployé via la Cluster API, en utilisant Karpenter et son provider cluster-api, avec MKS comme cluster de management.",
+      "link": "https://une-tasse-de.cafe/blog/karpenter-capi-ovh/",
+      "pubDate": "2026-07-12T01:18:18.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "00f32f1c2a3a",
       "title": "Tangem - La faille laser qui condamne votre carte crypto à vie",
       "description": "Vous voyez le principe du wallet crypto au format carte bancaire ? Ça se compose d'une puce, d'un code, et de vos précieuses clés privées cryptos planquées dedans. Et bah figurez-vous que Baptistin Boilot, un chercheur de chez Ledger Donjon, vient de montrer qu'avec un laser, un scalpel et une…",
