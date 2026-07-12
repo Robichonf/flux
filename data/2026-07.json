@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "01be9d2e9b3e",
+      "title": "Un compteur de visiteurs sur votre site, sans payer un centime",
+      "description": "Vous avez peut-être remarqué un petit point rouge tout en bas de mon site, avec un nombre à côté. Il s'agit du nombre de personnes passées sur le site durant la dernière heure. Je voulais remettre ce truc depuis un bail, bien à l'ancienne comme dans les années 2000 mais sur un site statique, qui…",
+      "link": "https://korben.info/compteur-visiteurs-cloudflare-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-12T05:45:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/compteur-visiteurs-cloudflare-gratuit/compteur-visiteurs-cloudflare-gratuit-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3761c0847622",
+      "title": "Votre 2FA est une passoire, le sniffeur de WiFi public vous remercie",
+      "description": "-- Article en partenariat avec Surfshark -- Les attaques Adversary-in-the-Middle (AiTM) représentent l'évolution sophistiquée des classiques attaques Man-in-the-Middle. Contrairement à l'écoute passive, l'attaquant s'insère activement entre la victime et le service légitime, usurpant les deux…",
+      "link": "https://korben.info/votre-2fa-est-une-passoire.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-12T04:42:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/votre-2fa-est-une-passoire/votre-2fa-est-une-passoire-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "eafaf3a54b44",
+      "title": "Moebius - Effacer un objet d'une photo depuis votre navigateur",
+      "description": "Simon Willison, le créateur de Datasette et co-créateur de Django, vient de porter un modèle d'inpainting d'image directement dans le navigateur. Sa démo vous permet de choisir une photo, de peindre sur la zone à faire disparaître et ensuite le modèle IA reconstitue ce qu'il manque. Et ce qui est…",
+      "link": "https://korben.info/inpainting-image-navigateur-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-12T03:55:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/inpainting-image-navigateur-local/inpainting-image-navigateur-local-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "00f32f1c2a3a",
       "title": "Tangem - La faille laser qui condamne votre carte crypto à vie",
       "description": "Vous voyez le principe du wallet crypto au format carte bancaire ? Ça se compose d'une puce, d'un code, et de vos précieuses clés privées cryptos planquées dedans. Et bah figurez-vous que Baptistin Boilot, un chercheur de chez Ledger Donjon, vient de montrer qu'avec un laser, un scalpel et une…",
