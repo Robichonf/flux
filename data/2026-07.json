@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "8c6bbab500b5",
+      "title": "Le blocage DNS casse tout sauf le piratage (dixit Google)",
+      "description": "Google est allé raconter à la Commission européenne ce que les gens qui s'y connaissent un peu en réseau répètent depuis 15 ans : Bloquer les résolveurs DNS, les VPN et les adresses IP pour lutter contre le piratage, ça ne marche pas. Dans un document envoyé pour la consultation sur la révision de…",
+      "link": "https://korben.info/google-blocage-dns-vpn-ip.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-13T09:26:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "30c2430195a2",
+      "title": "Swival - Le papa de libsodium se met aux agents de codage locaux",
+      "description": "Frank Denis , c'est le monsieur qui fait tourner un bon morceau d'Internet sans que personne le sache : libsodium, dnscrypt-proxy, Pure-FTPd, c'est lui. Et dernièrement, il s'est attaqué aux agents de codage IA avec Swival , un outil pensé pour les petits modèles qui tournent en local sur votre…",
+      "link": "https://korben.info/swival-agent-ia-codage-modeles-locaux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-13T09:03:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/swival-agent-ia-codage-modeles-locaux/swival-agent-ia-codage-modeles-locaux-1.png",
+      "type": "blog"
+    },
+    {
       "id": "36612f4cd034",
       "title": "KamTape - Le site qui ressuscite le YouTube de 2005",
       "description": "Moi je me suis lancé en 2004 et un an plus tard il y a YouTube qui débarquait. C'était bien avant de se faire racheter par Google. Et j'avoue que j'en attendais pas grand-chose. Parce qu'à l'époque, on était vraiment sur des connexions pourries et la vidéo, c'était un truc très américain. Mais à…",
