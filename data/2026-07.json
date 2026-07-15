@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "22bca019a014",
+      "title": "Comprendre l’authentification avec Github (OAuth) ",
+      "description": "Découvrez comment fonctionne la connexion avec GitHub grâce à OAuth et apprenez à implémenter simplement un bouton \"Se connecter avec GitHub\" dans votre application.",
+      "link": "https://code-garage.com/blog/comprendre-l-authentification-avec-github-oauth ",
+      "pubDate": "2026-07-15T09:44:13.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Capture_d_ecran_2026_07_15_105702_94b38518f3.png",
+      "type": "blog"
+    },
+    {
       "id": "6f03c8e8991e",
       "title": "Liens Tech - Juillet 2026",
       "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
@@ -42,6 +57,22 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d9a17ee1706",
+      "title": "Nouveau verbe HTTP : QUERY",
+      "description": "Vous étiez coincé pour vos recherches volumineuses entre un GET à rallonge ou détourner le POST dans vos APIs, QUERY est là pour répondre à ce besoin",
+      "link": "https://blog.eleven-labs.com/fr/http-query-method/",
+      "pubDate": "2026-07-15T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
       ],
       "image": null,
       "type": "blog"
