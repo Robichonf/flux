@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "85cbf193ca5d",
+      "title": "La Neo Geo fait enfin tourner DOOM",
+      "description": "DOOM tourne aujourd'hui sur presque tout, d'un frigo connecté à une calculatrice, et chaque année quelqu'un ajoute une machine encore plus improbable à la liste. Il restait pourtant une exception qui résistait, la Neo Geo, la console d'arcade de SNK des années 90. Elle coûtait le prix d'un petit…",
+      "link": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-15T15:43:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom/la-neo-geo-fait-enfin-tourner-doom-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1e5be6e8ff2d",
+      "title": "Microsoft bat son record avec 570 failles corrigées en un mois, et c'est son IA qui les déterre",
+      "description": "Il y a des chiffres qui en disent long sur l'état d'un logiciel, et celui-ci en fait clairement partie. Microsoft vient de corriger 570 failles de sécurité d'un seul coup lors de son dernier Patch Tuesday, ce rendez-vous mensuel où l'éditeur rebouche les trous de ses programmes, et jamais encore il…",
+      "link": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-15T14:22:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8cae8fecb1e0",
       "title": "La vérif d'âge de l'Europe ridiculisée par une extension Chrome",
       "description": "Bon, vous le savez, l'Europe tient absolument à savoir votre âge, avant de vous laisser scroller librement sur le net. Alors pour cela, ils ont mis au point une application qui permet de prouver votre âge et qui nous est proposée comme simple à utiliser et respectueuse de notre vie privée. Mais ça…",
