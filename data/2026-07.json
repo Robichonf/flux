@@ -17,6 +17,21 @@
       "type": "blog"
     },
     {
+      "id": "f62aff4f6e19",
+      "title": "Liens Tech - Juillet 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-juillet-2026/",
+      "pubDate": "2026-07-15T05:45:13.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "695a4ae6f01b",
       "title": "La clim tue la planète ? Vous avez 30 ans de retard",
       "description": "« Climatiser son appartement, c'est réchauffer celui du voisin. » Vous l'avez forcément déjà entendue, cette bonne blague là... C'est comme ça que commence la dernière vidéo de Numerama, où durant 23 minutes, Julien Cadot démonte une par une les idées reçues sur la climatisation. Et j'ai trouvé ça…",
