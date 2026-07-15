@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "6f03c8e8991e",
+      "title": "Liens Tech - Juillet 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-juin-2026-2/",
+      "pubDate": "2026-07-15T05:45:13.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "695a4ae6f01b",
+      "title": "La clim tue la planète ? Vous avez 30 ans de retard",
+      "description": "« Climatiser son appartement, c'est réchauffer celui du voisin. » Vous l'avez forcément déjà entendue, cette bonne blague là... C'est comme ça que commence la dernière vidéo de Numerama, où durant 23 minutes, Julien Cadot démonte une par une les idées reçues sur la climatisation. Et j'ai trouvé ça…",
+      "link": "https://korben.info/climatisation-idees-recues.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-15T05:33:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3ef75d91c338",
       "title": "Apple rachète SigLens, l'outil open source de surveillance d'applications",
       "description": "Apple vient donc de mettre la main sur SigLens, un logiciel open source de surveillance d'applications, en rachetant les actifs de la petite société américaine qui le développe, SigScalr. L'annonce est tombée ce 13 juillet, même si le dossier avait été notifié à l'Union européenne dès le mois de…",
