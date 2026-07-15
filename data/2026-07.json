@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "8cae8fecb1e0",
+      "title": "La vérif d'âge de l'Europe ridiculisée par une extension Chrome",
+      "description": "Bon, vous le savez, l'Europe tient absolument à savoir votre âge, avant de vous laisser scroller librement sur le net. Alors pour cela, ils ont mis au point une application qui permet de prouver votre âge et qui nous est proposée comme simple à utiliser et respectueuse de notre vie privée. Mais ça…",
+      "link": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-15T10:39:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4a0f933d5b9",
+      "title": "Les macros Twig : des fonctions qui ne voient rien",
+      "description": "Maîtrisez les macros Twig : syntaxe, importations multiples, portée et quand les remplacer par des Twig Components pour optimiser vos templates Symfony.",
+      "link": "https://lecodeestdanslepre.fr/billets/macros-twig",
+      "pubDate": "2026-07-15T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "22bca019a014",
       "title": "Comprendre l’authentification avec Github (OAuth) ",
       "description": "Découvrez comment fonctionne la connexion avec GitHub grâce à OAuth et apprenez à implémenter simplement un bouton \"Se connecter avec GitHub\" dans votre application.",
