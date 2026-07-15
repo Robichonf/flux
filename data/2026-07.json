@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "549b08d2a83a",
+      "title": "Kassis - Transcrivez vos audios et dictez vos textes sur Mac",
+      "description": "Si vous cherchez un logiciel de dictée vocale sérieux sur Mac, vous avez sûrement remarqué que le marché ressemble à un désert. Nuance a débranché Dragon pour Mac en octobre 2018, la dictée intégrée de macOS dépanne pour 2 SMS mais s'essouffle sur un vrai document, et la plupart des services…",
+      "link": "https://korben.info/transcription-audio-texte-dictee-vocale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-15T19:16:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/transcription-audio-texte-dictee-vocale-mac/transcription-audio-texte-dictee-vocale-mac-2.png",
+      "type": "blog"
+    },
+    {
       "id": "85cbf193ca5d",
       "title": "La Neo Geo fait enfin tourner DOOM",
       "description": "DOOM tourne aujourd'hui sur presque tout, d'un frigo connecté à une calculatrice, et chaque année quelqu'un ajoute une machine encore plus improbable à la liste. Il restait pourtant une exception qui résistait, la Neo Geo, la console d'arcade de SNK des années 90. Elle coûtait le prix d'un petit…",
