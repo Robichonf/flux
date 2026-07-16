@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ebfe934aef38",
+      "title": "La France est numéro un mondial de l'IPv6, et en grande partie grâce à Free",
+      "description": "La France vient de décrocher un titre plutôt inattendu, celui de championne du monde de l'IPv6, en détrônant l'Inde qui menait la danse depuis un bon moment. L'IPv6, c'est la \"nouvelle\" version du système d'adresses qui identifie chaque appareil connecté à internet. Il remplace petit à petit…",
+      "link": "https://korben.info/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-16T15:07:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cbf7c592e114",
       "title": "July 2026 Newsletter: How to become an indispensable company?",
       "description": "Indispensable companies will be those that master AI search engines What does it mean to be an indispensable company? It means being the one everyone thinks of when they have a need in mind. In B2C, these are well-known brands. In B2B, it’s a bit different. Being indispensable means being the…",
