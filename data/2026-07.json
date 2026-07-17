@@ -107,6 +107,21 @@
       "type": "blog"
     },
     {
+      "id": "1cb6e194d4de",
+      "title": "The Token Manifesto",
+      "description": "The Token Manifesto We are uncovering better ways of consuming context by doing it and helping others do it.Through the work of producing tokens, deleting tokens, and staring at a usage bar nervously, we have come to value:1. Short system prompts over clever system prompts : The model reads the…",
+      "link": "https://www.touilleur-express.fr/2026/07/17/the-token-manifesto",
+      "pubDate": "2026-07-17T09:34:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "70b9dffc7ddc",
       "title": "Airflow : introduction au Dynamic Task Mapping",
       "description": "Airflow : comprendre le Dynamic Task Mapping",
