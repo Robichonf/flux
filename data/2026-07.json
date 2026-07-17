@@ -2,6 +2,68 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "2a712314e26e",
+      "title": "Torvalds aux opposants à l'IA dans Linux : forkez le noyau, ou passez votre chemin",
+      "description": "On ne présente plus Linus Torvalds, le père du noyau Linux, aussi connu pour son génie technique que pour un franc-parler. Cette fois, c'est le débat sur l'usage de l'IA dans le développement du noyau qui l'a fait sortir du bois. Sur la fameuse mailing list où se décide l'avenir de Linux, il a…",
+      "link": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T10:12:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e1879dd8be9b",
+      "title": "La Belgique bloque wawacity.pizza, mais les pirates se sont déjà mis au poker",
+      "description": "La Belgique vient de bloquer wawacity.pizza. Et wawacity.rodeo. Ah et aussi wawacity.taxi, wawacity.futbol, wawacity.motorcycles, wawacity.irish, sans oublier zone-telechargement.meme et zone-telechargement.monster ( la liste est ici ). 113 domaines au total, classés le 3 juillet dernier comme…",
+      "link": "https://korben.info/belgique-blocage-domaines-piratage-poker.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T10:02:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/belgique-blocage-domaines-piratage-poker/belgique-blocage-domaines-piratage-poker-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c38c4a4bc34e",
+      "title": "GPT-5.6 Sol efface la prod - Un an après Replit, rebelote",
+      "description": "Vous vous souvenez de Jason Lemkin ? C'est le malheureux qui, en juillet de l'année dernière, s'est fait vider sa base de prod par l'IA de Replit. Je pense que cette histoire a traumatisé pas mal de développeurs. Eh bien les amis, rebelote avec GPT 5.6 Sol, qui le temps que vous finissiez votre…",
+      "link": "https://korben.info/gpt-5-6-sol-suppression-fichiers-openai.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T09:49:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gpt-5-6-sol-suppression-fichiers-openai/gpt-5-6-sol-suppression-fichiers-openai-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "70b9dffc7ddc",
+      "title": "Airflow : introduction au Dynamic Task Mapping",
+      "description": "Airflow : comprendre le Dynamic Task Mapping",
+      "link": "https://blog.ippon.fr/2026/07/17/airflow-introduction-au-dynamic-task-mapping/",
+      "pubDate": "2026-07-17T09:26:15.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/Capture-d---e--cran-2026-07-13-a---15.54.18.png",
+      "type": "blog"
+    },
+    {
       "id": "560c4050c8ac",
       "title": "Contourner un géoblocage via VPN n'a rien d'illégal, dit la CJUE",
       "description": "En voilà une bonne nouvelle ! La Cour de justice de l'Union européenne vient de rendre un arrêt le 9 juillet dernier qui précise que contourner un géoblocage avec un VPN ne fait pas de vous un pirate. Et croyez-moi, nos ayants droit préférés ne vont pas adorer. En plus, toute cette affaire est un…",
@@ -29,6 +91,21 @@
         "Web"
       ],
       "image": "https://korben.info/microsoft-comic-chat-open-source/microsoft-comic-chat-open-source-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "cb9093bb6601",
+      "title": "Uptobox : à cause de quelques tweets, ce technicien doit 306 000 euros à Disney",
+      "description": "Disney considérait une addition à 16 millions d'euros contre un simple technicien d'Uptobox, la cour d'appel de Paris vient de la ramener à 306 000, et ce qui reste ne tient même pas à son travail sur les serveurs, mais à quelques messages qu'il a postés sur X. Une histoire folle. Petit rappel pour…",
+      "link": "https://korben.info/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-16T15:28:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
