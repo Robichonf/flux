@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3ee8f7fd3ce6",
+      "title": "Pix 2D to 3D - Des sprites aux modèles 3D, sans IA ni GPU",
+      "description": "Si vous faites du pixel art, voilà un petit outil qui devrait vous plaire. Pix 2D to 3D prend votre sprite et vous le transforme en modèle 3D voxelisé au format .obj, importable direct dans Blender, Unity ou Godot. Pas la moindre trace d'IA là-dedans, uniquement des maths, et son dev Prashant bosse…",
+      "link": "https://korben.info/voxelizer-pixel-art-3d-obj.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T13:18:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/voxelizer-pixel-art-3d-obj/voxelizer-pixel-art-3d-obj-2.png",
+      "type": "blog"
+    },
+    {
       "id": "3c38eab25377",
       "title": "Firefox en WebAssembly - Gecko s'embarque dans vos pages web",
       "description": "Vous avez une TV connectée qui vous crache de la pub, un navigateur intégré dedans qui n'accepte aucune extension, et surtout aucun moyen d'installer quoi que ce soit dessus ? Bonne nouvelle les amis, l'équipe de Puter vient de compiler Firefox en WebAssembly, ce qui fait que ce mur commence…",
