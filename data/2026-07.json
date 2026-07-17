@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "560c4050c8ac",
+      "title": "Contourner un géoblocage via VPN n'a rien d'illégal, dit la CJUE",
+      "description": "En voilà une bonne nouvelle ! La Cour de justice de l'Union européenne vient de rendre un arrêt le 9 juillet dernier qui précise que contourner un géoblocage avec un VPN ne fait pas de vous un pirate. Et croyez-moi, nos ayants droit préférés ne vont pas adorer. En plus, toute cette affaire est un…",
+      "link": "https://korben.info/vpn-geoblocage-legal-cjue.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T07:40:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0ad540e4cbe2",
+      "title": "Comic Chat - L'IRC qui vous dessinait en BD fonctionne encore",
+      "description": "Microsoft vient de balancer sur GitHub le code source de Comic Chat. Je pense qu'on est peu nombreux à s'en souvenir mais c'était un logiciel sorti en 1996, imaginé par DJ Kurlander chez Microsoft Research, qui affichait nos discussions IRC sous forme de bande dessinée auto-générée, avec les…",
+      "link": "https://korben.info/microsoft-comic-chat-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T07:21:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/microsoft-comic-chat-open-source/microsoft-comic-chat-open-source-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "ebfe934aef38",
       "title": "La France est numéro un mondial de l'IPv6, et en grande partie grâce à Free",
       "description": "La France vient de décrocher un titre plutôt inattendu, celui de championne du monde de l'IPv6, en détrônant l'Inde qui menait la danse depuis un bon moment. L'IPv6, c'est la \"nouvelle\" version du système d'adresses qui identifie chaque appareil connecté à internet. Il remplace petit à petit…",
