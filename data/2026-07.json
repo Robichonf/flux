@@ -2,6 +2,66 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3c38eab25377",
+      "title": "Firefox en WebAssembly - Gecko s'embarque dans vos pages web",
+      "description": "Vous avez une TV connectée qui vous crache de la pub, un navigateur intégré dedans qui n'accepte aucune extension, et surtout aucun moyen d'installer quoi que ce soit dessus ? Bonne nouvelle les amis, l'équipe de Puter vient de compiler Firefox en WebAssembly, ce qui fait que ce mur commence…",
+      "link": "https://korben.info/firefox-webassembly-gecko-navigateur-embarque.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T11:56:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-webassembly-gecko-navigateur-embarque/firefox-webassembly-gecko-navigateur-embarque-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a880b2f9d271",
+      "title": "Open OSCAR Server - Faites revivre AIM sur vos vieilles bécanes",
+      "description": "Vous vous souvenez d'AIM ? Mais siiii, le petit bonhomme jaune qui courait, la porte qui claque quand un pote se connecte, les away messages passifs-agressifs à base de paroles de chanson... Et bien la bidouilleuse Veronica a remonté son propre serveur AIM, et ça a l'air de plutôt bien fonctionner…",
+      "link": "https://korben.info/serveur-aim-perso-open-oscar.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T11:32:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/serveur-aim-perso-open-oscar/serveur-aim-perso-open-oscar-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "676ffe564b5b",
+      "title": "Mario Kart Wii bientôt jouable sans Dolphin ni Wii",
+      "description": "Alors ça, c'est un sacré morceau qui va ravir tous les fans de rétro gaming ! Patchzy, le dev de Wheel Wizard (le launcher de Retro Rewind), vient d'annoncer Mario Kart Wii compiled, ce qu'il présente comme le premier jeu Wii recompilé en natif pour PC. Pas émulé, hein recompilé. Et vous allez voir…",
+      "link": "https://korben.info/mario-kart-wii-recompilation-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T11:25:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mario-kart-wii-recompilation-pc/mario-kart-wii-recompilation-pc-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d2ed2ab58627",
+      "title": "Une timeline et un bouton « Copy as text » : la page d'exception Symfony se redessine",
+      "description": "Découvrez la refonte de la page d'exception Symfony : une timeline cliquable et un bouton 'Copy as text' pour les IA. Analyse de cette évolution.",
+      "link": "https://lecodeestdanslepre.fr/billets/page-exception-symfony-redesign-copy-as-text",
+      "pubDate": "2026-07-17T10:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2a712314e26e",
       "title": "Torvalds aux opposants à l'IA dans Linux : forkez le noyau, ou passez votre chemin",
       "description": "On ne présente plus Linus Torvalds, le père du noyau Linux, aussi connu pour son génie technique que pour un franc-parler. Cette fois, c'est le débat sur l'usage de l'IA dans le développement du noyau qui l'a fait sortir du bois. Sur la fameuse mailing list où se décide l'avenir de Linux, il a…",
