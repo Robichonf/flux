@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3c2386708efa",
+      "title": "Un moddeur fait tourner trois GTA les uns dans les autres",
+      "description": "Y'a un moddeur de génie, Dryxio, qui vient de réussir un truc que Rockstar n'a jamais osé faire : Faire tourner GTA III et Vice City en entier, à l'intérieur de GTA San Andreas. Ouèp, les deux jeux complets, avec leur mode histoire, leurs sauvegardes et leurs réglages ! Dans San Andreas, CJ peut…",
+      "link": "https://korben.info/gta-3-vice-city-san-andreas-mod.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T06:53:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2bd70ac4d5dc",
+      "title": "WP2Shell - La faille qui permet de pirater WordPress sans aucun plugin",
+      "description": "Vous avez un site sous WordPress ? Alors lâchez tout ce que vous faites deux minutes, parce que là c'est du sérieux !! Cette nouvelle attaque baptisée WP2Shell permet de compromettre une installation Wordpress sans passer par le moindre plugin. Heureusement, un patch est sorti en urgence le 17…",
+      "link": "https://korben.info/wp2shell-exploits-prise-controle-wordpress.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T06:38:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/wp2shell-exploits-prise-controle-wordpress/wp2shell-exploits-prise-controle-wordpress-1.png",
+      "type": "blog"
+    },
+    {
       "id": "6b884c981cec",
       "title": "Le SEO tué par l'IA ? Les chiffres ne mesurent pas la même chose",
       "description": "Zéro-clic, AI Overviews : ces chiffres ne mesurent pas la même chose. Comment lire leur périmètre, et mesurer la dépendance réelle de votre site à Google.",
