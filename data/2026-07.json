@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "51de9b0cac1b",
+      "title": "727 mots de passe par seconde, la Game Boy Advance s'y met fort ^^",
+      "description": "727 mots de passe testés par seconde, c'est le score incroyable d'une Game Boy Advance reprogrammée en casseur de mots de passe par solst-ice, un développeur qui avait visiblement une console de 2001 qui traînait et pas mal de temps à tuer ^^. Son projet s'appelle GBA-Hashcat, et c'est un \"port\" de…",
+      "link": "https://korben.info/gba-hashcat-craqueur-mots-de-passe.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T10:23:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cff70545e683",
       "title": "Castor - Votre flux vidéo web sur la télé, en top qualité",
       "description": "Vous avez déjà pesté contre votre télé qui refuse de lire une vidéo pourtant toute bête trouvée sur le web ? Hé bien Kilian Houpeurt aussi et c'est pourquoi il a décidé, plutôt que de râler dans le vide comme un mec lambda sur Twitter, qu'il allait prendre le taureau par les cornes et coder sa…",
@@ -44,6 +59,21 @@
         "Web"
       ],
       "image": "https://korben.info/wp2shell-exploits-prise-controle-wordpress/wp2shell-exploits-prise-controle-wordpress-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "3e9e0f92755f",
+      "title": "Pourquoi je ne fais pas d'open source sur Writizzy",
+      "description": "Rendre son produit open source : une évidence pour la durabilité ou un piège économique et mental ? Retour d'expérience et dilemmes à travers le cas Writizzy.",
+      "link": "https://eventuallycoding.com/p/pourquoi-je-ne-fais-pas-d-open-source-sur-writizzy",
+      "pubDate": "2026-07-19T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
