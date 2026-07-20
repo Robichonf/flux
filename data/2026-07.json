@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "4ee32acf32c5",
+      "title": "BMASS - Bootez direct votre PC sur une IA locale",
+      "description": "Balaji Bikshandi avait un rêve ! Il voulait booter sa machine directement sur un LLM sans avoir à passer par le moindre environnement de bureau ! Et il y est parvenu avec son outil BMASS , qui s'installe sur une clé USB de 8 Go, et qui embarque Alpine Linux, llama.cpp et un modèle Qwen3 0.6B…",
+      "link": "https://korben.info/bmass-boot-usb-modele-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T10:20:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "aa0c097a4cf5",
       "title": "RetroMac - Le retour des Flying Toasters et du dock en verre",
       "description": "Maik Klotz, un développeur allemand, a sorti une app menu bar qui repeint votre Mac aux couleurs de Snow Leopard, System 6, Windows 98 ou encore BeOS. Elle s'appelle RetroMac et elle ne touche pas une ligne de votre système, donc pas de risques de tout casser. Le catalogue des thèmes couvre à peu…",
