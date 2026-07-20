@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "0ca0da78d984",
+      "title": "Moonshine - Et votre serveur Linux sans écran devient une console",
+      "description": "NVIDIA a débranché GameStream, son système maison pour envoyer les jeux de votre PC vers une Shield ou un laptop. Sauf que le protocole, lui, n'est pas mort : Moonlight , le client open source qui le réimplémente, tourne toujours sur Windows, macOS, Linux, Steam Link, Raspberry Pi 4, Apple TV et…",
+      "link": "https://korben.info/moonshine-serveur-streaming-jeux-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T11:51:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4ee32acf32c5",
       "title": "BMASS - Bootez direct votre PC sur une IA locale",
       "description": "Balaji Bikshandi avait un rêve ! Il voulait booter sa machine directement sur un LLM sans avoir à passer par le moindre environnement de bureau ! Et il y est parvenu avec son outil BMASS , qui s'installe sur une clé USB de 8 Go, et qui embarque Alpine Linux, llama.cpp et un modèle Qwen3 0.6B…",
