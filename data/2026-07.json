@@ -2,6 +2,81 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "aa0c097a4cf5",
+      "title": "RetroMac - Le retour des Flying Toasters et du dock en verre",
+      "description": "Maik Klotz, un développeur allemand, a sorti une app menu bar qui repeint votre Mac aux couleurs de Snow Leopard, System 6, Windows 98 ou encore BeOS. Elle s'appelle RetroMac et elle ne touche pas une ligne de votre système, donc pas de risques de tout casser. Le catalogue des thèmes couvre à peu…",
+      "link": "https://korben.info/retromac-theme-retro-macos-crt-snow-leopard.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T07:16:13.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/retromac-theme-retro-macos-crt-snow-leopard/retromac-theme-retro-macos-crt-snow-leopard-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d759a863fec7",
+      "title": "France Travail - 26 variables décident si vous êtes suspect",
+      "description": "Votre CV en ligne sur le site de France Travail, un métier en tension, un rendez-vous raté il y a 2 ans ? Ce sont 3 des 26 variables qu'un algorithme épluche pour décider si votre dossier part au contrôle. Voilà où on en est. La Quadrature du Net a publié aujourd'hui, avec la cellule investigation…",
+      "link": "https://korben.info/france-travail-algorithme-ciblage-controle-chomeurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T06:58:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "367ae6b9c6c0",
+      "title": "Hugging Face piraté, les IA américaines refusent de les aider",
+      "description": "Hugging Face vient de raconter sur son site comment son infra de production s'est fait défoncer par un essaim d'agents IA autonomes. Le point de départ, c'est un dataset piégé déposé sur la plateforme qui exploitait deux chemins d'exécution de code dans le pipeline qui traite les datasets. Ajoutez…",
+      "link": "https://korben.info/hugging-face-pirate-agent-ia-autonome.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T06:50:52.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hugging-face-pirate-agent-ia-autonome/hugging-face-pirate-agent-ia-autonome-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "55a6e3ab4163",
+      "title": "Un demi-million de domaines anti-pub stockés dans 50 Ko de RAM",
+      "description": "Pi-hole sur un Raspberry Pi, c'est cool, mais ça vous coûte quand même quelques dizaines d'euros (lien affilié) et ça squatte une prise en permanence. C'est pourquoi M-Abozaid a fait tenir la même chose dans une clé ESP32-C3 à pas cher (lien affilié). Son firmware bloque ainsi 537 000 domaines de…",
+      "link": "https://korben.info/esp32-dns-dongle-anti-pub.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T06:13:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/esp32-dns-dongle-anti-pub/esp32-dns-dongle-anti-pub-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "875ae988507c",
+      "title": "Compressez vos vidéos d'un clic droit sur Mac",
+      "description": "Pour une raison que je ne m'explique pas, parfois quand j'upload des vidéos sur mon WordPress, celles-ci ne fonctionnent pas correctement une fois l'article publié. Je pense que c'est parce qu'elles sont mal encodées et que par conséquent le navigateur ne sait pas les lire. Pour remédier à ça, je…",
+      "link": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T05:21:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit/ffmpeg-compresser-video-mac-clic-droit-2.png",
+      "type": "blog"
+    },
+    {
       "id": "dafdcd4f0224",
       "title": "La loi de l'attraction prouvée scientifiquement ?",
       "description": "Vous avez déjà accroché avec quelqu'un en trois secondes ? Détesté une tête au premier regard, sans savoir pourquoi ? Eh bien, d'après le site Popular Mechanics ce serait grâce aux champs électromagnétiques. Derrière l'étude qu'ils relaient, il y a l'anesthésiste Marco Cavaglià et Tommaso Firaux,…",
