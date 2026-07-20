@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "67273fb7c11a",
+      "title": "Neural Drive - Le jeu de kart qui tourne sans moteur de jeu, dans votre navigateur",
+      "description": "Aujourd'hui je vais vous parler d'un jeu de karting façon Mario Kart qui fonctionne sans moteur 3D et sans même une seule ligne de code. En réalité, il s'agit d'un modèle de 130 millions de paramètres qui est capable de deviner à quoi doit ressembler l'image suivante. Cela a été mis en ligne hier…",
+      "link": "https://korben.info/neural-drive-world-model-supertuxkart-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T13:41:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/neural-drive-world-model-supertuxkart-navigateur/neural-drive-world-model-supertuxkart-navigateur-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8e0c25f7f900",
+      "title": "Reviewer des patches git par mail sans quitter Thunderbird",
+      "description": "Marc Coquand avait très envie d'embarquer son équipe dans un nouveau genre de workflow Git à base d'emails et c'est pour ça qu'il a créé thunderbird-patch-review . Il s'agit d'une extension pour Thunderbird qui, lorsque vous ouvrez un mail qui contient une série de patchs, vous propose un bouton…",
+      "link": "https://korben.info/thunderbird-review-patches-git-email.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T13:02:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/thunderbird-review-patches-git-email/thunderbird-review-patches-git-email-2.png",
+      "type": "blog"
+    },
+    {
       "id": "0ca0da78d984",
       "title": "Moonshine - Et votre serveur Linux sans écran devient une console",
       "description": "NVIDIA a débranché GameStream, son système maison pour envoyer les jeux de votre PC vers une Shield ou un laptop. Sauf que le protocole, lui, n'est pas mort : Moonlight , le client open source qui le réimplémente, tourne toujours sur Windows, macOS, Linux, Steam Link, Raspberry Pi 4, Apple TV et…",
@@ -104,6 +134,21 @@
         "Web"
       ],
       "image": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit/ffmpeg-compresser-video-mac-clic-droit-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "19accd67d164",
+      "title": "Le prix de la souveraineté numérique",
+      "description": "La souveraineté numérique européenne se heurte à une réalité : trouver des alternatives ne suffit pas, elles doivent aussi rester compétitives économiquement",
+      "link": "https://eventuallycoding.com/p/le-prix-de-la-souverainete-numerique",
+      "pubDate": "2026-07-20T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
