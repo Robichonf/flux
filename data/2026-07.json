@@ -47,6 +47,21 @@
       "type": "blog"
     },
     {
+      "id": "bb82182b0428",
+      "title": "Une demi-seconde a fait tomber la backdoor XZ - Voici son livre",
+      "description": "Une demi-seconde. C'est le retard qu'ont pris les connexions SSH d'Andres Freund, ingénieur chez Microsoft, lors d'un benchmark de routine en mars 2024. Cette demi-seconde, Adrian Mastronardi, CTO de Habi et linuxien depuis 1996, vient d'en tirer un bouquin gratuit, Half a Second , qui raconte…",
+      "link": "https://korben.info/half-second-livre-backdoor-xz.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T07:27:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/half-second-livre-backdoor-xz/half-second-livre-backdoor-xz-2.png",
+      "type": "blog"
+    },
+    {
       "id": "3c2386708efa",
       "title": "Un moddeur fait tourner trois GTA les uns dans les autres",
       "description": "Y'a un moddeur de génie, Dryxio, qui vient de réussir un truc que Rockstar n'a jamais osé faire : Faire tourner GTA III et Vice City en entier, à l'intérieur de GTA San Andreas. Ouèp, les deux jeux complets, avec leur mode histoire, leurs sauvegardes et leurs réglages ! Dans San Andreas, CJ peut…",
@@ -119,6 +134,21 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8cdf2909ea8d",
+      "title": "Fable 5 est tellement demandé qu'Anthropic n'arrive plus à suivre",
+      "description": "Anthropic a fini par annoncer ce que tout le monde attendait : à partir du 20 juillet, son modèle d'intelligence artificielle Fable 5 restera inclus dans les abonnements Max et Team Premium, mais avec un plafond fixé à la moitié seulement des limites d'usage habituelles, une manière à peine…",
+      "link": "https://korben.info/fable-5-est-tellement-demande-quanthropic-narrive-plus-a-suivre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-18T06:25:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fable-5-est-tellement-demande-quanthropic-narrive-plus-a-suivre/fable-5-est-tellement-demande-quanthropic-narrive-plus-a-suivre-1.webp",
       "type": "blog"
     },
     {
