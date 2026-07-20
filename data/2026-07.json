@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ddd6ecbe2ef0",
+      "title": "Empreintes et ADN - Le vrai prix de votre ESTA",
+      "description": "Vos empreintes digitales, votre photo et jusqu'à votre ADN, voilà ce que les États-Unis aimeraient consulter directement dans les fichiers de police européens. Le deal s'appelle Enhanced Border Security Partnership (EBSP), et la monnaie d'échange, vous la connaissez bien si vous avez déjà voyagé…",
+      "link": "https://korben.info/ue-usa-donnees-biometriques-visa-ebsp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T15:16:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "67273fb7c11a",
       "title": "Neural Drive - Le jeu de kart qui tourne sans moteur de jeu, dans votre navigateur",
       "description": "Aujourd'hui je vais vous parler d'un jeu de karting façon Mario Kart qui fonctionne sans moteur 3D et sans même une seule ligne de code. En réalité, il s'agit d'un modèle de 130 millions de paramètres qui est capable de deviner à quoi doit ressembler l'image suivante. Cela a été mis en ligne hier…",
