@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ff7505e4beb8",
+      "title": "J'ai créé mon propre outil de stats sans tracking",
+      "description": "Un site sans cookie de mesure d'audience et sans bandeau de consentement, c'est reposant je trouve... Sauf qu'à cause de ça, bah je ne savais plus trop combien de gens venaient me lire tous les jours. Relou hein ? C'était ma situation depuis un moment déjà, vu que tout ce qui servait à mesurer…",
+      "link": "https://korben.info/analytics-maison-sans-tracking-cloudflare.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-21T15:34:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/analytics-maison-sans-tracking-cloudflare/analytics-maison-sans-tracking-cloudflare-2.png",
+      "type": "blog"
+    },
+    {
       "id": "0e1575e6ef5f",
       "title": "Bornes de recharge - Un SSH root au bout du câble CCS2",
       "description": "Le gros câble que vous branchez sur votre voiture électrique, celui qu'il faut soulever à deux mains et qui pèse le poids d'un âne mort, dispose de 2 choses : Du courant, et un réseau. Lionel Richard Saposnik, chercheur chez SaiFlow, a eu la curiosité d'aller voir ce qui traîne sur ce réseau-là et…",
