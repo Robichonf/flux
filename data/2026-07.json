@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "2f24a52cafaf",
+      "title": "Brancher un écran LG suffit à vous coller une pub McAfee",
+      "description": "32 redémarrages d'affilée, 31 pubs pour McAfee, c'est le résultat du test mené par la chaîne Youtube Gamers Nexus sur un écran LG UltraGear 34GX900A-B branché à un PC tournant sous Windows. Puis au 32e démarrage, l'écran a eu la délicatesse de faire la promo d'un autre utilitaire LG, histoire de…",
+      "link": "https://korben.info/lg-moniteurs-adware-installation-silencieuse-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-21T09:17:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1280,quality=85,format=auto/https://i.ytimg.com/vi/Q9uefFYe6bM/hqdefault.jpg",
+      "type": "blog"
+    },
+    {
       "id": "6c957743d687",
       "title": "Le Siri caché de votre Mac se réveille en une commande",
       "description": "Si vous avez installé la beta de macOS 27 Golden Gate, apparemment, vous avez déjà sur votre Mac une interface Siri complète qu'Apple a pris soin de désactiver avant de vous la livrer. Un membre du subreddit r/MacOSBeta l'a débusquée, et elle peut être rallumée rapidement grâce à une seule commande…",
