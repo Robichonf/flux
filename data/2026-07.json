@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "0e1575e6ef5f",
+      "title": "Bornes de recharge - Un SSH root au bout du câble CCS2",
+      "description": "Le gros câble que vous branchez sur votre voiture électrique, celui qu'il faut soulever à deux mains et qui pèse le poids d'un âne mort, dispose de 2 choses : Du courant, et un réseau. Lionel Richard Saposnik, chercheur chez SaiFlow, a eu la curiosité d'aller voir ce qui traîne sur ce réseau-là et…",
+      "link": "https://korben.info/borne-recharge-ccs2-faille-prise-reseau.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-21T11:47:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/borne-recharge-ccs2-faille-prise-reseau/borne-recharge-ccs2-faille-prise-reseau-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "967c873bbf35",
+      "title": "Ce drone tourne si vite sur lui-même qu'il devient presque invisible",
+      "description": "Des ingénieurs de l'université Northwestern, près de Chicago, ont construit un petit drone qui disparaît presque à l'œil nu. Pas grâce à un camouflage, mais parce qu'il tourne sur lui-même à toute vitesse. Le principe s'appelle le flou de mouvement. C'est ce qui fait qu'on ne voit plus les pales…",
+      "link": "https://korben.info/ce-drone-tourne-si-vite-sur-lui-meme-quil-devient-presque-invisible.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-21T11:20:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1280,quality=85,format=auto/https://i.ytimg.com/vi/1mUgyV3A1O0/hqdefault.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2f24a52cafaf",
       "title": "Brancher un écran LG suffit à vous coller une pub McAfee",
       "description": "32 redémarrages d'affilée, 31 pubs pour McAfee, c'est le résultat du test mené par la chaîne Youtube Gamers Nexus sur un écran LG UltraGear 34GX900A-B branché à un PC tournant sous Windows. Puis au 32e démarrage, l'écran a eu la délicatesse de faire la promo d'un autre utilitaire LG, histoire de…",
