@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "9db391d118a6",
+      "title": "late.sh - Le BBS ressuscité en SSH, avec NetHack dedans",
+      "description": "Vous tapez dans votre terminal ssh late.sh et c'est tout. Votre clé SSH fait alors office de carte de membre et vous voilà dans un salon peuplé de gens qui tapent sur leur clavier depuis un peu partout sur la planète. C'est ce qu'a imaginé Mateusz Piórowski, un dev polonais, qui a passé ces…",
+      "link": "https://korben.info/late-sh-bbs-terminal-ssh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T07:21:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/late-sh-bbs-terminal-ssh/late-sh-bbs-terminal-ssh-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ff7505e4beb8",
       "title": "J'ai créé mon propre outil de stats sans tracking",
       "description": "Un site sans cookie de mesure d'audience et sans bandeau de consentement, c'est reposant je trouve... Sauf qu'à cause de ça, bah je ne savais plus trop combien de gens venaient me lire tous les jours. Relou hein ? C'était ma situation depuis un moment déjà, vu que tout ce qui servait à mesurer…",
