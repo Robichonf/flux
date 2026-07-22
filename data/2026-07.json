@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5059d3f89d79",
+      "title": "Cette mini liseuse sous Android fait tout tourner",
+      "description": "– Contient des liens affiliés Amazon – Vous le savez, j'adore les liseuses de la marque Boox, et ils m'ont proposé de tester ce nouveau modèle. La Boox Go 6 Gen II tient sans problème dans une seule main, même petite, comme un vieux livre de poche corné, pèse à peine 160 grammes et se glisse dans…",
+      "link": "https://korben.info/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T15:22:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "230416009bf8",
       "title": "7-Zip : un simple fichier piégé peut faire tourner du code sur votre PC",
       "description": "7-Zip, le logiciel de compression gratuit installé sur des centaines de millions de PC pour ouvrir un zip ou un 7z, traîne une faille par laquelle une archive piégée peut lancer du code sur votre machine à la seconde où vous l'ouvrez. La faille porte le doux nom de CVE-2025-14266 et se niche dans…",
