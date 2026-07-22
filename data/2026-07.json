@@ -2,6 +2,96 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "230416009bf8",
+      "title": "7-Zip : un simple fichier piégé peut faire tourner du code sur votre PC",
+      "description": "7-Zip, le logiciel de compression gratuit installé sur des centaines de millions de PC pour ouvrir un zip ou un 7z, traîne une faille par laquelle une archive piégée peut lancer du code sur votre machine à la seconde où vous l'ouvrez. La faille porte le doux nom de CVE-2025-14266 et se niche dans…",
+      "link": "https://korben.info/7-zip-un-simple-fichier-piege-peut-faire-tourner-du-code-sur-votre-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T10:40:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "55bf2c89eeb0",
+      "title": "Symfony 8.2 : des URLs signées à usage unique, sans stockage",
+      "description": "Symfony 8.2 ajoute l'usage unique aux URLs signées d'UriSigner via un jeton d'état replié dans le HMAC. Mécanisme, limites et comparaison avec login_link.",
+      "link": "https://lecodeestdanslepre.fr/billets/urls-signees-usage-unique-symfony-8-2",
+      "pubDate": "2026-07-22T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "534c52a9d4dc",
+      "title": "Portable et cancer du cerveau - L'OMS a fini de chercher",
+      "description": "Depuis 30 ans, vous vous demandez peut-être si coller un téléphone contre votre oreille peut finir par vous refiler une tumeur au cerveau ? Hé bien l'OMS a voulu en avoir le cœur net et a commandé 13 grandes enquêtes sur la question. Et youpiiii, elles viennent toutes d'aboutir et de sortir, et le…",
+      "link": "https://korben.info/telephone-portable-cancer-cerveau-revues-oms.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T09:56:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dcee3d0e4509",
+      "title": "Une puce à quelques euros fait tourner la NES à 60 images par seconde",
+      "description": "Faire tourner une console Nintendo de 1983 sur une puce qui coûte moins cher qu'un sandwich, c'est le genre de défi qui plaît aux bricoleurs, et un développeur vient de le réussir plutôt bien. Le projet s'appelle Anemoia-ESP32 et il émule la NES sur un ESP32, ce petit microcontrôleur programmable à…",
+      "link": "https://korben.info/une-puce-a-quelques-euros-fait-tourner-la-nes-a-60-images-par-seconde.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T09:55:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-puce-a-quelques-euros-fait-tourner-la-nes-a-60-images-par-seconde/une-puce-a-quelques-euros-fait-tourner-la-nes-a-60-images-par-seconde-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6a708e0bff6f",
+      "title": "Unitree - Le robot au modèle IA invisible",
+      "description": "Un coussin qui traîne par terre, des boîtes de médicaments à compter dans un tiroir, du linge à balancer dans le panier, des assiettes à caler dans le lave-vaisselle et un lit médicalisé à remonter de quelques crans. Voilà le programme du robot G1 dans la vidéo qu'Unitree a mise en ligne lundi…",
+      "link": "https://korben.info/unitree-unifolm-ominia-robot-soins-domicile.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T08:18:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1280,quality=85,format=auto/https://i.ytimg.com/vi/IiNbFPOUrz8/hqdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6db8a6efacc1",
+      "title": "Les IA d'OpenAI ont piraté Hugging Face pour tricher à un test",
+      "description": "Le pirate qui a mis à genoux la prod de Hugging Face voulait juste tricher à son examen, voilà ce qu'OpenAI a reconnu hier. Les agents qui se sont promenés durant tout un week-end dans les clusters de la plateforme, c'étaient leurs modèles à eux, GPT-5.6 Sol et un modèle pré-release encore plus…",
+      "link": "https://korben.info/openai-modeles-piratent-hugging-face-triche-benchmark.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T07:55:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openai-modeles-piratent-hugging-face-triche-benchmark/openai-modeles-piratent-hugging-face-triche-benchmark-2.png",
+      "type": "blog"
+    },
+    {
       "id": "9db391d118a6",
       "title": "late.sh - Le BBS ressuscité en SSH, avec NetHack dedans",
       "description": "Vous tapez dans votre terminal ssh late.sh et c'est tout. Votre clé SSH fait alors office de carte de membre et vous voilà dans un salon peuplé de gens qui tapent sur leur clavier depuis un peu partout sur la planète. C'est ce qu'a imaginé Mateusz Piórowski, un dev polonais, qui a passé ces…",
