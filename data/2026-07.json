@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "a9186b4df1af",
+      "title": "Pentest sauvage à base d'IA, que dit la loi ?",
+      "description": "Benjamin Code , le développeur préféré de votre développeur préféré, a reçu ce week-end un e-mail d'achat bidon avec le mot pentester dedans. En grattant un petit peu, il a découvert que quelqu'un s'amusait à trifouiller l'un de ses SaaS sans le prévenir. Visiblement, c'est un autre créateur,…",
+      "link": "https://korben.info/pentest-ia-non-autorise-loi-netiquette.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T12:25:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pentest-ia-non-autorise-loi-netiquette/pentest-ia-non-autorise-loi-netiquette-1.png",
+      "type": "blog"
+    },
+    {
       "id": "4c352e4af59b",
       "title": "Test d’un câble USB-C magnétique moderne, tout simple et bien pratique",
       "description": "– Contient des liens affiliés Amazon – Les câbles magnétiques, ce n'est pas nouveau, ça fait bien une dizaine d'années qu'on en trouve. L'idée a toujours été la même, vous laissez un petit embout aimanté planté en permanence dans le port de votre appareil, et le câble vient s'y coller tout seul…",
