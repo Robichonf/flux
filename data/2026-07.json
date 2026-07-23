@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5b0bae0ad59c",
+      "title": "Quelle est mon ip ? Le retour !",
+      "description": "Ma page « Quelle est mon adresse IP » traînait sur korben.info depuis presque 15 ans, à peu près dans son jus d'origine. Hé bien, bonne nouvelle, je viens de la refaire entièrement, et elle est là : korben.info/ip . Vous arrivez dessus, votre IP publique s'affiche en gros, IPv4 et IPv6 séparées…",
+      "link": "https://korben.info/mon-ip-korben-nouvelle-version.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T13:56:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mon-ip-korben-nouvelle-version/mon-ip-korben-nouvelle-version-2.png",
+      "type": "blog"
+    },
+    {
       "id": "a9186b4df1af",
       "title": "Pentest sauvage à base d'IA, que dit la loi ?",
       "description": "Benjamin Code , le développeur préféré de votre développeur préféré, a reçu ce week-end un e-mail d'achat bidon avec le mot pentester dedans. En grattant un petit peu, il a découvert que quelqu'un s'amusait à trifouiller l'un de ses SaaS sans le prévenir. Visiblement, c'est un autre créateur,…",
