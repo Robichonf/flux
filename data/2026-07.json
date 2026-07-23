@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "a160d097c58b",
+      "title": "Universe Atlas - L'univers à l'échelle réelle dans votre navigateur",
+      "description": "Si vous prévoyez de vous rendre en Islande le 12 août prochain pour admirer l'éclipse totale, vous pouvez déjà vous projeter dans l'expérience grâce à Universe Atlas, un nouvel atlas mis en ligne par Chris Zaharia, qui permet de localiser chaque éclipse de 2026. D'un simple clic, vous êtes…",
+      "link": "https://korben.info/universe-atlas-etoiles-reelles-webgpu.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T06:11:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/universe-atlas-etoiles-reelles-webgpu/universe-atlas-etoiles-reelles-webgpu-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "211157781140",
+      "title": "Unitree - Le firmware que personne ne signe",
+      "description": "Le 26 février dernier, lors d'une réunion d'Austin Hackers Anonymous au Texas, le chercheur Andreas Makris a fait la démo d'un outil qui permet de générer de faux firmwares Unitree, que le robot avale sans broncher comme s'ils sortaient de l'usine de Hangzhou... Car oui, Mesdames et Messieurs, les…",
+      "link": "https://korben.info/unitree-firmware-cle-chiffrement-casse.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T05:10:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/unitree-firmware-cle-chiffrement-casse/unitree-firmware-cle-chiffrement-casse-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "381694d96ea1",
+      "title": "Surfshark et son VPN furtif - Votre FAI ne doit même pas savoir que vous utilisez un VPN",
+      "description": "-- Article en partenariat avec Surfshark -- Vous êtes au café, vous allumez votre VPN pour checker vos mails en toute tranquillité, et là, patatra : la connexion tombe. Votre FAI vient de détecter que vous utilisez un VPN et il vous a bloqué. Sympa, non ?",
+      "link": "https://korben.info/surfshark-et-son-vpn-furtif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T04:47:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/surfshark-et-son-vpn-furtif/surfshark-et-son-vpn-furtif-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "5059d3f89d79",
       "title": "Cette mini liseuse sous Android fait tout tourner",
       "description": "– Contient des liens affiliés Amazon – Vous le savez, j'adore les liseuses de la marque Boox, et ils m'ont proposé de tester ce nouveau modèle. La Boox Go 6 Gen II tient sans problème dans une seule main, même petite, comme un vieux livre de poche corné, pèse à peine 160 grammes et se glisse dans…",
