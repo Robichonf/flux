@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "453d4cef37d1",
+      "title": "Windows 11 - La restauration qui embarque aussi vos fichiers",
+      "description": "Depuis le 23 juin, Microsoft déploie sur Windows 11 une nouvelle fonction de récupération baptisée point-in-time restore, et il y a de bonnes chances qu'elle tourne déjà sur votre PC sans que vous l'ayez demandé. En effet, sur les éditions Home et les Pro non gérées en entreprise, elle est allumée…",
+      "link": "https://korben.info/windows-11-point-in-time-restore.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T15:46:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5b0bae0ad59c",
       "title": "Quelle est mon ip ? Le retour !",
       "description": "Ma page « Quelle est mon adresse IP » traînait sur korben.info depuis presque 15 ans, à peu près dans son jus d'origine. Hé bien, bonne nouvelle, je viens de la refaire entièrement, et elle est là : korben.info/ip . Vous arrivez dessus, votre IP publique s'affiche en gros, IPv4 et IPv6 séparées…",
