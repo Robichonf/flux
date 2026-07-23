@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "4c352e4af59b",
+      "title": "Test d’un câble USB-C magnétique moderne, tout simple et bien pratique",
+      "description": "– Contient des liens affiliés Amazon – Les câbles magnétiques, ce n'est pas nouveau, ça fait bien une dizaine d'années qu'on en trouve. L'idée a toujours été la même, vous laissez un petit embout aimanté planté en permanence dans le port de votre appareil, et le câble vient s'y coller tout seul…",
+      "link": "https://korben.info/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T10:05:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "96b9e248608a",
+      "title": "Une salle de contrôle satellite maison, 100% européenne",
+      "description": "Une salle de contrôle satellite, celle qu'on imagine avec des grands écrans et des ingénieurs en blouse, Clément Igonet en a monté une version perso qui tient sur un seul serveur. Son projet Overwatch affiche 23 satellites qui défilent en temps réel sur un globe. Vous cliquez sur n'importe lequel…",
+      "link": "https://korben.info/salle-controle-satellite-open-data.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T10:02:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/salle-controle-satellite-open-data/salle-controle-satellite-open-data-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "5d00deb40970",
+      "title": "Mage-Flow - Le modèle de diffusion de Microsoft qui tourne sur Mac",
+      "description": "Microsoft vient de publier Mage-Flow, un modèle de génération d'images de 4 milliards de paramètres, et dont l'objectif est d'atteindre la qualité des gros modèles sans en avoir la taille. Là où FLUX.2 embarque 32 milliards de paramètres, Qwen-Image 20 et Z-Image 6, Mage-Flow joue dans la même cour…",
+      "link": "https://korben.info/mage-flow-modele-image-local-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T09:44:10.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mage-flow-modele-image-local-mac/mage-flow-modele-image-local-mac-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ce39f9c3765d",
       "title": "La Xbox originale débarque sur PC, mais Xemu le fait déjà",
       "description": "Microsoft vient de rendre officiel un truc que les émulateurs font gratuitement depuis des années à savoir vous permettre de jouer aux jeux de la Xbox originale, celle de 2001, directement sur votre PC. Le programme s'appelle \"Xbox Backward Compatibility on PC\" et il a débarqué hier, le 22 juillet,…",
