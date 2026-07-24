@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "b8331a9e8883",
+      "title": "Piloter un fauteuil par la pensée, sans Musk ni chirurgie",
+      "description": "Neuralink a mis en ligne cette semaine une vidéo où des participants paralysés font rouler un fauteuil électrique par la pensée. Vous allez voir, c'est assez bluffant. L'implant décode l'intention de bouger et déplace un curseur sur un écran qui affiche la vue de la caméra devant le fauteuil.…",
+      "link": "https://korben.info/implant-cerebral-fauteuil-roulant.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T18:18:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_14208589269950917959_hu_a06b93e878e6a484.webp",
+      "type": "blog"
+    },
+    {
       "id": "7195a21eacfe",
       "title": "Zimbra pas à jour ? Un APT russe lit peut-être déjà vos mails",
       "description": "Hier, le 23 juillet 2026, la CISA, la NSA et le FBI ont sorti une alerte conjointe avec une douzaine d'agences alliées, et pour une fois leur message est assez court : Si vous auto-hébergez un serveur de messagerie Zimbra pas à jour, considérez que des espions russes lisent peut-être déjà vos mails…",
