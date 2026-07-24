@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "7195a21eacfe",
+      "title": "Zimbra pas à jour ? Un APT russe lit peut-être déjà vos mails",
+      "description": "Hier, le 23 juillet 2026, la CISA, la NSA et le FBI ont sorti une alerte conjointe avec une douzaine d'agences alliées, et pour une fois leur message est assez court : Si vous auto-hébergez un serveur de messagerie Zimbra pas à jour, considérez que des espions russes lisent peut-être déjà vos mails…",
+      "link": "https://korben.info/zimbra-laundry-bear-alerte-faille.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T16:04:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "76698903b700",
+      "title": "Device Database - Savoir si un objet connecté a besoin du cloud",
+      "description": "Avant d'acheter une ampoule connectée ou une serrure intelligente, vous aimeriez sans doute bien savoir si le truc vous oblige à créer un compte cloud et à prier pour que le serveur du fabricant reste allumé dans cinq ans, non ? Hé bien l'Open Home Foundation, la fondation qui chapeaute Home…",
+      "link": "https://korben.info/home-assistant-device-database.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T15:51:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/home-assistant-device-database/home-assistant-device-database-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "006c74445e6e",
+      "title": "Midscroll - Le clic-molette de Windows débarque sous Linux",
+      "description": "Si vous ne connaissez pas Linux, il faut savoir que sur ce système d'exploitation, le clic milieu colle la sélection. Moi, c'est un truc que j'aime bien, mais c'est surtout un héritage de X11 qui se marche complètement dessus avec l'autoscroll . Du coup Firefox désactive le sien par défaut sur…",
+      "link": "https://korben.info/midscroll-autoscroll-molette-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T14:20:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5fd56b801637",
       "title": "Odysseus - L'IA auto-hébergée de PewDiePie enfin rapide sur Mac",
       "description": "Odysseus, c'est le workspace IA que PewDiePie a balancé sur GitHub fin mai. Chat, agents, recherche web, email, calendrier, notes et documents, tout est réuni dans un superbe cockpit auto-hébergé dans lequel les modèles et l'historique peuvent rester sur VOTRE machine. Vous avez aussi un éditeur…",
