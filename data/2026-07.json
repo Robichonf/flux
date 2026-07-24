@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5fd56b801637",
+      "title": "Odysseus - L'IA auto-hébergée de PewDiePie enfin rapide sur Mac",
+      "description": "Odysseus, c'est le workspace IA que PewDiePie a balancé sur GitHub fin mai. Chat, agents, recherche web, email, calendrier, notes et documents, tout est réuni dans un superbe cockpit auto-hébergé dans lequel les modèles et l'historique peuvent rester sur VOTRE machine. Vous avez aussi un éditeur…",
+      "link": "https://korben.info/odysseus-ia-locale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T14:01:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/odysseus-ia-locale-mac/odysseus-ia-locale-mac-2.png",
+      "type": "blog"
+    },
+    {
       "id": "4646176c9b22",
       "title": "uhubctl - Couper le courant d'un port USB en une commande",
       "description": "Votre clé 4G ou Wifi que vous avez connectée en USB sur un vieux serveur situé au fond du garage, plante une fois ou deux fois par semaine et à chaque fois faut aller débrancher la clé et la rebrancher pour la réveiller / ressusciter ? Et bien c'est fini la galère les amis, puisque uhubctl règle ça…",
