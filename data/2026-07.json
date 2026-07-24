@@ -47,6 +47,22 @@
       "type": "blog"
     },
     {
+      "id": "3bf977e9381e",
+      "title": "OVHcloud Secret Manager + External Secrets Operator : gérer ses secrets Kubernetes",
+      "description": "Comment connecter External Secrets Operator (ESO) à l'OVHcloud Secret Manager pour synchroniser automatiquement vos secrets dans Kubernetes, avec un compte de service IAM en moindre privilège.",
+      "link": "https://une-tasse-de.cafe/expresso/ovh-secret-manager-eso/",
+      "pubDate": "2026-07-23T13:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a9186b4df1af",
       "title": "Pentest sauvage à base d'IA, que dit la loi ?",
       "description": "Benjamin Code , le développeur préféré de votre développeur préféré, a reçu ce week-end un e-mail d'achat bidon avec le mot pentester dedans. En grattant un petit peu, il a découvert que quelqu'un s'amusait à trifouiller l'un de ses SaaS sans le prévenir. Visiblement, c'est un autre créateur,…",
