@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "4646176c9b22",
+      "title": "uhubctl - Couper le courant d'un port USB en une commande",
+      "description": "Votre clé 4G ou Wifi que vous avez connectée en USB sur un vieux serveur situé au fond du garage, plante une fois ou deux fois par semaine et à chaque fois faut aller débrancher la clé et la rebrancher pour la réveiller / ressusciter ? Et bien c'est fini la galère les amis, puisque uhubctl règle ça…",
+      "link": "https://korben.info/uhubctl-couper-alimentation-ports-usb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T05:57:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "453d4cef37d1",
       "title": "Windows 11 - La restauration qui embarque aussi vos fichiers",
       "description": "Depuis le 23 juin, Microsoft déploie sur Windows 11 une nouvelle fonction de récupération baptisée point-in-time restore, et il y a de bonnes chances qu'elle tourne déjà sur votre PC sans que vous l'ayez demandé. En effet, sur les éditions Home et les Pro non gérées en entreprise, elle est allumée…",
