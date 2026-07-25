@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "37a2bc1ba615",
+      "title": "La panne du PSN a rendu des jeux PS5 injouables, même en solo",
+      "description": "Le PlayStation Network, le réseau en ligne qui gère les comptes, la boutique PS Store et le multijoueur des consoles Sony, a subi une panne mondiale hier vers 13h, heure française. Les connexions aux comptes, la boutique et les parties en ligne étaient inaccessibles, ce qui arrive régulièrement.…",
+      "link": "https://korben.info/la-panne-du-psn-a-rendu-des-jeux-ps5-injouables-meme-en-solo.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T10:29:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-panne-du-psn-a-rendu-des-jeux-ps5-injouables-meme-en-solo/la-panne-du-psn-a-rendu-des-jeux-ps5-injouables-meme-en-solo-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "138269cf1bfb",
       "title": "DockPanel - Le panel web qui gère tout votre serveur",
       "description": "Gérer un serveur à la main, c'est nginx à configurer, les certificats à renouveler, les sauvegardes à planifier et les conteneurs à surveiller... C'est beaucoup de travail. Mais vous allez avoir de l'aide grâce à DockPanel, d'Ovidiu Drobotă, qui met tout ça derrière une jolie interface web tenant…",
