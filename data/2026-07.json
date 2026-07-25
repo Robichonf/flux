@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "9bf8f0bf32a0",
+      "title": "Click to Pray - Le Vatican a mis 6 mois à lire ses mails",
+      "description": "a série « la religion c'est que des problèmes », voici un épisode que je n'avais pas vu venir. Click to Pray, l'application de prière officielle du Pape, a servi gratos les noms, les adresses mail et les dates de naissance de ses 719 517 inscrits à qui voulait bien les demander. C'est le chercheur…",
+      "link": "https://korben.info/faille-securite-app-click-to-pray-vatican.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T19:57:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/faille-securite-app-click-to-pray-vatican/faille-securite-app-click-to-pray-vatican-2.png",
+      "type": "blog"
+    },
+    {
       "id": "60540c154fb0",
       "title": "Claude Opus 5 : Anthropic vous refile du Fable 5 pour moins cher",
       "description": "Anthropic, la société qui édite l'assistant Claude et qui reste l'un des principaux rivaux d'OpenAI et de Google, a annoncé hier Claude Opus 5, un nouveau modèle qui vient se caler juste sous son vaisseau-amiral Fable 5 tout en coûtant environ deux fois moins cher à l'usage. Le tarif ne bouge pas.…",
