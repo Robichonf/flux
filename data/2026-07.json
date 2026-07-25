@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "60540c154fb0",
+      "title": "Claude Opus 5 : Anthropic vous refile du Fable 5 pour moins cher",
+      "description": "Anthropic, la société qui édite l'assistant Claude et qui reste l'un des principaux rivaux d'OpenAI et de Google, a annoncé hier Claude Opus 5, un nouveau modèle qui vient se caler juste sous son vaisseau-amiral Fable 5 tout en coûtant environ deux fois moins cher à l'usage. Le tarif ne bouge pas.…",
+      "link": "https://korben.info/claude-opus-5-anthropic-vous-refile-du-fable-5-pour-moins-cher.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T14:33:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-opus-5-anthropic-vous-refile-du-fable-5-pour-moins-cher/claude-opus-5-anthropic-vous-refile-du-fable-5-pour-moins-cher-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "37a2bc1ba615",
       "title": "La panne du PSN a rendu des jeux PS5 injouables, même en solo",
       "description": "Le PlayStation Network, le réseau en ligne qui gère les comptes, la boutique PS Store et le multijoueur des consoles Sony, a subi une panne mondiale hier vers 13h, heure française. Les connexions aux comptes, la boutique et les parties en ligne étaient inaccessibles, ce qui arrive régulièrement.…",
