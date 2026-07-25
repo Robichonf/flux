@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "138269cf1bfb",
+      "title": "DockPanel - Le panel web qui gère tout votre serveur",
+      "description": "Gérer un serveur à la main, c'est nginx à configurer, les certificats à renouveler, les sauvegardes à planifier et les conteneurs à surveiller... C'est beaucoup de travail. Mais vous allez avoir de l'aide grâce à DockPanel, d'Ovidiu Drobotă, qui met tout ça derrière une jolie interface web tenant…",
+      "link": "https://korben.info/dockpanel-panel-serveur-docker-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T06:26:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dockpanel-panel-serveur-docker-rust/dockpanel-panel-serveur-docker-rust-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "88ad375408b0",
+      "title": "Une Radeon de 2007 fait tourner la PS3 (mal, mais elle tourne)",
+      "description": "La carte graphique minimum dont on a besoin pour émuler une PS3 est sortie... après la PS3. C'est AniLeo et kd-11, de l'équipe RPCS3 , qui viennent de descendre le minimum officiel de l'émulateur à la Radeon HD 2900 XT, sortie en mai 2007. La PS3, elle, arrivait en France en mars de la même année.…",
+      "link": "https://korben.info/rpcs3-emulateur-ps3-radeon-2007.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T05:57:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a0c202946290",
       "title": "L'Inde coupe internet, puis exige le retrait du code de bitchat",
       "description": "Le 23 juillet à 23h16 précisément, GitHub reçoit une notice du ministère de l'Intérieur indien avec un compte à rebours de seulement 3 heures. Ce qu'exige cette notice c'est de faire disparaître 3 dépôts de code, et pas n'importe lesquels. Ceux de bitchat , la messagerie Bluetooth de Jack Dorsey…",
