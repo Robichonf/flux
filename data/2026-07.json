@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "7699f53a73ab",
+      "title": "Doully sur Waze - Le GPS le plus éclaté de la route",
+      "description": "Vous connaissez Doully ? Mais siii, l'humoriste avec la voix la plus cassée du stand-up français ? Perso je l'aime bien, elle est aussi trash que drôle et aujourd'hui, elle a mis en ligne son propre guidage vocal pour Waze, avec le lien qui va bien pour l'installer dans votre bagnole. Avant que…",
+      "link": "https://korben.info/waze-voix-doully.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-26T18:21:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_10562166833749632329_hu_e0b23bbf778a56ae.webp",
+      "type": "blog"
+    },
+    {
       "id": "84c49eade80a",
       "title": "Numéro DUNS gratuit - Comment l'obtenir sans payer",
       "description": "Je viens de perdre de précieuses minutes sur un truc qui aurait dû me prendre trente secondes : Récupérer le numéro DUNS de mon entreprise. Si vous ne savez pas ce que c'est, bienvenue au club ! En gros, c'est un identifiant que Dun & Bradstreet, une société américaine, a déjà collé à mon…",
