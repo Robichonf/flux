@@ -2,6 +2,66 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "a1c816c4f23b",
+      "title": "Sa famille vidait la batterie, alors il a électrifié sa Steam Deck",
+      "description": "Alors celle-là, c'est la meilleure ! Conroyy Jenkinss en avait tellement marre que sa famille lui vide la batterie de sa Steam Deck sans jamais la recharger qu'il a fini par coller des pics et un taser dessus. Oui, un taser, le mec est fou ! Il a posté son truc hier sur r/SteamDeck en racontant…",
+      "link": "https://korben.info/steam-deck-taser-pics-anti-famille.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T17:20:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3bbc1ef6904d",
+      "title": "Firefox ressort le mode compact du placard, 5 ans après",
+      "description": "En 2021, Mozilla a estimé que le mode compact de Firefox intéressait trop peu de monde pour mériter sa place dans l'interface. Le bug qui actait sa suppression a énervé pas mal de monde, mais la justification à l'époque, c'était que cette densité est \"difficile à découvrir, et on suppose qu'elle…",
+      "link": "https://korben.info/firefox-nouveau-design-nightly.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T17:00:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-nouveau-design-nightly/firefox-nouveau-design-nightly-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a3f8453dbb16",
+      "title": "Pascal Editor - Le plan 3D se dessine pendant que Claude bosse",
+      "description": "J'ai jamais fait construire de maison mais je crois savoir que dessiner le plan de sa maison en 3D, ça passe encore par un logiciel assez lourd à installer + une licence, sans oublier l'interface façon Micro Applications de 2003 (qui s'en souvient ??). C'est pourquoi Aymeric Rabot et Wassim Samad…",
+      "link": "https://korben.info/pascal-editor-3d-architecture-web-2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T16:58:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pascal-editor-3d-architecture-web-2/pascal-editor-3d-architecture-web-2-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "cea0dda5c120",
+      "title": "GitWand - Il trie vos conflits Git et vous montre pourquoi",
+      "description": "perso, je n'ai jamais été très à l'aise avec Git. Je l'utilise tous les jours, mais c'est vraiment pas ma came. Dès que ça devient trop compliqué, genre conflit de merge qui repeint des dizaines de fichiers en rouge, je ne m'en sors plus ^^. Heureusement qu'il y a l'IA pour m'aider dans des moments…",
+      "link": "https://korben.info/gitwand-client-git-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T16:52:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gitwand-client-git-open-source/gitwand-client-git-open-source-1.png",
+      "type": "blog"
+    },
+    {
       "id": "5488b06a570a",
       "title": "Open Archiver - L'archiveur qui perdait des emails (mais c'est corrigé, ouf !)",
       "description": "Un import qui affiche « terminé » et qui a mangé une partie de vos mails au passage, c'est le genre de bug qu'on ne voit jamais venir... Hé bien Open Archiver vient d'en corriger quatre d'un coup. Open Archiver c'est une plateforme d'archivage d'emails auto-hébergée développée par Weishest, dont la…",
