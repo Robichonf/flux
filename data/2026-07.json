@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5488b06a570a",
+      "title": "Open Archiver - L'archiveur qui perdait des emails (mais c'est corrigé, ouf !)",
+      "description": "Un import qui affiche « terminé » et qui a mangé une partie de vos mails au passage, c'est le genre de bug qu'on ne voit jamais venir... Hé bien Open Archiver vient d'en corriger quatre d'un coup. Open Archiver c'est une plateforme d'archivage d'emails auto-hébergée développée par Weishest, dont la…",
+      "link": "https://korben.info/open-archiver-archivage-emails-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T16:24:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/open-archiver-archivage-emails-self-hosted/open-archiver-archivage-emails-self-hosted-1.png",
+      "type": "blog"
+    },
+    {
       "id": "05be30107f33",
       "title": "Rapid-MLX - Installer un serveur IA local sur votre Mac",
       "description": "Si vous avez un Mac Apple Silicon et que vous en avez assez de payer des tokens à chaque requête, Rapid-MLX vaut le détour. C'est un moteur d'inférence local maintenu par Raullen Chai, qui tape directement dans les kernels MLX d'Apple, sans repli sur llama.cpp ni couche Metal intermédiaire. Et si…",
