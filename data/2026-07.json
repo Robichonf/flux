@@ -2,6 +2,67 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "05be30107f33",
+      "title": "Rapid-MLX - Installer un serveur IA local sur votre Mac",
+      "description": "Si vous avez un Mac Apple Silicon et que vous en avez assez de payer des tokens à chaque requête, Rapid-MLX vaut le détour. C'est un moteur d'inférence local maintenu par Raullen Chai, qui tape directement dans les kernels MLX d'Apple, sans repli sur llama.cpp ni couche Metal intermédiaire. Et si…",
+      "link": "https://korben.info/rapid-mlx-installation-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T09:33:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rapid-mlx-installation-macos/rapid-mlx-installation-macos-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "836276a039a1",
+      "title": "Subwave - La radio maison qui réveille vos MP3 oubliés",
+      "description": "Si vous avez un Navidrome qui tourne dans un coin et un serveur Ollama qui passe ses journées à ne rien faire, vous ne vous êtes jamais dit que les deux pourraient bosser ensemble ? C'est en tout cas ce qu'a flairé Parminder Klair qui a branché l'un sur l'autre et en a sorti une vraie station de…",
+      "link": "https://korben.info/subwave-dj-ia-local-ollama-navidrome.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T08:54:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/subwave-dj-ia-local-ollama-navidrome/subwave-dj-ia-local-ollama-navidrome-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "881640160cbf",
+      "title": "Chrome tourne enfin sur Raspberry Pi (si vous savez où cliquer)",
+      "description": "Si vous avez un Raspberry Pi et que Chromium commence à vous fatiguer, le VRAI Chrome, celui des chads que vous êtes, est enfin dispo en ARM64 !! Enfin, dispo... Si vous savez où chercher, parce que la page de téléchargement de Google vous propose toujours l'installeur amd64, qui ne tournera jamais…",
+      "link": "https://korben.info/chrome-arm64-linux-builds.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T08:43:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0abb8430cbeb",
+      "title": "Votre équipe ne connaît (déjà) pas le code de l'application qu'elle maintient",
+      "description": "Quand j’ai commencé ma carrière1 en SSII, mes chefs m’ont fait faire plusieurs interventions de quelques semaines, pour ajouter des fonctionnalités ou corriger des bugs, sur des applications qui existaient depuis des années. Quelques années plus tard, on continuait à me solliciter de temps en temps…",
+      "link": "https://blog.pascal-martin.fr/post/votre-equipe-ne-connait-deja-pas-le-code-de-l-application-qu-elle-maintient/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/votre-equipe-ne-connait-deja-pas-le-code-de-l-application-qu-elle-maintient/",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7699f53a73ab",
       "title": "Doully sur Waze - Le GPS le plus éclaté de la route",
       "description": "Vous connaissez Doully ? Mais siii, l'humoriste avec la voix la plus cassée du stand-up français ? Perso je l'aime bien, elle est aussi trash que drôle et aujourd'hui, elle a mis en ligne son propre guidage vocal pour Waze, avec le lien qui va bien pour l'installer dans votre bagnole. Avant que…",
