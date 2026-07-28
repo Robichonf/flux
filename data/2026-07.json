@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "99aa85a41f3d",
+      "title": "Crashphalt - Le jeu Steam qu'on installe pour jouer à Undertale",
+      "description": "Sur la page Steam du jeu indé Crashphalt , il se passe un phénomène assez étrange... Des joueurs laissent des avis du genre \"j'ai tué Sans d'Undertale !\", \"Super jeu, un peu triste qu'il ne serve que de mod multijoueur pour Undertale\" ou \"Le meilleur jeu auquel on ne joue jamais\". Sauf que…",
+      "link": "https://korben.info/crashphalt-undertale-together-remote-play-steam.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T09:25:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_5275982662855387892_hu_8071297530463246.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b8a66d3f8025",
+      "title": "Votre vieux Morrowind se relance dans le navigateur",
+      "description": "Si vous êtes fan de The Elder Scrolls III: Morrowind, j'ai une bonne nouvelle pour vous : vous allez pouvoir y jouer directement dans un onglet de navigateur ! En effet, c'est ce que nous propose openmw-web , signé Virtastic et sorti il y a quelques jours ! openmw-web fait donc tourner Morrowind…",
+      "link": "https://korben.info/morrowind-navigateur-webassembly-openmw.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T08:11:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_5658367979104782118_hu_f3ddeeffd770faec.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b9e30be09ba7",
+      "title": "GLM 5.2 censure moins s'il se croit américain",
+      "description": "Saviez-vous que ce bon vieux GLM 5.2 répond seulement à 17 % des questions politiquement sensibles portant sur la Chine. Eh bien maintenant, dites-lui qu'il est Claude, et il montera à 85 % !! C'est le résultat que viennent de sortir Benji Berczi et Kyuhee Kim , deux chercheurs du programme MATS,…",
+      "link": "https://korben.info/glm-kimi-modeles-chinois-identite-claude.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T07:29:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4c950f4083c6",
       "title": "Sa boîte à goûter fait tourner un LLM en local",
       "description": "Si vous avez eu une boîte à goûter M.A.S.K. dans les années 80 pour transporter vos BN, alors celle de RadioactiveArtist va vous plaire. Dans sa boite à goûter, pas de Princes ni de Balisto... lui, il embarque un Raspberry Pi 5, un écran tactile de 7 pouces et une IA qui tourne sans internet. Le…",
