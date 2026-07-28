@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "6a33378d52e4",
+      "title": "Moonshot met en ligne Kimi K3, le plus gros modèle d'IA jamais proposé en téléchargement libre",
+      "description": "La startup chinoise Moonshot AI, que vous connaissez peut-être pour son assistant Kimi et qui compte Alibaba parmi ses soutiens, a publié hier sur Hugging Face les poids complets de Kimi K3, un modèle de 2 800 milliards de paramètres qui devient du même coup le plus gros jamais mis en libre…",
+      "link": "https://korben.info/moonshot-met-en-ligne-kimi-k3-le-plus-gros-modele-dia-jamais-propose-en-telechargement-libre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T11:55:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "99aa85a41f3d",
       "title": "Crashphalt - Le jeu Steam qu'on installe pour jouer à Undertale",
       "description": "Sur la page Steam du jeu indé Crashphalt , il se passe un phénomène assez étrange... Des joueurs laissent des avis du genre \"j'ai tué Sans d'Undertale !\", \"Super jeu, un peu triste qu'il ne serve que de mod multijoueur pour Undertale\" ou \"Le meilleur jeu auquel on ne joue jamais\". Sauf que…",
