@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "4c950f4083c6",
+      "title": "Sa boîte à goûter fait tourner un LLM en local",
+      "description": "Si vous avez eu une boîte à goûter M.A.S.K. dans les années 80 pour transporter vos BN, alors celle de RadioactiveArtist va vous plaire. Dans sa boite à goûter, pas de Princes ni de Balisto... lui, il embarque un Raspberry Pi 5, un écran tactile de 7 pouces et une IA qui tourne sans internet. Le…",
+      "link": "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T05:56:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_4493751174610558776_hu_814e21991416e045.webp",
+      "type": "blog"
+    },
+    {
       "id": "a1c816c4f23b",
       "title": "Sa famille vidait la batterie, alors il a électrifié sa Steam Deck",
       "description": "Alors celle-là, c'est la meilleure ! Conroyy Jenkinss en avait tellement marre que sa famille lui vide la batterie de sa Steam Deck sans jamais la recharger qu'il a fini par coller des pics et un taser dessus. Oui, un taser, le mec est fou ! Il a posté son truc hier sur r/SteamDeck en racontant…",
