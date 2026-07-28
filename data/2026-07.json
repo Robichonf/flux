@@ -77,6 +77,21 @@
       "type": "blog"
     },
     {
+      "id": "4d3e6851015a",
+      "title": "Mon usine logicielle à l'heure de l'IA",
+      "description": "Comment j'encadre du code écrit à 100% par des agents IA : contexte, skills, hooks, tests d'architecture et quality gates. Le détail de mon usine logicielle.",
+      "link": "https://eventuallycoding.com/p/mon-usine-logicielle-a-l-heure-de-l-ia",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a1c816c4f23b",
       "title": "Sa famille vidait la batterie, alors il a électrifié sa Steam Deck",
       "description": "Alors celle-là, c'est la meilleure ! Conroyy Jenkinss en avait tellement marre que sa famille lui vide la batterie de sa Steam Deck sans jamais la recharger qu'il a fini par coller des pics et un taser dessus. Oui, un taser, le mec est fou ! Il a posté son truc hier sur r/SteamDeck en racontant…",
