@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5c24471e7acb",
+      "title": "Claude casse un algo post-quantique en 60 heures",
+      "description": "Anthropic, le concurrent direct d'OpenAI sur les modèles d'IA, a publié hier un billet de recherche qui a fait pas mal de bruit : son modèle Claude Mythos Preview a trouvé en 60 heures une faiblesse dans HAWK, un schéma de signature post-quantique que deux ans de relecture humaine n'avaient pas…",
+      "link": "https://korben.info/claude-casse-un-algo-post-quantique-en-60-heures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-29T15:17:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-casse-un-algo-post-quantique-en-60-heures/claude-casse-un-algo-post-quantique-en-60-heures-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "aa43a8509b55",
       "title": "OTI - Le lien à usage unique que les bots ne crament plus",
       "description": "OTI génère des liens de partage de secret consultables une seule fois, chiffrés dans le navigateur. Sa nouveauté : le message attend un clic humain et vous dit quand il a été lu.",
