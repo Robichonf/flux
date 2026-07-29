@@ -2,6 +2,53 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "aa43a8509b55",
+      "title": "OTI - Le lien à usage unique que les bots ne crament plus",
+      "description": "OTI génère des liens de partage de secret consultables une seule fois, chiffrés dans le navigateur. Sa nouveauté : le message attend un clic humain et vous dit quand il a été lu.",
+      "link": "https://korben.info/oti-partage-secret-usage-unique-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-29T08:42:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/oti-partage-secret-usage-unique-self-hosted/oti-partage-secret-usage-unique-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f8ae3233cc96",
+      "title": "Hammer - Votre roman en fichiers texte, pas dans le cloud",
+      "description": "Hammer est un editeur de roman open source qui garde chaque scene en fichier texte sur votre disque, avec un serveur de sync a heberger en Docker.",
+      "link": "https://korben.info/hammer-editor-ecriture-roman-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-29T08:08:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hammer-editor-ecriture-roman-open-source/hammer-editor-ecriture-roman-open-source-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3c81801b0d92",
+      "title": "REX: DevLille 2026",
+      "description": "DevLille 2026 : Comment l'IA et le pragmatisme bousculent l'ingénierie logicielle Oubliez le vibe coding, les réunions non inclusives et les architectures réseau surdimensionnées. Cette semaine, notre équipe a posé ses valises au DevLille 2026. À l&",
+      "link": "https://blog.ippon.fr/2026/07/29/rex-devlille-2026/",
+      "pubDate": "2026-07-29T07:23:32.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/Capture-d---e--cran-2026-07-27-a---10.35.47.png",
+      "type": "blog"
+    },
+    {
       "id": "af433d852a6d",
       "title": "Il déverrouille une Xbox 360 avec un Teensy et un peu de bruteforce",
       "description": "Une Xbox 360 à 15 dollars bloquée par un contrôle parental oublié. Question secrète, code usine et exploit logiciel échouent. Restent 10 000 codes et un Teensy.",
