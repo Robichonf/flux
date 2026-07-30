@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3c346b5a0a59",
+      "title": "Wander - Du Markdown uniquement visuel",
+      "description": "Wander édite vos fichiers Markdown en WYSIWYG sans les enfermer dans un format propriétaire. Voici ce qui reste local et sur quels appareils il tourne.",
+      "link": "https://korben.info/wander-editeur-markdown-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T09:48:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/wander-editeur-markdown-mac/wander-editeur-markdown-mac-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "f19b4a443d27",
+      "title": "Il fait tourner DOOM avec des expressions régulières, et il faut trois minutes par image",
+      "description": "Un développeur du nom d' Artem Lytkin a réussi à faire tourner DOOM sur une machine dont la seule et unique opération est un chercher-remplacer, le même que celui de votre traitement de texte, appliqué en boucle sur un énorme fichier texte. Le projet s'appelle doom-regex et son code est public…",
+      "link": "https://korben.info/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T09:43:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a605c0f5f439",
+      "title": "Les lunettes-caméra de Meta ne passeront pas les portes de la DEF CON",
+      "description": "Même les hackers ne veulent plus voir les lunettes connectées de Meta. Les organisateurs de la DEF CON, la plus grande convention de hackers au monde qui se tient chaque été à Las Vegas depuis 1993, ont annoncé sur leurs réseaux sociaux l'interdiction pure et simple des « lunettes de style Meta…",
+      "link": "https://korben.info/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T08:42:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ff1cb0ecf261",
       "title": "Vos vacances d'été sont là, mais Surfshark ne prend pas de congés (et il a des nouveautés)",
       "description": "-- Article en partenariat avec Surfshark -- Août est arrivé. Vous avez posé vos congés, votre valise est prête, et vous vous apprêtez à partir en mode déconnexion totale (oui parce que tout le monde sait que les vrais, eux, déménagent à cette période). Sauf que votre VPN, lui, il bosse. Et…",
