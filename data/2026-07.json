@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f7f04fc64334",
+      "title": "OpenNutriTracker - Pour suivre votre consommation de calories",
+      "description": "OpenNutriTracker compte vos calories sans abonnement ni compte à créer, et garde le journal chiffré sur le téléphone. Voici ce qu'il sait faire, et ce qui manque encore.",
+      "link": "https://korben.info/opennutritracker-compteur-calories-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T09:55:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/opennutritracker-compteur-calories-open-source/opennutritracker-compteur-calories-open-source-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3c346b5a0a59",
       "title": "Wander - Du Markdown uniquement visuel",
       "description": "Wander édite vos fichiers Markdown en WYSIWYG sans les enfermer dans un format propriétaire. Voici ce qui reste local et sur quels appareils il tourne.",
