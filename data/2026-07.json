@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "8018e43f1d9c",
+      "title": "Il finit en prison à cause d'un underscore",
+      "description": "Un underscore de trop dans une réquisition envoyée à Kik, et un Canadien qui n'avait rien fait passe 18 mois en prison. La cour d'appel vient de le déclarer factuellement innocent.",
+      "link": "https://korben.info/underscore-skyrim-innocent-prison.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T17:37:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f7f04fc64334",
       "title": "OpenNutriTracker - Pour suivre votre consommation de calories",
       "description": "OpenNutriTracker compte vos calories sans abonnement ni compte à créer, et garde le journal chiffré sur le téléphone. Voici ce qu'il sait faire, et ce qui manque encore.",
