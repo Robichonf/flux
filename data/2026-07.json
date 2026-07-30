@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ff1cb0ecf261",
+      "title": "Vos vacances d'été sont là, mais Surfshark ne prend pas de congés (et il a des nouveautés)",
+      "description": "-- Article en partenariat avec Surfshark -- Août est arrivé. Vous avez posé vos congés, votre valise est prête, et vous vous apprêtez à partir en mode déconnexion totale (oui parce que tout le monde sait que les vrais, eux, déménagent à cette période). Sauf que votre VPN, lui, il bosse. Et…",
+      "link": "https://korben.info/surfshark-vpn-ne-prend-pas-de-conges.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T05:41:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/surfshark-vpn-ne-prend-pas-de-conges/surfshark-vpn-ne-prend-pas-de-conges-1.png",
+      "type": "blog"
+    },
+    {
       "id": "f79aee3c79b3",
       "title": "ModRetro M64 - Vos cartouches de jeux N64 en 4K",
       "description": "La ModRetro M64 relit vos cartouches Nintendo 64, PAL comprises, en 4K pour 229,99 dollars. Mais la fidélité que promet son FPGA n'a jamais été mesurée.",
@@ -14,6 +29,23 @@
         "Web"
       ],
       "image": "https://korben.info/modretro-m64-console-fpga-n64/modretro-m64-console-fpga-n64-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ba3d675a0f4a",
+      "title": "Claude Code ou Codex ? Vous n'avez pas le bon débat",
+      "description": "Trois agents différents, trois modèles différents, un même harnais : des résultats quasi identiques. Pendant que tout le monde débat du meilleur agent de code, la compétence qui compte vraiment se construit ailleurs. Et elle survivra à vos outils.",
+      "link": "https://yoandev.co/le-mauvais-debat",
+      "pubDate": "2026-07-30T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/le-mauvais-debat.webp",
       "type": "blog"
     },
     {
