@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f79aee3c79b3",
+      "title": "ModRetro M64 - Vos cartouches de jeux N64 en 4K",
+      "description": "La ModRetro M64 relit vos cartouches Nintendo 64, PAL comprises, en 4K pour 229,99 dollars. Mais la fidélité que promet son FPGA n'a jamais été mesurée.",
+      "link": "https://korben.info/modretro-m64-console-fpga-n64.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T05:13:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/modretro-m64-console-fpga-n64/modretro-m64-console-fpga-n64-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "5c24471e7acb",
       "title": "Claude casse un algo post-quantique en 60 heures",
       "description": "Anthropic, le concurrent direct d'OpenAI sur les modèles d'IA, a publié hier un billet de recherche qui a fait pas mal de bruit : son modèle Claude Mythos Preview a trouvé en 60 heures une faiblesse dans HAWK, un schéma de signature post-quantique que deux ans de relecture humaine n'avaient pas…",
