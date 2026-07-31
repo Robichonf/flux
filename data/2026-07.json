@@ -2759,6 +2759,22 @@
       "type": "blog"
     },
     {
+      "id": "8eb61d3d1318",
+      "title": "Riviera Dev 2026",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié.",
+      "link": "https://codeka.io/2026/07/08/riviera-dev-2026/",
+      "pubDate": "2026-07-08T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/07/08/riviera-dev-2026/cover_hu_c42ecd513d84351f.webp",
+      "type": "blog"
+    },
+    {
       "id": "0e20c323bcc5",
       "title": "Newsletter juillet 2026 : Comment devenir une entreprise incontournable ?",
       "description": "Les entreprises incontournables seront celles qui maîtriseront les moteurs de recherche IA Être une entreprise incontournable, c’est quoi ? C’est être celle à laquelle tout le monde pense quand on a un besoin en tête. Dans le B2C, ce sont les marques connues. Dans le B2B, c’est un peu différent.…",
