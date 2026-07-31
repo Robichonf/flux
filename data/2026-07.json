@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "8adf70862b27",
+      "title": "Déjà - Il devine ce que vous allez taper dans le terminal",
+      "description": "deja remplace zsh-autosuggestions et prédit votre prochaine commande à partir du répertoire, de l'historique et des enchaînements. Aucune IA, tout en local.",
+      "link": "https://korben.info/deja-terminal-predictif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-31T08:04:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/deja-terminal-predictif/deja-terminal-predictif-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "ee9609a5f8c0",
+      "title": "Multiverse Engine - Le moteur 3D d'un fan de jeux rétro en VR",
+      "description": "Il porte Super Mario 64, Mario Kart 64, Sonic Robo Blast 2 et Ring Racers en VR stéréoscopique, et construit son propre moteur 3D en parallèle.",
+      "link": "https://korben.info/rayrod-jeux-retro-vr-openxr.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-31T07:58:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_5457282322861261326_hu_55896d1869bb290e.webp",
+      "type": "blog"
+    },
+    {
       "id": "8018e43f1d9c",
       "title": "Il finit en prison à cause d'un underscore",
       "description": "Un underscore de trop dans une réquisition envoyée à Kik, et un Canadien qui n'avait rien fait passe 18 mois en prison. La cour d'appel vient de le déclarer factuellement innocent.",
