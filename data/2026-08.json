@@ -1,0 +1,20 @@
+{
+  "month": "2026-08",
+  "articles": [
+    {
+      "id": "904be0c9dcb0",
+      "title": "Cisco FMC : un mot de passe codé en dur, en 2026, dans un pare-feu d'entreprise",
+      "description": "Un mot de passe codé en dur dans Cisco Secure FMC, exploité avant correctif : mécanisme, chaînage, et comment tenir les secrets hors du code web.",
+      "link": "https://lecodeestdanslepre.fr/billets/cisco-fmc-mot-de-passe-code-en-dur",
+      "pubDate": "2026-08-01T08:48:53.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}
