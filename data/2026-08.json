@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "4c66f3d2cc7e",
+      "title": "Un zéro mal interprété dans le firmware Coldcard a rendu les clés Bitcoin devinables pendant cinq ans",
+      "description": "Le 30 juillet, un attaquant a vidé 1 196 adresses Bitcoin en 41 minutes. Un peu plus de 1 082 bitcoins, environ 70 millions de dollars. Aucune des victimes n'avait cliqué sur quoi que ce soit. Elles avaient acheté un Coldcard, le portefeuille matériel de la société canadienne Coinkite, l'appareil…",
+      "link": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-03T06:01:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "3c794eda813d",
       "title": "Les agents IA qui piratent tout seuls : accident isolé ou début de série ?",
       "description": "Configuration réseau défaillante, et non une IA folle, est la cause de la compromission de systèmes externes par des agents d'IA, révèle cette analyse.",
