@@ -32,6 +32,21 @@
       "type": "blog"
     },
     {
+      "id": "bb8da11192b9",
+      "title": "On ne doit pas opposer écologie et souveraineté",
+      "description": "Est-ce cohérent d'opposer souveraineté et écologie ou bien rejouons nous la bataille contre le nucléaire des années 2000 ?",
+      "link": "https://eventuallycoding.com/p/on-ne-doit-pas-opposer-ecologie-et-souverainete",
+      "pubDate": "2026-08-02T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "904be0c9dcb0",
       "title": "Cisco FMC : un mot de passe codé en dur, en 2026, dans un pare-feu d'entreprise",
       "description": "Un mot de passe codé en dur dans Cisco Secure FMC, exploité avant correctif : mécanisme, chaînage, et comment tenir les secrets hors du code web.",
