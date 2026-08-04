@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "bb3db083c040",
+      "title": "54 des 55 failles de sécurité déposées par ce compte GitHub n'existaient pas",
+      "description": "JFrog, une société spécialisée dans la sécurité de la chaîne logicielle, a passé au crible les 55 vulnérabilités déposées par un seul compte GitHub. Cinquante-quatre étaient entièrement fabriquées, une seule décrivait un vrai bug. Six d'entre elles visaient SQLite, la petite base de données…",
+      "link": "https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-04T10:17:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas-2.png",
+      "type": "blog"
+    },
+    {
       "id": "e055c558e959",
       "title": "Pest 5 : la migration qui a fait avouer ma suite verte",
       "description": "Migration Pest 5 sur un blog Symfony : extensions PHPStan jamais chargées, Xdebug fantôme, gate divisé par 50. Ce qu'une suite verte peut cacher.",
