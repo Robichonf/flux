@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "977b4a331bf0",
+      "title": "Un développeur fait tourner les cinématiques de Command & Conquer sur un Atari ST de 1985",
+      "description": "Jonas Eschenburg se tape un petit délire cet été, en portant Command & Conquer sur Atari ST, et il vient de s'occuper des cinématiques du jeu, le tout sur une machine équipée d'un Motorola 68000 cadencé à 8 MHz. Le même garçon avait déjà fait tourner Doom dessus. Le décalage vaut le détour. Command…",
+      "link": "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-05T05:41:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_5560505972811638435_hu_c93a6d9fe14eda99.webp",
+      "type": "blog"
+    },
+    {
       "id": "bb3db083c040",
       "title": "54 des 55 failles de sécurité déposées par ce compte GitHub n'existaient pas",
       "description": "JFrog, une société spécialisée dans la sécurité de la chaîne logicielle, a passé au crible les 55 vulnérabilités déposées par un seul compte GitHub. Cinquante-quatre étaient entièrement fabriquées, une seule décrivait un vrai bug. Six d'entre elles visaient SQLite, la petite base de données…",
