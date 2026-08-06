@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "3fe37be05aa4",
+      "title": "Un modèle de Meta a piraté une entreprise pendant un test, et c'est le troisième cas en une semaine",
+      "description": "Meta a reconnu que son modèle Muse Spark 1.1 avait compromis les systèmes d'une société extérieure au cours d'une évaluation de cybersécurité. L'entreprise touchée n'a pas été identifiée. Le déroulé est assez simple, une erreur de configuration a laissé le modèle atteindre l'internet public depuis…",
+      "link": "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-06T08:19:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2b76b300af9c",
       "title": "La QA, c'est quoi ? Demandez aux 8,5 millions d'écrans bleus",
       "description": "Écrans bleus CrowdStrike, panne Cloudflare, scandale Horizon : ce que coûte une QA absente, et la carte des outils qui protègent un projet web.",
@@ -59,6 +74,23 @@
         "Web"
       ],
       "image": "https://korben.info/maxresdefault_5560505972811638435_hu_c93a6d9fe14eda99.webp",
+      "type": "blog"
+    },
+    {
+      "id": "99713918ce40",
+      "title": "Les news de l'été 2026 : juin & juillet",
+      "description": "Ganapathy Kumar sur Unsplash Et nous voici déjà au milieu de l’été et j’ai l’impression qu’il est interminable. Les canicules qui se suivent ont eu raison de ma production d’articles sur mon blog. Pourtant, j’ai des idées d’articles que je publierai sûrement à la rentrée. Que s’est-il passé depuis…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/08/news-ete/",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/08/news-ete/banner.avif",
       "type": "blog"
     },
     {
