@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "47ea5c57c310",
+      "title": "CHERRY sort deux lecteurs de carte à puce qui marchent sous Linux sans pilote propriétaire",
+      "description": "CHERRY a annoncé deux appareils à carte à puce, un clavier complet avec lecteur intégré baptisé Smart Board 1150, et un terminal séparé, le Smart Terminal ST-1150. Ils remplacent le KC 1000 SC et le ST-1144. Une carte à puce sert ici à prouver qui vous êtes. Vous l'insérez, elle signe…",
+      "link": "https://korben.info/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-07T07:50:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3fe37be05aa4",
       "title": "Un modèle de Meta a piraté une entreprise pendant un test, et c'est le troisième cas en une semaine",
       "description": "Meta a reconnu que son modèle Muse Spark 1.1 avait compromis les systèmes d'une société extérieure au cours d'une évaluation de cybersécurité. L'entreprise touchée n'a pas été identifiée. Le déroulé est assez simple, une erreur de configuration a laissé le modèle atteindre l'internet public depuis…",
