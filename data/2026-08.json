@@ -2,6 +2,36 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "d875f8fa03e8",
+      "title": "Linux 7.2 - L'IA relit le code du noyau et Torvalds trouve la note salée",
+      "description": "Linus Torvalds publie Linux 7.2-rc7 avec plus de 400 correctifs et attribue ce volume inhabituel à la relecture du noyau par des outils IA.",
+      "link": "https://korben.info/linux-7-2-torvalds-code-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-10T09:06:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c2bc34ce602",
+      "title": "GeForce NOW planque un vrai Windows derrière vos jeux",
+      "description": "Un moddeur a sorti l'interface de GeForce NOW pour tomber sur le bureau Windows du serveur Nvidia. Ce qui marche, ce qui coince, et ce que dit le règlement.",
+      "link": "https://korben.info/geforce-now-acces-bureau-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-10T08:50:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/geforce-now-acces-bureau-windows/geforce-now-acces-bureau-windows-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "6985f58228fe",
       "title": "Skills, agents, hooks : comment Claude Code écrit les issues GitHub de ce blog",
       "description": "Découvrez comment Claude Code automatise la création d'issues GitHub à partir d'audits SEO. Apprenez sur les skills, agents et hooks pour un DX amélioré.",
