@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "ae97c4cb841a",
+      "title": "Amazon installe une centrale à gaz de 7,65 gigawatts pour ses data centers",
+      "description": "Le média Distilled a recoupé trois permis de construire déposés auprès des autorités texanes avec des images satellite montrant un défrichement démarré le 24 juillet. Amazon a confirmé derrière : le projet GW Ranch, dans le comté de Pecos, est bien le sien. La centrale est développée par Pacifico…",
+      "link": "https://korben.info/amazon-installe-une-centrale-a-gaz-de-765-gigawatts-pour-ses-data-centers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-10T12:43:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/amazon-installe-une-centrale-a-gaz-de-765-gigawatts-pour-ses-data-centers/amazon-installe-une-centrale-a-gaz-de-765-gigawatts-pour-ses-data-centers-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "1b92680642f7",
       "title": "Votre média center maison banni des nouveaux Fire TV Stick",
       "description": "Le Fire TV Stick 4K Select tourne sous Vega OS, sans Kodi ni client Jellyfin. Et Amazon annonce que tous les futurs sticks suivront le même chemin.",
@@ -44,6 +59,21 @@
         "Web"
       ],
       "image": "https://korben.info/geforce-now-acces-bureau-windows/geforce-now-acces-bureau-windows-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9b5ef2f9b451",
+      "title": "Réseaux sociaux : et si nous avions la solution pour échapper aux géants américains ?",
+      "description": "Et si la réponse aux monopoles de la Tech n'était pas une nouvelle application, mais une nouvelle manière de concevoir le Web ?",
+      "link": "https://eventuallycoding.com/p/reseaux-sociaux-et-si-nous-avions-la-solution-pour-echapper-aux-geants-americains",
+      "pubDate": "2026-08-10T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1786351945081-db0vg4u.png?width=800",
       "type": "blog"
     },
     {
