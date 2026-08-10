@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "1b92680642f7",
+      "title": "Votre média center maison banni des nouveaux Fire TV Stick",
+      "description": "Le Fire TV Stick 4K Select tourne sous Vega OS, sans Kodi ni client Jellyfin. Et Amazon annonce que tous les futurs sticks suivront le même chemin.",
+      "link": "https://korben.info/fire-tv-stick-jellyfin-kodi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-10T09:35:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d875f8fa03e8",
       "title": "Linux 7.2 - L'IA relit le code du noyau et Torvalds trouve la note salée",
       "description": "Linus Torvalds publie Linux 7.2-rc7 avec plus de 400 correctifs et attribue ce volume inhabituel à la relecture du noyau par des outils IA.",
