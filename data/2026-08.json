@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "6aebe9579446",
+      "title": "La meilleure distribution Linux n'existe pas - Voici la vôtre",
+      "description": "La meilleure distribution Linux n'existe pas dans l'absolu. Un sélecteur maison pose vingt questions sur votre machine et votre usage, puis compare 35 distributions.",
+      "link": "https://korben.info/meilleure-distribution-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-11T15:38:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/meilleure-distribution-linux/meilleure-distribution-linux-1.png",
+      "type": "blog"
+    },
+    {
       "id": "5d02cefefedb",
       "title": "Qui possède vos médias préférés ?",
       "description": "Une extension Chrome et Firefox affiche le propriétaire de chaque média référencé à côté de vos résultats Google, avec la chaîne de détention complète.",
