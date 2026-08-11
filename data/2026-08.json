@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "00b81d958e74",
+      "title": "Des puzzles à en perdre la bulle",
+      "description": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Licence mythique des années 90, Bubble Bobble a eu le droit à différents spin-offs, dont le tout aussi mythique Puzzle Bobble, aussi appelé Bust-a-Move ! Vous y avez sûrement joué à l'époque sur Playstation ou PC ! Ce \"puzzle game\" à…",
+      "link": "https://korben.info/test-puzzle-bobble-everybubble-avis.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-11T16:06:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_15890328127691183565_hu_417b2e03a52517a4.webp",
+      "type": "blog"
+    },
+    {
       "id": "6aebe9579446",
       "title": "La meilleure distribution Linux n'existe pas - Voici la vôtre",
       "description": "La meilleure distribution Linux n'existe pas dans l'absolu. Un sélecteur maison pose vingt questions sur votre machine et votre usage, puis compare 35 distributions.",
