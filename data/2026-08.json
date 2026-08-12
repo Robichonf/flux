@@ -2,6 +2,68 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "25b859351eea",
+      "title": "Chrome sécurise votre session dans une puce, Firefox dit non",
+      "description": "Chrome enferme la clé de votre session dans le TPM ou la Secure Enclave, et un cookie volé ne suffit plus. Rien à activer, mais Mozilla a dit non pour Firefox.",
+      "link": "https://korben.info/chrome-dbsc-vol-cookie-session.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T08:44:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a01bf5a97219",
+      "title": "CCAF : ce que l'exam guide officiel ne vous dit pas",
+      "description": "Introduction On a passé la CCAF cette semaine. Autant le dire tout de suite : on est tous les deux juniors, sans des mois d'arbitrages de prod derrière nous, nous savions donc que notre expérience ne nous aiderait pas. Ce qu'on pensait,",
+      "link": "https://blog.ippon.fr/2026/08/12/ccaf-ce-que-lexam-guide-officiel-ne-vous-dit-pas/",
+      "pubDate": "2026-08-12T07:44:41.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/ChatGPT-Image-12-ao--t-2026----10_44_23.png",
+      "type": "blog"
+    },
+    {
+      "id": "d1fdf65bc414",
+      "title": "Diagram-design - Des schémas à vos couleurs",
+      "description": "Un skill pour Claude Code, Codex et Pi qui sort 27 types de schémas en HTML autonome, redessine vos fichiers draw.io et Mermaid, et reprend les couleurs de votre site.",
+      "link": "https://korben.info/diagram-design-diagrammes-claude-code.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T07:07:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/diagram-design-diagrammes-claude-code/diagram-design-diagrammes-claude-code-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7e084fa773f5",
+      "title": "En train avec un vampire",
+      "description": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Il y a quelques années je vous ai parlé d'un gros coup de cœur dans le style puzzle / énigme : A Monster's Expedition , créé par l'équipe de chez Draknek & Friends . Ils ne se sont pas arrêtés en si bon chemin, et proposent un nouveau…",
+      "link": "https://korben.info/avis-spooky-express-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T07:05:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/sddefault_13951399931891309947_hu_20b9531028e50e25.webp",
+      "type": "blog"
+    },
+    {
       "id": "be1ecd46e807",
       "title": "Wayland-Wheeltani - L'autoscroll qui survit au débranchement",
       "description": "Wayland-Wheeltani ramène l'autoscroll au clic molette sous Wayland, avec un appairage de souris qui survit aux changements de port et au débranchement.",
