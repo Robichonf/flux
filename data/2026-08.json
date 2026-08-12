@@ -2,6 +2,36 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "0a37f3d2dedb",
+      "title": "Freenet-git - Le dépôt Git sans serveur",
+      "description": "freenet-git héberge des dépôts Git sur le réseau pair-à-pair Freenet, sans GitHub ni serveur à tenir, et voici comment publier le vôtre.",
+      "link": "https://korben.info/freenet-git-decentralise-routage-ml.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T10:41:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_870751832588017236_hu_889b29c3d09ae586.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e30704638a26",
+      "title": "OneDrive Photos - Ce que vous pouvez vraiment virer aujourd'hui",
+      "description": "Windows 11 a installé OneDrive Photos sans le demander et aucun bouton ne le désinstalle. Voici ce qui part vraiment, en PowerShell, et ce qui ne partira qu'avec OneDrive.",
+      "link": "https://korben.info/supprimer-onedrive-photos-windows-11.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T10:35:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/supprimer-onedrive-photos-windows-11/supprimer-onedrive-photos-windows-11-1.avif",
+      "type": "blog"
+    },
+    {
       "id": "8ec5fd4eddb0",
       "title": "Une carte SIM piégée et la borne de recharge exécute du code malveillant",
       "description": "Une carte SIM hostile peut faire exécuter ses commandes au modem qui l'héberge. Sur 26 appareils testés, 9 acceptent, presque tous côté IoT.",
