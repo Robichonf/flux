@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "be1ecd46e807",
+      "title": "Wayland-Wheeltani - L'autoscroll qui survit au débranchement",
+      "description": "Wayland-Wheeltani ramène l'autoscroll au clic molette sous Wayland, avec un appairage de souris qui survit aux changements de port et au débranchement.",
+      "link": "https://korben.info/wayland-wheeltani-autoscroll-clic-molette.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T06:57:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "00b81d958e74",
       "title": "Des puzzles à en perdre la bulle",
       "description": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Licence mythique des années 90, Bubble Bobble a eu le droit à différents spin-offs, dont le tout aussi mythique Puzzle Bobble, aussi appelé Bust-a-Move ! Vous y avez sûrement joué à l'époque sur Playstation ou PC ! Ce \"puzzle game\" à…",
