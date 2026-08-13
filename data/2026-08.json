@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "d9ee13f88639",
+      "title": "Votre identité vaut de l'or, et l'IA vient de la mettre en vente sur Le Bon Coin",
+      "description": "-- Article en partenariat avec Surfshark -- Vous croyez que votre identité vous appartient ? Pffff, noob. Qu'elle est en sécurité parce que vous avez un mot de passe compliqué et que vous ne cliquez pas sur les liens suspects ? Re pffff. Détrompez-vous. En 2024, les cybercriminels ont réussi à…",
+      "link": "https://korben.info/votre-identite-vaut-de-lor.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T06:03:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/votre-identite-vaut-de-lor/votre-identite-vaut-de-lor-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "0a37f3d2dedb",
       "title": "Freenet-git - Le dépôt Git sans serveur",
       "description": "freenet-git héberge des dépôts Git sur le réseau pair-à-pair Freenet, sans GitHub ni serveur à tenir, et voici comment publier le vôtre.",
