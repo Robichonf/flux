@@ -2,6 +2,81 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "78baa26430cc",
+      "title": "Claude va glisser un filigrane invisible dans tous ses textes",
+      "description": "Anthropic a annoncé que ses modèles Claude allaient intégrer un filigrane invisible directement dans les textes qu'ils produisent. Vous ne le verrez pas, il ne change ni le sens ni la qualité de la réponse, mais il est là, et il suit le texte au copier-coller. Anthropic, l'éditeur de Claude et…",
+      "link": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T08:10:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "60d39abead2d",
+      "title": "Montez votre premier cyberdeck à l'aide de ce PDF gratuit",
+      "description": "Le numéro 168 du magazine officiel Raspberry Pi consacre son dossier aux cyberdecks et met ses 132 pages en PDF gratuit, tutoriel de montage compris.",
+      "link": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T08:06:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c6442c93da02",
+      "title": "33 secondes pour lancer un MP3 ? C'est pas VLC, c'est Windows Defender",
+      "description": "33 secondes pour lancer un MP3 sous Windows 11 ? Microsoft Defender a mis le cache de plugins de VLC en quarantaine, et le raccourci qui répare est déjà là.",
+      "link": "https://korben.info/vlc-lent-windows-defender-cache-plugins.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T07:58:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8901a33184ea",
+      "title": "ShieldBreak - C'est Windows Defender qui tient la porte grande ouverte",
+      "description": "Un exploit publié sans prévenir détourne Microsoft Defender pour obtenir les droits SYSTEM sur un Windows à jour. Aucun correctif à installer pour l'instant.",
+      "link": "https://korben.info/shieldbreak-zero-day-defender-microsoft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T07:47:56.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ddf7e13994f6",
+      "title": "Vos streams Twitch nourrissent l'IA d'Amazon - La case à décocher",
+      "description": "Twitch laisse Amazon entraîner ses modèles d'IA générative sur le contenu de votre chaîne, et la case est cochée par défaut. Voici où la couper.",
+      "link": "https://korben.info/twitch-desactiver-entrainement-ia-amazon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T07:38:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/twitch-desactiver-entrainement-ia-amazon/twitch-desactiver-entrainement-ia-amazon-2.png",
+      "type": "blog"
+    },
+    {
       "id": "d9ee13f88639",
       "title": "Votre identité vaut de l'or, et l'IA vient de la mettre en vente sur Le Bon Coin",
       "description": "-- Article en partenariat avec Surfshark -- Vous croyez que votre identité vous appartient ? Pffff, noob. Qu'elle est en sécurité parce que vous avez un mot de passe compliqué et que vous ne cliquez pas sur les liens suspects ? Re pffff. Détrompez-vous. En 2024, les cybercriminels ont réussi à…",
