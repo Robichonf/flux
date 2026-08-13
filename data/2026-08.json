@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "0783af037c77",
+      "title": "Grok Bot débarque en bêta",
+      "description": "SpaceXAI, la maison d'Elon Musk née de la fusion entre SpaceX et xAI, a mis en ligne mardi la bêta de Grok Bot. L'outil installe des agents IA sur une machine distante qui leur appartient, et ces agents continuent d'avancer sur leurs missions une fois votre ordinateur, même refermé. Vous dormez,…",
+      "link": "https://korben.info/grok-bot-debarque-en-beta.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T09:01:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_9032358003317662935_hu_9453fb6abfaa51f6.webp",
+      "type": "blog"
+    },
+    {
       "id": "78baa26430cc",
       "title": "Claude va glisser un filigrane invisible dans tous ses textes",
       "description": "Anthropic a annoncé que ses modèles Claude allaient intégrer un filigrane invisible directement dans les textes qu'ils produisent. Vous ne le verrez pas, il ne change ni le sens ni la qualité de la réponse, mais il est là, et il suit le texte au copier-coller. Anthropic, l'éditeur de Claude et…",
