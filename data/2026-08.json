@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "4a51ea492d7f",
+      "title": "Boeing 737 - 60 secondes pour hacker l'avion",
+      "description": "Un implant posé en 60 secondes dans un connecteur de maintenance du Boeing 737 prend la main sur le dialogue entre calculateur de vol et écran du pilote.",
+      "link": "https://korben.info/implant-boeing-737-port-maintenance-arinc-429.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-14T09:07:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/implant-boeing-737-port-maintenance-arinc-429/implant-boeing-737-port-maintenance-arinc-429-1.png",
+      "type": "blog"
+    },
+    {
       "id": "45bef70382fb",
       "title": "Les impôts se sont fait voler les données de 680 000 contribuables",
       "description": "Un pirate qui se fait appeler ZeroBytes a revendiqué mercredi, sur un forum fréquenté par les cybercriminels, le vol de près de 680 000 lignes de données extraites d'un outil interne de la Direction générale des Finances publiques. Bercy a confirmé l'intrusion dès le lendemain. L'attaque ne date…",
