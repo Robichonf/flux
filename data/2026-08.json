@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "45bef70382fb",
+      "title": "Les impôts se sont fait voler les données de 680 000 contribuables",
+      "description": "Un pirate qui se fait appeler ZeroBytes a revendiqué mercredi, sur un forum fréquenté par les cybercriminels, le vol de près de 680 000 lignes de données extraites d'un outil interne de la Direction générale des Finances publiques. Bercy a confirmé l'intrusion dès le lendemain. L'attaque ne date…",
+      "link": "https://korben.info/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-14T07:18:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables-1.png",
+      "type": "blog"
+    },
+    {
       "id": "5bce5bc8ca3f",
       "title": "Liens Tech - Août 2026",
       "description": "La sélection du mois : un serveur de livres audio auto-hébergé, un outil de gestion multi-cluster pour Proxmox, un générateur de fichiers docker-compose, une plateforme de simulation d'attaques cyber, un outil de visualisation de données et un système de prévention d'intrusion pour serveurs Linux.",
