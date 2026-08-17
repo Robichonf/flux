@@ -2,6 +2,36 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "e7d13deb764d",
+      "title": "PureMac - Faites un grand ménage sur votre Mac, gratuitement",
+      "description": "PureMac désinstalle vos applications macOS avec les fichiers qu'elles ont semés dans la Bibliothèque, retrouve les orphelins et purge les caches de développement. C'est du MIT, sans télémétrie, mais sa liste d'orphelins supprime sans passer par la corbeille.",
+      "link": "https://korben.info/puremac-nettoyeur-macos-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T08:31:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/puremac-nettoyeur-macos-open-source/puremac-nettoyeur-macos-open-source-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "87d3d106ffb7",
+      "title": "Un satellite gros comme une valise cabine va écouter le début de l'univers depuis la face cachée de la Lune",
+      "description": "L'université de Cambridge prépare un petit satellite baptisé CosmoCube, pas plus gros qu'une valise cabine, qui partira se cacher derrière la Lune pour tenter d'entendre ce que l'univers racontait avant même l'allumage des premières étoiles. Ce qu'il cherche, c'est la fameuse raie à 21 centimètres,…",
+      "link": "https://korben.info/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T08:12:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "86171bddc344",
       "title": "En Italie, une affiche Apple avec un enfant fait polémique",
       "description": "À Milan, une affiche Apple montre un tout petit enfant qui tient un iPhone couvert d'une substance gluante, sous le slogan \"Tutto ok, è iPhone\", tout va bien, c'est un iPhone. L'autorité italienne de protection de l'enfance ne l'a pas du tout prise comme une blague. Le visuel appartient à la…",
