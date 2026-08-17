@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "86171bddc344",
+      "title": "En Italie, une affiche Apple avec un enfant fait polémique",
+      "description": "À Milan, une affiche Apple montre un tout petit enfant qui tient un iPhone couvert d'une substance gluante, sous le slogan \"Tutto ok, è iPhone\", tout va bien, c'est un iPhone. L'autorité italienne de protection de l'enfance ne l'a pas du tout prise comme une blague. Le visuel appartient à la…",
+      "link": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T06:46:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3174d46201ca",
       "title": "WinPodX - Un système Windows intégré dans votre Linux",
       "description": "WinPodX affiche chaque application Windows comme une fenêtre Linux native, et fait remonter vos applications Linux dans les menus de Windows. C'est sa fonction distinctive, et c'est aussi celle qu'il a passé l'été à réparer.",
