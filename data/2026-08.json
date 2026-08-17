@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "77c43ec9081d",
+      "title": "Un script pour virer les produits sponsorisés d'Amazon",
+      "description": "Sur Amazon, le tri par prix croissant laisse passer des cartes sponsorisées à 74,99 € juste après une série qui plafonnait à 53,99 €. Ce userscript en licence MIT dégage les blocs sponsorisés, les encarts promo et Rufus des pages Amazon, amazon.fr compris. Il emporte aussi le résumé automatique des…",
+      "link": "https://korben.info/amazon-sponsored-products-remover.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T15:40:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/amazon-sponsored-products-remover/amazon-sponsored-products-remover-2.png",
+      "type": "blog"
+    },
+    {
       "id": "61aa3de29a9c",
       "title": "Je me suis remis à la domotique grâce à un vieux mini PC et Claude Code",
       "description": "J'ai ressorti un vieux mini PC et ma caisse de matos Zigbee pour repartir de zéro sur Home Assistant. Le récit, les murs et mes scénarios.",
