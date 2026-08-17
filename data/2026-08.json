@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "61aa3de29a9c",
+      "title": "Je me suis remis à la domotique grâce à un vieux mini PC et Claude Code",
+      "description": "J'ai ressorti un vieux mini PC et ma caisse de matos Zigbee pour repartir de zéro sur Home Assistant. Le récit, les murs et mes scénarios.",
+      "link": "https://korben.info/retour-domotique-home-assistant-mini-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T10:02:36.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/retour-domotique-home-assistant-mini-pc/retour-domotique-home-assistant-mini-pc-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e7d13deb764d",
       "title": "PureMac - Faites un grand ménage sur votre Mac, gratuitement",
       "description": "PureMac désinstalle vos applications macOS avec les fichiers qu'elles ont semés dans la Bibliothèque, retrouve les orphelins et purge les caches de développement. C'est du MIT, sans télémétrie, mais sa liste d'orphelins supprime sans passer par la corbeille.",
