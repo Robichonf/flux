@@ -2,6 +2,51 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "5a977e76484e",
+      "title": "Le site à envoyer à tous ceux qui vous copient-collent du ChatGPT",
+      "description": "Une page à envoyer, traduite en français, à qui vous répond par un mur de chatbot qu'il n'a pas lu. Elle donne quatre conseils, dont un seul se paie vraiment : annoncer ce qu'on cite d'un modèle. Treize expériences menées à l'université d'Arizona expliquent pourquoi c'est quand même la moins…",
+      "link": "https://korben.info/dont-paste-the-ai.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T09:15:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dont-paste-the-ai/dont-paste-the-ai-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f2b566bda5c2",
+      "title": "Gadgetbridge - L'appli qui gère votre montre connectée sans Internet",
+      "description": "Gadgetbridge remplace l'application du fabricant de votre montre, bracelet ou casque Bluetooth par une appli Android libre à qui le manifeste retire la permission INTERNET. 529 modèles de 74 fabricants sont documentés, mais chez Amazfit, Xiaomi, Fossil et Nothing, la clé d'appairage vit encore chez…",
+      "link": "https://korben.info/gadgetbridge-montre-connectee-sans-cloud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T08:44:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gadgetbridge-montre-connectee-sans-cloud/gadgetbridge-montre-connectee-sans-cloud-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d492971c4ca3",
+      "title": "Amazon détruit des livres pour nourrir ses IA",
+      "description": "Un AirTag glissé dans un livre a mené 404 Media à un entrepôt Amazon de Las Vegas, où une équipe découpe les reliures pour scanner plus vite. Les robots qui numérisent sans abîmer existent depuis 2007, et la justice américaine avait validé cette voie dès 2015.",
+      "link": "https://korben.info/amazon-detruit-livres-rares-scan-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T08:28:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/amazon-detruit-livres-rares-scan-ia/amazon-detruit-livres-rares-scan-ia-2.png",
+      "type": "blog"
+    },
+    {
       "id": "17115994ec37",
       "title": "Le code de GoldenEye 007 est enfin sorti de sa cartouche",
       "description": "Le projet de décompilation de GoldenEye 007 affiche 208 fichiers sur 208, sur les trois versions de la cartouche. Ce n'est pas un jeu à télécharger : c'est le code C du moteur, qui recompile en une ROM identique à celle de 1997.",
