@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "17115994ec37",
+      "title": "Le code de GoldenEye 007 est enfin sorti de sa cartouche",
+      "description": "Le projet de décompilation de GoldenEye 007 affiche 208 fichiers sur 208, sur les trois versions de la cartouche. Ce n'est pas un jeu à télécharger : c'est le code C du moteur, qui recompile en une ROM identique à celle de 1997.",
+      "link": "https://korben.info/goldeneye-007-n64-decompile-100.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T07:43:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/goldeneye-007-n64-decompile-100/goldeneye-007-n64-decompile-100-2.png",
+      "type": "blog"
+    },
+    {
       "id": "47aff8f5ad90",
       "title": "GitLab - la faille qui a fait rouvrir une version morte",
       "description": "Un correctif d'urgence hors calendrier, une faille notée 9,4 exploitable sans compte, et une branche sortie de maintenance depuis un mois que GitLab a rouverte pour l'occasion. Voilà quoi faire selon la version que vous hébergez.",
