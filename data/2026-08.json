@@ -2,6 +2,36 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "47aff8f5ad90",
+      "title": "GitLab - la faille qui a fait rouvrir une version morte",
+      "description": "Un correctif d'urgence hors calendrier, une faille notée 9,4 exploitable sans compte, et une branche sortie de maintenance depuis un mois que GitLab a rouverte pour l'occasion. Voilà quoi faire selon la version que vous hébergez.",
+      "link": "https://korben.info/gitlab-graphql-faille-critique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T07:07:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf2e57e3c737",
+      "title": "GIMP abandonne le XCF",
+      "description": "XCF, le format de projet de GIMP depuis 1997, va laisser la place à une archive zip. Objectif : des sauvegardes partielles, l'auto-save et des projets bien plus lourds.",
+      "link": "https://korben.info/gimp-nouveau-format-projet.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T06:53:25.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "77c43ec9081d",
       "title": "Un script pour virer les produits sponsorisés d'Amazon",
       "description": "Sur Amazon, le tri par prix croissant laisse passer des cartes sponsorisées à 74,99 € juste après une série qui plafonnait à 53,99 €. Ce userscript en licence MIT dégage les blocs sponsorisés, les encarts promo et Rufus des pages Amazon, amazon.fr compris. Il emporte aussi le résumé automatique des…",
