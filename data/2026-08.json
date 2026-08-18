@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "aa8db09edf89",
+      "title": "Nvidia CMP 170HX - La VRAM était bien là, bridée par le firmware",
+      "description": "Un outil open source fait sauter le verrou firmware des cartes de minage Nvidia CMP 170HX : une carte vendue 8 Go expose 64 Go de HBM2e, une 10 Go passe à 40. La mémoire n'a jamais été défectueuse, seulement désactivée. Mais la largeur PCIe reste soudée au PCB, l'ECC est toujours absent et le prix…",
+      "link": "https://korben.info/cmp-170hx-vram-debloquee-mod-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T11:59:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "188796d28139",
       "title": "Un atelier japonais double la VRAM des RTX 2080 Ti pour pas cher",
       "description": "Dans la préfecture de Saitama, au Japon, une petite boutique s'est fait une spécialité qui tombe à pic en pleine flambée des prix de la mémoire, celle de faire passer une vieille GeForce RTX 2080 Ti de 11 à 22 Go de VRAM pour environ 45 000 yens, soit 282 dollars ou un peu moins de 250 euros. Le…",
