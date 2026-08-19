@@ -2,6 +2,51 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "c96447e23706",
+      "title": "Quand personne ne vérifie la date d'expiration de votre CB",
+      "description": "Trois chercheurs de l'université du Massachusetts ont fait payer des cartes bancaires périmées avec deux téléphones Android posés entre la carte et le terminal. Rien n'a été cassé : sur le kernel Visa, la date d'expiration que lit le terminal n'est protégée par aucune signature, et la banque en…",
+      "link": "https://korben.info/cartes-bancaires-expirees-reactivees-paiements.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-19T07:02:33.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cartes-bancaires-expirees-reactivees-paiements/cartes-bancaires-expirees-reactivees-paiements-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "43b841c00504",
+      "title": "Son imprimante HP imprime enfin sur Mac - Merci Claude Code",
+      "description": "Un tweet montrant Claude Code en train de fabriquer un pilote macOS pour une imprimante HP a fait trois millions de vues. Le dépôt publié par son auteur raconte autre chose : deux voies natives fermées par macOS, un codec Linux dans une machine virtuelle, et un daemon root qui exécute des fichiers…",
+      "link": "https://korben.info/claude-code-driver-imprimante-hp-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-19T06:50:59.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-code-driver-imprimante-hp-macos/claude-code-driver-imprimante-hp-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3e81e07b43d2",
+      "title": "Le CD de Quake était foireux avant même d'être pressé",
+      "description": "En 1996, le CD shareware de Quake embarquait tout le catalogue d'id Software en versions chiffrées, déverrouillables par téléphone. Le crack est arrivé en 39 jours, mais la faille, elle, était déjà décrite dans un brevet déposé en 1992.",
+      "link": "https://korben.info/quake-shareware-cd-rom-tous-les-jeux-id-chiffres.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-19T06:29:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/quake-shareware-cd-rom-tous-les-jeux-id-chiffres/quake-shareware-cd-rom-tous-les-jeux-id-chiffres-2.png",
+      "type": "blog"
+    },
+    {
       "id": "2f88c3c8d4c9",
       "title": "GeForce NOW dans Firefox - 2 000 jeux PC dispo sans rien installer",
       "description": "NVIDIA autorise enfin Firefox a faire tourner GeForce NOW, sur Windows uniquement. Plus de 2000 jeux PC en streaming dans un onglet, sans installation ni carte graphique a changer, mais avec les plafonds du forfait : 120 fps reserves a Ultimate et 100 heures de jeu par mois.",
