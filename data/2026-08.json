@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "2f88c3c8d4c9",
+      "title": "GeForce NOW dans Firefox - 2 000 jeux PC dispo sans rien installer",
+      "description": "NVIDIA autorise enfin Firefox a faire tourner GeForce NOW, sur Windows uniquement. Plus de 2000 jeux PC en streaming dans un onglet, sans installation ni carte graphique a changer, mais avec les plafonds du forfait : 120 fps reserves a Ultimate et 100 heures de jeu par mois.",
+      "link": "https://korben.info/firefox-geforce-now-partenariat.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-19T05:55:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-geforce-now-partenariat/firefox-geforce-now-partenariat-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "aa8db09edf89",
       "title": "Nvidia CMP 170HX - La VRAM était bien là, bridée par le firmware",
       "description": "Un outil open source fait sauter le verrou firmware des cartes de minage Nvidia CMP 170HX : une carte vendue 8 Go expose 64 Go de HBM2e, une 10 Go passe à 40. La mémoire n'a jamais été défectueuse, seulement désactivée. Mais la largeur PCIe reste soudée au PCB, l'ECC est toujours absent et le prix…",
