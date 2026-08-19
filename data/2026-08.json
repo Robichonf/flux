@@ -2,6 +2,23 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "8eee77fdbd47",
+      "title": "Comment héberger un LLM (partie 1)",
+      "description": "Un serveur GPU, un an d'expérimentations : ce premier article vulgarise ce qu'est réellement un LLM (poids, biais, softmax) avant de le mettre à disposition avec vLLM, le GPU Operator NVIDIA et Kubernetes.",
+      "link": "https://blog.ippon.fr/2026/08/19/comment-heberger-un-llm-partie-1/",
+      "pubDate": "2026-08-19T08:00:28.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/blog-vllm-kubernetes.png",
+      "type": "blog"
+    },
+    {
       "id": "c96447e23706",
       "title": "Quand personne ne vérifie la date d'expiration de votre CB",
       "description": "Trois chercheurs de l'université du Massachusetts ont fait payer des cartes bancaires périmées avec deux téléphones Android posés entre la carte et le terminal. Rien n'a été cassé : sur le kernel Visa, la date d'expiration que lit le terminal n'est protégée par aucune signature, et la banque en…",
