@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "e6897fef64b9",
+      "title": "Geekom retire enfin un pilote que Windows Defender signalait comme vérolé depuis 2024",
+      "description": "Geekom a retiré de ses vieilles pages de support un installeur de pilote réseau que quatre plateformes d'analyse signalent. Le propriétaire d'un AE8 l'avait déjà repéré le 29 décembre 2024, et un membre du forum ComputerBase avait démonté le paquet le jour même.",
+      "link": "https://korben.info/geekom-mini-pc-malware-verifier.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-20T07:02:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/geekom-mini-pc-malware-verifier/geekom-mini-pc-malware-verifier-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "72fa4fc0fd63",
       "title": "oMLX – Faites tourner vos agents IA en local sur votre Mac",
       "description": "oMLX écrit le cache KV de vos modèles sur le SSD au lieu de le garder en mémoire, donc reprendre une session ne repasse plus par un recalcul complet du contexte. En échange, le cache est actif d'office et vise 10 % de votre disque.",
