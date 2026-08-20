@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "72fa4fc0fd63",
+      "title": "oMLX – Faites tourner vos agents IA en local sur votre Mac",
+      "description": "oMLX écrit le cache KV de vos modèles sur le SSD au lieu de le garder en mémoire, donc reprendre une session ne repasse plus par un recalcul complet du contexte. En échange, le cache est actif d'office et vise 10 % de votre disque.",
+      "link": "https://korben.info/omlx-serveur-llm-local-apple-silicon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-20T06:31:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/omlx-serveur-llm-local-apple-silicon/omlx-serveur-llm-local-apple-silicon-2.png",
+      "type": "blog"
+    },
+    {
       "id": "de2cb7fe116c",
       "title": "Surfshark lance une protection anti-scam SMS et enterre son moteur de recherche - La vie est faite de choix",
       "description": "-- Article en partenariat avec Surfshark -- Vous recevez combien de SMS pourris par jour ? Moi, j'en ai tellement que mon téléphone vibre plus pour des arnaques que pour mes potes. \"Votre colis est bloqué, cliquez ici\" ... j'ai rien commandé. \"Urgent : votre compte bancaire va être suspendu\" ...…",
