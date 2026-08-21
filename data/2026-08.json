@@ -893,6 +893,21 @@
       "type": "blog"
     },
     {
+      "id": "647ef81ea828",
+      "title": "Et si la bulle IA explosait ?",
+      "description": "Et si la bulle IA explosait ? Est ce que c'est une bulle déjà ? Comment elle pourrait exploser ? Avec quelles conséquences ?",
+      "link": "https://eventuallycoding.com/p/et-si-la-bulle-ia-explosait",
+      "pubDate": "2026-08-06T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2b76b300af9c",
       "title": "La QA, c'est quoi ? Demandez aux 8,5 millions d'écrans bleus",
       "description": "Écrans bleus CrowdStrike, panne Cloudflare, scandale Horizon : ce que coûte une QA absente, et la carte des outils qui protègent un projet web.",
