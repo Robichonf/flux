@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "825e78b9e496",
+      "title": "Un piratage bien gênant au Liechtenstein",
+      "description": "Toutes les fuites de données ne se valent pas, et celle-ci a de quoi faire transpirer pas mal de monde. Des pirates ont siphonné le registre des ayants droit économiques du Liechtenstein dans la nuit du 29 au 30 juillet, embarquant les informations de 31 000 sociétés, fondations et fiduciaires d'un…",
+      "link": "https://korben.info/un-piratage-bien-genant-au-liechtenstein.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-24T08:59:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "411ff08095ef",
       "title": "Google Play Store Listing : une certification gratuite pour parler ASO",
       "description": "Retour d'expérience sur la certification Google Play Store Listing : gratuite, rapide à préparer, et une bonne porte d'entrée pour parler ASO",
