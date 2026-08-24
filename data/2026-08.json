@@ -2,6 +2,23 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "411ff08095ef",
+      "title": "Google Play Store Listing : une certification gratuite pour parler ASO",
+      "description": "Retour d'expérience sur la certification Google Play Store Listing : gratuite, rapide à préparer, et une bonne porte d'entrée pour parler ASO",
+      "link": "https://blog.ippon.fr/2026/08/24/google-play-store-listing-une-certification-gratuite-pour-parler-aso/",
+      "pubDate": "2026-08-24T07:52:59.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Screenshot-2026-08-20-at-17.31.48.png",
+      "type": "blog"
+    },
+    {
       "id": "e6897fef64b9",
       "title": "Geekom retire enfin un pilote que Windows Defender signalait comme vérolé depuis 2024",
       "description": "Geekom a retiré de ses vieilles pages de support un installeur de pilote réseau que quatre plateformes d'analyse signalent. Le propriétaire d'un AE8 l'avait déjà repéré le 29 décembre 2024, et un membre du forum ComputerBase avait démonté le paquet le jour même.",
