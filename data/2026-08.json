@@ -34,6 +34,21 @@
       "type": "blog"
     },
     {
+      "id": "34754868c3fe",
+      "title": "Ma stack de service logiciels pour construire des produits",
+      "description": "Mon stack radar européen : la liste complète des logiciels (hosting, paiement, monitoring) que j'utilise ou recommande pour lancer un produit en Europe.",
+      "link": "https://eventuallycoding.com/p/ma-stack-logicielle",
+      "pubDate": "2026-08-23T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e6897fef64b9",
       "title": "Geekom retire enfin un pilote que Windows Defender signalait comme vérolé depuis 2024",
       "description": "Geekom a retiré de ses vieilles pages de support un installeur de pilote réseau que quatre plateformes d'analyse signalent. Le propriétaire d'un AE8 l'avait déjà repéré le 29 décembre 2024, et un membre du forum ComputerBase avait démonté le paquet le jour même.",
