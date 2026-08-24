@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "8e73d7807acd",
+      "title": "J'ai tapé mon nom sur Google et j'ai trouvé mon adresse perso.",
+      "description": "-- Article en partenariat avec Incogni -- Vous avez déjà tapé votre nom sur Google ? Non, pas pour stalker votre ex. Votre PROPRE nom. Faites-le. Je vous attends. ... Vous avez trouvé quelque chose ? Peut-être votre adresse, votre numéro de téléphone, votre email, vos anciennes adresses, peut-être…",
+      "link": "https://korben.info/mon-nom-sur-google.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-24T12:07:10.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mon-nom-sur-google/mon-nom-sur-google-2.png",
+      "type": "blog"
+    },
+    {
       "id": "825e78b9e496",
       "title": "Un piratage bien gênant au Liechtenstein",
       "description": "Toutes les fuites de données ne se valent pas, et celle-ci a de quoi faire transpirer pas mal de monde. Des pirates ont siphonné le registre des ayants droit économiques du Liechtenstein dans la nuit du 29 au 30 juillet, embarquant les informations de 31 000 sociétés, fondations et fiduciaires d'un…",
