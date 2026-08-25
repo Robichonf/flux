@@ -2,6 +2,50 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "6bbc2aa3a1d0",
+      "title": "OpenAI remet la limite de 5 heures sur Codex",
+      "description": "Si vous codez avec Codex, l'agent d'OpenAI qui écrit du code à votre place, préparez-vous à devoir à nouveau regarder votre montre, puisque cette fameuse limite fait son retour pour les abonnés ChatGPT Plus à partir du 25 août. C'est un vrai retour en arrière, parce qu'OpenAI avait justement…",
+      "link": "https://korben.info/openai-remet-la-limite-de-5-heures-sur-codex.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-25T08:00:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openai-remet-la-limite-de-5-heures-sur-codex/openai-remet-la-limite-de-5-heures-sur-codex-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d68fba2683fe",
+      "title": "Interview Arnaud Vanhaecke : comment le CIC Nord-Ouest accompagne les entreprises dans l’innovation digitale",
+      "description": "Cet article est une interview qui aborde le sujet de l’accompagnement à l’innovation par la banque CIC Nord-Ouest pour les entreprises avec Arnaud Vanhaecke, Responsable innovation. J’ai eu l’occasion de travailler à plusieurs reprises avec le CIC Nord-Ouest et j’ai toujours apprécié leur approche…",
+      "link": "https://oliviersauvage.com/2026/08/25/interview-arnaud-vanhaecke-comment-le-cic-nord-ouest-accompagne-les-entreprises-dans-linnovation-digitale/",
+      "pubDate": "2026-08-25T07:53:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f30cea45de46",
+      "title": "UGREEN dégaine deux chargeurs Nexode Pro avec écran de contrôle et câble rétractable, jusqu'à 300 W",
+      "description": "– Contient des liens affiliés Amazon – UGREEN continue de muscler sa gamme de chargeurs GaN avec deux nouveaux Nexode Pro, un modèle nomade de 160 W et une grosse station de bureau de 300 W, qui misent autant sur la puissance brute que sur le contrôle de la recharge. Petit rappel au passage, le…",
+      "link": "https://korben.info/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-25T07:50:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "8e73d7807acd",
       "title": "J'ai tapé mon nom sur Google et j'ai trouvé mon adresse perso.",
       "description": "-- Article en partenariat avec Incogni -- Vous avez déjà tapé votre nom sur Google ? Non, pas pour stalker votre ex. Votre PROPRE nom. Faites-le. Je vous attends. ... Vous avez trouvé quelque chose ? Peut-être votre adresse, votre numéro de téléphone, votre email, vos anciennes adresses, peut-être…",
