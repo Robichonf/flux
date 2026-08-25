@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "cbbf88d013d4",
+      "title": "Test du UGREEN DXP4800 GT : le NAS 4 baies qui gère tout mon Plex, piloté par une IA",
+      "description": "– Contient des liens affiliés Amazon – ter >}} – Contient des liens affiliés Amazon – {{}} Au départ, mon stockage était franchement bordélique. Ma bibliothèque Plex vivotait sur un vieux Synology, avec plusieurs SSD externes branchés au Mac mini, posés là au petit bonheur, avec les films rangés à…",
+      "link": "https://korben.info/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-25T12:07:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "6bbc2aa3a1d0",
       "title": "OpenAI remet la limite de 5 heures sur Codex",
       "description": "Si vous codez avec Codex, l'agent d'OpenAI qui écrit du code à votre place, préparez-vous à devoir à nouveau regarder votre montre, puisque cette fameuse limite fait son retour pour les abonnés ChatGPT Plus à partir du 25 août. C'est un vrai retour en arrière, parce qu'OpenAI avait justement…",
