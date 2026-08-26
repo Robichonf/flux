@@ -2,6 +2,23 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "199fe31e9e5a",
+      "title": "La seule règle qu'une IA respecte vraiment, c'est une erreur ESLint",
+      "description": "Lâcher une IA dans votre projet sans le voir se dégrader : le dispositif complet.",
+      "link": "https://blog.ippon.fr/2026/08/26/la-seule-regle-quune-ia-respecte-vraiment-cest-une-erreur-eslint/",
+      "pubDate": "2026-08-26T09:31:29.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Sans-titre5.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "77d9fc69d0a8",
       "title": "Spécifier, c'est coder",
       "description": "Depuis quelques semaines, je ne lance plus les agents : je tague des cartes, et un agent d'évaluation décide s'il les prend. Carnet de bord d'une expérimentation en cours, où le travail de développement a discrètement changé de place.",
