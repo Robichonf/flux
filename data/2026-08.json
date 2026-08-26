@@ -2,6 +2,20 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "73879273d892",
+      "title": "2026: Blogs are Dead, Long Live Blogs!",
+      "description": "A study by Daniel Stanica shows that among the 100 influential American blogs, over 60 have lost up to 85% of their traffic in four years. This decline is due to Google's algorithms and a flawed content strategy. Only 21 blogs manage to grow by offering unique and authentic content. L’article 2026:…",
+      "link": "https://oliviersauvage.com/2026/08/26/2026-blogs-are-dead-long-live-blogs/",
+      "pubDate": "2026-08-26T09:57:31.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "199fe31e9e5a",
       "title": "La seule règle qu'une IA respecte vraiment, c'est une erreur ESLint",
       "description": "Lâcher une IA dans votre projet sans le voir se dégrader : le dispositif complet.",
