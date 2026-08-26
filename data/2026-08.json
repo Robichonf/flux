@@ -2,6 +2,23 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "77d9fc69d0a8",
+      "title": "Spécifier, c'est coder",
+      "description": "Depuis quelques semaines, je ne lance plus les agents : je tague des cartes, et un agent d'évaluation décide s'il les prend. Carnet de bord d'une expérimentation en cours, où le travail de développement a discrètement changé de place.",
+      "link": "https://yoandev.co/specifier-c-est-coder",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/84406cb1-4abf-4f73-93e0-61a6e4a5d973.webp",
+      "type": "blog"
+    },
+    {
       "id": "cbbf88d013d4",
       "title": "Test du UGREEN DXP4800 GT : le NAS 4 baies qui gère tout mon Plex, piloté par une IA",
       "description": "– Contient des liens affiliés Amazon – ter >}} – Contient des liens affiliés Amazon – {{}} Au départ, mon stockage était franchement bordélique. Ma bibliothèque Plex vivotait sur un vieux Synology, avec plusieurs SSD externes branchés au Mac mini, posés là au petit bonheur, avec les films rangés à…",
