@@ -2,6 +2,36 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "e638fe786b0f",
+      "title": "Lexar case 2 To dans une microSD très rapide",
+      "description": "Test de la microSD Lexar Silver Plus 2 To : 255 Mo/s en lecture, 180 Mo/s en écriture, pour drones, caméras 4K/8K, Steam Deck et Android.",
+      "link": "https://korben.info/lexar-case-2-to-dans-une-microsd-tres-rapide.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-27T13:12:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/lexar-case-2-to-dans-une-microsd-tres-rapide/lexar-case-2-to-dans-une-microsd-tres-rapide-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c5e5a0d57e28",
+      "title": "Nvidia s'offrirait Hugging Face pour 12,9 milliards",
+      "description": "Nvidia serait proche de racheter Hugging Face pour 12,9 milliards de dollars, la plateforme valorisée 4,5 milliards en 2023.",
+      "link": "https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-27T11:52:11.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards/nvidia-soffrirait-hugging-face-pour-129-milliards-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "d6a0aa863baf",
       "title": "Exclusive Interview with Luca Fancello, Co-founder of Qwairy, on the Revolution of Answer Engines.",
       "description": "Forget Traditional SEO: Welcome to the GEO Era If you’ve been following my thoughts lately, you know I’ve been thinking a lot about the future of online visibility. For years, the rules of the game were simple: please Google. We optimized our tags, chased backlinks (the famous backlink), and…",
