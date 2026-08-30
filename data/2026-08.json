@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "dd71430428ee",
+      "title": "La plateforme Zéro Logement Vacant a été piratée",
+      "description": "Zéro Logement Vacant, ce nom ne vous dit peut-être rien, mais c'est un service de l'État censé aider les collectivités à remettre sur le marché les logements vides. Il vient de se retrouver au cœur d'une fuite de données colossale. Un pirate qui se fait appeler ZeroBytes affirme avoir aspiré près…",
+      "link": "https://korben.info/la-plateforme-zero-logement-vacant-a-ete-piratee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-30T13:31:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-plateforme-zero-logement-vacant-a-ete-piratee/la-plateforme-zero-logement-vacant-a-ete-piratee-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "363f0c562e00",
       "title": "OpenAI coupe ses modèles à Cursor après son rachat par le SpaceXAI de Musk",
       "description": "OpenAI a annoncé qu'il allait couper l'accès de ses modèles à Cursor, l'éditeur de code dopé à l'IA que s'arrachent les développeurs. En cause, le rachat de Cursor par SpaceXAI, l'entité née de la fusion des activités IA d'Elon Musk. Officiellement, OpenAI laisse du temps. La coupure est fixée au…",
