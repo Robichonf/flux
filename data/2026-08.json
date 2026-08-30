@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "363f0c562e00",
+      "title": "OpenAI coupe ses modèles à Cursor après son rachat par le SpaceXAI de Musk",
+      "description": "OpenAI a annoncé qu'il allait couper l'accès de ses modèles à Cursor, l'éditeur de code dopé à l'IA que s'arrachent les développeurs. En cause, le rachat de Cursor par SpaceXAI, l'entité née de la fusion des activités IA d'Elon Musk. Officiellement, OpenAI laisse du temps. La coupure est fixée au…",
+      "link": "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-30T09:56:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk-2.png",
+      "type": "blog"
+    },
+    {
       "id": "80928477472b",
       "title": "George Orwell, Entrepreneurship, and Me",
       "description": "In an uncertain context marked by economic and political crises, the author discusses the resilience of entrepreneurs inspired by George Orwell. Although Orwell was a writer, he embodies an entrepreneurial spirit through his quest for truth, his integrity, and his ability to face challenges, thus…",
