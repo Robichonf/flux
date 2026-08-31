@@ -2,6 +2,23 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "f625d7c3ff49",
+      "title": "Le Starter Pack du Software Engineer pour la certification AWS Developer Associate",
+      "description": "Quelques conseils pour passer la certification AWS Developer Associate DVA-C02",
+      "link": "https://blog.ippon.fr/2026/08/31/le-starter-pack-du-software-engineer-pour-la-certification-aws-developer-associate/",
+      "pubDate": "2026-08-31T07:22:49.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/image-article-aws-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "dd71430428ee",
       "title": "La plateforme Zéro Logement Vacant a été piratée",
       "description": "Zéro Logement Vacant, ce nom ne vous dit peut-être rien, mais c'est un service de l'État censé aider les collectivités à remettre sur le marché les logements vides. Il vient de se retrouver au cœur d'une fuite de données colossale. Un pirate qui se fait appeler ZeroBytes affirme avoir aspiré près…",
