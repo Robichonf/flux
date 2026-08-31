@@ -77,6 +77,21 @@
       "type": "blog"
     },
     {
+      "id": "db0c63c54598",
+      "title": "Le piège de la transparence par défaut sur Bluesky et le protocole ATProto",
+      "description": "PDS public, likes visibles, métadonnées exposées : sur Bluesky, tout se croise. Attention, la transparence a un prix.",
+      "link": "https://eventuallycoding.com/p/le-piege-de-la-transparence-par-defaut-sur-bluesky-et-le-protocole-atproto",
+      "pubDate": "2026-08-29T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1788014460629-ykk6had.png?width=400",
+      "type": "blog"
+    },
+    {
       "id": "2a0e4e6f7303",
       "title": "LaREF : ce qu’il faut retenir de l’intervention de Roland Lescure sur l’avenir des entreprises",
       "description": "La Rentrée des Entrepreneurs de France (LaREF) a eu lieu sous un contexte économique tendu, marqué par un échange entre Marie Visot et Roland Lescure, ministre de l'Économie. Lescure a présenté un \"Pacte de Stabilité\", mentionnant la préservation de dispositifs clés comme le Crédit d'Impôt…",
