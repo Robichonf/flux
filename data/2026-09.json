@@ -1,0 +1,50 @@
+{
+  "month": "2026-09",
+  "articles": [
+    {
+      "id": "374ab4d9f698",
+      "title": "ffmpeg - Doubler le framerate d'une vidéo avec votre GeForce",
+      "description": "Le filtre fruc_vulkan est arrivé dans ffmpeg : il fait fabriquer les images manquantes par le bloc optical flow des GeForce RTX. Ce que ça apporte, ce qu'il faut pour le lancer, et pourquoi le résultat ne plaira pas à tout le monde.",
+      "link": "https://korben.info/nvidia-fruc-ffmpeg-vulkan.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-01T12:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9b0d7efcb94a",
+      "title": "Maintenant - Le monitoring qui trouve vos conteneurs tout seul",
+      "description": "maintenant découvre seul les conteneurs qui tournent sur votre machine et les surveille depuis un seul conteneur Go : uptime, certificats TLS, heartbeats cron et page de statut. L'édition gratuite s'arrête à une seule machine.",
+      "link": "https://korben.info/maintenant-monitoring-auto-heberge-conteneurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-01T10:24:45.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maintenant-monitoring-auto-heberge-conteneurs/maintenant-monitoring-auto-heberge-conteneurs-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a40776c0890e",
+      "title": "WhatCable - Trouvez le câble qui bride la charge sur votre Mac",
+      "description": "Votre Mac interroge déjà la puce des câbles USB-C que vous branchez, mais macOS n'affiche la réponse nulle part. WhatCable la sort en clair et désigne le maillon qui plafonne la charge ou le débit, sans oublier de dire jusqu'où croire un câble qui parle de lui-même.",
+      "link": "https://korben.info/whatcable-testeur-cables-usb-c-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-01T09:24:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/whatcable-testeur-cables-usb-c-mac/whatcable-testeur-cables-usb-c-mac-2.png",
+      "type": "blog"
+    }
+  ]
+}
