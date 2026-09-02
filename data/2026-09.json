@@ -2,6 +2,38 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "165a229976d1",
+      "title": "Nitter et XCancel sont morts, et l'explication est dans leur code",
+      "description": "X Corp. a fait tomber Nitter et XCancel avec une lettre d'avocat et un délai d'une nuit. La défense qu'on lit partout, celle du simple scraping de pages publiques, ne tient plus depuis le retour du projet en 2025 : le script d'authentification du dépôt se connecte avec un vrai compte X en se…",
+      "link": "https://korben.info/x-bloque-nitter-xcancel-lecture-tweets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-02T08:51:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/x-bloque-nitter-xcancel-lecture-tweets/x-bloque-nitter-xcancel-lecture-tweets-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "224197d7ec93",
+      "title": "Comment héberger un LLM (partie 2)",
+      "description": "Suite et fin de notre série sur l'auto-hébergement d'un LLM. Au programme : le KV cache et le mécanisme d'attention, le scaling multi-GPU avec KServe et Kubernetes, la quantification, PagedAttention, le KV offloading, et des benchmarks vLLM chiffrés.",
+      "link": "https://blog.ippon.fr/2026/09/02/comment-heberger-un-llm-partie-2/",
+      "pubDate": "2026-09-02T08:00:42.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/blog-vllm-kubernetes-1.png",
+      "type": "blog"
+    },
+    {
       "id": "374ab4d9f698",
       "title": "ffmpeg - Doubler le framerate d'une vidéo avec votre GeForce",
       "description": "Le filtre fruc_vulkan est arrivé dans ffmpeg : il fait fabriquer les images manquantes par le bloc optical flow des GeForce RTX. Ce que ça apporte, ce qu'il faut pour le lancer, et pourquoi le résultat ne plaira pas à tout le monde.",
