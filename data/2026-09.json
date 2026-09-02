@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5808be272470",
+      "title": "153 millions de permis de conduire scannés en vente sur le darkweb",
+      "description": "Des pirates ont mis en vente cette semaine, sur un site baptisé Nexus, les copies numériques de plus de 153 millions de permis de conduire américains et canadiens, plus de 10 millions de cartes d'identité, 3 millions de documents de voyage et de pièces étrangères, et près de 600 000 cartes…",
+      "link": "https://korben.info/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-02T16:30:48.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "658b0e180c99",
       "title": "13 To de données de Steam ont fuité",
       "description": "Pendant des années, un point d'accès de l'ancienne infrastructure de Steam est resté ouvert au public sans que personne ne s'en aperçoive. Des individus ont fini par le trouver, et ils en ont extrait entre 12 et 13 téraoctets de fichiers couvrant tout ce qui a transité par la boutique entre 2003 et…",
