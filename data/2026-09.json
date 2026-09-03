@@ -2,6 +2,51 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "1deb95120fe6",
+      "title": "Line Rider - À fond sur la piste de luge !",
+      "description": "Line Rider, le jouet de 2006 où l'on dessine une piste qu'un bonhomme en luge descend, tourne toujours gratuitement dans le navigateur. Sauf que ce n'est plus le Flash d'origine : la réécriture actuelle gère les calques, six lugeurs, une bande-son et l'export vidéo. Encore faut-il savoir que vos…",
+      "link": "https://korben.info/line-rider-jeu-dessin-physique-luge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-03T10:54:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/line-rider-jeu-dessin-physique-luge/line-rider-jeu-dessin-physique-luge-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b137c607cd8c",
+      "title": "WinBtrfs - Le pilote Windows qui monte vos disques Linux se réveille enfin",
+      "description": "WinBtrfs 1.10 est sorti le 1er septembre, deux ans et demi après la version précédente. Il répare les plantages déclenchés par la corbeille, par Steam et par l'écriture sur un snapshot, et son auteur remercie Claude pour la chasse aux bugs.",
+      "link": "https://korben.info/winbtrfs-btrfs-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-03T10:26:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "afb6562fd1a8",
+      "title": "HortusFox - Le carnet de bord partagé de vos plantes",
+      "description": "Un gestionnaire de plantes à héberger chez vous : il note ce que vous avez fait à chaque plante et partage le carnet avec toute la famille.",
+      "link": "https://korben.info/hortusfox-gestionnaire-plantes-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-03T09:59:40.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hortusfox-gestionnaire-plantes-self-hosted/hortusfox-gestionnaire-plantes-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
       "id": "5808be272470",
       "title": "153 millions de permis de conduire scannés en vente sur le darkweb",
       "description": "Des pirates ont mis en vente cette semaine, sur un site baptisé Nexus, les copies numériques de plus de 153 millions de permis de conduire américains et canadiens, plus de 10 millions de cartes d'identité, 3 millions de documents de voyage et de pièces étrangères, et près de 600 000 cartes…",
