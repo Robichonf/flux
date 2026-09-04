@@ -2,6 +2,36 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "20f2acc4129f",
+      "title": "Speakr - Interrogez toutes vos réunions enregistrées",
+      "description": "Speakr transcrit vos enregistrements, sépare les voix et laisse interroger toute la bibliothèque en langage naturel, sur votre serveur. Mais deux tuyaux en sortent, celui de la transcription et celui du texte : la FAQ du projet reconnaît que ces API traitent votre contenu sur leurs serveurs. Le…",
+      "link": "https://korben.info/speakr-transcription-audio-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-04T12:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/speakr-transcription-audio-self-hosted/speakr-transcription-audio-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f0eaa868768",
+      "title": "Stowaway - Squattez le hublot d'un vol qui n'est pas le vôtre",
+      "description": "Stowaway dessine le ciel réel au-dessus du lieu de votre choix, avec les avions et les satellites qui y passent vraiment, puis vous installe à bord. Déplacer son point de vue par latitude et longitude est gratuit ; les 4,99 $ par mois paient la recherche par numéro de vol et le terrain…",
+      "link": "https://korben.info/stowaway-live-vue-hublot-avions-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-04T10:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/stowaway-live-vue-hublot-avions-temps-reel/stowaway-live-vue-hublot-avions-temps-reel-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "18a3c05e0055",
       "title": "DokuWiki - Une faille critique à patcher immédiatement",
       "description": "Andreas Gohr a confirmé lui-même une faille critique dans DokuWiki, qui touche à peu près toutes les versions publiées depuis dix ans et ne demande qu'un accès en écriture pour être exploitée. Le correctif est sorti le soir même, mais il n'existe que sur la dernière lignée, le paquet Debian ne le…",
