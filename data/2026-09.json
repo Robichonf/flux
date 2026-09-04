@@ -2,6 +2,36 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "18a3c05e0055",
+      "title": "DokuWiki - Une faille critique à patcher immédiatement",
+      "description": "Andreas Gohr a confirmé lui-même une faille critique dans DokuWiki, qui touche à peu près toutes les versions publiées depuis dix ans et ne demande qu'un accès en écriture pour être exploitée. Le correctif est sorti le soir même, mais il n'existe que sur la dernière lignée, le paquet Debian ne le…",
+      "link": "https://korben.info/dokuwiki-faille-rce-critique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-04T07:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68b78382ed02",
+      "title": "NTLite - Nettoyer Windows avant même de l'avoir installé",
+      "description": "NTLite ouvre l'image d'installation de Windows pour en retirer des composants, y intégrer pilotes et mises à jour, ou éditer un Windows déjà en place. La version gratuite est illimitée pour un particulier, mais le retrait de n'importe quel composant commence à 40 € HT.",
+      "link": "https://korben.info/ntlite-personnaliser-image-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-04T06:20:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ntlite-personnaliser-image-windows/ntlite-personnaliser-image-windows-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "1deb95120fe6",
       "title": "Line Rider - À fond sur la piste de luge !",
       "description": "Line Rider, le jouet de 2006 où l'on dessine une piste qu'un bonhomme en luge descend, tourne toujours gratuitement dans le navigateur. Sauf que ce n'est plus le Flash d'origine : la réécriture actuelle gère les calques, six lugeurs, une bande-son et l'export vidéo. Encore faut-il savoir que vos…",
