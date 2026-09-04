@@ -2,6 +2,35 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "9af19c9766e7",
+      "title": "Au delà du vibe coding : Maîtriser l’IA pour construire durablement",
+      "description": "Après un été chaud, le blog lance une série d'entretiens vidéo avec Julien Saumande, expert en IA. Il aborde le phénomène du \"Vibe Coding\" et prône un développement assisté par IA (AIDD) pour garantir des fondations solides. Il met en lumière les enjeux éthiques et sociétaux de l'IA en entreprise,…",
+      "link": "https://oliviersauvage.com/2026/09/04/au-dela-du-vibe-coding-maitriser-lia-pour-construire-durablement/",
+      "pubDate": "2026-09-04T14:07:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c98eee611c06",
+      "title": "DNSforge - Le DNS qui coupe la pub et le tracking",
+      "description": "dnsforge.de coupe la pub, les traqueurs et les malwares au niveau DNS, avec quatre profils au choix et des serveurs uniquement en Allemagne. Mais ce qui décide de l'adopter n'est pas sa promesse sans journalisation : c'est un plafond de 100 requêtes par 10 secondes, qui bannit votre adresse IP un…",
+      "link": "https://korben.info/dnsforge-dns-allemand-sans-publicite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-04T13:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dnsforge-dns-allemand-sans-publicite/dnsforge-dns-allemand-sans-publicite-2.png",
+      "type": "blog"
+    },
+    {
       "id": "20f2acc4129f",
       "title": "Speakr - Interrogez toutes vos réunions enregistrées",
       "description": "Speakr transcrit vos enregistrements, sépare les voix et laisse interroger toute la bibliothèque en langage naturel, sur votre serveur. Mais deux tuyaux en sortent, celui de la transcription et celui du texte : la FAQ du projet reconnaît que ces API traitent votre contenu sur leurs serveurs. Le…",
