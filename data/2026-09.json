@@ -2,6 +2,68 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "8389639f88ab",
+      "title": "Linux tourne enfin sur les Mac M3 (sauf la carte graphique)",
+      "description": "Asahi Linux a fusionné le support des Mac M3 dans son installeur le 6 septembre. La webcam, le Thunderbolt et le WiFi répondent, mais la 3D reste dessinée par le processeur, et personne ne donne de date.",
+      "link": "https://korben.info/asahi-linux-support-m3-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-07T11:37:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "35c56792ce50",
+      "title": "Degoog - Le métamoteur à installer sur votre ordi",
+      "description": "degoog est un métamoteur de recherche auto-hébergé livré sans un seul moteur : tout s'installe depuis un Store, y compris la façon dont votre serveur sort sur le réseau.",
+      "link": "https://korben.info/degoog-agregateur-moteurs-recherche-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-07T08:28:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/degoog-agregateur-moteurs-recherche-open-source/degoog-agregateur-moteurs-recherche-open-source-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "90e411f036c4",
+      "title": "DocuSeal - Pour signer vos documents sur votre propre serveur",
+      "description": "DocuSeal fait signer des PDF à plusieurs depuis un conteneur Docker sur votre serveur, API REST et webhooks compris dans la version libre. La signature obtenue est une signature simple au sens d'eIDAS, et votre instance génère son propre certificat.",
+      "link": "https://korben.info/docuseal-alternative-docusign-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-07T07:37:39.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ba4ceef27a8",
+      "title": "Null : l'erreur à un milliard qui hante encore Java",
+      "description": "Retour sur l'invention de la référence nulle par Tony Hoare en 1965 : pourquoi le NullPointerException persiste en Java, les limites d'Optional, et les alternatives (JSpecify, Vavr, Kotlin).",
+      "link": "https://blog.ippon.fr/2026/09/07/null-lerreur-a-un-milliard-qui-hante-encore-java/",
+      "pubDate": "2026-09-07T07:02:29.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/matrix-null.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "9af19c9766e7",
       "title": "Au delà du vibe coding : Maîtriser l’IA pour construire durablement",
       "description": "Après un été chaud, le blog lance une série d'entretiens vidéo avec Julien Saumande, expert en IA. Il aborde le phénomène du \"Vibe Coding\" et prône un développement assisté par IA (AIDD) pour garantir des fondations solides. Il met en lumière les enjeux éthiques et sociétaux de l'IA en entreprise,…",
