@@ -64,6 +64,22 @@
       "type": "blog"
     },
     {
+      "id": "1d58f708d342",
+      "title": "Mon site sur AT Proto avec standard.site",
+      "description": "Je continue mon exploration d’AT Protocol. Après avoir joué avec Tangled, cette fois, j’ai essayé d’intégrer mon site sur AT Protocol avec standard.site. Ça s’est plutôt révélé facile de mon côté, je vous explique tout ça.",
+      "link": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/cover_hu_aa246b4abc5b86fd.webp",
+      "type": "blog"
+    },
+    {
       "id": "9af19c9766e7",
       "title": "Au delà du vibe coding : Maîtriser l’IA pour construire durablement",
       "description": "Après un été chaud, le blog lance une série d'entretiens vidéo avec Julien Saumande, expert en IA. Il aborde le phénomène du \"Vibe Coding\" et prône un développement assisté par IA (AIDD) pour garantir des fondations solides. Il met en lumière les enjeux éthiques et sociétaux de l'IA en entreprise,…",
