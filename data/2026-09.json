@@ -2,6 +2,51 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "abef7a1a3665",
+      "title": "reVCDOS - Vice City en entier dans un onglet",
+      "description": "GTA Vice City tourne en entier dans un onglet de navigateur, tactile et manette compris. Il faut lui fournir les fichiers du jeu, et se passer de sauvegarde.",
+      "link": "https://korben.info/gta-vice-city-navigateur-web-revcdos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-08T12:13:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gta-vice-city-navigateur-web-revcdos/gta-vice-city-navigateur-web-revcdos-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "9ab4f66c23e3",
+      "title": "Kickban a filmé sa tournée et Pixel Syndrome en a fait un film",
+      "description": "Six dates en avril, une caméra, et des images qui dorment encore sur une carte SD. Ce sont les copains de tournée qui ont trié et monté le documentaire.",
+      "link": "https://korben.info/meuporg-tour-documentaire-kickban.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-08T11:58:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_18034148726493070855_hu_825376aed6faf4ee.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a28bb34a6ddd",
+      "title": "RSSMonster - Le lecteur RSS qui trie vos flux en local",
+      "description": "RSSMonster regroupe les articles qui racontent le même événement et leur colle une note, avec des modèles qui tournent sur votre propre machine. Deux profils Docker sont fournis, et celui qui s'installe en trois commandes ne lance aucun modèle : voici ce que chacun vous donne, et ce que vous…",
+      "link": "https://korben.info/rssmonster-lecteur-rss-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-08T09:20:12.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rssmonster-lecteur-rss-auto-heberge/rssmonster-lecteur-rss-auto-heberge-2.png",
+      "type": "blog"
+    },
+    {
       "id": "9524e28970fd",
       "title": "AI-Assisted Development: Should You Let Your Employees Develop Their Own Applications with AI?",
       "description": "In the era of generative AI and vibe coding, employees are now designing their own business tools. Between the freedom to experiment in the field and the need to frame data security, how can companies transform this digital DIY into a real performance lever? L’article AI-Assisted Development:…",
