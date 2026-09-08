@@ -2,6 +2,49 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "9524e28970fd",
+      "title": "AI-Assisted Development: Should You Let Your Employees Develop Their Own Applications with AI?",
+      "description": "In the era of generative AI and vibe coding, employees are now designing their own business tools. Between the freedom to experiment in the field and the need to frame data security, how can companies transform this digital DIY into a real performance lever? L’article AI-Assisted Development:…",
+      "link": "https://oliviersauvage.com/2026/09/08/ai-assisted-development-should-you-let-your-employees-develop-their-own-applications-with-ai/",
+      "pubDate": "2026-09-08T07:56:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bde490b9c6d3",
+      "title": "Développement assisté par IA : devez-vous laisser vos collaborateurs développer leurs propres applications avec l’IA ?",
+      "description": "À l’ère de l’IA générative et du vibe coding, les collaborateurs conçoivent désormais leurs propres outils métier. Entre liberté d’expérimenter sur le terrain et nécessité d’encadrer la sécurité des données, comment les entreprises peuvent-elles transformer ce bricolage numérique en véritable…",
+      "link": "https://oliviersauvage.com/2026/09/08/developpement-assiste-par-ia-devez-vous-laisser-vos-collaborateurs-developper-leurs-propres-applications-avec-lia/",
+      "pubDate": "2026-09-08T05:55:14.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6c8208c5c394",
+      "title": "GrapheneOS verrouillera bientôt le presse-papiers d'Android",
+      "description": "GrapheneOS a écrit le réglage qui manque à Android depuis Android 13 : une application ne peut plus lire ce qu'une autre a copié, mais elle relit toujours ce qu'elle a copié elle-même et le collage volontaire continue de marcher partout. Le code est encore dans une pull request non fusionnée, et…",
+      "link": "https://korben.info/grapheneos-messaging-rcs-secure-paste.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-08T05:10:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8389639f88ab",
       "title": "Linux tourne enfin sur les Mac M3 (sauf la carte graphique)",
       "description": "Asahi Linux a fusionné le support des Mac M3 dans son installeur le 6 septembre. La webcam, le Thunderbolt et le WiFi répondent, mais la 3D reste dessinée par le processeur, et personne ne donne de date.",
