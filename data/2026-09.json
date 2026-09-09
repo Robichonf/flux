@@ -2,6 +2,35 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "1ccb0b545bd9",
+      "title": "Winapp - Comment créer une app Windows native sans Visual Studio",
+      "description": "Le winapp CLI de Microsoft crée, lance et empaquette une application Windows native depuis un simple terminal. Le pas à pas, du Hello World au fichier MSIX.",
+      "link": "https://korben.info/winapp-cli-hello-world-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-09T05:56:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/winapp-cli-hello-world-windows/winapp-cli-hello-world-windows-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0d3b8d5450e0",
+      "title": "AI: why and how to train? Exclusive interview with Manuel Davy",
+      "description": "Manuel Davy's interview explores the necessity of training businesses and individuals in artificial intelligence (AI). Davy highlights the societal challenges related to this technology, the diversity of AI applications, and the risk of obsolescence. He emphasizes the importance of a deep…",
+      "link": "https://oliviersauvage.com/2026/09/09/ai-why-and-how-to-train-exclusive-interview-with-manuel-davy/",
+      "pubDate": "2026-09-09T05:29:51.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "abef7a1a3665",
       "title": "reVCDOS - Vice City en entier dans un onglet",
       "description": "GTA Vice City tourne en entier dans un onglet de navigateur, tactile et manette compris. Il faut lui fournir les fichiers du jeu, et se passer de sauvegarde.",
