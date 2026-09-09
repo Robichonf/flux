@@ -2,6 +2,35 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "51340cda00a4",
+      "title": "Why LinkedIn Limits Post Reach and Why We Must Accept It",
+      "description": "I miss writing, so I'm getting back to posting here. LinkedIn, for its part, has decided to restrict the reach of publications. Before, it was easy to get thousands of views, but now, you have to pay to be seen. It's frustrating, as the web is losing its free and accessible side. The early days of…",
+      "link": "https://oliviersauvage.com/2026/09/09/why-linkedin-limits-post-reach-and-why-we-must-accept-it/",
+      "pubDate": "2026-09-09T13:40:54.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c59a672fdca",
+      "title": "Mettez à jour Plex ! (même sans savoir contre quoi)",
+      "description": "Plex a publié le 1er septembre un avis de sécurité qui ne dit ni ce qui est touché, ni à quel point c'est grave, et aucune CVE n'a suivi. Huit jours plus tard, Shadowserver compte encore plus de 36 000 serveurs Plex exposés en version vulnérable. Comme personne ne peut jauger le risque, la seule…",
+      "link": "https://korben.info/plex-serveurs-non-patches-failles.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-09T13:07:21.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5ec9d8aa188d",
       "title": "FFmpeg Commander - Cochez, copiez, collez dans le terminal",
       "description": "FFmpeg Commander écrit votre ligne de commande ffmpeg dans un formulaire, avec 34 recettes prêtes et une URL partageable. Ce qu'il fait, et ce qu'il ne fait pas.",
@@ -60,6 +89,21 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "238ef2515364",
+      "title": "Migration de Github vers une alternative européenne",
+      "description": "Parmi les briques de bases importantes pour construire du logiciel et qui sont monopolisées par les US, je vous présente : Github (Microsoft).",
+      "link": "https://eventuallycoding.com/p/migration-de-github-vers-une-alternative-europeenne",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1788967051506-3wnst4z.jpg",
       "type": "blog"
     },
     {
