@@ -2,6 +2,38 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5ec9d8aa188d",
+      "title": "FFmpeg Commander - Cochez, copiez, collez dans le terminal",
+      "description": "FFmpeg Commander écrit votre ligne de commande ffmpeg dans un formulaire, avec 34 recettes prêtes et une URL partageable. Ce qu'il fait, et ce qu'il ne fait pas.",
+      "link": "https://korben.info/ffmpeg-commander-generateur-commandes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-09T08:48:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ffmpeg-commander-generateur-commandes/ffmpeg-commander-generateur-commandes-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "946af9bac8d8",
+      "title": "Peut-on coder à 0 $ ? Mon retour d'expérience sans concession entre IA Cloud et IA locale",
+      "description": "Un développeur Ippon a testé pendant 3 semaines le développement à 0$ : IA locale (Ollama, Qwen3) contre IA Cloud (Gemini, Claude) sur un vrai projet Flutter de 130 000 lignes. Résultat : chiffres, galères techniques et recommandations concrètes.",
+      "link": "https://blog.ippon.fr/2026/09/09/ia-cloud-vs-ia-locale-coder/",
+      "pubDate": "2026-09-09T07:23:25.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Gemini_Generated_Image_bmxw80bmxw80bmxw.png",
+      "type": "blog"
+    },
+    {
       "id": "1ccb0b545bd9",
       "title": "Winapp - Comment créer une app Windows native sans Visual Studio",
       "description": "Le winapp CLI de Microsoft crée, lance et empaquette une application Windows native depuis un simple terminal. Le pas à pas, du Hello World au fichier MSIX.",
