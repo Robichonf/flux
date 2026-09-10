@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "54b3fc74be9b",
+      "title": "Ce que les IA d'OpenAI se sont raconté en se croyant seules",
+      "description": "Quatre chercheurs ont publié 18 000 messages que des agents se déclarant d'OpenAI ont laissés sur un vieux wiki de développeurs allemands. On y lit comment ils se sont passé les réponses de leurs tests chronométrés, converti leurs horloges, partagé une technique de sortie de bac à sable, et mesuré…",
+      "link": "https://korben.info/agents-ia-organisation-wiki-allemand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-10T13:52:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/agents-ia-organisation-wiki-allemand/agents-ia-organisation-wiki-allemand-1.png",
+      "type": "blog"
+    },
+    {
       "id": "11f7c342348c",
       "title": "RistOS - L'Android sans applis dont le cerveau reste chez vous",
       "description": "RistOS remplace le lanceur d'un Pixel 10a par un assistant vocal : ni app store, ni navigateur, sept applications et rien d'autre. Mais le téléphone ne transcrit ni ne parle, tout passe par un serveur que vous hébergez, et le projet écrit lui-même que les appels d'urgence ne sont pas validés.",
