@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "11f7c342348c",
+      "title": "RistOS - L'Android sans applis dont le cerveau reste chez vous",
+      "description": "RistOS remplace le lanceur d'un Pixel 10a par un assistant vocal : ni app store, ni navigateur, sept applications et rien d'autre. Mais le téléphone ne transcrit ni ne parle, tout passe par un serveur que vous hébergez, et le projet écrit lui-même que les appels d'urgence ne sont pas validés.",
+      "link": "https://korben.info/rist-os-handset-android-degoogle.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-10T11:04:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rist-os-handset-android-degoogle/rist-os-handset-android-degoogle-2.png",
+      "type": "blog"
+    },
+    {
       "id": "5e1d154fa698",
       "title": "Une faille cPanel distribue des accès root",
       "description": "cPanel a corrigé le 8 septembre une injection SQL dans EmailTrack qui laisse un simple client d'hébergement, à condition d'avoir des droits sur le mail, écrire des fichiers sur le serveur puis exécuter du code en root. La fiche CVE la note 9,9 sur 10. Les canaux de mise à jour servent tous un build…",
