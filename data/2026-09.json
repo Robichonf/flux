@@ -2,6 +2,50 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5e1d154fa698",
+      "title": "Une faille cPanel distribue des accès root",
+      "description": "cPanel a corrigé le 8 septembre une injection SQL dans EmailTrack qui laisse un simple client d'hébergement, à condition d'avoir des droits sur le mail, écrire des fichiers sur le serveur puis exécuter du code en root. La fiche CVE la note 9,9 sur 10. Les canaux de mise à jour servent tous un build…",
+      "link": "https://korben.info/cpanel-faille-prise-controle-compte-hebergement.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-10T08:15:16.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b9f75789200d",
+      "title": "Données sécurisées et IA agentique : déployer des solutions locales performantes",
+      "description": "Après un été chaud, le blog lance une série d'entretiens vidéo avec Julien Saumande, expert en IA. Il aborde le phénomène du \"Vibe Coding\" et prône un développement assisté par IA (AIDD) pour garantir des fondations solides. Il met en lumière les enjeux éthiques et sociétaux de l'IA en entreprise,…",
+      "link": "https://oliviersauvage.com/2026/09/10/donnees-securisees-et-ia-agentique-deployer-des-solutions-locales-performantes/",
+      "pubDate": "2026-09-10T05:18:58.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "17153e50e350",
+      "title": "Un seul abonnement Surfshark, une infinité d'appareils protégés pour la rentrée",
+      "description": "-- Article en partenariat avec Surfshark -- Vous savez ce qui est pire qu'un cousin qui vous demande votre mot de passe Netflix ? C'est quand ledit cousin vous demande aussi un VPN pour sa boîte, sa copine, son chien et sa PlayStation. Et là, vous devez lui expliquer que la plupart des VPN c'est 10…",
+      "link": "https://korben.info/un-seul-abonnement-surfshark.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-10T04:56:34.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-seul-abonnement-surfshark/un-seul-abonnement-surfshark-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "51340cda00a4",
       "title": "Why LinkedIn Limits Post Reach and Why We Must Accept It",
       "description": "I miss writing, so I'm getting back to posting here. LinkedIn, for its part, has decided to restrict the reach of publications. Before, it was easy to get thousands of views, but now, you have to pay to be seen. It's frustrating, as the web is losing its free and accessible side. The early days of…",
