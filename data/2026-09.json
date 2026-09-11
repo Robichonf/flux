@@ -2,6 +2,80 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "de8b6fb41dae",
+      "title": "Trynix - Testez des classiques Linux sans rien installer",
+      "description": "trynix démarre une machine Linux dans votre onglet et y monte n'importe quelle version de logiciel que nixpkgs a livrée en treize ans. Pas de serveur, pas d'installation : un lien, un shell, et un Python de 2017 qui répond. Voilà ce que ça donne vraiment, chronomètre à l'appui.",
+      "link": "https://korben.info/trynix-tester-paquet-nix-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T07:19:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/trynix-tester-paquet-nix-navigateur/trynix-tester-paquet-nix-navigateur-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "850be36aa683",
+      "title": "Pluton - Le backup chiffré qui se pilote depuis le navigateur",
+      "description": "Pluton pose une interface web sur restic et rclone. Un docker compose, un plan de sauvegarde, et vos fichiers partent chiffrés vers le stockage de votre choix. Voilà comment le monter et surtout comment vérifier que vous pourrez restaurer.",
+      "link": "https://korben.info/pluton-backup-self-hosted-chiffre-restic-rclone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pluton-backup-self-hosted-chiffre-restic-rclone/pluton-backup-self-hosted-chiffre-restic-rclone-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c30d8eae4330",
+      "title": "ReProgman - L'interface de Windows 3.1 sur PC et Mac",
+      "description": "ReProgman rejoue le Program Manager de Windows 3.1 sur Windows 11 et sur macOS Apple Silicon. Rien à installer, licence MIT, et une spécification de 469 lignes dans le dépôt.",
+      "link": "https://korben.info/windows-31-shell-vibe-code-claude.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T06:15:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-31-shell-vibe-code-claude/windows-31-shell-vibe-code-claude-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "64c9183a1fba",
+      "title": "400ème article !!!",
+      "description": "Plus de 50,000 mots écrits à la main ou à l’IADes dizaines de sujets traités : IA, B2B, Vibe Coding, gaming, voitures autonome, marketing, réseaux sociaux, etc… etc…1 podcast lancé Et bientôt d’autres nouveautés pour vous montrer que le marketing de contenu n’est pas mort. 400 articles en moins…",
+      "link": "https://oliviersauvage.com/2026/09/11/400eme-article/",
+      "pubDate": "2026-09-11T05:53:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c891fa0c33c1",
+      "title": "Super Mario 64 tourne sur un processeur ARM (avec ReactOS)",
+      "description": "Une vidéo montre Super Mario 64 qui tourne sur ReactOS, le clone libre de Windows, sur une machine ARM. Derrière la démo, il y a bien plus qu'un émulateur lancé sur un OS libre : le développeur a écrit dans le ntdll de ReactOS le runtime hybride ARM64EC, que seuls Microsoft et Wine avaient bâti…",
+      "link": "https://korben.info/reactos-arm64-fex-jeux-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T04:59:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/reactos-arm64-fex-jeux-windows/reactos-arm64-fex-jeux-windows-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "54b3fc74be9b",
       "title": "Ce que les IA d'OpenAI se sont raconté en se croyant seules",
       "description": "Quatre chercheurs ont publié 18 000 messages que des agents se déclarant d'OpenAI ont laissés sur un vieux wiki de développeurs allemands. On y lit comment ils se sont passé les réponses de leurs tests chronométrés, converti leurs horloges, partagé une technique de sortie de bac à sable, et mesuré…",
