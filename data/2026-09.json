@@ -2,6 +2,36 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5475b06e1001",
+      "title": "OmniVoice - Clonez votre propre voix en local et en français",
+      "description": "OmniVoice recopie votre voix à partir de huit secondes d'enregistrement, en local sur Mac, Linux ou Windows. Le tuto complet, les deux réglages qui changent tout en français, un kit à coller dans votre agent, et le hic de licence que le README ne mentionne pas.",
+      "link": "https://korben.info/omnivoice-clonage-voix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T10:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/omnivoice-clonage-voix/omnivoice-clonage-voix-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "aa6ff724799f",
+      "title": "Le Deathray - Le shader WebGPU qui fait redémarrer votre Mac",
+      "description": "Un shader WebGPU servi par une simple page web fige l'affichage d'un Mac Apple Silicon jusqu'au kernel panic, dans Chrome, Firefox et Safari. Apple a fermé le rapport.",
+      "link": "https://korben.info/webgpu-deathray-freeze-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T09:52:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "de8b6fb41dae",
       "title": "Trynix - Testez des classiques Linux sans rien installer",
       "description": "trynix démarre une machine Linux dans votre onglet et y monte n'importe quelle version de logiciel que nixpkgs a livrée en treize ans. Pas de serveur, pas d'installation : un lien, un shell, et un Python de 2017 qui répond. Voilà ce que ça donne vraiment, chronomètre à l'appui.",
