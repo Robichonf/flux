@@ -2,6 +2,34 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "db926ea4bd85",
+      "title": "Jacob Coxon: The Whistleblower Who Will Kill Us All",
+      "description": "The alarmist resignation of an artificial intelligence researcher triggers media panic. Faced with apocalyptic prophecies, I question our credulity, the amplification by social networks, and the responsibility of journalists. An invitation to regain perspective, examine reasoning, and preserve our…",
+      "link": "https://oliviersauvage.com/2026/09/12/jacob-coxon-the-whistleblower-who-will-kill-us-all/",
+      "pubDate": "2026-09-12T06:53:52.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2efe923bf860",
+      "title": "Jacob Coxon : le lanceur d’alerte qui va tous nous tuer",
+      "description": "La démission alarmiste d’un chercheur en intelligence artificielle déclenche une panique médiatique. Face aux prophéties apocalyptiques, je m’interroge sur notre crédulité, l’amplification des réseaux sociaux et la responsabilité des journalistes. Une invitation à retrouver du recul, à examiner les…",
+      "link": "https://oliviersauvage.com/2026/09/12/jacob-coxon-le-lanceur-dalerte-qui-va-tous-nous-tuer/",
+      "pubDate": "2026-09-12T06:41:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5475b06e1001",
       "title": "OmniVoice - Clonez votre propre voix en local et en français",
       "description": "OmniVoice recopie votre voix à partir de huit secondes d'enregistrement, en local sur Mac, Linux ou Windows. Le tuto complet, les deux réglages qui changent tout en français, un kit à coller dans votre agent, et le hic de licence que le README ne mentionne pas.",
