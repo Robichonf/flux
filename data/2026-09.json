@@ -2,6 +2,36 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "9ded055db0c9",
+      "title": "Test Thermal Master P3 : voir ce qui chauffe avec son smartphone",
+      "description": "– Contient des liens affiliés Amazon – Vous savez ce que c'est une caméra thermique ? Oui, probablement, mais au cas où, c'est un appareil qui affiche les écarts de température sous forme de couleurs, pour chercher un défaut d'isolation autour d'une fenêtre par exemple ou repérer un composant qui…",
+      "link": "https://korben.info/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-14T15:10:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "69651edd175d",
+      "title": "Antro pique ?",
+      "description": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Un univers dystopique contrôlé par un gouvernement totalitaire. Des robots, drones et caméras de surveillance qui épient les faits et gestes de la population. Heureusement il ne s'agit pas du futur de notre société (quoi que ?) mais de…",
+      "link": "https://korben.info/test-antro-avis.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-14T13:33:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_4467783065367018152_hu_2303236bf2a4c6c6.webp",
+      "type": "blog"
+    },
+    {
       "id": "f62754f769d2",
       "title": "Tomb Raider peut tourner sur un ESP32-P4",
       "description": "Tomb Raider tourne désormais sur une carte de développement équipée d'un ESP32-P4, un microcontrôleur destiné à piloter des appareils électroniques. Le développeur Alejandro Villegas Alonso, connu sous le pseudo alexkid77, y a adapté OpenLara, le moteur libre qui permet de faire fonctionner le…",
