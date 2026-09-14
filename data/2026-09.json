@@ -2,6 +2,68 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "f62754f769d2",
+      "title": "Tomb Raider peut tourner sur un ESP32-P4",
+      "description": "Tomb Raider tourne désormais sur une carte de développement équipée d'un ESP32-P4, un microcontrôleur destiné à piloter des appareils électroniques. Le développeur Alejandro Villegas Alonso, connu sous le pseudo alexkid77, y a adapté OpenLara, le moteur libre qui permet de faire fonctionner le…",
+      "link": "https://korben.info/tomb-raider-peut-tourner-sur-un-esp32-p4.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-14T09:14:55.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_16339310036476917354_hu_dba4387a20df1896.webp",
+      "type": "blog"
+    },
+    {
+      "id": "07d7be83cc5a",
+      "title": "Apple Configurator - Pour transformer votre iPhone en Dumbphone",
+      "description": "Apple Configurator, l'outil gratuit qu'Apple réserve aux flottes d'entreprise, fait disparaître l'App Store de votre iPhone. Le profil ne se retire plus depuis le téléphone, mais il faut tout effacer pour commencer, et plus aucune app ne se met à jour ensuite.",
+      "link": "https://korben.info/apple-configurator-iphone-dumbphone-temps-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-14T08:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apple-configurator-iphone-dumbphone-temps-ecran/apple-configurator-iphone-dumbphone-temps-ecran-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "2175b2279f2c",
+      "title": "CanoFlash - Du Wi-Fi sur votre GBA (mais pas pour jouer, snif)",
+      "description": "Le CanoFlash branche une Game Boy Advance sur le Wi-Fi par son port Link. Mais le jeu en ligne ne marche qu'avec des homebrews compilés pour son SDK, et son vrai métier, c'est de flasher des cartouches sans PC.",
+      "link": "https://korben.info/gba-link-cable-internet-esp32.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-14T07:42:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_11086602867792644991_hu_2d3625b436a588d2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "06ef4db454d5",
+      "title": "Un orchestrateur ne fait pas une plateforme MLOps",
+      "description": "Un pipeline d’entraînement planifié chaque semaine, quelques tâches qui s’enchaînent et un modèle sauvegardé dans un bucket : à première vue, le système semble industrialisé. Puis, un lundi matin, les pré",
+      "link": "https://blog.ippon.fr/2026/09/14/un-orchestrateur-ne-fait-pas-une-plateforme-mlops/",
+      "pubDate": "2026-09-14T07:27:49.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/exec-1553d920-cf36-470a-ba2f-04c991d80d32.png",
+      "type": "blog"
+    },
+    {
       "id": "db926ea4bd85",
       "title": "Jacob Coxon: The Whistleblower Who Will Kill Us All",
       "description": "The alarmist resignation of an artificial intelligence researcher triggers media panic. Faced with apocalyptic prophecies, I question our credulity, the amplification by social networks, and the responsibility of journalists. An invitation to regain perspective, examine reasoning, and preserve our…",
