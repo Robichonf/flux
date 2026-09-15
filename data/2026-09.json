@@ -2,6 +2,66 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "e7ba10e39d7d",
+      "title": "Kits IA Korben - Des tutos pour vos agents IA",
+      "description": "Je me suis dit qu'en plus du tutoriel, ce que je pouvais vous proposer, c'était des petits fichiers zip qui embarquaient tout le savoir de mon tuto.",
+      "link": "https://korben.info/kits-ia-korben-tutos-agents-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T08:16:10.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/kits-ia-korben-tutos-agents-ia/kits-ia-korben-tutos-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0908115d0708",
+      "title": "TP-Link Deco BE25-5G - Le routeur qui garde la maison",
+      "description": "Pendant mon déménagement, j'ai laissé ce routeur 5G Wi-Fi 7 devant mon ancienne maison, branché sur un onduleur avec une carte SIM dedans, pour garder l'alarme et les caméras en ligne sans ligne fixe. Voilà ce que ça donne, et ce qui manque encore côté micrologiciel.",
+      "link": "https://korben.info/deco-be25-5g-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T08:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/deco-be25-5g-test/deco-be25-5g-test-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b5e8da9ea34e",
+      "title": "GNOME Boxes - L'outil qui monte les VM à votre place",
+      "description": "L'app de virtualisation de GNOME installe votre distrib ou votre Windows dans une VM sans un seul réglage. En échange, elle n'expose ni réseau ni matériel virtuel.",
+      "link": "https://korben.info/gnome-boxes-virtualisation-simple-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T07:23:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gnome-boxes-virtualisation-simple-linux/gnome-boxes-virtualisation-simple-linux-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "81ec44f8775e",
+      "title": "SpruceOS - Le guide pour rhabiller votre console rétro",
+      "description": "spruceOS n'est pas un OS mais un frontend qui se pose sur votre console rétro. Installation pas à pas, jeux, BIOS, et le point où l'on quitte le réversible.",
+      "link": "https://korben.info/spruceos-guide-installation-console-retro.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T06:53:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/spruceos-guide-installation-console-retro/spruceos-guide-installation-console-retro-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "a3e0de4513d6",
       "title": "Liens Tech - Septembre 2026",
       "description": "Ce mois-ci : un enregistreur d'écran dans le navigateur, un tracker d'inventaire domestique, un outil de diapos en markdown, une plateforme d'observabilité et un convertisseur de fichiers universel, avec un documentaire sur la cybersurveillance et des formations Anthropic sur l'IA en bonus.",
