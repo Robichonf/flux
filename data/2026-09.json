@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "a3e0de4513d6",
+      "title": "Liens Tech - Septembre 2026",
+      "description": "Ce mois-ci : un enregistreur d'écran dans le navigateur, un tracker d'inventaire domestique, un outil de diapos en markdown, une plateforme d'observabilité et un convertisseur de fichiers universel, avec un documentaire sur la cybersurveillance et des formations Anthropic sur l'IA en bonus.",
+      "link": "https://domopi.eu/liens-tech-septembre-2026/",
+      "pubDate": "2026-09-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "9ded055db0c9",
       "title": "Test Thermal Master P3 : voir ce qui chauffe avec son smartphone",
       "description": "– Contient des liens affiliés Amazon – Vous savez ce que c'est une caméra thermique ? Oui, probablement, mais au cas où, c'est un appareil qui affiche les écarts de température sous forme de couleurs, pour chercher un défaut d'isolation autour d'une fenêtre par exemple ou repérer un composant qui…",
