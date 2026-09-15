@@ -2,6 +2,81 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "d4740ee6e032",
+      "title": "Test d'une batterie externe et dock magnétique Antank pour Nintendo Switch 2",
+      "description": "– Contient des liens affiliés Amazon – J'ai mis du temps à vous parler de ces deux accessoires Antank pour la Switch 2. Ça fait quelques semaines que je décale ce test, surtout parce que je ne voyais pas bien ce que j'allais raconter sur une batterie externe et un support pour Switch, car je ne…",
+      "link": "https://korben.info/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T15:43:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "04b4313c44ed",
+      "title": "Suyu tire sa révérence sur un mode de recompilation pour jeux Switch",
+      "description": "La dernière version de suyu embarque un mode Recompiler qui traduit à l'avance le code ARM64 d'un jeu Switch en C, à charge pour vous de le compiler. Le JIT et la couche d'émulation restent embarqués, et le dépôt a été refermé neuf jours après la sortie.",
+      "link": "https://korben.info/suyu-recompilation-statique-emulation-switch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T13:53:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8afc0675b85a",
+      "title": "CUDA-for-AMD-Windows - Le .exe NVIDIA pour votre Radeon",
+      "description": "CUDA-for-AMD-Windows est un jeu de scripts PowerShell qui monte une pile ZLUDA et HIP SDK figée, pour lancer sur une Radeon sous Windows le logiciel qui exige CUDA et que vous ne pouvez pas recompiler. Les empreintes SHA-256 sont vérifiées au téléchargement, une seule carte est réellement validée,…",
+      "link": "https://korben.info/zluda-hip-cuda-radeon-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T13:28:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8a929741cb0",
+      "title": "OpenDisplay - Étendre l'affichage Mac avec ce que vous avez sous la main",
+      "description": "OpenDisplay fait de votre iPhone, de votre iPad ou d'un vieux Mac un vrai second écran pour votre Mac, et pas une simple recopie du bureau. C'est gratuit, c'est sous GPL, et contrairement à Sidecar ça fonctionne avec un iPhone et avec deux comptes Apple différents. Par contre, branchez le câble :…",
+      "link": "https://korben.info/opendisplay-ecran-secondaire-iphone-ipad-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T13:13:09.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_17799523780642374986_hu_14534a1a8a5271df.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ef40c965cb61",
+      "title": "Windows 11 - Un clic sur le bon lien et hop, vous avez un compte local",
+      "description": "Sur l'écran qui réclame un compte Microsoft pendant l'installation de Windows 11 Home, cliquer le petit lien Learn more ouvre directement la création d'un compte local. Deux rédactions l'ont testé et répliqué.",
+      "link": "https://korben.info/bypass-compte-microsoft-windows-11.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T11:49:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e7ba10e39d7d",
       "title": "Kits IA Korben - Des tutos pour vos agents IA",
       "description": "Je me suis dit qu'en plus du tutoriel, ce que je pouvais vous proposer, c'était des petits fichiers zip qui embarquaient tout le savoir de mon tuto.",
@@ -74,6 +149,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2df56b025a73",
+      "title": "Un ralentissement du développement de l'IA ?",
+      "description": "Coup de théâtre, plusieurs acteurs de l’IA demandent un ralentissement sur le développement des modèles frontières et la mise en place d’une régulation. Les progrès de l’IA seraient trop rapides et pourraient poser de sérieux problèmes à l’avenir.",
+      "link": "https://eventuallycoding.com/p/un-ralentissement-du-developpement-de-l-ia",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1789479275601-4salxv9.png",
       "type": "blog"
     },
     {
