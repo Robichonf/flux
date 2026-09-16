@@ -2,6 +2,35 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "d95542d8cbb1",
+      "title": "Is there still a point in organising in-person B2B events ?",
+      "description": "In a challenging economic context, in-person B2B marketing events retain advantages over digital. They foster essential human relationships for return on investment. A good strategy involves segmenting the audience by workshops, sharing client experiences, and following up with participants after…",
+      "link": "https://oliviersauvage.com/2026/09/16/is-there-still-a-point-in-organising-in-person-b2b-events/",
+      "pubDate": "2026-09-16T14:36:11.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "14b3642501dc",
+      "title": "Shuffle Drummer - FL Studio n'a qu'à bien se tenir",
+      "description": "Shuffle Drummer est la boîte à rythmes en ligne de Mani Deïz, beatmaker du rap indépendant français. Séquenceur qui décale les pas au tick, sampler qui retire la batterie d'une boucle pour n'en garder que la mélodie, seize effets sur le master et export en stems. C'est gratuit et tout se calcule…",
+      "link": "https://korben.info/shuffle-drummer-groovebox-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-16T13:33:01.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/shuffle-drummer-groovebox-navigateur/shuffle-drummer-groovebox-navigateur-2.png",
+      "type": "blog"
+    },
+    {
       "id": "59ff15e78f60",
       "title": "Quel intérêt avons-nous encore à organiser des évènements B2B en présentiel ?",
       "description": "Dans un contexte économique difficile, les évènements marketing B2B en présentiel conservent des avantages par rapport au digital. Ils favorisent des relations humaines indispensables pour le retour sur investissement. Une bonne stratégie consiste à segmenter le public par ateliers, à partager des…",
@@ -43,6 +72,22 @@
         "Web"
       ],
       "image": "https://korben.info/forge-apps-education-enseignants-code/forge-apps-education-enseignants-code-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "78629cd8d5f1",
+      "title": "N+1 GraphQL dans NestJS : le détecter et le corriger avec NestJS Profiler",
+      "description": "Une query GraphQL NestJS peut cacher un N+1 : 10 allers-retours SQL, MongoDB et HTTP pour 4 produits. Détectez-le avec NestJS Profiler, corrigez-le avec DataLoader et vérifiez le gain.",
+      "link": "https://blog.eleven-labs.com/fr/diagnostiquer-n-plus-un-graphql-nestjs-profiler/",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
