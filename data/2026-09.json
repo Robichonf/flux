@@ -2,6 +2,50 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "59ff15e78f60",
+      "title": "Quel intérêt avons-nous encore à organiser des évènements B2B en présentiel ?",
+      "description": "Dans un contexte économique difficile, les évènements marketing B2B en présentiel conservent des avantages par rapport au digital. Ils favorisent des relations humaines indispensables pour le retour sur investissement. Une bonne stratégie consiste à segmenter le public par ateliers, à partager des…",
+      "link": "https://oliviersauvage.com/2026/09/16/quel-interet-avons-nous-encore-a-organiser-des-evenements-b2b-en-presentiel/",
+      "pubDate": "2026-09-16T09:04:47.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "812c603097cc",
+      "title": "Fuse-archive - Vos ZIP montés en dossiers ordinaires",
+      "description": "fuse-archive monte n'importe quelle archive comme un dossier en lecture seule, et même plusieurs d'un coup fusionnées dans la même arborescence : ZIP, 7z, RAR, ISO, mais aussi vos DOCX et vos APK, et jusqu'au ZIP chiffré en AES-256 qu'il vous laisse lire sans copie en clair. Reste à savoir ce que…",
+      "link": "https://korben.info/mount-archive-monter-archives-comme-un-dossier.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-16T07:49:19.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8cadb9d34411",
+      "title": "La Forge - Le GitLab public des profs codeurs",
+      "description": "Le ministère de l'Éducation nationale fait tourner son propre GitLab CE, public et consultable sans compte : 12 896 projets, 15 638 membres, licence libre obligatoire à la racine de chaque dépôt, et des profs qui fabriquent leurs applis pédagogiques avec de l'IA.",
+      "link": "https://korben.info/forge-apps-education-enseignants-code.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-16T07:35:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/forge-apps-education-enseignants-code/forge-apps-education-enseignants-code-2.png",
+      "type": "blog"
+    },
+    {
       "id": "d4740ee6e032",
       "title": "Test d'une batterie externe et dock magnétique Antank pour Nintendo Switch 2",
       "description": "– Contient des liens affiliés Amazon – J'ai mis du temps à vous parler de ces deux accessoires Antank pour la Switch 2. Ça fait quelques semaines que je décale ce test, surtout parce que je ne voyais pas bien ce que j'allais raconter sur une batterie externe et un support pour Switch, car je ne…",
