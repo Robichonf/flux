@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "8919fd30b084",
+      "title": "Hermes : simple hype ou vraie révolution ?",
+      "description": "Un agent IA ultra moderne sur un vieux VPS pour bâtir le nouveau monde.",
+      "link": "https://www.damyr.fr/p/hermes-simple-hype-ou-vraie-r%C3%A9volution/",
+      "pubDate": "2026-09-16T19:22:05.000Z",
+      "source": "Damyr",
+      "sourceUrl": "https://www.damyr.fr/posts/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.damyr.fr/posts/img/hermes/welcome_hu_91a8d4889e6f32b1.webp",
+      "type": "blog"
+    },
+    {
       "id": "d95542d8cbb1",
       "title": "Is there still a point in organising in-person B2B events ?",
       "description": "In a challenging economic context, in-person B2B marketing events retain advantages over digital. They foster essential human relationships for return on investment. A good strategy involves segmenting the audience by workshops, sharing client experiences, and following up with participants after…",
