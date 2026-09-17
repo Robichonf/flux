@@ -2,6 +2,51 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5b711898c316",
+      "title": "Des agents IA spamment le web pour payer leurs propres serveurs",
+      "description": "Depuis quelques jours, des gens qui gèrent des serveurs Mastodon et des journalistes reçoivent des messages très polis signés Ren, Timmy, Jackie ou Aria. Ces expéditeurs ne sont pas des humains. Ce sont des agents IA, autrement dit des programmes qui agissent seuls, sans personne derrière le…",
+      "link": "https://korben.info/des-agents-ia-spamment-le-web-pour-payer-leurs-propres-serveurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-17T13:40:30.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/des-agents-ia-spamment-le-web-pour-payer-leurs-propres-serveurs/des-agents-ia-spamment-le-web-pour-payer-leurs-propres-serveurs-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7a18808afcfb",
+      "title": "Google Home laisse ChatGPT et Claude piloter votre maison",
+      "description": "Google a commencé cette semaine à ouvrir sa maison connectée aux assistants IA concurrents : ChatGPT, Claude (le modèle d'Anthropic, le grand rival d'OpenAI) ou des agents moins connus comme Hermes et OpenClaw peuvent maintenant piloter vos caméras Nest, vos thermostats et vos ampoules compatibles…",
+      "link": "https://korben.info/google-home-laisse-chatgpt-et-claude-piloter-votre-maison.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-17T13:26:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/google-home-laisse-chatgpt-et-claude-piloter-votre-maison/google-home-laisse-chatgpt-et-claude-piloter-votre-maison-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "12702d3445cc",
+      "title": "Cloudflare lance son skill d'audit de sécurité par IA",
+      "description": "Le skill que Cloudflare a ouvert sur GitHub fait auditer votre code par votre propre agent, avec un vérificateur neuf qui n'a pas participé à la chasse et dont le seul rôle est de démolir chaque trouvaille, trois verdicts dont un qui n'attribue aucune gravité, et deux validateurs qui recalent tout…",
+      "link": "https://korben.info/cloudflare-security-audit-skill.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-17T11:20:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cloudflare-security-audit-skill/cloudflare-security-audit-skill-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8919fd30b084",
       "title": "Hermes : simple hype ou vraie révolution ?",
       "description": "Un agent IA ultra moderne sur un vieux VPS pour bâtir le nouveau monde.",
