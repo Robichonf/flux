@@ -2,6 +2,50 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "6bb643f01585",
+      "title": "B2Biz #3 – Réinventer son marketing B2B à l’ère de l’IA avec Fabian Delhaxe",
+      "description": "Dans cet épisode de B2Biz, Fabian Delhaxe, expert en marketing B2B, discute de l'importance du branding, de l'impact de l'IA sur le SEO et des opportunités offertes par LinkedIn. Il souligne la nécessité d'allier authenticité et innovation pour capter l'attention des audiences modernes tout en…",
+      "link": "https://oliviersauvage.com/2026/09/17/b2biz-3-reinventer-son-marketing-b2b-a-lere-de-lia-avec-fabian-delhaxe/",
+      "pubDate": "2026-09-17T15:30:09.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c4492bc4377f",
+      "title": "Fugleramme - Le cadre qui dessine les oiseaux qu'il entend",
+      "description": "Fugleramme accroche au mur un panneau e-ink qui affiche, en planches naturalistes du XIXe siècle découpées à la main, les oiseaux que le micro du jardin a entendus dans la journée. La reconnaissance tourne sur le Raspberry Pi avec BirdNET-Go, le collage dimensionne chaque espèce selon sa masse…",
+      "link": "https://korben.info/fugleramme-detection-oiseaux-eink.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-17T15:15:41.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fugleramme-detection-oiseaux-eink/fugleramme-detection-oiseaux-eink-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7da2fb8865e1",
+      "title": "MechaCon - La puce qui condamnait les PS2 enfin hackée",
+      "description": "Le firmware du MechaCon des premières PS2 est sorti après quatre ans de décapsulation et de microscope. Pas d'émulateur de lecteur optique à la clé, contrairement à ce qui se lit un peu partout, mais une puce de remplacement devient envisageable pour une console que ce composant mort transforme en…",
+      "link": "https://korben.info/mechacon-ps2-craque-retro-ingenierie.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-17T14:56:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mechacon-ps2-craque-retro-ingenierie/mechacon-ps2-craque-retro-ingenierie-1.png",
+      "type": "blog"
+    },
+    {
       "id": "5b711898c316",
       "title": "Des agents IA spamment le web pour payer leurs propres serveurs",
       "description": "Depuis quelques jours, des gens qui gèrent des serveurs Mastodon et des journalistes reçoivent des messages très polis signés Ren, Timmy, Jackie ou Aria. Ces expéditeurs ne sont pas des humains. Ce sont des agents IA, autrement dit des programmes qui agissent seuls, sans personne derrière le…",
