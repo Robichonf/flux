@@ -2,6 +2,36 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "e12f9f57ab92",
+      "title": "Linux sur PS5 Pro n'arrivera pas tout de suite",
+      "description": "Andy Nguyen a annoncé le 15 septembre qu'il quittait la scène PS5 et arrêtait PS5 Linux, emportant avec lui le support de la PS5 Pro et la sortie visée pour 2027. Il avait demandé qu'on attende GTA 6 avant de signaler la dernière faille d'hyperviseur à Sony ; deux jours plus tard, c'était fait. Ce…",
+      "link": "https://korben.info/ps5-linux-developpeur-principal-abandonne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-18T08:27:24.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6085e6f42e6e",
+      "title": "Mes 2 nouveaux interrupteurs Sonoff Zigbee",
+      "description": "Deux modules Sonoff Zigbee posés dans mon bureau en dix minutes, un pour la lumière et un pour le volet roulant, et une soirée entière perdue sur Alexa : ajoutés à la même seconde au même pont Matter, l'interrupteur est apparu et le volet n'a jamais existé. Les journaux du pont disent pourquoi, et…",
+      "link": "https://korben.info/sonoff-volet-lumiere-zigbee-bureau.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-18T08:07:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/sonoff-volet-lumiere-zigbee-bureau/sonoff-volet-lumiere-zigbee-bureau-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "6bb643f01585",
       "title": "B2Biz #3 – Réinventer son marketing B2B à l’ère de l’IA avec Fabian Delhaxe",
       "description": "Dans cet épisode de B2Biz, Fabian Delhaxe, expert en marketing B2B, discute de l'importance du branding, de l'impact de l'IA sur le SEO et des opportunités offertes par LinkedIn. Il souligne la nécessité d'allier authenticité et innovation pour capter l'attention des audiences modernes tout en…",
