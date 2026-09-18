@@ -2,6 +2,36 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "2c31bfcfc2ab",
+      "title": "Comment mesurer et dégonfler l'index de recherche de Windows",
+      "description": "L'index de recherche de Windows garde l'espace qu'il a pris, même quand les fichiers ont disparu. Mesurez le vôtre en une commande, puis ramenez-le à sa taille utile.",
+      "link": "https://korben.info/windows-search-indexation-etendue-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-18T13:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-search-indexation-etendue-ssd/windows-search-indexation-etendue-ssd-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "72ab67b49aca",
+      "title": "Calibre lance le livre dont vous êtes le héros, généré par IA",
+      "description": "Calibre 9.15 embarque un jeu d'aventure narratif piloté par une IA, qu'il faut aller activer soi-même dans les préférences. On décrit un monde en quelques lignes, le logiciel en tire un décor et des personnages, et chaque partie ressort en EPUB dans la bibliothèque. J'ai branché un modèle local…",
+      "link": "https://korben.info/calibre-9-15-jeu-aventure-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-18T10:21:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/calibre-9-15-jeu-aventure-ia/calibre-9-15-jeu-aventure-ia-2.png",
+      "type": "blog"
+    },
+    {
       "id": "e12f9f57ab92",
       "title": "Linux sur PS5 Pro n'arrivera pas tout de suite",
       "description": "Andy Nguyen a annoncé le 15 septembre qu'il quittait la scène PS5 et arrêtait PS5 Linux, emportant avec lui le support de la PS5 Pro et la sortie visée pour 2027. Il avait demandé qu'on attende GTA 6 avant de signaler la dernière faille d'hyperviseur à Sony ; deux jours plus tard, c'était fait. Ce…",
