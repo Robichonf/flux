@@ -2,6 +2,36 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "c1d04ca9fc83",
+      "title": "Bonjourr - La page de démarrage navigateur minimaliste",
+      "description": "Bonjourr remplace la page de nouvel onglet de votre navigateur par une page qui vous ressemble, gratuitement et en open source. Et sa doc dit ce qui sort sur le réseau.",
+      "link": "https://korben.info/bonjourr-extension-page-accueil-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-21T09:51:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/bonjourr-extension-page-accueil-navigateur/bonjourr-extension-page-accueil-navigateur-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e7af764f65ee",
+      "title": "Méfiez-vous du mouchard de ChatGPT",
+      "description": "OpenAI pose sur votre navigateur un cookie qui repart depuis les sites marchands, et le classe parmi les cookies analytiques. Refuser le marketing ne l'empêche donc pas. Voilà ce qui part vraiment, et la seule parade qui coupe tout.",
+      "link": "https://korben.info/chatgpt-ad-collector-tracking.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-21T08:58:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/chatgpt-ad-collector-tracking/chatgpt-ad-collector-tracking-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ac38f25fb04e",
       "title": "Facturation électronique - Ce qui vous concerne vraiment depuis le 1er septembre",
       "description": "J'espère que si vous avez une entreprise, vous êtes au courant de cette information, car depuis le 1er septembre, la facturation électronique a été mise en place. La communication autour de ça a été assez chaotique et j’ai vu circuler tout et son contraire sur le sujet. Par exemple, des indés…",
