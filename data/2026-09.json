@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "ac38f25fb04e",
+      "title": "Facturation électronique - Ce qui vous concerne vraiment depuis le 1er septembre",
+      "description": "J'espère que si vous avez une entreprise, vous êtes au courant de cette information, car depuis le 1er septembre, la facturation électronique a été mise en place. La communication autour de ça a été assez chaotique et j’ai vu circuler tout et son contraire sur le sujet. Par exemple, des indés…",
+      "link": "https://korben.info/freebe-facturation-electronique-independants.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-21T06:18:02.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/freebe-facturation-electronique-independants/freebe-facturation-electronique-independants-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8a19d15cee30",
       "title": "Homebrew, Docker, nvm, worktrees : une seule commande pour tout nettoyer",
       "description": "Ma fonction Zsh update : topgrade, Homebrew, Docker, nvm et les worktrees Claude Code sous une seule commande, avec un bilan d'espace en Go.",
