@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "d737c26db280",
+      "title": "Veeam Agent pour Windows - Une faille qui donne les droits SYSTEM",
+      "description": "Un exploit public circule depuis le 14 septembre pour CVE-2026-32996, une faille de Veeam Agent pour Windows qui fait passer un utilisateur local sans droits au compte SYSTEM. Elle touche la branche 13 jusqu'au build 13.0.2.1102, et Arctic Wolf signale déjà des attaques. Le correctif existe depuis…",
+      "link": "https://korben.info/veeam-agent-windows-faille-droits-system.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-23T13:04:32.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8fa6dcc9da21",
       "title": "Rentahuman.ai: the website where AIs employ humans",
       "description": "Rentahuman.ai is a website where AI agents can \"hire\" humans for tasks that the latter cannot perform themselves. Even if it is only a playful experiment, this idea raises questions about the future of work and the abilities of AIs, which, according to the article, do not have autonomous will.…",
