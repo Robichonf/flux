@@ -2,6 +2,49 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "8fa6dcc9da21",
+      "title": "Rentahuman.ai: the website where AIs employ humans",
+      "description": "Rentahuman.ai is a website where AI agents can \"hire\" humans for tasks that the latter cannot perform themselves. Even if it is only a playful experiment, this idea raises questions about the future of work and the abilities of AIs, which, according to the article, do not have autonomous will.…",
+      "link": "https://oliviersauvage.com/2026/09/23/rentahuman-ai-the-website-where-ais-employ-humans/",
+      "pubDate": "2026-09-23T10:00:26.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3976465e6554",
+      "title": "The Hidden Side of Vibe Coding",
+      "description": "Vibe coding, promoted by AI companies, appears to simplify application development, but this ease is deceptive. While the tools allow for rapid creations, building ambitious projects requires patience and skills. This new entrepreneurial paradigm demands versatility and tenacity, a reality often…",
+      "link": "https://oliviersauvage.com/2026/09/23/the-hidden-side-of-vibe-coding/",
+      "pubDate": "2026-09-23T09:53:45.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "940e74602cb6",
+      "title": "Le Schleswig-Holstein vire (presque) Windows de sa chancellerie",
+      "description": "Plus de 200 agents de la chancellerie du Schleswig-Holstein bossent désormais sous Linux. Reste une vingtaine de postes Windows, et 30 000 agents à suivre.",
+      "link": "https://korben.info/schleswig-holstein-chancellerie-passe-a-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-23T07:48:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/schleswig-holstein-chancellerie-passe-a-linux/schleswig-holstein-chancellerie-passe-a-linux-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "89c9d3c7e1f5",
       "title": "Cybersécurité pour développeurs : 6 pièges qu'on voit chez nos clients",
       "description": "En 2025, l'exploitation de vulnérabilités a dépassé le vol d'identifiants comme premier point d'entrée des brèches. Injection SQL, XSS, secrets en dur, dépendances vulnérables, race conditions, IDOR : 6 pièges vus en mission chez nos clients, le correctif, et quand déléguer à la cybersécurité.",
