@@ -2,6 +2,38 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "89c9d3c7e1f5",
+      "title": "Cybersécurité pour développeurs : 6 pièges qu'on voit chez nos clients",
+      "description": "En 2025, l'exploitation de vulnérabilités a dépassé le vol d'identifiants comme premier point d'entrée des brèches. Injection SQL, XSS, secrets en dur, dépendances vulnérables, race conditions, IDOR : 6 pièges vus en mission chez nos clients, le correctif, et quand déléguer à la cybersécurité.",
+      "link": "https://blog.ippon.fr/2026/09/23/cybersecurite-pour-developpeurs-6-pieges-quon-voit-chez-nos-clients/",
+      "pubDate": "2026-09-23T07:17:16.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/corporate_9.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3f5cc0f3149a",
+      "title": "Une VM qui s'évade vers son hôte, faut-il paniquer ?",
+      "description": "CVE-2026-89775 laisse une VM invitée s'évader vers son hôte ARM64. Grosse note à 9,3, mais un périmètre étroit : voici comment savoir si vous êtes concerné.",
+      "link": "https://korben.info/faille-noyau-linux-arm64-kvm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-23T06:45:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e535556d8428",
       "title": "curl.md - Récupérez le texte de n'importe quelle page web au format Markdown",
       "description": "curl.md convertit n'importe quelle page publique en Markdown : vous collez curl.md/ devant l'adresse, dans le navigateur ou avec curl, et vous récupérez le texte sans le décor. Une option objectif renvoie même le seul passage qui vous intéresse.",
