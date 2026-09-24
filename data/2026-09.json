@@ -2,6 +2,80 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "c039a1004115",
+      "title": "Que faire avec un port M.2 libre ? 6 gadgets à y brancher à la place d'un SSD",
+      "description": "Un port M.2 libre, c'est une prise PCIe. Carte réseau 5 ou 10 GbE, Hailo-8 pour Frigate, eGPU en OCuLink, USB-C, SATA ou Wi-Fi 6E : quoi y brancher, et quoi vérifier avant.",
+      "link": "https://korben.info/port-m2-libre-cartes-autres-que-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-24T13:26:37.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/port-m2-libre-cartes-autres-que-ssd/port-m2-libre-cartes-autres-que-ssd-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1faf19e360a7",
+      "title": "Comment Kozykod révolutionne les applications d’entreprise grâce au no-code",
+      "description": "Dans cet épisode de B2Biz, Michael Delvoye, fondateur de Misyl et de Kozykod, discute de l'automatisation des processus métiers, des solutions No-code et Low-code, et de la souveraineté des données. Il explique comment Kozykod améliore la productivité en remplaçant les systèmes Excel critiques,…",
+      "link": "https://oliviersauvage.com/2026/09/24/comment-kozykod-revolutionne-les-applications-dentreprise-grace-au-no-code/",
+      "pubDate": "2026-09-24T13:11:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f5159b103c6",
+      "title": "Surfshark ne vous rend pas invisible, mais il peut changer le décor",
+      "description": "-- Article en partenariat avec Surfshark -- Vous êtes chez vous, vous vous connectez au Wi-Fi du bureau, puis à celui d’un hôtel ou d’un café. Pour vous, ce sont simplement quatre réseaux différents. Pour les sites que vous consultez, c’est surtout plusieurs occasions de récupérer votre adresse IP,…",
+      "link": "https://korben.info/surfshark-ne-vous-rend-pas-invisible.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-24T09:23:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/surfshark-ne-vous-rend-pas-invisible/surfshark-ne-vous-rend-pas-invisible-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "43a8db27dc68",
+      "title": "Openpilot - La NHTSA passe les boîtiers de Comma au crible",
+      "description": "La NHTSA a ouvert le 21 septembre une enquête préliminaire sur les boîtiers de comma et sur openpilot, après cinq accidents contre des véhicules arrêtés ou lents, dont deux mortels. Les rapports montrent un fork, un régulateur Honda et openpilot 0.11, et l'agence évaluera aussi les garde-fous du…",
+      "link": "https://korben.info/comma-openpilot-enquete-nhtsa.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-24T06:06:06.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/comma-openpilot-enquete-nhtsa/comma-openpilot-enquete-nhtsa-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "97f2ee84c17b",
+      "title": "Claude Code vous fait choisir entre vie privée et AGENTS.md",
+      "description": "Depuis la 2.1.277, Claude Code lit les fichiers AGENTS.md, sauf si vous avez coupé sa télémétrie. La fonction dépend d'un feature flag récupéré chez Anthropic, et sans lui le fichier saute sans prévenir, runners de CI compris. Un CLAUDE.md d'une ligne, @AGENTS.md, posé à côté règle le problème.",
+      "link": "https://korben.info/claude-code-agents-md-telemetrie.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-24T05:49:17.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5b5220611151",
       "title": "Jev, la nouvelle IA ultra-performante",
       "description": "Le 15 septembre, TypeSafe Ai sa première IA fonctionnant avec un One System Model: Jev. En voici un aperçu. L’article Jev, la nouvelle IA ultra-performante est apparu en premier sur OlivierSauvage.com.",
