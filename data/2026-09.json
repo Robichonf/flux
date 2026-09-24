@@ -2,6 +2,20 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5b5220611151",
+      "title": "Jev, la nouvelle IA ultra-performante",
+      "description": "Le 15 septembre, TypeSafe Ai sa première IA fonctionnant avec un One System Model: Jev. En voici un aperçu. L’article Jev, la nouvelle IA ultra-performante est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/24/jev-la-nouvelle-ia-ultra-performante/",
+      "pubDate": "2026-09-24T05:09:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d737c26db280",
       "title": "Veeam Agent pour Windows - Une faille qui donne les droits SYSTEM",
       "description": "Un exploit public circule depuis le 14 septembre pour CVE-2026-32996, une faille de Veeam Agent pour Windows qui fait passer un utilisateur local sans droits au compte SYSTEM. Elle touche la branche 13 jusqu'au build 13.0.2.1102, et Arctic Wolf signale déjà des attaques. Le correctif existe depuis…",
