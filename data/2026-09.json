@@ -2,6 +2,98 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "8a8a82b77513",
+      "title": "Top Gun à Landivisiau",
+      "description": "Après Iron Man cet été, Un odieux connard sort une fausse bande-annonce de Top Gun à la française : les meilleurs pilotes américains partent en échange à Landivisiau, et la mission impossible consiste à poster une lettre avant la fermeture de La Poste. Bravo l'artiste.",
+      "link": "https://korben.info/top-gun-made-in-france-landivisiau.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-25T11:10:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/sddefault_7323764718001312292_hu_152f2bd24f76251d.webp",
+      "type": "blog"
+    },
+    {
+      "id": "690667cff5e5",
+      "title": "FxTwitter - L'API gratuite pour lire X sans compte",
+      "description": "Le projet open source qui répare les liens X dans Discord cache une API gratuite : api.fxtwitter.com rend un post public en JSON, avec sa traduction, sa vidéo en MP4 et le flux RSS du compte, sans compte ni clé. Pratique depuis la chute de Nitter, mais FxTwitter interroge lui aussi X avec de vrais…",
+      "link": "https://korben.info/api-fxtwitter-lire-x-sans-compte.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-25T09:34:54.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/api-fxtwitter-lire-x-sans-compte/api-fxtwitter-lire-x-sans-compte-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "34291dd2deb7",
+      "title": "Floci - L'émulateur AWS open source qui tourne en local",
+      "description": "Depuis mars, LocalStack réclame un compte et un jeton, et son offre gratuite interdit l'usage commercial. Floci, un émulateur AWS local sous licence MIT, reprend le port 4566, les variables et les scripts d'init de LocalStack, sans compte ni jeton. Testé avec S3, DynamoDB et Lambda, avec un piège à…",
+      "link": "https://korben.info/floci-emulateur-aws-local-alternative-localstack.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-25T09:04:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/floci-emulateur-aws-local-alternative-localstack/floci-emulateur-aws-local-alternative-localstack-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "644633fa469d",
+      "title": "Meeting Recorder - Vos visios transcrites en local sous Omarchy",
+      "description": "Meeting Recorder enregistre vos visios sous Omarchy sans bot, sur deux pistes qui séparent votre voix de celle des autres, et transcrit tout en local avec whisper. Seuls les chapitres passent par l'agent IA réglé dans Omarchy, et pour l'instant la version 1.1.1 plante sur les processeurs sans…",
+      "link": "https://korben.info/omarchy-meeting-recorder-transcription-locale.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-25T08:36:14.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/omarchy-meeting-recorder-transcription-locale/omarchy-meeting-recorder-transcription-locale-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "27f08fc22b3d",
+      "title": "Nantes Craft 2026",
+      "description": "Retour sur la 2e édition de Nantes Craft avec Ippon Technologies : découvrez notre résumé des conférences les plus captivantes de cette édition",
+      "link": "https://blog.ippon.fr/2026/09/25/nantes-craft-2026/",
+      "pubDate": "2026-09-25T08:24:09.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/PXL_20260910_133655569.MP.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1f3348b533f3",
+      "title": "Une IA a terminé NetHack de justesse !",
+      "description": "Le 21 septembre, GPT-6 Astra a gagné une partie de NetHack sur le serveur Hardfought, au troisième essai. Avant ça, une mort par slime au niveau 51 et un rayon de mort au Château. Récit des trois parties, et de ce que cette victoire ne prouve pas.",
+      "link": "https://korben.info/ia-termine-nethack.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-25T07:27:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ia-termine-nethack/ia-termine-nethack-2.png",
+      "type": "blog"
+    },
+    {
       "id": "c039a1004115",
       "title": "Que faire avec un port M.2 libre ? 6 gadgets à y brancher à la place d'un SSD",
       "description": "Un port M.2 libre, c'est une prise PCIe. Carte réseau 5 ou 10 GbE, Hailo-8 pour Frigate, eGPU en OCuLink, USB-C, SATA ou Wi-Fi 6E : quoi y brancher, et quoi vérifier avant.",
