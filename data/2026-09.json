@@ -2,6 +2,35 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "0ec89a0d1073",
+      "title": "Customer relations, purchase assistance, sales: regaining control of your chatbots",
+      "description": "Chatbots, initially perceived as an ideal solution for customer service, can generate unforeseen problems, such as erroneous advice or unsolicited recommendations. Companies must analyze and improve their operation, while leveraging customer interactions to create relevant content and effectively…",
+      "link": "https://oliviersauvage.com/2026/09/28/customer-relations-purchase-assistance-sales-regaining-control-of-your-chatbots/",
+      "pubDate": "2026-09-28T13:25:26.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff41391a0145",
+      "title": "ArseneLupin - Le JEV Like d'Ibou qui décide au lieu de bavarder",
+      "description": "Ibou publie ArseneLupin, trois modèles ouverts qui répondent à vos questions par oui, non, un choix ou une note, avec des probabilités, sur la même forme de requête que Jev. Installation sur Mac, tri de veille et modération en français, et ce que valent vraiment ces chiffres.",
+      "link": "https://korben.info/arsenelupin-modele-de-decision-local-ibou.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-28T10:54:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/arsenelupin-modele-de-decision-local-ibou/arsenelupin-modele-de-decision-local-ibou-2.png",
+      "type": "blog"
+    },
+    {
       "id": "721b986d2d35",
       "title": "AI in B2 SMEs: Artificial Intelligence, the bane of bosses?",
       "description": "Many people feel lost when faced with omnipresent AI tools, unable to benefit from them. Although these technologies have a big potential of boosting productivity, their incorporation into businesses is hampered by managerial resistance and fears. The transformation is slowed by a rigid…",
