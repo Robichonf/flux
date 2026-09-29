@@ -92,6 +92,22 @@
       "type": "blog"
     },
     {
+      "id": "ae7d66e30a56",
+      "title": "Auto-unseal d'OpenBao avec le KMS d'OVHcloud",
+      "description": "Sceller la root key d'OpenBao avec une clé AES-256 qui ne quitte jamais le KMS d'OVHcloud, via le seal KMIP intégré",
+      "link": "https://une-tasse-de.cafe/expresso/openbao-unseal-ovh-kms/",
+      "pubDate": "2026-09-28T16:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "0ec89a0d1073",
       "title": "Customer relations, purchase assistance, sales: regaining control of your chatbots",
       "description": "Chatbots, initially perceived as an ideal solution for customer service, can generate unforeseen problems, such as erroneous advice or unsolicited recommendations. Companies must analyze and improve their operation, while leveraging customer interactions to create relevant content and effectively…",
