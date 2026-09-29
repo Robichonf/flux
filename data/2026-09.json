@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "ea6c545dfffb",
+      "title": "DLSS 5 sur Radeon, ça fonctionne",
+      "description": "DLSS-NR on AMD fait tourner le Neural Rendering du DLSS 5 sur une Radeon RX 9000, mais il faut fournir soi-même une DLL Nvidia et faire confiance à un exécutable fermé. XDA mesure une chute de 90 à moins de 20 FPS en 4K, contre 60 FPS en 1080p.",
+      "link": "https://korben.info/dlss-5-radeon-mod.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-29T10:50:18.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7c2bac369af6",
       "title": "NESCD - Un lecteur CD pour la NES",
       "description": "Throaty Mumbo a branché un lecteur CD à une NES : le jeu se lit sur le disque, puis démarre via une Everdrive. Le dépôt est en MIT, mais sans le Mario de la vidéo.",
