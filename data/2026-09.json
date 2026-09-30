@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "719075809e58",
+      "title": "Exodium - Les jeux DOS d'eXo enfin jouables sur Mac",
+      "description": "Exodium fait tourner les collections eXo (DOS, Windows 3.x et 9x, ScummVM) sur un Mac Apple Silicon, où eXo ne tourne pas officiellement, et sur Linux. Pas besoin de télécharger la collection d'avance : chaque jeu arrive par torrent au clic. Deux concessions à connaître, côté DOSBox ECE et côté…",
+      "link": "https://korben.info/exodium-lanceur-exodos-linux-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-30T05:18:26.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/exodium-lanceur-exodos-linux-macos/exodium-lanceur-exodos-linux-macos-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ea6c545dfffb",
       "title": "DLSS 5 sur Radeon, ça fonctionne",
       "description": "DLSS-NR on AMD fait tourner le Neural Rendering du DLSS 5 sur une Radeon RX 9000, mais il faut fournir soi-même une DLL Nvidia et faire confiance à un exécutable fermé. XDA mesure une chute de 90 à moins de 20 FPS en 4K, contre 60 FPS en 1080p.",
