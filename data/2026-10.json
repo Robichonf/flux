@@ -2,6 +2,35 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d45a91290e4b",
+      "title": "Cybersécurité industrielle : comment protéger son usine sans arrêter la production ?",
+      "description": "Dans cet épisode de B2Biz, Matthieu Bonenfant, expert en cybersécurité, discute des risques des cyberattaques pour les PME industrielles. Il souligne l'importance de sécuriser même les machines anciennes et partage des conseils pratiques pour identifier les vulnérabilités, en insistant sur le fait…",
+      "link": "https://oliviersauvage.com/2026/10/01/cybersecurite-industrielle-comment-proteger-son-usine-sans-arreter-la-production/",
+      "pubDate": "2026-10-01T17:08:04.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e4adffa78f6c",
+      "title": "AirCard - Relookez vos cartes bancaires dans Apple Pay",
+      "description": "AirCard remplace le visuel d'une carte dans Apple Wallet depuis un Mac relié en USB, sans jailbreak, grâce à la faille AirLift. Le tuto déroule l'installation, le scan, le flash et les limites : en version 1.2.5, aucun bouton ne remet le visuel d'origine.",
+      "link": "https://korben.info/aircard-personnaliser-cartes-apple-wallet-iphone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-01T15:28:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/aircard-personnaliser-cartes-apple-wallet-iphone/aircard-personnaliser-cartes-apple-wallet-iphone-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8c02c4d69256",
       "title": "Brothers",
       "description": "Sam, Grace et leurs deux filles forment une famille parfaite. Quand Sam part en mission pour l'ONU et est porté disparu, présumé mort, son frère Tommy, tout juste sorti de prison, se rapproche de Grace, jusqu'au retour inattendu de Sam du front.",
