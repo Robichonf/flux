@@ -2,6 +2,21 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "8c02c4d69256",
+      "title": "Brothers",
+      "description": "Sam, Grace et leurs deux filles forment une famille parfaite. Quand Sam part en mission pour l'ONU et est porté disparu, présumé mort, son frère Tommy, tout juste sorti de prison, se rapproche de Grace, jusqu'au retour inattendu de Sam du front.",
+      "link": "https://korben.info/brothers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-01T13:53:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c0ef8635dc5f",
       "title": "CTFreak - L'ordonnanceur de tâches pour toutes vos machines",
       "description": "CTFreak est un ordonnanceur de tâches auto-hébergé qui exécute vos commandes, scripts bash, PowerShell, playbooks Ansible et requêtes SQL sur toutes vos machines en SSH ou WinRM, sans y installer le moindre agent. Installation en une minute, planification cron, journaux centralisés et alertes.…",
