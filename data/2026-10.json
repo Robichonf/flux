@@ -2,6 +2,50 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "1f44b0bcb485",
+      "title": "PLAY-DOS - 6000 jeux DOS jouable ce faux PC des années 90",
+      "description": "PLAY-DOS habille 5 921 jeux MS-DOS de l'Internet Archive en faux PC des années 80-90. Le mode d'emploi : le nom d'exécutable se tape au prompt de la fiche du jeu, pas au C:\\> libre, puis POWER. Essai sur DOOM, Prince of Persia, Duke Nukem 3D et les pièges des homonymes.",
+      "link": "https://korben.info/play-dos-jeux-ms-dos-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-02T12:17:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/play-dos-jeux-ms-dos-navigateur/play-dos-jeux-ms-dos-navigateur-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0f020a2329b3",
+      "title": "Tart - Une VM Windows 11 jetable sur votre Mac",
+      "description": "Un fork non officiel de tart installe Windows 11 sur un Mac Apple Silicon en une commande. Le pas à pas, avec le pilote qui manque pour piloter la VM depuis le terminal.",
+      "link": "https://korben.info/windows-11-mac-apple-silicon-tart.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-02T12:02:53.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-11-mac-apple-silicon-tart/windows-11-mac-apple-silicon-tart-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f4c29cf3d93d",
+      "title": "Bilan du podcast B2Biz (septembre 2026) : 11 500+ impressions, 4 épisodes et des enseignements B2B clés",
+      "description": "Un mois après le lancement officiel du podcast B2Biz, dédié à l’impact des technologies de pointe, du Vibe Coding, de l’IA et du No-Code sur le monde des PME et de l’e-business B2B, il est temps de dresser un premier bilan complet des performances d’audience.En septembre 2026, la diffusion croisée…",
+      "link": "https://oliviersauvage.com/2026/10/02/bilan-du-podcast-b2biz-septembre-2026-11-500-impressions-4-episodes-et-des-enseignements-b2b-cles/",
+      "pubDate": "2026-10-02T08:06:04.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f66c1ccda655",
       "title": "Griffin de Tavus : un cap dans l’IA conversationnelle",
       "description": "Griffin, un nouvel outil d'IA développé par la société Tavus, crée des avatars vidéo en temps réel capables d'interagir de manière naturelle. Ce modèle révolutionnaire élimine les temps de latence, rendant les échanges presque humains. Utilisé par des entreprises comme Amazon et Salesforce, il…",
