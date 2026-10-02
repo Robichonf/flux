@@ -2,6 +2,20 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "f66c1ccda655",
+      "title": "Griffin de Tavus : un cap dans l’IA conversationnelle",
+      "description": "Griffin, un nouvel outil d'IA développé par la société Tavus, crée des avatars vidéo en temps réel capables d'interagir de manière naturelle. Ce modèle révolutionnaire élimine les temps de latence, rendant les échanges presque humains. Utilisé par des entreprises comme Amazon et Salesforce, il…",
+      "link": "https://oliviersauvage.com/2026/10/02/griffin-de-tavus-un-cap-dans-lia-conversationnelle/",
+      "pubDate": "2026-10-02T05:36:09.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d45a91290e4b",
       "title": "Cybersécurité industrielle : comment protéger son usine sans arrêter la production ?",
       "description": "Dans cet épisode de B2Biz, Matthieu Bonenfant, expert en cybersécurité, discute des risques des cyberattaques pour les PME industrielles. Il souligne l'importance de sécuriser même les machines anciennes et partage des conseils pratiques pour identifier les vulnérabilités, en insistant sur le fait…",
