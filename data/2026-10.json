@@ -2,6 +2,36 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "ea583f8ee1c8",
+      "title": "Tuta contourne l'IMAP pour entrer dans Nextcloud",
+      "description": "Tuta refuse l'IMAP, alors pour entrer dans Nextcloud il y embarque son propre client web, et ajoute un plugin qui envoie les pièces jointes vers Nextcloud et crée des salons Talk. Revers de l'astuce : c'est le serveur Nextcloud qui livre le code qui déchiffre la boîte.",
+      "link": "https://korben.info/tuta-mail-nextcloud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-03T04:25:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tuta-mail-nextcloud/tuta-mail-nextcloud-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "dd7e1a6002fb",
+      "title": "Matériel d'occasion - Riot bannit le matériel des tricheurs",
+      "description": "Un joueur allemand a monté un Ryzen 7 5800X3D d'occasion et s'est fait bannir de Valorant au premier lancement : l'ancien propriétaire trichait. Ce que dit la règle de Riot sur les bans matériels, le rôle probable du TPM, et quoi faire face à un VAN 152.",
+      "link": "https://korben.info/cpu-occasion-ban-valorant.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-03T03:37:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1f44b0bcb485",
       "title": "PLAY-DOS - 6000 jeux DOS jouable ce faux PC des années 90",
       "description": "PLAY-DOS habille 5 921 jeux MS-DOS de l'Internet Archive en faux PC des années 80-90. Le mode d'emploi : le nom d'exécutable se tape au prompt de la fiche du jeu, pas au C:\\> libre, puis POWER. Essai sur DOOM, Prince of Persia, Duke Nukem 3D et les pièges des homonymes.",
