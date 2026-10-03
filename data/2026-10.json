@@ -32,6 +32,23 @@
       "type": "blog"
     },
     {
+      "id": "7b9d17b82a82",
+      "title": "EmDash, le « successeur de WordPress » piloté par un agent IA",
+      "description": "Cloudflare a sorti EmDash 1.0, un CMS open source pensé dès le départ pour être piloté par des agents IA. Ce qu'il est (et n'est pas) pour un utilisateur WordPress, puis six prompts pour monter un blog tech, le mettre en ligne et le piloter depuis Claude via MCP.",
+      "link": "https://yoandev.co/emdash-cms-blog-agent-ia",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/emdash-cms-blog-agent-ia.webp",
+      "type": "blog"
+    },
+    {
       "id": "1f44b0bcb485",
       "title": "PLAY-DOS - 6000 jeux DOS jouable ce faux PC des années 90",
       "description": "PLAY-DOS habille 5 921 jeux MS-DOS de l'Internet Archive en faux PC des années 80-90. Le mode d'emploi : le nom d'exécutable se tape au prompt de la fiche du jeu, pas au C:\\> libre, puis POWER. Essai sur DOOM, Prince of Persia, Duke Nukem 3D et les pièges des homonymes.",
