@@ -2,6 +2,100 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "efa09b4b97ab",
+      "title": "Citrix NetScaler - Et c'est reparti pour un patch !",
+      "description": "Une semaine après PitScaler, CVE-2026-88779 fait planter en boucle des NetScaler pourtant à jour et oblige les entreprises à repatcher. Citrix parle de déni de service, mais l'exécution de code n'est pas écartée.",
+      "link": "https://korben.info/citrix-netscaler-pitscaler-2-zero-day.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T13:35:44.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cccbd0d3086e",
+      "title": "PlatformCon 2026 : ce qu'il faut vraiment en retenir",
+      "description": "Shift Down, Governed Path, agents IA devenus utilisateurs de la plateforme : les 6 enseignements de la PlatformCon 2026, croisés avec les chiffres des rapports State of Platform Engineering.",
+      "link": "https://blog.ippon.fr/2026/10/05/platformcon-2026-platform-engineering-ia/",
+      "pubDate": "2026-10-05T12:29:42.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/platformcon-2026-couverture.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d48933de4024",
+      "title": "Test du Narwal Freo 20, le robot laveur qui s'entretient tout seul",
+      "description": "Après une quinzaine de jours de test, le Narwal Freo 20 se montre très abouti : aspiration à 31 000 Pa, rouleau microfibre de 26 cm avec eau chauffée à 60 °C, serpillière lavée à 100 °C et séchée par la station. Il est affiché sous 850 euros (835 euros actuellement) contre 1 400 euros et plus pour…",
+      "link": "https://korben.info/test-du-narwal-freo-20-le-robot-laveur-qui-sentretient-tout-seul.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T09:22:28.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-narwal-freo-20-le-robot-laveur-qui-sentretient-tout-seul/test-du-narwal-freo-20-le-robot-laveur-qui-sentretient-tout-seul-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "42033f78328f",
+      "title": "XPSemu - Halo 2, Forza et Fable sur PS5",
+      "description": "XPSemu fait tourner l'Xbox d'origine sur une PS5 jailbreakée : Halo 2 à 30 FPS, Forza et Fable à la peine, un processeur émulé qui sature et un fichier whitelist à ne pas oublier.",
+      "link": "https://korben.info/halo-2-ps5-jailbreake-emulateur-xbox.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T08:52:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/halo-2-ps5-jailbreake-emulateur-xbox/halo-2-ps5-jailbreake-emulateur-xbox-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a0cef39ec25c",
+      "title": "Quick Tunnels - Votre projet localhost sur le web avec invitation",
+      "description": "cloudflared publie un serveur local sur une adresse trycloudflare.com en une commande et sans compte, et depuis la version 2026.9.3, --allowed-mail la réserve à quelques adresses mail. Le tuto couvre l'installation, le piège de Vite et un hook pour empêcher Claude Code d'ouvrir un tunnel public.",
+      "link": "https://korben.info/cloudflare-quick-tunnels-tuto.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T07:40:07.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cloudflare-quick-tunnels-tuto/cloudflare-quick-tunnels-tuto-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e448c6c94f6f",
+      "title": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",
+      "description": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",
+      "link": "https://blog.ippon.fr/2026/10/05/futur-du-developpement-2035/",
+      "pubDate": "2026-10-05T07:01:03.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/pexels-kevin-ku-92347-577585.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ca1e9357ac54",
       "title": "Highball - Une relève de Whisky pour jouer sur Mac",
       "description": "Whisky est archivé, Highball se propose de prendre la suite pour lancer des jeux Windows sur un Mac Apple Silicon. Le projet a six semaines, et sa base de compatibilité nuance son propre README sur Red Dead Redemption 2.",
