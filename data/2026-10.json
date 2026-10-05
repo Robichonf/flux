@@ -2,6 +2,50 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "ca1e9357ac54",
+      "title": "Highball - Une relève de Whisky pour jouer sur Mac",
+      "description": "Whisky est archivé, Highball se propose de prendre la suite pour lancer des jeux Windows sur un Mac Apple Silicon. Le projet a six semaines, et sa base de compatibilité nuance son propre README sur Red Dead Redemption 2.",
+      "link": "https://korben.info/highball-jeux-windows-mac-apple-silicon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T06:51:38.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/highball-jeux-windows-mac-apple-silicon/highball-jeux-windows-mac-apple-silicon-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "86a42c17f875",
+      "title": "Souveraineté numérique: l’Europe a la tête dans les nuages, Octave Klaba jette un pavé dans le Cloud",
+      "description": "Octave Klaba, fondateur d'OVHcloud, a critiqué l'audition récente à l'Assemblée nationale, mettant en avant le manque de courage politique en Europe face à l'IA. Il dénonce la culture financière court-termiste des investisseurs et l'inefficacité administrative qui freine l'innovation. Pour lui, il…",
+      "link": "https://oliviersauvage.com/2026/10/05/souverainete-numerique-leurope-a-la-tete-dans-les-nuages-octave-klaba-jette-un-pave-dans-le-cloud/",
+      "pubDate": "2026-10-05T06:12:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da25f17db853",
+      "title": "Mulderland - Pour pimper vos jeux PC",
+      "description": "Mulderland fabrique des installeurs qui posent en une seule fois toute la pile de correctifs et de mods d'un jeu PC acheté sur Steam ou GOG, avec des recettes publiques sur GitHub. Ce qu'ils téléchargent vient de Nexus Mods pour les jeux récents et du serveur de Mulder pour les anciens,…",
+      "link": "https://korben.info/mulderland-packs-vieux-jeux-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T05:22:58.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mulderland-packs-vieux-jeux-pc/mulderland-packs-vieux-jeux-pc-1.png",
+      "type": "blog"
+    },
+    {
       "id": "8f55bc7e4163",
       "title": "Aller en manif avec son téléphone - Les bons réflexes",
       "description": "Les lycéens s'organisent sur Snapchat, Instagram, WhatsApp et Telegram. Voici ce que les guides de la LDH, d'XR, de la CGT et d'Amnesty conseillent d'installer et de régler avant de manifester, de Signal au verrouillage express, et pourquoi un code ne permet pas de refuser une réquisition.",
