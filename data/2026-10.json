@@ -2,6 +2,21 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "9ec9a7edeef0",
+      "title": "Il a entièrement recodé 8 vieux OS en HTML + un VB6 qui sort des .exe.",
+      "description": "Windows 3.1, 95, 98, Me, 2000, XP, Vista et Mac OS 9 se lancent en moins de deux secondes dans un onglet, parce que rien n'y est émulé : tout a été réécrit en JavaScript. Et VB6 Studio Web compile même un .exe Windows depuis le navigateur.",
+      "link": "https://korben.info/vieux-windows-mac-os-9-navigateur-wieslaw-soltes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-06T15:22:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/vieux-windows-mac-os-9-navigateur-wieslaw-soltes/vieux-windows-mac-os-9-navigateur-wieslaw-soltes-2.png",
+      "type": "blog"
+    },
+    {
       "id": "1bb2e66a4e4e",
       "title": "RemoveMacAI - Supprimez Apple Intelligence de macOS 27",
       "description": "Sous macOS 27, Apple Intelligence n'a plus d'interrupteur et ses modèles restent sur le disque : RemoveMacAI les supprime et empêche macOS de les retélécharger.",
