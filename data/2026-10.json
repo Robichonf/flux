@@ -2,6 +2,53 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "f9c3f5008848",
+      "title": "De l'architecture au code : une pipeline de subagents Claude pensée pour l’apprentissage",
+      "description": "Peut-on accélérer le développement avec des agents IA sans perdre la maîtrise de son code ? Pour le tester, j'ai construit une pipeline de quatre subagents Claude Code qui s'arrête avant la logique métier, afin de monter en compétences sur un nouveau framework tout en codant aux côtés de l'IA.",
+      "link": "https://blog.ippon.fr/2026/10/07/de-larchitecture-au-code-une-pipeline-de-subagents-claude-pensee-pour-lapprentissage/",
+      "pubDate": "2026-10-07T07:31:53.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/article_image.png",
+      "type": "blog"
+    },
+    {
+      "id": "3d41fec50e71",
+      "title": "Issued - Pour lire vos Comics / BDs depuis votre navigateur",
+      "description": "Issued scanne votre dossier de comics CBZ et CBR tel quel et le sert au navigateur comme aux applis OPDS. Le mot de passe ne protège que le lecteur web : le catalogue OPDS reste ouvert, donc réseau local ou reverse proxy.",
+      "link": "https://korben.info/issued-serveur-comics-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T05:54:15.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/issued-serveur-comics-auto-heberge/issued-serveur-comics-auto-heberge-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1cbca964de1d",
+      "title": "The Legend of Zelda: Majora's Mask enfin en version européenne sur PC et Android",
+      "description": "Un fork non officiel de 2Ship2Harkinian lit la ROM européenne PAL 1.1 de Majora's Mask (anglais, français, allemand, espagnol) sur Windows, Linux et Android. Il faut apporter sa propre ROM, et tout ce qui est annoncé vient de l'auteur : la demande de fusion chez 2Ship est encore en brouillon.",
+      "link": "https://korben.info/2ship2harkinian-pal-majoras-mask.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T04:54:31.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/2ship2harkinian-pal-majoras-mask/2ship2harkinian-pal-majoras-mask-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9ec9a7edeef0",
       "title": "Il a entièrement recodé 8 vieux OS en HTML + un VB6 qui sort des .exe.",
       "description": "Windows 3.1, 95, 98, Me, 2000, XP, Vista et Mac OS 9 se lancent en moins de deux secondes dans un onglet, parce que rien n'y est émulé : tout a été réécrit en JavaScript. Et VB6 Studio Web compile même un .exe Windows depuis le navigateur.",
