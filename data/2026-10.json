@@ -2,6 +2,50 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "2e15d47b0f11",
+      "title": "Digital Sovereignty: Europe’s Head in the Clouds, Octave Klaba Challenges the Cloud Status Quo",
+      "description": "Octave Klaba, founder of OVHcloud, criticised the recent hearing at the National Assembly, highlighting Europe's lack of political courage in the face of AI. He denounces the short-term financial culture of investors and the administrative inefficiency that hinders innovation. For him, it is…",
+      "link": "https://oliviersauvage.com/2026/10/07/digital-sovereignty-europes-head-in-the-clouds-octave-klaba-challenges-the-cloud-status-quo/",
+      "pubDate": "2026-10-07T14:39:23.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23390f5df7c4",
+      "title": "Du dev iPhone sans Mac sur Omarchy",
+      "description": "omarchy-apple-dev compile et installe une app iPhone depuis Linux, TestFlight compris. Mais le SDK vient d'un Xcode que le contrat d'Apple réserve à macOS.",
+      "link": "https://korben.info/omarchy-apple-dev-ios-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T09:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ff054013c2c",
+      "title": "Mistral Large 4, le modèle à 1 000 milliards de paramètres surnommé Le Chonk",
+      "description": "Mistral présente Mistral Large 4, surnommé Le Chonk, un modèle de 1 000 milliards de paramètres dont 49 milliards activés par réponse. Accessible en préversion via l'API, il verra ses poids publiés sur Hugging Face le 27 octobre, pour environ 0,70 dollar le million de tokens.",
+      "link": "https://korben.info/mistral-large-4-le-modele-a-1-000-milliards-de-parametres-surnomme-le-chonk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T09:01:04.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mistral-large-4-le-modele-a-1-000-milliards-de-parametres-surnomme-le-chonk/mistral-large-4-le-modele-a-1-000-milliards-de-parametres-surnomme-le-chonk-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f9c3f5008848",
       "title": "De l'architecture au code : une pipeline de subagents Claude pensée pour l’apprentissage",
       "description": "Peut-on accélérer le développement avec des agents IA sans perdre la maîtrise de son code ? Pour le tester, j'ai construit une pipeline de quatre subagents Claude Code qui s'arrête avant la logique métier, afin de monter en compétences sur un nouveau framework tout en codant aux côtés de l'IA.",
@@ -16,6 +60,21 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/09/article_image.png",
+      "type": "blog"
+    },
+    {
+      "id": "cec45e410e76",
+      "title": "LivePE - Une clé de dépannage Windows chargée à bloc",
+      "description": "Un membre du forum TeamAAZ partage un LivePE de dépannage en français, multiboot EFI et MBR, avec des dizaines d'outils de sauvegarde, de partitionnement et de récupération. Il est chargé, et le message ne donne ni empreinte ni autre miroir que Mediafire.",
+      "link": "https://korben.info/livepe-winpe-depannage-francais.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T07:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/livepe-winpe-depannage-francais/livepe-winpe-depannage-francais-2.png",
       "type": "blog"
     },
     {
