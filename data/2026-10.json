@@ -2,6 +2,36 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "6595c9974627",
+      "title": "QuoiVoir - Une sélection personnalisée de 3 films pour ce soir",
+      "description": "QuoiVoir est un site en français, gratuit et sans compte, qui répond à « on regarde quoi ce soir ? » par trois films au lieu d'un catalogue, via un quiz ou une simple phrase. Il affiche ce qu'il a compris de la demande, avec des critères retirables d'un clic, et une fiche par film qui dit à qui il…",
+      "link": "https://korben.info/quoivoir-quel-film-regarder-ce-soir.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T16:08:23.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/quoivoir-quel-film-regarder-ce-soir/quoivoir-quel-film-regarder-ce-soir-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "824c6e7f48d7",
+      "title": "DOOM - Le moteur de 1993 bouffé par DLSS 5",
+      "description": "Un port Windows de Linux DOOM 1.10 garde le rendu d'origine en 320x200 mais fait sortir au moteur la profondeur, les normales et le mouvement de chaque image, de quoi alimenter DLSS 4, FSR 2.2 et Anime4K. Le mode DLSS 5 ajoute la passe Neural Rendering de NVIDIA via l'outil communautaire…",
+      "link": "https://korben.info/doom-dlss-5-directx-12.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T15:39:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_14917769577672078664_hu_1ecd79a633fee246.webp",
+      "type": "blog"
+    },
+    {
       "id": "2e15d47b0f11",
       "title": "Digital Sovereignty: Europe’s Head in the Clouds, Octave Klaba Challenges the Cloud Status Quo",
       "description": "Octave Klaba, founder of OVHcloud, criticised the recent hearing at the National Assembly, highlighting Europe's lack of political courage in the face of AI. He denounces the short-term financial culture of investors and the administrative inefficiency that hinders innovation. For him, it is…",
