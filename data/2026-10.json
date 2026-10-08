@@ -2,6 +2,80 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "11bcbec389b8",
+      "title": "Pourquoi je n'ai pas racheté de Mac mini - le PC GEEKOM A5 à 500 euros",
+      "description": "Faute de vouloir racheter un Mac mini, dont les prix ont grimpé, Korben a testé le GEEKOM A5, un mini PC d'environ 500 euros avec Ryzen 7 7730U, 16 Go de RAM extensibles à 64 Go et SSD de 500 Go. Il l'utilise sous Ubuntu Server en SSH, très silencieux (environ 28 dB) et sobre (un demi kWh par jour).",
+      "link": "https://korben.info/pourquoi-je-nai-pas-rachete-de-mac-mini-le-pc-geekom-a5-a-500-euros.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-08T11:51:22.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pourquoi-je-nai-pas-rachete-de-mac-mini-le-pc-geekom-a5-a-500-euros/pourquoi-je-nai-pas-rachete-de-mac-mini-le-pc-geekom-a5-a-500-euros-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ce7ccb6ed411",
+      "title": "What Public Relations Can Help You Achieve in the Age of AI",
+      "description": "Public relations play a crucial role in the visibility and credibility of companies, especially in the age of artificial intelligence. They help build a reputation by providing expert content that influences purchasing decisions. Leaders must speak out to make their expertise concrete, as this…",
+      "link": "https://oliviersauvage.com/2026/10/08/what-public-relations-can-help-you-achieve-in-the-age-of-ai/",
+      "pubDate": "2026-10-08T10:34:55.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "83020b19e225",
+      "title": "Omarchy, non merci",
+      "description": "Omarchy fait le buzz chez les libristes, mais son créateur, DHH, publie depuis septembre 2025 des billets sur l'immigration qui visent les immigrés et les « gypsies ». Voilà ce qu'il écrit, et pourquoi je ne veux plus utiliser ni promouvoir Omarchy.",
+      "link": "https://korben.info/omarchy-dhh-boycott.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-08T09:35:56.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_13668969620313085401_hu_e4f187f5bef26e2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "154f75c38a24",
+      "title": "AnyPS5 - En route pour la recompilation de jeux PS5",
+      "description": "AnyPS5 réécrit l'exécutable d'un jeu PS5 en programme Linux ou Windows natif et remplace les bibliothèques de Sony par les siennes. Un seul jeu sur la liste officielle, et il faut apporter l'exécutable déchiffré.",
+      "link": "https://korben.info/anyps5-jeux-ps5-natifs-linux-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-08T08:48:49.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e8cb50f3355",
+      "title": "Surfshark One bloque les sites pourris, mais vous choisissez lesquels vous laissez passer",
+      "description": "Surfshark ajoute une liste blanche à son bloqueur de contenu web : on peut bloquer une catégorie (jeux d'argent, pornographie, armes, malwares…) tout en autorisant des sites précis via Paramètres > Bloqueur de contenu web > Sites Autorisés. Pour l'instant, la fonction n'existe que sous Windows.",
+      "link": "https://korben.info/surfshark-one-bloque-les-sites.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-08T07:53:08.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/surfshark-one-bloque-les-sites/surfshark-one-bloque-les-sites-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "6595c9974627",
       "title": "QuoiVoir - Une sélection personnalisée de 3 films pour ce soir",
       "description": "QuoiVoir est un site en français, gratuit et sans compte, qui répond à « on regarde quoi ce soir ? » par trois films au lieu d'un catalogue, via un quiz ou une simple phrase. Il affiche ce qu'il a compris de la demande, avec des critères retirables d'un clic, et une fiche par film qui dit à qui il…",
