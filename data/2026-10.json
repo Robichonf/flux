@@ -2,6 +2,35 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "b31330446860",
+      "title": "YouTube est-il devenu incontournable pour faire connaître son entreprise aux IA ?",
+      "description": "Dans cet épisode de B2Biz, Renaud Joly explique comment l'IA générative impacte le SEO et cause un effondrement du trafic web. Il conseille de diversifier les contenus, notamment à travers la vidéo, pour attirer les clients. Les dirigeants doivent s'adapter aux nouvelles attentes des internautes…",
+      "link": "https://oliviersauvage.com/2026/10/08/youtube-est-il-devenu-incontournable-pour-faire-connaitre-son-entreprise-aux-ia/",
+      "pubDate": "2026-10-08T17:38:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "60bd5ba78d25",
+      "title": "Vos jeux PC sur l'écran d'une Nintendo DSi de 2008",
+      "description": "RNDS-Stream affiche sur une Nintendo DSi les jeux d'un PC Linux, en MJPEG sur le réseau local. Il faut un flashcart, c'est une 0.1.0 expérimentale, et il n'y a pas de son.",
+      "link": "https://korben.info/nintendo-dsi-streaming-jeux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-08T17:17:35.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_11895374330636409667_hu_253b1e6661f697af.webp",
+      "type": "blog"
+    },
+    {
       "id": "11bcbec389b8",
       "title": "Pourquoi je n'ai pas racheté de Mac mini - le PC GEEKOM A5 à 500 euros",
       "description": "Faute de vouloir racheter un Mac mini, dont les prix ont grimpé, Korben a testé le GEEKOM A5, un mini PC d'environ 500 euros avec Ryzen 7 7730U, 16 Go de RAM extensibles à 64 Go et SSD de 500 Go. Il l'utilise sous Ubuntu Server en SSH, très silencieux (environ 28 dB) et sobre (un demi kWh par jour).",
@@ -73,6 +102,23 @@
         "Web"
       ],
       "image": "https://korben.info/surfshark-one-bloque-les-sites/surfshark-one-bloque-les-sites-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "753bd6c951f7",
+      "title": "Former une équipe aux agents IA : l'outil, c'est la partie facile",
+      "description": "Apprendre un agent IA prend quelques jours. Changer la façon de travailler d'une équipe prend des mois, et ça ne se fait pas avec un programme sur étagère. Retour sur ma façon d'accompagner une équipe, à partir d'un parcours que je viens d'animer.",
+      "link": "https://yoandev.co/former-equipe-developpement-agentique",
+      "pubDate": "2026-10-08T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/former-equipe-developpement-agentique.webp",
       "type": "blog"
     },
     {
