@@ -2,6 +2,21 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "cea33bf2cecd",
+      "title": "Canal+ perd face à Cloudflare - 1.1.1.1 reste sans filtre",
+      "description": "Le tribunal de Paris refuse les 50 000 euros par jour réclamés par Canal+ : Cloudflare peut bloquer les sites pirates via son CDN seul. Résultat, 1.1.1.1 répond encore là où le DNS de Google refuse, mais pour combien de temps ?",
+      "link": "https://korben.info/cloudflare-1111-blocage-dns-france.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-09T06:25:57.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b31330446860",
       "title": "YouTube est-il devenu incontournable pour faire connaître son entreprise aux IA ?",
       "description": "Dans cet épisode de B2Biz, Renaud Joly explique comment l'IA générative impacte le SEO et cause un effondrement du trafic web. Il conseille de diversifier les contenus, notamment à travers la vidéo, pour attirer les clients. Les dirigeants doivent s'adapter aux nouvelles attentes des internautes…",
