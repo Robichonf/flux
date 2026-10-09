@@ -2,6 +2,80 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "35f2a50b6a60",
+      "title": "Ventoy - La clé de secours du Steam Deck rejoint vos ISO",
+      "description": "Ventoy 1.1.18 sait démarrer, en expérimental, l'image de récupération du Steam Deck, et rend la partition des ISO plus simple à monter sous Linux.",
+      "link": "https://korben.info/ventoy-linux-steamos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-09T13:59:27.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9ec7302ad9b",
+      "title": "Where to find original content to create marketing content?",
+      "description": "Creating original marketing content, especially on LinkedIn, is a challenge. It is essential to diversify your sources of inspiration, both external and internal, to regularly generate ideas. Using studies, news, client testimonials, and internal expertise enriches communication and enhances the…",
+      "link": "https://oliviersauvage.com/2026/10/09/where-to-find-original-content-to-create-marketing-content/",
+      "pubDate": "2026-10-09T10:12:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ef510cd4c057",
+      "title": "gbos-vm - Pour vous amuser dans Googlebook OS depuis votre Mac",
+      "description": "gbos-vm lance l'image de recovery de Google pour le Dell Googlebook dans une VM sur Mac Apple Silicon. Ce qu'il faut, ce que le README promet, et ce qu'on n'y connecte pas.",
+      "link": "https://korben.info/googlebook-os-vm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-09T08:54:05.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f0fb7438ea2",
+      "title": "P.T. - Le couloir de Kojima en natif sur Windows et Linux",
+      "description": "Un développeur de 21 ans a sorti un portage natif de P.T., le teaser de Silent Hills, pour Windows et Linux. Il lit les fichiers de votre propre copie PS4 : voilà ce qu'il faut déjà posséder, et sur quelles machines ça tourne.",
+      "link": "https://korben.info/pt-pc-portage-natif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-09T08:27:50.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_2573961802530854421_hu_cd5426284a40ee04.webp",
+      "type": "blog"
+    },
+    {
+      "id": "4f0be0802b57",
+      "title": "Firefox 157 - Soutien aux barbus fâchés par Nova",
+      "description": "Firefox 157 active Nova par défaut, mais un réglage d'about:config ramène l'ancienne interface. Ce qu'il ne couvre pas, et pourquoi il pourrait ne pas durer.",
+      "link": "https://korben.info/firefox-nova-ancienne-interface.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-09T07:58:43.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cea33bf2cecd",
       "title": "Canal+ perd face à Cloudflare - 1.1.1.1 reste sans filtre",
       "description": "Le tribunal de Paris refuse les 50 000 euros par jour réclamés par Canal+ : Cloudflare peut bloquer les sites pirates via son CDN seul. Résultat, 1.1.1.1 répond encore là où le DNS de Google refuse, mais pour combien de temps ?",
