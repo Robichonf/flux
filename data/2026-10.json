@@ -2,6 +2,23 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "448548d68341",
+      "title": "Skillcrew : les skills de votre équipe, dans tous les agents, toujours à jour",
+      "description": "Votre équipe a écrit ses premières skills. Reste à les faire arriver chez tout le monde, dans Claude Code comme dans Codex, Copilot ou Cursor, et à les garder à jour sans que personne n'y pense. C'est pour ça que j'ai créé Skillcrew. Présentation, puis démo complète à refaire chez vous.",
+      "link": "https://yoandev.co/skillcrew-skills-equipe-tous-agents",
+      "pubDate": "2026-10-11T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/skillcrew-skills-equipe-tous-agents.webp",
+      "type": "blog"
+    },
+    {
       "id": "35f2a50b6a60",
       "title": "Ventoy - La clé de secours du Steam Deck rejoint vos ISO",
       "description": "Ventoy 1.1.18 sait démarrer, en expérimental, l'image de récupération du Steam Deck, et rend la partition des ISO plus simple à monter sous Linux.",
