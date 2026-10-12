@@ -2,6 +2,36 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "cd42be81a2f3",
+      "title": "Carafe - Pour lancer vos jeux PC directement sur la Switch",
+      "description": "Carafe transforme le dossier d'un jeu Windows en NSP, avec son icône, sa sauvegarde et un écran de chargement dans le HOME Menu d'une Switch sous Atmosphère. La compatibilité reste celle d'Autorun, encore expérimental, et un NSP homebrew expose à un bannissement.",
+      "link": "https://korben.info/carafe-jeux-windows-switch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T07:33:42.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "02e53171cef3",
+      "title": "Windows 11 - Le lien du compte local serait déjà patché",
+      "description": "Le lien Learn more qui menait à un compte local sur Windows 11 Home serait patché côté serveur, d'après son découvreur. Ce que ça change, et ce qui reste.",
+      "link": "https://korben.info/windows-11-lien-learn-more-corrige.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T07:15:51.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-11-lien-learn-more-corrige/windows-11-lien-learn-more-corrige-1.png",
+      "type": "blog"
+    },
+    {
       "id": "448548d68341",
       "title": "Skillcrew : les skills de votre équipe, dans tous les agents, toujours à jour",
       "description": "Votre équipe a écrit ses premières skills. Reste à les faire arriver chez tout le monde, dans Claude Code comme dans Codex, Copilot ou Cursor, et à les garder à jour sans que personne n'y pense. C'est pour ça que j'ai créé Skillcrew. Présentation, puis démo complète à refaire chez vous.",
