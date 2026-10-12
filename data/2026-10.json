@@ -2,6 +2,68 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "da236f09152f",
+      "title": "Test du Dangbei N3 Max, le projecteur au rapport qualité-prix imbattable",
+      "description": "Le Dangbei N3 Max est un vidéoprojecteur LED Full HD de 1000 lumens ISO, affiché 499 € mais trouvé à 399 € sur Amazon. Son pied rotatif (-45 à +135°) et son Netflix officiel sous VIDAA OS le distinguent, mais la télécommande n'est pas rétroéclairée et l'image perd en contraste en plein jour.",
+      "link": "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T15:15:03.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f3e31d09f03f",
+      "title": "ONLYOFFICE 10 - L'IA partout, mais seulement si vous la voulez",
+      "description": "ONLYOFFICE 10.0 met un onglet IA dans ses quatre éditeurs, avec le modèle de votre choix sur serveur, ajoute quatre applications gratuites et une cinquantaine de nouveautés.",
+      "link": "https://korben.info/onlyoffice-10-ia-applications.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T13:52:46.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_3748459474905841168_hu_cfb68867a7c042ba.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1683e244885c",
+      "title": "Modernisation applicative avec Kiro + AWS Transform (ATX) : on a modernisé un application legacy Node.js en 2 jours - Le REX complet",
+      "description": "Comment Kiro et AWS Transform (ATX) ont modernisé Club Manager v3, une appli Node.js legacy de 10 ans, en 2 jours au lieu de 6 semaines : coûts, ROI x15 et limites de l'automatisation.",
+      "link": "https://blog.ippon.fr/2026/10/12/modernisation-legacy-nodejs-kiro-aws-transform/",
+      "pubDate": "2026-10-12T13:14:18.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/Capture-d---e--cran-2026-06-26-a---12.58.51.png",
+      "type": "blog"
+    },
+    {
+      "id": "6f90ff719dd1",
+      "title": "Slot - Quand l'Anbernic RG SP se prend pour une vraie GBA SP",
+      "description": "slot ne lit que le Game Boy, mais il rejoue les gestes d'une GBA SP sur votre Anbernic RG SP : cartouches sur étagère, clapet qui sauvegarde, câble link en Wi-Fi.",
+      "link": "https://korben.info/slot-frontend-game-boy-rg-sp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T10:06:20.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/slot-frontend-game-boy-rg-sp/slot-frontend-game-boy-rg-sp-2.png",
+      "type": "blog"
+    },
+    {
       "id": "cd42be81a2f3",
       "title": "Carafe - Pour lancer vos jeux PC directement sur la Switch",
       "description": "Carafe transforme le dossier d'un jeu Windows en NSP, avec son icône, sa sauvegarde et un écran de chargement dans le HOME Menu d'une Switch sous Atmosphère. La compatibilité reste celle d'Autorun, encore expérimental, et un NSP homebrew expose à un bannissement.",
