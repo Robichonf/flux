@@ -2,6 +2,51 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "81b9529fce87",
+      "title": "Cyberattaques : les bonnes pratiques à adopter pour éviter d’en être victime",
+      "description": "Les cyberattaques ne visent pas que les grandes organisations : les particuliers et les homelabs sont aussi concernés. Voici les réflexes que j’applique chez moi, et ceux que je dois encore corriger.",
+      "link": "https://domopi.eu/cyberattaques-les-bonnes-pratiques-a-adopter-pour-eviter-den-etre-victime/",
+      "pubDate": "2026-10-13T08:05:19.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/10/article_security.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f4501dae968d",
+      "title": "MacSpace - Nettoyez ce qui se cache dans les données système de votre Mac",
+      "description": "MacSpace recalcule et détaille le bloc Données système de macOS 27, libère ce qui peut l'être sans risque et purge les modèles d'Apple Intelligence en changeant la langue de Siri, iPhone compris si la synchro iCloud est active.",
+      "link": "https://korben.info/macspace-donnees-systeme-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T07:00:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/macspace-donnees-systeme-mac/macspace-donnees-systeme-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ea962fbbdb2b",
+      "title": "J'ai testé les 12 clones gratuits d'Adobe et de Microsoft",
+      "description": "PhotoCraft, WordCraft, CADCraft et neuf autres clones en Rust : je les ai installés et testés sur Mac, avec qui paie leur développement et ce que le droit européen en dit.",
+      "link": "https://korben.info/crafting-apps-artcraft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T05:05:29.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/crafting-apps-artcraft/crafting-apps-artcraft-2.png",
+      "type": "blog"
+    },
+    {
       "id": "da236f09152f",
       "title": "Test du Dangbei N3 Max, le projecteur au rapport qualité-prix imbattable",
       "description": "Le Dangbei N3 Max est un vidéoprojecteur LED Full HD de 1000 lumens ISO, affiché 499 € mais trouvé à 399 € sur Amazon. Son pied rotatif (-45 à +135°) et son Netflix officiel sous VIDAA OS le distinguent, mais la télécommande n'est pas rétroéclairée et l'image perd en contraste en plein jour.",
