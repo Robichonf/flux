@@ -2,6 +2,65 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "8d25d60dec5f",
+      "title": "GitLab - Encore une faille CVSS 10 #FautPatcher",
+      "description": "GitLab corrige une faille notée 10 sur 10 qui permettrait, sans compte, d'exécuter du code sur le serveur via une regex piégée. La troisième CVE du genre en trois semaines : voici les versions à installer.",
+      "link": "https://korben.info/gitlab-faille-critique-regex-ci-cd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T11:48:47.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c9e629718cca",
+      "title": "Filmer la police, puis flouter les visages avant de publier",
+      "description": "Un policier ne peut pas s'opposer à ce qu'on le filme, mais publier sans flouter pose un vrai risque. Masque, deface et Signal pour masquer les visages.",
+      "link": "https://korben.info/flouter-manifestants-policiers-filmer-police.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T11:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/flouter-manifestants-policiers-filmer-police/flouter-manifestants-policiers-filmer-police-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "0a5c9c09edde",
+      "title": "Pourquoi « Gemini at Work 2026 »  transforme notre façon de travailler",
+      "description": "Google Cloud a annoncé Gemini at Work 2026, marquant un tournant dans l'intégration de l'IA au travail. Contrairement à Microsoft Copilot, Gemini agit en tant qu'agent proactif, apprenant des méthodes de l'entreprise et orchestrant des missions via des sous-agents. Cette évolution vise à améliorer…",
+      "link": "https://oliviersauvage.com/2026/10/13/pourquoi-gemini-at-work-2026-transforme-notre-facon-de-travailler/",
+      "pubDate": "2026-10-13T10:22:35.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7d884c3ca92",
+      "title": "Printr - Météo, sudoku et autres petits mots sur des tickets de caisse",
+      "description": "Printr fait d'une imprimante à tickets Epson TM-T88V reliée à un Raspberry Pi un gadget familial : météo, jeux, horoscope et petits mots imprimés depuis le téléphone. Il faut ce modèle précis, compiler soi-même, et le dépôt ne déclare pas encore de licence.",
+      "link": "https://korben.info/printr-imprimante-tickets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T08:30:00.000Z",
+      "source": "Korben (Manu)",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/printr-imprimante-tickets/printr-imprimante-tickets-1.png",
+      "type": "blog"
+    },
+    {
       "id": "81b9529fce87",
       "title": "Cyberattaques : les bonnes pratiques à adopter pour éviter d’en être victime",
       "description": "Les cyberattaques ne visent pas que les grandes organisations : les particuliers et les homelabs sont aussi concernés. Voici les réflexes que j’applique chez moi, et ceux que je dois encore corriger.",
